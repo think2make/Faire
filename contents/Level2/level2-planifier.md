@@ -6,13 +6,12 @@ Nous entendons souvent "cela ne fonctionnera jamais dans le monde réel" surtout
 
 
 Vous êtes déjà familier avec le planificateur le plus brillant et le plus créatif du monde : votre cerveau. 
-
 Vous planifiez comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler. L'esprit a une strucutre en 5 étapes pour accomplir les tâches : 
 
 - définir but et principes
-- délivrable attendus
-- production d'idées
-- strucutrer les idées
+- visionner délivrable
+- produire d'idées
+- Organiser
 - identifier prochaines actions 
 
 
@@ -24,10 +23,11 @@ Comprendre les systèmes:
 
 
 Quelques méthodes de planification : 
-Planifier par scénario (p.444 - PersonalMBA)
+ 
+Planif par scénario 
 Gantt
-PERT
-réseau des antécédents
+Pert
+Reseau antécédant
 SCRUM/Agile
 
 

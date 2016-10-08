@@ -1,4 +1,6 @@
-#Level 4 : suivre. Le qui - le suivi
+\part{Level 4 : suivre}
+
+# Le qui - le suivi
 
 Protocoler les pensées (Backburner ritual, References - Making ideas happen)
 …. quoi d’autre ? Outils informatiques : Trello 

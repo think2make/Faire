@@ -1,6 +1,6 @@
-# Level 1 : définir. 
+\part{Level 1 : définir}
 
-##Le pourquoi - les objectifs 
+# Le pourquoi - les objectifs 
 
 
 Purpose - page 62 - the art of getting things done)

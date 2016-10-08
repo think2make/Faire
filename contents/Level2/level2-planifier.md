@@ -1,5 +1,6 @@
-#Level 2 : planifier. 
-Le comment - le déroulement et les étapes.  
+\part{Level 2 : planifier}
+
+# Le comment - le déroulement et les étapes.  
 
 Ignorez le monde réel. Planifiez votre monde. 
 Nous entendons souvent "cela ne fonctionnera jamais dans le monde réel" surtout pour de nouvelles idées. En regardant la télé, lire les journeaux, etc., il semble que le monde est cruel, que les plans nobles échouent tout le temps. Ne les croyez pas, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. 
@@ -19,7 +20,7 @@ Vous planifiez comment vous allez vous habiller, quand et quoi manger et même l
 les 5 comments (inspiré des 5Whys) pour connecter les désirs à des actions physiques pour créer une chaine d’action complète (PersonalMBA)
 
 
-Comprendre les systèmes: 
+# Comprendre les systèmes: 
 
 
 Quelques méthodes de planification : 

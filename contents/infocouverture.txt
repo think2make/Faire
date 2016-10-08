@@ -1,0 +1,11 @@
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+Première version : octobre 2016.
+
+Edité et conçu par Manuel Schmalstieg & Sedat Adiyaman
+
+
+Greyscale Press\\*
+ISBN-13: 

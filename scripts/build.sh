@@ -8,11 +8,11 @@
 ## 1: We declare some variables
 ## removing Talks for now ../content/talks/*.*
 
-INPUT="../content/meta.txt ../README.md ../content/interviews/*.*  ../content/outro.txt" 
+INPUT="../contents/meta.txt ../contents/Introduction.md ../contents/Level*/*.*  ../contents/outro.txt" 
 TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
-OUTPUT="../output/Interv-"$TIMESTAMP".pdf"
+OUTPUT="../output/Faire-"$TIMESTAMP".pdf"
 
 
 
@@ -67,7 +67,7 @@ pandoc -f markdown --template=../templates/custom $TEMP \
     --variable documentclass=book \
     --toc --toc-depth=1 \
     --listings \
-    --include-before-body=../content/intro.txt \
+    --include-before-body=../contents/infocouverture.txt \
     -o $OUTPUT
 
 ## End of file

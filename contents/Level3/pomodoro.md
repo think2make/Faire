@@ -9,7 +9,7 @@ Parmi les différentes méthodes visant à améliorer la faculté à se focalise
 
 La méthode a été inventée par un étudiant italien, Francesco Cirillo, qui cherchait un moyen pour se discipliner durant l'écriture de sa thèse universitaire. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialiement pour mettre au point cette technique.
 
-![Une minuterie Pomodoro. Source: Wikipedia, par Erato](img/pomodoro.jpg)
+![Une minuterie Pomodoro. Source: Wikipedia, par Erato](../contents/Level3/img/pomodoro.jpg)
 
 Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*. La méthode Pomodoro classique la définit comme 25 minutes.
 

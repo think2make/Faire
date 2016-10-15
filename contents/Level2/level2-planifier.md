@@ -15,8 +15,7 @@ Vous planifiez comment vous allez vous habiller, quand et quoi manger et même l
 - identifier prochaines actions 
 
 
-
-les 5 comments (inspiré des 5Whys) pour connecter les désirs à des actions physiques pour créer une chaine d’action complète (PersonalMBA)
+les 5 comments (inspiré des 5 pourquoi) pour connecter les désirs à des actions physiques pour créer une chaine d’action complète (PersonalMBA)
 
 
 Comprendre les systèmes: 
@@ -28,10 +27,45 @@ Planif par scénario
 Gantt
 Pert
 Reseau antécédant
-SCRUM/Agile
+SCRUM/Agile 
 
-####Combien d'instants y a-t-ils dans un quart d'heure ? 
-Notre relation au temps est particulier. Nous pouvons être des spécialiste de l'horloge - horloger, expert en logistique, chef de projet ou même étudier les fondements théroriques du temps en physique mais que répondre à la question "combien d'instants y a-t-il dans un moment ?"
+####Combien d'instants y a-t-il dans un quart d'heure ? 
+Notre relation au temps est particulier. Vous pouvez être horloger, expert en logistique, chef de projet ou même être physicien et étudier les fondements théroriques du temps mais que répondre à la question "combien d'instants y a-t-il dans un moment ?"
+
+L'instant vécu est différent par rapport à la vitesse à laquelle le temps est _comptabilisé_. 
+
+Il existe deux types de temps : 
+
+- temps des horloges (atomique)
+- temps personnel (vecu) 
+
+
+Avez-vous déjà remarqué que certains moments paraissent éternel (par exemple, chez le dentiste) ou très court (le sexe) ? 
+
+La raison est liée au fait que le temps peut être catégorisé pour 4 types de tâches : 
+
+- faciles et plaisantes
+- faciles et ennuyeux
+- difficiles et amusant
+- difficiles et ennuyeux 
+
+Selon le type de tâche, le vecu va varié. 
+
+Il important également à différentier le temps opérationnel (temps pour produire) et le temps de mise en train (temps pour penser). 
+
+Dans l'industrie, les opérateurs qui règlent une machine nécessitent une période pour préparer le travail, les outils, programmer la machine, etc. Ce temps est différent du temps de production car il nécessite souvent plus de temps et a une certaine variabilité. 
+Dès que la machine est lancée, la production est souvent prévisible - contrairement avec le temps de mise en train. 
+
+C'est similaire avec le temps que les humains ont besoin pour le temps de création. 
+
+Typiquement, dans une phase de conception, d'imagination ou d'analyse nécessite un temps différent, ces activités nécessitent un temps d'arrêt ou une période _off_ (un temps qui ne peut être difficilement calculable - parfois en demi-journée ou des journées entières). 
+
+Dans votre planification, prendez en compte ces aspects. 
+
+
+
+
+
 
 
 

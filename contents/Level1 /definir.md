@@ -1,10 +1,6 @@
 # Level 1 : définir. 
 
-##Le pourquoi - les objectifs 
-
-
-Purpose - page 62 - the art of getting things done)
-le pourquoi (start with why)	
+##Le pourquoi
 
 Si nous ne savons pas pourquoi nous faisons ce que nous faisons, il ne sert à rien de faire quoi que ce soit. 
 
@@ -24,8 +20,21 @@ Le "Pourquoi" permet de :
 - motiver et vous motiver
 - focaliser 
 
-Ne pas définir le Pourquoi, c'est comme si on savait pas pourquoi vous êtes là.
+##l'objectif
+objectif SMART - exemple de monter sur l'everest (PersonnalMBA)
+
+
+###focaliser
+Trop souvent et dès à l'école on nous apprend à nous focaliser sur nos faiblesses. Le résultat on a est encore plus faible dans les matières. Focalisez vous sur vos forces - où vous êtes brillant. Quelques questions pour vous aider : 
+
+- Qu'est ce que je fais sans effort ?
+- Où sommes- nous vraiment fort sans trop de préparation ?
+- Que faisons-nous que les autres trouvent difficile ? 
+- Que pouvons-nous créer avec nos talents ? 
+
+
 
 #### A quelle cause voulez-vous travailler ? Et pourquoi ?
+
 
 (intégrer image Golden Circle - why)

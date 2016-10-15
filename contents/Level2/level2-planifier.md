@@ -30,6 +30,8 @@ Pert
 Reseau antécédant
 SCRUM/Agile
 
+####Combien d'instants y a-t-ils dans un quart d'heure ? 
+Notre relation au temps est particulier. Nous pouvons être des spécialiste de l'horloge - horloger, expert en logistique, chef de projet ou même étudier les fondements théroriques du temps en physique mais que répondre à la question "combien d'instants y a-t-il dans un moment ?"
 
 
 

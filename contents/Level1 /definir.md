@@ -4,7 +4,7 @@
 
 Si nous ne savons pas pourquoi nous faisons ce que nous faisons, il ne sert à rien de faire quoi que ce soit. 
 
-Définissez le pourquoi avec cette question "pourquoi est-ce qu'on fait ce qu'on fait?"
+Définissez le pourquoi avec cette question : "pourquoi est-ce qu'on fait ce qu'on fait?"
 
 Ce pourquoi permet de définir votre motivation intrinsèque. Attention : cela ne peut pas être "gagner de l'argent" car l'argent est un moyen et non une finalité. 
 
@@ -14,24 +14,25 @@ Sans définition du “pourquoi”, la planification, l’execution et le suivi 
 
 Le "Pourquoi" permet de : 
 
-- clarifier c'est quoi votre succès à atteindre
+- clarifier quel est votre succès à atteindre
 - définir les critères de ce succès
 - d'aligner les ressources que vous souhaitez mettre en oeuvre
 - motiver et vous motiver
 - focaliser 
 
-##l'objectif
-objectif SMART - exemple de monter sur l'everest (PersonnalMBA)
+## l'objectif
+
+objectif SMART (spécifique, mesurable, atteignable, réaliste, temporel) - par exemple, monter sur l'Everest (PersonnalMBA)
 
 
-###focaliser
+### focaliser
+
 Trop souvent et dès à l'école on nous apprend à nous focaliser sur nos faiblesses. Le résultat on a est encore plus faible dans les matières. Focalisez vous sur vos forces - où vous êtes brillant. Quelques questions pour vous aider : 
 
-- Qu'est ce que je fais sans effort ?
-- Où sommes- nous vraiment fort sans trop de préparation ?
-- Que faisons-nous que les autres trouvent difficile ? 
-- Que pouvons-nous créer avec nos talents ? 
-
+- Qu'est ce que vous faites sans effort ?
+- Où êtes-vous vraiment fort sans trop de préparation ?
+- Que faites-vous que les autres trouvent difficile ? 
+- Que pouvez-vous créer avec vos talents ? 
 
 
 #### A quelle cause voulez-vous travailler ? Et pourquoi ?

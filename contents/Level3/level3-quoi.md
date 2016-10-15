@@ -1,10 +1,11 @@
-#Level 3 : faire. Le quoi - les actions
+\part{Level 3 : faire. Le quoi - les actions}
 
 4 méthodes pour faire une tâche (PersonalMBA) : 
-Executer
-Supprimer
-Déléguer
-Reporter
+
+- Executer
+- Supprimer
+- Déléguer
+- Reporter
 
 Exemples d’outils : 
 To Do list 

@@ -16,14 +16,6 @@ Vous planifiez comment vous allez vous habiller, quand et quoi manger et même l
 - identifier prochaines actions 
 
 
-### Les cinq comment 
-
-Quand vous souhaitez planifier une tâche, vous pouvez simuler votre cerveau avec une méthode simple : une fois que vous avez défini ce que vous souhaitez achever, posez-vous la question : "comment faire?", une fois que vous avez la réponse à cette première question, posez-vous à nouveau la question "comment faire?", etc. 
-
-La méthode des "5 comments" est un outil qui permet de connecter vos buts à des actions physiques avec une chaine d'action complète. 
-
-
-
 ###La planification : 
  
 Il existe d'innombrable méthodes de planification. Voici une méthode intéressante :

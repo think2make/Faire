@@ -6,6 +6,8 @@ The format is roughly based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+- Session de travail du 29 octobre 2016, Rue Maladière: 
+- Session de travail du 15 octobre 2016, Rue des Sablons
 - Mise en place du projet : 8 oct 2016, caféart, Neuchâtel, Suisse.
 
 

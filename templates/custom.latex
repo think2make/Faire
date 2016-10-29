@@ -270,7 +270,7 @@ $endfor$
 \fancyhead[LE,RO]{\thepage}
 
 % R = Right Field, E = Even page (left) : custom content
-\fancyhead[RE]{\textit{ The Interview Project } }
+\fancyhead[RE]{\textit{ Faire } }
 
 % L = Left Field, O = Odd page (right)
 \fancyhead[LO]{\textit{ \nouppercase{\leftmark}} }

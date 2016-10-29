@@ -69,6 +69,14 @@ Evaluation statistique :
 - Polarisation des idées
 - Classement des idées
 
+Critères : 
+Inspiré de Vitruve (De Architectura)
+
+- Faisabilité
+- Durabilité
+- Désirabilité
+
+
 
 ##4. Implémenter 
 

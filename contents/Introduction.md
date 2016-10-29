@@ -30,10 +30,10 @@ Vous devez apprendre à altérner entres les phases d'idéation et d'execution.
 
 **Partie 1 : Penser - idéation**
 
-- Etape 1 - identifier 
-- Etape 2 - produire
-- Etape 3 - matérialiser
-- Etape 4 - implémenter
+- Etape 1 - identifier un défi
+- Etape 2 - produire des idées
+- Etape 3 - matérialiser les idées
+- Etape 4 - implémenter la solution
 
 
 Toutes les plus grandes idées du monde ne sont rien si elles ne sont pas faite. 
@@ -41,6 +41,6 @@ Toutes les plus grandes idées du monde ne sont rien si elles ne sont pas faite.
 **Partie 2 : Faire - Execution**
 
 - Level 1 - définir
-- Level 2 - planifier
+- Level 2 - planifier 
 - Level 3 - agir
 - Level 4 - Suivre 

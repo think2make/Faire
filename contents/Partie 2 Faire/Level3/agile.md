@@ -42,6 +42,9 @@ En se concentrant sur ces trois points, chacun peut se faire une bonne idée de 
 
 - biweekly planning sessions
 
+- Pair-Programming
+
+- Whiteboard avec "Story-Cards"
 
 ## Dangers
 

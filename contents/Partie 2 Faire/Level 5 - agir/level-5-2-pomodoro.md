@@ -1,4 +1,4 @@
-# La technique Pomodoro
+## La technique Pomodoro
 
 Parmi les différentes méthodes visant à améliorer la faculté à se focaliser sur un travail, la technique Pomodoro est l'une des plus simples.
 

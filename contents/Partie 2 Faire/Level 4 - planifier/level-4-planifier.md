@@ -105,8 +105,7 @@ De plus, le temps peut être catégorisé en 4 types de tâches :
 - difficiles et amusant
 - difficiles et ennuyeux 
 
-(insérer diagramme)
-
+![](../contents/img/evaluer-facile-diff.jpg)
 
 Selon le type de tâche, le vécu va varier. 
 

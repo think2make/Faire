@@ -1,4 +1,4 @@
-# Level 6: Le qui - le suivi
+# Level 6: Le suivi
 
 Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'habitude de les protocoler. 3 catégories de pensées : 
 
@@ -10,11 +10,12 @@ Prenez l'habituel de protocoler ces données par catégorie et prevoyez de parco
 
 Un outil informatique qui pourrait etre utilisé pour cela : Trello 
 
-###KPI : indicateurs clés de performance. 
+### KPI : indicateurs clés de performance. 
+
 Vos indicateurs sont les objectifs SMART que vous avez défini. 
 
-
 Quel est le prix que vous êtes prêt à payer ? 
+
 C'est ici que ce trouve la différence entre des buts (partie 1, level 1) et le système. 
 Les buts détermine votre direction. Les système détermine votre progression. Vous n'obitendrez jamais quelque chose juste en tenant le gouvernail, vous devez ramer. 
 

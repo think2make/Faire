@@ -1,4 +1,4 @@
-# Méthode agile
+## Les méthodes agiles
 
 Les méthodes agiles sont un groupe de pratiques de pilotage et de réalisation de projets. 
 

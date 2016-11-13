@@ -19,6 +19,8 @@ Quand on a un but plus grand à atteindre que la prochaine étape, les erreurs &
 
 D'autres méthodes peuvent également aider à structurer le projet comme par exemple un diagramme de Cause-Effet (Ishikawa). Ce qui est important c'est que le résultat de cette étape soit formalisé par écrit et compréhensible par toutes les personnes impliquées dans le projet (même les personnes qui ne viennent pas de l'entreprise)
 
+![](../contents/img/cause-effet.jpg)
+
 ### l'outil de base pour penser : le questionnement 
 
 « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »—ALBERT  EINSTEINPourquoi on ne pose pas les bonnes questions ? Car depuis l’école, on nous apprend à répondre et non à imaginer des questions. #### 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…

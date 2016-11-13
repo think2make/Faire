@@ -34,14 +34,12 @@ Pour chaque phase, nous proposons des outils et logiciels, qui vous aideront à 
 
 **Partie 1 : Penser - idéation**
 
-- Etape 1 - identifier un défi
-- Etape 2 - produire des idées
-- Etape 3 - matérialiser les idées
-- Etape 4 - implémenter la solution
+- Level 1 - identifier un défi
+- Level 2 - produire des idées
+- Level 3 - matérialiser les idées
 
 **Partie 2 : Faire - Execution**
 
-- Level 1 - définir
-- Level 2 - planifier 
-- Level 3 - agir
-- Level 4 - suivre 
+- Level 4 - planifier 
+- Level 5 - agir
+- Level 6 - suivre 

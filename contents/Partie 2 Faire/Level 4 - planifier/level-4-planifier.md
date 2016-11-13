@@ -1,4 +1,7 @@
-# Level 2 : planifier. 
+\part{Partie 2 : Faire - Execution}
+
+# Level 4 : planifier. 
+
 Le comment - le déroulement et les étapes.  
 
 Ignorez le monde réel. Planifiez votre monde. 

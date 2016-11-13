@@ -1,9 +1,6 @@
 
 # faire
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 ## Comment monter les paliers de la productivité personnelle (sans tomber de l’échelle).
 
 
@@ -24,13 +21,9 @@ Il existe trois monnaies universelles  (p146 - PersonalMBA) :
 
 Le temps et la flexibilité sont des monnaies immatérielles, et c'est de celles-là que traite ce livre.
 
-<<<<<<< HEAD
-Vous devez apprendre à altérner entres les phases d'idéation et d'execution. 
-=======
 Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable).
 
 
->>>>>>> origin/master
 
 ### Table des matières 
 
@@ -40,11 +33,14 @@ Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéatio
 - Etape 2 - produire des idées
 - Etape 3 - matérialiser les idées
 
+**Partie 1 : Penser - idéation**
 
-Toutes les plus grandes idées du monde ne sont rien si elles ne sont pas faite. 
+- Level 1 - identifier un défi
+- Level 2 - produire des idées
+- Level 3 - matérialiser les idées
 
 **Partie 2 : Faire - Execution**
 
-- Level 1 - planifier le résultat
-- Level 2 - agir constamment
-- Level 2 - Suivre en continu
+- Level 4 - planifier 
+- Level 5 - agir
+- Level 6 - suivre 

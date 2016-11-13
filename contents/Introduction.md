@@ -29,12 +29,6 @@ Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéatio
 
 **Partie 1 : Penser - idéation**
 
-- Etape 1 - identifier un défi,un but
-- Etape 2 - produire des idées
-- Etape 3 - matérialiser les idées
-
-**Partie 1 : Penser - idéation**
-
 - Level 1 - identifier un défi
 - Level 2 - produire des idées
 - Level 3 - matérialiser les idées

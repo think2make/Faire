@@ -1,12 +1,15 @@
-# Level 2 : planifier. 
+\part{Partie 2 : Faire - Execution}
+
+# Level 4 : planifier. 
+
 Le comment - le déroulement et les étapes.  
 
 Ignorez le monde réel. Planifiez votre monde. 
 
 Nous entendons souvent "cela ne fonctionnera jamais dans le monde réel" surtout pour de nouvelles idées. En regardant la télé, lire les journeaux, etc., il semble que le monde est cruel, que les plans nobles échouent tout le temps. Ne les croyez pas, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. 
 
-
 Pour achever ce que vous avez déjà achevé dans le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. 
+
 Vous planifiez comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler. Votre cerveau a une structure en 5 étapes pour accomplir les tâches : 
 
 - définir but et principes
@@ -16,7 +19,7 @@ Vous planifiez comment vous allez vous habiller, quand et quoi manger et même l
 - identifier prochaines actions 
 
 
-###La planification : 
+### La planification : 
  
 Il existe d'innombrable méthodes de planification. Voici une méthode intéressante :
 
@@ -24,52 +27,53 @@ Il existe d'innombrable méthodes de planification. Voici une méthode intéress
 
 la planification par scénario permet de visualiser le scénario catastrophique ou le scénario idéal :  posez-vous les questions suivantes : Que ce passerait-il si nous n'arrivons pas à terminer ce projet ? Et si cela ne fonctionne pas ? A quoi devrait ressembler le résultat idéal ? 
 
+![](../contents/img/prise-de-notes.jpg)
+
 Le fait d'avoir visualisé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motiver pour y parvenir. 
 
-###Méthode 10-10-10
-méthode 10-10-10 (Suzy Welch) : 
+### Méthode 10-10-10
 
-- quel impact de ma décision dans 10 jours ? 
+La méthode 10-10-10 (Suzy Welch) : 
+
+- quel sera l'impact de ma décision dans 10 jours ? 
 - dans 10 mois ? 
 - dans 10 ans ? 
 
 
-###Planifier pour la journée, la semaine, le mois, l'année et votre vie 
+### Planifier pour la journée, la semaine, le mois, l'année et votre vie 
 
 Planifier à la journée c'est simple et tout le monde le fait. Et c'est faux. 
 
-#####Planifier le but ultime
+##### Planifier le but ultime
+
 Prenez le contre-pied. Comme expliqué dans le level 1, commencez par planifier pour le but ultime. 
 Comme au théatre, traduisez ce but en 3 actes : 
 
 - le début
 - le milieu
-- la fin. 
+- la fin
 
-Commencez par la fin - le but à atteindre, le délivrable. Ensuite, définissez les moyens à mettre pour arriver à la finalité. Et enfin, le début - le commencement. Un conseil : commencez toujours avant d'être prêt ! 
+Commencez par la fin - le but à atteindre, le délivrable. Ensuite, définissez les moyens à mettre en œuvre pour arriver à la finalité. Et enfin, le début - le commencement. Un conseil : commencez toujours avant d'être prêt ! 
 
-#####Planifier pour l'année 
+##### Planifier pour l'année 
 
 Il existe différentes méthodes de planification, voici quelques outils qui peuvent vous être utile : 
 
 - **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 - **Pert** : technique de modélisation de projet (Program, Evaluation and Review Technique : technique d'évaluation et de révision de programme). Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
-
 - **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe.
 
-
-
-#####planifier au mois 
+##### planifier au mois 
 
 Voici une structure pour planifier votre mois : 
 
 1. définir les activité en % + priorité 2. définir des objectifs pour le mois à venir à la fin du mois précédent3. ajouter les petites étapes de chaque objectif à l'intérieur de l'agenda du mois (p.ex : 1 étape par semaine)
 
-#####Planifier à la semaine
+##### Planifier à la semaine
 
-1. bien analyser la semaine passée2. Définir quelques objectifs pour la semaine (par ex : 5 objectifs au max)3. Prioriser en mettant les points les plus importants au début de la semaine4. Laisser des espaces de temps pour des imprévus5. Faire les choses prévues au moment prévu. Ne pas prendre de l'avance.Conseil : Ayez 3 actions en reserve (planifier pour la semaine suivante mais garder si une tâche s'annule ou se déplace)
+1. Bien analyser la semaine passée2. Définir quelques objectifs pour la semaine (par ex : 5 objectifs au max)3. Prioriser en mettant les points les plus importants au début de la semaine4. Laisser des espaces de temps pour des imprévus5. Faire les choses prévues au moment prévu. Ne pas prendre de l'avance.Conseil : Ayez 3 actions en reserve (planifier pour la semaine suivante mais garder si une tâche s'annule ou se déplace)
 
-#####Planifier à la journée 
+##### Planifier à la journée 
 
 Planifier une architecture de base d'une journée, par exemple : 
 

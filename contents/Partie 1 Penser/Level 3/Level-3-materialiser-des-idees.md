@@ -2,7 +2,9 @@
 
 Comment matérialiser des idées ?Un prototype vaut mille mots. La meilleure manière de découvrir le potentiel réel d’une d’idée est de la matérialiser. ### Visualiser une idée 
 
-Voici 3 méthodes pour rendre les concepts plus concrets et plus compréhensibles : - **Feuille d’idée** – Le concept est décrit à travers un titre et une description. - **Visualisation 2D** – Le concept est illustré à l’aide d’un design. - **Prototype 3D** – Le concept est fabriqué en 3D. Evaluez les prototypes avec les contributeurs selon des critères prédéfinis pour découvrir l’attractivité perçue de chaque idée.Cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. 
+Voici 3 méthodes pour rendre les concepts plus concrets et plus compréhensibles : - **Feuille d’idée** – Le concept est décrit à travers un titre et une description. - **Visualisation 2D** – Le concept est illustré à l’aide d’un design. - **Prototype 3D** – Le concept est fabriqué en 3D. Evaluez les prototypes avec les contributeurs selon des critères prédéfinis pour découvrir l’attractivité perçue de chaque idée.Cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. 
+
+![Protoype 3D d'agriculture urbaine](../contents/img/urban-gardening.jpg)
 La décision est un processus. La décision est très émotionnelle.  Nous avons tendance à penser que l’émotion est quelque chose de primitive et ne doit pas faire partie de la décision. 
 A quoi ressemblerait une personne qui n’a pas d’émotion et qui doit décider ? Selon, Antonio Damasio (professeur de neurologie, neurosciences et psychologie, Auteur de “L’erreur de Decartes”, ils auraient des difficultés à décider des choses simples (par exemple: s'habiller, quelle chaussette décider)
 

@@ -1,5 +1,4 @@
-**Partie 1 : Penser - idéation**
-
+\part{Partie 1 : Penser - idéation}
 
 ## 1. Identifier et définir un défi
 

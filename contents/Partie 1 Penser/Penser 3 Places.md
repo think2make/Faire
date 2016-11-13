@@ -1,4 +1,5 @@
-#Places
+# Places
+
 Quel est le meilleur  environnement pour susciter les innovations ? 
 
 Il existe différents contextes qui favorisent la créativité et facilitent l’élaboration de solutions innovantes : 

@@ -74,3 +74,5 @@ Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d
 
 Comment faire : Agilité & itération (image think, make, check)
 
+![](../contents/img/process%20think-make-check.png)
+

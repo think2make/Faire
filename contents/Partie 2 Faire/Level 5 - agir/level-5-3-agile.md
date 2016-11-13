@@ -20,7 +20,7 @@ Le texte du manifeste:
 Quelques éléments clés du processus agile:
 
 - les changements sont possibles et bienvenus, à tout moment.
-- on fournit du code fonctionnel à intervalles fréquents.
+- on fournit des délivrable fonctionnel à intervalles fréquents.
 - les différentes disciplines impliquées (p.ex. commerciaux et développeurs) collaborent quotidiennement.
 - le projet repose sur des individus motivés, ayant le support et l'environnement requis.
 - le meilleur moyent de communication est la discussion en face-à-face.

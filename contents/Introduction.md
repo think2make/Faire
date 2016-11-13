@@ -23,7 +23,7 @@ Le temps et la flexibilité sont des monnaies immatérielles, et c'est de celles
 
 Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable).
 
-
+\newpage
 
 ### Table des matières 
 

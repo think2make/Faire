@@ -26,6 +26,12 @@ Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéatio
 
 ### Table des matières 
 
+Ce livre est structuré de la manière suivante: la première partie concerne la phase d'idéation: génération d'idées, analyse des idées en vue de leur implémentation.
+
+La deuxième partie est découpée en quatre niveaux, focalisée sur la définition d'un objectif, la planification et les outils qui (aux échelles de la vie, de l'année, du mois, de la journée), le niveau trois présente des outils de gestion du travail quotidient. Le niveau quatre fait la lumière sur le suivi des actions menant à l'implémentation.
+
+Pour chaque phase, nous proposons des outils et logiciels, qui vous aideront à vous approprier les nouvelles technologies afin de gérer votre productivité personnelle.
+
 **Partie 1 : Penser - idéation**
 
 - Etape 1 - identifier un défi
@@ -33,12 +39,9 @@ Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéatio
 - Etape 3 - matérialiser les idées
 - Etape 4 - implémenter la solution
 
-
-Toutes les plus grandes idées du monde ne sont rien si elles ne sont pas faite. 
-
 **Partie 2 : Faire - Execution**
 
 - Level 1 - définir
 - Level 2 - planifier 
 - Level 3 - agir
-- Level 4 - Suivre 
+- Level 4 - suivre 

@@ -1,4 +1,4 @@
-\part{Level 5 : agir. Le quoi - les actions}
+# Level 5 : agir. Le quoi - les actions
 
 4 méthodes pour faire une tâche (PersonalMBA) : 
 

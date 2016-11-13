@@ -1,6 +1,6 @@
 \part{Partie 1 : Penser - idéation}
 
-# 1. Identifier et définir un défi
+# Level 1. Identifier et définir un défi
 
 Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?
 

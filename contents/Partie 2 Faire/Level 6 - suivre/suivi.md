@@ -1,6 +1,4 @@
-\part{Level 4 : suivre}
-
-# Le qui - le suivi
+# Level 6: Le qui - le suivi
 
 Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'habitude de les protocoler. 3 catégories de pensées : 
 

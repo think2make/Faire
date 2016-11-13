@@ -1,5 +1,9 @@
 
 # faire
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 ## Comment monter les paliers de la productivité personnelle (sans tomber de l’échelle).
 
 
@@ -18,10 +22,17 @@ Il existe trois monnaies universelles  (p146 - PersonalMBA) :
 - Temps : c'est la deuxième monnaie universelle. 
 - Flexibilité : monnaie souvent sous-estimée, la flexibilité c'est le fait que pendant que vous faite quelque chose vous renoncez à autre chose. 
 
+Le temps et la flexibilité sont des monnaies immatérielles, et c'est de celles-là que traite ce livre.
 
+<<<<<<< HEAD
 Vous devez apprendre à altérner entres les phases d'idéation et d'execution. 
+=======
+Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable).
 
-###Table des matières 
+
+>>>>>>> origin/master
+
+### Table des matières 
 
 **Partie 1 : Penser - idéation**
 

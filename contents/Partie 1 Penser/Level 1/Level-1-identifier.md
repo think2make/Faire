@@ -1,17 +1,5 @@
 **Partie 1 : Penser - idéation**
 
-# Introduction 
-
-Dans les pages suivantes vous découvrirez :•	Processus : comment élaborer des idées  (sans maux de tête)•	Personnes – comment élaborer les bonnes idées  (avec les bonnes personnes)Place – comment élaborer les bonnes idées de façon efficace  (et en gardant la motivation) 
-
-
-# Processus
-
-
-- Etape 1 - identifier 
-- Etape 2 - produire
-- Etape 3 - matérialiser
-- Etape 4 - implémenter
 
 ## 1. Identifier et définir un défi
 
@@ -81,4 +69,4 @@ Simon Sinek, dans son livre *Start with Why*, explique que la majorité des gens
 
 Cela permet d'aligner les actions avec les connexions intrinsèques.
 
-![Golden Circle](img/golden-circle-why.jpg)
+![Golden Circle](../contents/img/golden-circle-why.jpg)

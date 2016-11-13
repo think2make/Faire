@@ -2,15 +2,22 @@
 
 # Le qui - le suivi
 
-Protocoler les pensées (Backburner ritual, References - Making ideas happen)
+Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'habitude de les protocoler. 3 catégories de pensées : 
 
-Outils informatiques : Trello 
+- Actionable : ce sont les plus importants, vous pouvez en faire quelque chose. Définissez les toujours avec un verbe. 
+- References : ne sont pas executable. Ce sont des documents à partager, les notes, les croquis, les PV, etc.
+- Veilleuse : ce sont des idées encore non executables mais peuvent l'être plus tard. Ce sont de nouvelles idées qui ne sont pas pertinent pour votre projet actuel mais qui pourrait l'être à l'avenir. 
 
-Parler de l’antonyme : ne pas suivre - abandonner. 
+Prenez l'habituel de protocoler ces données par catégorie et prevoyez de parcourir environ 1 fois par mois le contenu. 
 
-KPI : indicateurs clés de performance. 
+Un outil informatique qui pourrait etre utilisé pour cela : Trello 
+
+###KPI : indicateurs clés de performance. 
 Vos indicateurs sont les objectifs SMART que vous avez défini. 
 
 
-Les systèmes : comprendre, analyser, améliorer. (Personel MBA)
+Quel est le prix que vous êtes prêt à payer ? 
+C'est ici que ce trouve la différence entre des buts (partie 1, level 1) et le système. 
+Les buts détermine votre direction. Les système détermine votre progression. Vous n'obitendrez jamais quelque chose juste en tenant le gouvernail, vous devez ramer. 
 
+Les systèmes : comprendre, analyser, améliorer. (Personel MBA)

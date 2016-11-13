@@ -22,7 +22,7 @@ D'autres méthodes peuvent également aider à structurer le projet comme par ex
 
 ### l'outil de base pour penser : le questionnement 
 
-« Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »—ALBERT  EINSTEINPourquoi on ne pose pas les bonnes questions ? Car depuis l’école, on nous apprend à répondre et non à imaginer des questions. #### 3 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
+« Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »—ALBERT  EINSTEINPourquoi on ne pose pas les bonnes questions ? Car depuis l’école, on nous apprend à répondre et non à imaginer des questions. #### 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
 -  Hypothèses sous-tendant à la question
 - 	Les croyances, les clichés influencent la perception de la question. Pas de mauvaise interpretation. 

@@ -101,6 +101,9 @@ De plus, le temps peut être catégorisé en 4 types de tâches :
 - difficiles et amusant
 - difficiles et ennuyeux 
 
+(insérer diagramme)
+
+
 Selon le type de tâche, le vécu va varier. 
 
 Il est important également de différencier le temps opérationnel (temps pour produire) et le temps de mise en train (temps pour penser). 

@@ -1,4 +1,4 @@
-## Etape 2: Récolter
+## Etape 2: produire des idées
 
 Comment générer des idées nouvelles ? Les pensées fantaisistes suscitent les idées visionnaires. La qualité des idées produites est fonction de la quantité des données recueillies.  
 

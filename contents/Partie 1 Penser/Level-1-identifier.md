@@ -77,6 +77,8 @@ Trop souvent et dès à l'école on nous apprend à nous focaliser sur nos faibl
 
 #### A quelle cause voulez-vous travailler ? Et pourquoi ?
 
-Simon Sinek, dans son livre *Start with Why*, explique que la majorité des gens sont compétents dans leur travail, ils connaissent le "comment". Toutefois, ils n'ont pas de conception claire du "pourquoi", de la raison qui motive leur travail.
+Simon Sinek, dans son livre *Start with Why*, explique que la majorité des gens sont compétents dans leur travail, ils connaissent le "comment". Toutefois, ils n'ont pas de conception claire du "Pourquoi", de la finalité qui motive leur travail.
+
+Cela permet d'aligner les actions avec les connexions intrinsèques.
 
 ![Golden Circle](img/golden-circle-why.jpg)

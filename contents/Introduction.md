@@ -1,9 +1,13 @@
 
 # faire
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/master
 ## Comment monter les paliers de la productivité personnelle (sans tomber de l’échelle).
 
-# Introduction
+
+## Introduction
 
 
 > Penser est facile. Agir est difficile. Mais agir en accord avec sa pensée est le plus difficile de tout.
@@ -20,26 +24,27 @@ Il existe trois monnaies universelles  (p146 - PersonalMBA) :
 
 Le temps et la flexibilité sont des monnaies immatérielles, et c'est de celles-là que traite ce livre.
 
+<<<<<<< HEAD
+Vous devez apprendre à altérner entres les phases d'idéation et d'execution. 
+=======
 Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable).
 
 
+>>>>>>> origin/master
 
 ### Table des matières 
 
-Ce livre est structuré de la manière suivante: la première partie concerne la phase d'idéation: génération d'idées, analyse des idées en vue de leur implémentation.
-
-La deuxième partie est découpée en quatre niveaux, focalisée sur la définition d'un objectif, la planification et les outils qui (aux échelles de la vie, de l'année, du mois, de la journée), le niveau trois présente des outils de gestion du travail quotidient. Le niveau quatre fait la lumière sur le suivi des actions menant à l'implémentation.
-
-Pour chaque phase, nous proposons des outils et logiciels, qui vous aideront à vous approprier les nouvelles technologies afin de gérer votre productivité personnelle.
-
 **Partie 1 : Penser - idéation**
 
-- Level 1 - identifier un défi
-- Level 2 - produire des idées
-- Level 3 - matérialiser les idées
+- Etape 1 - identifier un défi,un but
+- Etape 2 - produire des idées
+- Etape 3 - matérialiser les idées
+
+
+Toutes les plus grandes idées du monde ne sont rien si elles ne sont pas faite. 
 
 **Partie 2 : Faire - Execution**
 
-- Level 4 - planifier 
-- Level 5 - agir
-- Level 6 - suivre 
+- Level 1 - planifier le résultat
+- Level 2 - agir constamment
+- Level 2 - Suivre en continu

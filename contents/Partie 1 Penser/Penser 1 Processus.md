@@ -106,7 +106,7 @@ Quand vous souhaitez planifier une tâche, vous pouvez simuler votre cerveau ave
 La méthode des "5 comments" (ami de 5 pourquoi)est un outil qui permet de connecter vos buts à des actions physiques avec une chaine d'action complète. 
 
 ### 3 étapes 
-Voici 3 étapes pour préparer l’implémentation :1) Sélectionnez les idées ayant un potentiel. 2) Planifiez une carte de route en prenant en compte la complexité et le timing de mise en œuvre. 3) Mettez en œuvre l’idée sélectionnée de façon frugale et itérative. (voir partie 2) Il y a 1 frein à l’action : la peur. 
+Voici 3 étapes pour préparer l’implémentation :1) Sélectionnez les idées ayant un potentiel. 2) Planifiez une carte de route en prenant en compte la complexité et le timing de mise en œuvre. 3) Mettez en œuvre l’idée sélectionnée de façon frugale et itérative. (voir partie 2) Il y a 1 frein à l’action : la peur. 
 On ne peut pas éviter la peur et il ne faut pas. Il faut uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
 Faire de petites étapes en découpant l’action en petit bout
 Faire une grande étape en plongeant complètement dedant. 
@@ -121,11 +121,11 @@ Derrière la procrastination, il y a de la peur. 2 questions à se poser pour ê
 
 Toutes les actions ne sont pas bonnes à être exécutée. Il ne sert à rien d’être juste occupé, les fourmis le sont aussi, vous pouvez faire beaucoup plus qu'une fourmi. L’action doit résoudre un problème important et/ou répondre à un désir important.
 
-4 façon de réaliser une action (théorie de l’action?)
+##### 4 façon de réaliser une action (théorie de l’action?)
  
-- Déléguer l’action
-- Déplacer l’action
 - Eliminer l’action
+- Déléguer l’action
+- Déplacer dans le temps l’action
 - Réaliser l’action. 
 
 Comment faire : Agilité & itération (image think, make, check)

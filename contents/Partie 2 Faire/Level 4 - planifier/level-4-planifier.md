@@ -109,6 +109,17 @@ De plus, le temps peut être catégorisé en 4 types de tâches :
 
 Selon le type de tâche, le vécu va varier. 
 
+
+#### focaliser
+
+Trop souvent et dès à l'école on nous apprend à nous focaliser sur nos faiblesses. Le résultat on a est encore plus faible dans les matières. Focalisez vous sur vos forces - où vous êtes brillant. Quelques questions pour vous aider : 
+
+- Qu'est ce que vous faites sans effort ?
+- Où êtes-vous vraiment fort sans trop de préparation ?
+- Que faites-vous que les autres trouvent difficile ? 
+- Que pouvez-vous créer avec vos talents ? 
+
+
 Il est important également de différencier le temps opérationnel (temps pour produire) et le temps de mise en train (temps pour penser). 
 
 Dans l'industrie, les opérateurs qui règlent une machine nécessitent une période pour préparer le travail, les outils, programmer la machine, etc. Ce temps est différent du temps de production, car il nécessite souvent plus de temps et a une certaine variabilité. 

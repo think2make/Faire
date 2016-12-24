@@ -6,44 +6,121 @@
 
 # Level 1. Identifier et définir un défi
 
-Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?
 
-Se poser les bonnes questions c’est la moitié de la solution. Identifiez les informations nécessaires avant de démarrer l’exploration d’idées nouvelles. Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
+##Identifier un défi
+Il existe une centaine de méthodes pour faciliter l'identification d'un problème, la structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existe sur le globle et dans l'histoire de l'humanité mais uniquement de données un aperçu des moyens disponibles. Nous invitons le lecteur de faire des recherches approfondit selon ses besoins.  
 
-Formaliser le cahier des charges du projet en cinq parties :
+Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un défi/problème. 
 
-- Situation : quel est la situation actuelle ? (où sommes-nous aujourd’hui ?)
-- But global/désir : (où voulons-nous aller ? Pourquoi ?)Une des causes principales des échecs est le manque de but. 
-Quand on a un but plus grand à atteindre que la prochaine étape, les erreurs & échecs sur le chemin sont plus facile à accepter. 
+1. **Trouvez la cause.** Nous voyons souvent que la conséquence des choses. Vous pouvez utiliser un diagramme de Cause-Effet (Ishikawa). 
+2. **Priorisez.** Tout semble important mais finalement... Utilisez des outils tels qu'un diagramme de Pareto. 
+3. **Ecrivez.** Pour identifier un défi, le plus simple est d'écrire. Formalisez par écrit toutes les informations disponibles
 
-- Objectif : quelle est la prochaine étape pour atteindre le but global ? C'est-à-dire, le projet spécifique. ? 
-- Résultats attendus : à quoi va ressembler concrètement le livrable ?
-- Critères de succès : comment allons-nous mesurer le succès ?
-- Déroulement : comment devrions-nous réaliser les étapes ?
 
-D'autres méthodes peuvent également aider à structurer le projet comme par exemple un diagramme de Cause-Effet (Ishikawa). Ce qui est important c'est que le résultat de cette étape soit formalisé par écrit et compréhensible par toutes les personnes impliquées dans le projet (même les personnes qui ne viennent pas de l'entreprise)
 
 ![](../contents/img/cause-effet.jpg)
 
-### l'outil de base pour penser : le questionnement 
 
-« Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »—ALBERT  EINSTEINPourquoi on ne pose pas les bonnes questions ? Car depuis l’école, on nous apprend à répondre et non à imaginer des questions. #### 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
+## Définir le projet
+Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
+
+#### 5 parties pour formaliser le cahier des charges du projet :
+
+
+- Situation : quel est la situation actuelle ? où sommes-nous aujourd’hui ?
+
+___
+___
+___
+___
+___
+___
+
+- But global/désir : où voulons-nous aller ? Pourquoi ?
+
+___
+___
+___
+___
+___
+___
+
+- Objectif : quelle est la prochaine étape pour atteindre le but global ? C'est-à-dire, le projet spécifique. ? 
+___
+___
+___
+___
+___
+___
+- Résultats attendus : à quoi va ressembler concrètement le livrable ?
+
+___
+___
+___
+___
+___
+___
+
+- Critères de succès : comment allons-nous mesurer le succès ?
+
+___
+___
+___
+___
+___
+___
+
+- Déroulement : comment devrions-nous réaliser les étapes ?
+
+___
+___
+___
+___
+___
+___
+
+Avez-vous constaté qu'il y avait 6 parties au lieu de 5 ?  La dernière,*déroulement*, est particulièrement intéressante si vous travaillez en groupe car chacun a un avis (souvent pertinent) de la manière d'empoigner le sujet, par où commencer, comment procéder, etc. 
+
+Notez toutes les informations exprimées, elles peuvent vous être utile dans l'étape 2 (génération d'idées)
+
+### Autres éléments importants pour définir un défi
+
+##### L'objectif SMART
+
+Gardez à l'esprit l'acronyme SMART pour d'être de définir   l'objectif de votre projet. 
+
+ 
+- **S**pécifique : l'objectif doit être simple à comprendre.
+- **M**esurable : l'objectif doit être quantifiable.
+- **A**tteignable : l'objectif doit être ambitieux et raisonnable.
+- **R**éaliste : l'objectif doit être empoignable. 
+- **T**emporel : l'objectif doit avoir une date précise.
+
+De cette façon, vous pourrez être au clair sur l'objectif à atteindre, le partager avec les autres facilement et mettre des indicateurs pour mesurer l'atteinte de votre objectif. 
+
+##### Questionner : l'outil de base pour penser
+
+« Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »—ALBERT  EINSTEINPourquoi on ne pose pas les bonnes questions ? Car depuis l’école, on nous apprend à répondre et non à imaginer des questions. 
+
+Se poser les bonnes questions c’est la moitié de la solution. Identifiez les informations nécessaires avant de démarrer l’exploration de solutions. 
+Voici 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
 -  Hypothèses sous-tendant à la question
 - 	Les croyances, les clichés influencent la perception de la question. Pas de mauvaise interpretation. 
-L'éducation nous apprend souvent à répondre à des questions, mais pas à les poser.
+Si vous voulez recevoir les bonnes réponses, posez les bonnes questions.
 
-### Le pourquoi
+La formulation de questions est également essentielle pour l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'écoutant, force à réfléchir, inspire, etc. 
+Une bonne question c'est une question : 
+
+- simple, précise et claire
+- qui fait intervenir les valeurs
+- qui touche la réalité : 
+
+##### Le pourquoi
 
 Si nous ne savons pas pourquoi nous faisons ce que nous faisons, il ne sert à rien de faire quoi que ce soit. 
 
-Définissez le pourquoi avec cette question : "pourquoi est-ce qu'on fait ce qu'on fait?"
-
-Ce pourquoi permet de définir votre motivation intrinsèque. Attention : cela ne peut pas être "gagner de l'argent" car l'argent est un moyen et non une finalité. 
-
-Définir votre pourquoi permet d'exprimer le territoire de vos valeurs. Et qui font sens pour les autres. C'est à dire, votre motivation, vos valeurs et votre cohérence avec vous-même.  
-
-Sans définition du “pourquoi”, la planification, l’execution et le suivi serait comme une aspirine qui guérit temporairement un problème - sans traitement de la cause. Votre cause profonde.
+Définissez le pourquoi de votre défi avec cette question : "pourquoi est-ce qu'on fait ce qu'on fait?" ou "pourquoi est-ce que je fais ce que je fais ?"
 
 Le "Pourquoi" permet de : 
 
@@ -53,25 +130,4 @@ Le "Pourquoi" permet de :
 - motiver et vous motiver
 - focaliser 
 
-## l'objectif SMART
-
-objectif SMART (spécifique, mesurable, atteignable, réaliste, temporel) - par exemple, monter sur l'Everest (PersonnalMBA)
-
-
-### focaliser
-
-Trop souvent et dès à l'école on nous apprend à nous focaliser sur nos faiblesses. Le résultat on a est encore plus faible dans les matières. Focalisez vous sur vos forces - où vous êtes brillant. Quelques questions pour vous aider : 
-
-- Qu'est ce que vous faites sans effort ?
-- Où êtes-vous vraiment fort sans trop de préparation ?
-- Que faites-vous que les autres trouvent difficile ? 
-- Que pouvez-vous créer avec vos talents ? 
-
-
-#### A quelle cause voulez-vous travailler ? Et pourquoi ?
-
-Simon Sinek, dans son livre *Start with Why*, explique que la majorité des gens sont compétents dans leur travail, ils connaissent le "comment". Toutefois, ils n'ont pas de conception claire du "Pourquoi", de la finalité qui motive leur travail.
-
-Cela permet d'aligner les actions avec les connexions intrinsèques.
-
-![Golden Circle](../contents/img/golden-circle-why.jpg)
+Cette question semble introspective néanmoins vous permettra de vous focaliser plus clairement où mettre de l'énergie et surtout faire comprendre aux autres la nécessite de le faire. 

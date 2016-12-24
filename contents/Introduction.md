@@ -13,15 +13,18 @@
 Johann Wolfgang von Goethe, écrivain allemand et esprit universel. 
 
 
-Il existe trois monnaies universelles  (p146 - PersonalMBA) : 
+Il existe trois monnaies universelles :
 
 - **Ressources :** c'est les biens tangibles, l'argent, l'or, le pétrole, etc. 
 - **Temps :** c'est la deuxième monnaie universelle. 
 - **Flexibilité :** monnaie souvent sous-estimée, la flexibilité c'est le fait que pendant que vous faite quelque chose vous renoncez à autre chose. 
 
-Le temps et la flexibilité sont des monnaies immatérielles, et c'est de celles-là que traite ce livre.
+Dans ce livre, vous allez être guidé dans format de six étapes pour transformer les deux monnaies immatérielles (le temps et la flexibilité) ....
 
-Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable).
+.... Par le biais d'une suite synchronisée, vous allez découvrir comment alterner entre les phase d'idéation (processus mental d'émergence des idées) et d'exécution (la production d'un délivrable) pour permettre de délivrer de la valeur, résoudre des défis, 
+
+...
+
 
 \newpage
 
@@ -31,10 +34,10 @@ Dans ce livre, vous allez découvrir comment alterner entre les phase d'idéatio
 
 - Level 1 - identifier un défi
 - Level 2 - produire des idées
-- Level 3 - matérialiser les idées
+- Level 3 - prototyper les idées
 
 **Partie 2 : Faire - Execution**
 
-- Level 4 - planifier 
-- Level 5 - agir
-- Level 6 - suivre 
+- Level 4 - planifier l'implémentation
+- Level 5 - faire, faire, faire
+- Level 6 - suivre, suivre, suivre

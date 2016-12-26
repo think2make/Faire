@@ -8,7 +8,7 @@
 
 
 ##Identifier un défi
-Il existe une centaine de méthodes pour faciliter l'identification d'un problème, la structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existe sur le globle et dans l'histoire de l'humanité mais uniquement de données un aperçu des moyens disponibles. Nous invitons le lecteur de faire des recherches approfondit selon ses besoins.  
+Il existe un grand nombre de méthodes pour identifier un problème, la structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existe sur le globle et dans l'histoire de l'humanité mais uniquement de données un aperçu des moyens disponibles. Vous, le lecteur, pouvez faire des recherches approfondit selon vos besoins.  
 
 Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un défi/problème. 
 
@@ -27,7 +27,7 @@ Comment élaborer un cahier des charges simple, précis et orienté vers l’act
 #### 5 parties pour formaliser le cahier des charges du projet :
 
 
-- Situation : quel est la situation actuelle ? où sommes-nous aujourd’hui ?
+- Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des faits qui peuvent être vérifiés. 
 
 ___
 ___
@@ -36,7 +36,7 @@ ___
 ___
 ___
 
-- But global/désir : où voulons-nous aller ? Pourquoi ?
+- But global/désir : quel est le but, la vision ? Où voulons-nous aller ? Pourquoi est-ce qu'on fait ce qu'on fait ? Définissez le but poursuivi par votre projet.
 
 ___
 ___
@@ -45,14 +45,14 @@ ___
 ___
 ___
 
-- Objectif : quelle est la prochaine étape pour atteindre le but global ? C'est-à-dire, le projet spécifique. ? 
+- Objectif : quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet. De façon brève. ? 
 ___
 ___
 ___
 ___
 ___
 ___
-- Résultats attendus : à quoi va ressembler concrètement le livrable ?
+- Résultats attendus : à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève.
 
 ___
 ___
@@ -61,7 +61,7 @@ ___
 ___
 ___
 
-- Critères de succès : comment allons-nous mesurer le succès ?
+- Critères de succès : comment allons-nous mesurer le succès ? Sur quel criètres(s) allez-vous évaluer le succès ? Ecrivez si possible uniquement des critères mesurables.
 
 ___
 ___

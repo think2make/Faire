@@ -1,8 +1,9 @@
 # Level 2: produire des idées
 
 Comment générer des idées nouvelles ? Quand vous cherchez une nouvelle idée, vous pouvez attendre qu'elle vous tombe dessus ou vous pouvez mettre en place une démarche structurée pour découvrir une future solution. 
-Vous pouvez réaliser votre production d'idées individuellement ou en groupe. 
 
+La majorité des personnes mélangent connaissance et créativité. La créativité, c'est la capacité à réaliser une production originale et adaptée à la réalité. La connaissance c'est ....  (explication Théorie C-K)
+Vous pouvez réaliser votre production d'idées individuellement ou en groupe. 
 Pour trouver la bonne idée, il est important de produire une grande quantité d'idées et s'inspirer à 360°. C'est la phase de divergence. Cette phase permet d'avoir des idées brutes (des bribes d'idées) qui doivent être crystalisé, c'est la phase d'émergence. Elle permet de conceptualiser ou visualiser). 
 Enfin, la phase de convergence permet d'analyser, de sélectionner, planifier et implémenter. 
 
@@ -19,7 +20,7 @@ La phase de génération d’idées est divisée en trois parties :- **Phase 
 
 
 Quand vous cherchez des données pour votre problèmatique vous pouvez utiliser "l'intelligence infinie" pour trouver des idées brutes :- Recherches sur le web - Interviews auprès d'experts ou utilisateurs - Livres dans les bibliothèques ou ailleurs Pour décider du bon outil de génération d’idées : Prenez en considération le contenu que vous cherchez - défini à l’étape 1 : cahier des charges – et le contenant c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement, etc.)NOTE : Quatres règles simples pour favoriser des idées nouvelles : 1.	Ne pas juger les idées 2.	Tabler sur la quantité d’idées3.	Encourager la spontanéité 4.  Faire des associations d'idées 
-#### SCAMPER : questions pour produire des idées Le principe : Liste de questions destinées à faire jaillir des idées.  Les étapes sont1.	Identifier l’idée/l’objet/le problème auquel vous voulez réfléchir. 2.	Formuler l’objet de votre recherche, c’est la question centrale : « comment pourrais-je …. ? »3.	Poser ensuite l’ensemble des questions SCAMPER
+#### SCAMPER : des questions pour produire des idées Le principe : Liste de questions destinées à faire jaillir des idées.  Les étapes sont1.	Identifier l’idée/l’objet/le problème auquel vous voulez réfléchir. 2.	Formuler l’objet de votre recherche, c’est la question centrale : « comment pourrais-je …. ? »3.	Poser ensuite l’ensemble des questions SCAMPER
 
 ![](../contents/img/scamper_problem-solving.jpg)
 ##### S: SUBSTITUER

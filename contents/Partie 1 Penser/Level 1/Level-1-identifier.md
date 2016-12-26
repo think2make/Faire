@@ -22,7 +22,8 @@ Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un
 
 
 ## Définir le projet
-Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
+Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Savez-vous la différence entre la gestion de projets et la créativité ? La gestion de projet chercher à atteindre un but fixé, la créativité cherche à atteindre un but encore inconnu. Ici se trouve une différence avec certaines situations que vous avez pu expérimenter.....Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
+
 
 #### 5 parties pour formaliser le cahier des charges du projet :
 
@@ -109,12 +110,19 @@ Voici 4 dimensions d’une question : - La construction : Qui, quoi, comment, 
 - 	Les croyances, les clichés influencent la perception de la question. Pas de mauvaise interpretation. 
 Si vous voulez recevoir les bonnes réponses, posez les bonnes questions.
 
-La formulation de questions est également essentielle pour l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'écoutant, force à réfléchir, inspire, etc. 
+La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'écoutant, force à réfléchir, inspire, etc. 
 Une bonne question c'est une question : 
 
 - simple, précise et claire
 - qui fait intervenir les valeurs
-- qui touche la réalité : 
+- qui touche la réalité
+
+Un exemple de complexité de questions : 
+
+1.	Avez-vous écouté de la musique la semaine passée ? (question binaire: oui/non)2.	Quel type de musique écoutez-vous le plus ? (question factuelle)3.	Comment décidez-vous quel type de musique vous autorisez à vos enfants ? (question complexe : factuel + croyances)
+
+Vous saississez comment les questions évolues dans leur complexité. 
+
 
 ##### Le pourquoi
 
@@ -130,4 +138,4 @@ Le "Pourquoi" permet de :
 - motiver et vous motiver
 - focaliser 
 
-Cette question semble introspective néanmoins vous permettra de vous focaliser plus clairement où mettre de l'énergie et surtout faire comprendre aux autres la nécessite de le faire. 
+Cette question semble introspective néanmoins vous permettra de vous focaliser plus clairement où mettre de l'énergie et surtout faire comprendre aux autres la nécessite de *faire*. 

@@ -62,12 +62,16 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propos
 ##### S: SUBSTITUER
 
 Mettre un élément à la place d’un autre...Qu’est-ce qui peut être remplacé ? Qui d’autres ? Quoi d’autres ?
-___
-___
-___
-___
-___
-___
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
 
 ##### C: COMBINER
 Fusionner deux concepts, deux idées...Que pourrions-nous combiner pour multiplier les usages possibles ?

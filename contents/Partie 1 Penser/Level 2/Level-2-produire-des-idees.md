@@ -147,4 +147,4 @@ Il y a 4 étapes pour apprendre :
 
 - Interviewer des experts ou utilisateurs vivant au quotidien la problèmatique.
 
-Belle exploration et exploitation de donneés à vous. 
+Belle exploration à vous. 

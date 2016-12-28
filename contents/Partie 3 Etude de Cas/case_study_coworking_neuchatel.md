@@ -1,25 +1,25 @@
-#Case studie : Coworking Neuchatel
+# Case Study : Coworking Neuchatel
 
 
-###Le défi : 
+### Le défi : 
 
 - pas de bureau à disposition
 - Pas de support entres pairs
 
 
-###Les thèmatiques  :
+### Les thèmatiques  :
 
 - Où se trouvera l'espace
 - Comment fonctionnera cet espace
 - Quel sera son nom 
 
 
-###Questions à explorer : 
+### Questions à explorer : 
 
 - Quel modèle d'affaire ?
 - Comment rendre le fonctionnement autonome, avec minimum d'intervention ? 
 
-###Les différentes étapes du projet : 
+### Les différentes étapes du projet : 
 
 1. ....
 2. ....

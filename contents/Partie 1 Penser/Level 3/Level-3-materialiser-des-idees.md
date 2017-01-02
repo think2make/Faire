@@ -70,7 +70,7 @@ Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d
 - Déléguer l’action
 - Déplacer l’action
 - Eliminer l’action
-- Réaliser l’action. 
+- Réaliser l’action
 
 Comment faire : Agilité & itération (image think, make, check)
 

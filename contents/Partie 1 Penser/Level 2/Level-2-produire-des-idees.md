@@ -1,8 +1,14 @@
 # Level 2: produire des idées
 
-Comment générer des idées nouvelles ? 
-Il existe des centaines de méthodes pour générer des idées. Il ne sert à rien d'utiliser un outil spécifique si nous ne comprenons pas l'approche générale/l'opération/le processus...
-Tout d'abord, générer de nouvelles idées n'est pas une chose innée. Et vous n'avez pas besoin d'attendre que l'idée vous tombe dessus, ni d'utiliser des manières esotériques ou mistiques !Quand vous cherchez une nouvelle idée, vous pouvez mettre en place une démarche structurée. Et vous pouvez réaliser cela de façon indviduelle ou en groupe.
+>Pourriez-vous s'il vous plait nous montrer comment diverger ? Oui. Montez les bras au ciel et attendez. Vous saurez diverger quand j'aurai fini de faire le selfie avec vous. LOL 
+
+
+Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant parti d'un des leviers les plus importants dans notre société. 
+
+Tout d'abord, générer de nouvelles idées n'est pas une chose innée. Et vous n'avez pas besoin d'attendre que l'idée vous tombe dessus, ni d'utiliser des manières esotériques ou mistiques !
+
+Comment générer des idées nouvelles ? Il existe des centaines de méthodes pour générer des idées. Il ne sert à rien d'utiliser un outil spécifique si nous ne comprenons pas l'approche générale/l'opération/le processus...
+Quand vous cherchez une nouvelle idée, vous pouvez mettre en place une démarche structurée. Et vous pouvez réaliser cela de façon indviduelle ou en groupe.
 
 De plus, faisons la différence entre la connaissance et la créativité. La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. La connaissance c'est ....  (explication Théorie C-K). A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. Nous aborderons ce dernier point dans les derniers chapitres. 
 
@@ -12,12 +18,11 @@ Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile 
 D'où la nécessité de comprendre le fonctionnement pour faciliter cette production d'idées.
 
 
-Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant parti d'un des leviers les plus importants dans notre société. 
-
 ###La génération d’idées en trois phases
 
-Quelques mots sur le cerveau : ....- **Phase de divergence** permet de se plonger dans le sujet et générer de nouvelles inspirations –le défi est regardé à 360°. Cette phase permet d'avoir des idées brutes (des bribes d'idées).
-- **Phase d’émergence** permet de conceptualiser. C'est la crystalisation des pensées, quelque chose commence à remonter à la surface. Cette phase permet visualiser des solutions potentielles. 
+
+(intégrer illustration visuel)- **Phase de divergence** permet de se plonger dans le sujet et générer de nouvelles inspirations –le défi est regardé à 360°. Cette phase permet d'avoir des idées brutes (des bribes d'idées). Elle est également une période de questionnement et partage du but à atteindre par les contributeurs du projet.
+- **Phase d’émergence** permet de conceptualiser. C'est la crystalisation des pensées. C'est une phase peu confortable car elle remet en question certaines compréhension initiale. Ici quelque chose commence à remonter à la surface. Cette phase permet de commener à visualiser des solutions potentielles. 
 - **Phase de convergence** permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme d'une solution analysées  pour prendre des décision, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
 Comment est-ce qu'on diverge, émerge et converge ? 
 La suite de ce chapitre apportera des clés pour favoriser la phase de divergence et préparera l'émergence de nouvelles solutions. Les chapitres suivants détaillera l'émergence et convergence.  
@@ -43,11 +48,11 @@ Vous avez défini :
 
 **(intégrer illustration visuel)**###La génération d'idées
 
-Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. 
+Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenu est votre café. Le contenant la tasse. 
 
 - Le contenu : nous l'avons travaillé jusqu'ici avec le cahier des charges et les questions.
 - Le contenant : c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement,etc.) est également un élément fondamental. 
-Si vous vous voulez donner envie à quelqu'un de manger des pop-corns, amenez-le au cinéma. Vous comprenez le sens ? L'environnement, le contexte influence beaucoup. Voici quatres règles simples et fondamentales pour favoriser des idées nouvelles : 1.	Ne pas juger les idées : 
+Si vous vous voulez donner envie à quelqu'un de manger des pop-corns, amenez-le au cinéma. Vous comprenez le sens ? L'environnement, le contexte influence beaucoup. Voici quatres règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement : 1.	Ne pas juger les idées : 
 Retardez le jugement et l'analyse jusqu'au moment où vous avez suffisamment d'idées alternatives. Car en tentant d'analyser fur à mesure que les idées viennent, vous limitez la quantité d'idées et les nouvelles possibilités. 
 2.	Tabler sur la quantité d’idées : 
 Visez à produire autant d'idées que possible. Il est possible par notre expérience de produire +100 idées en moins de 60 minutres. La quantité amène souvent la qualité. Tentez de décrire chaque idée avec concision, évitez de trop détailler. 3.	Encourager la spontanéité : 
@@ -169,7 +174,7 @@ Inverser le positif et le négatif ou tromper les attentes ?Puis-je retourner c
 ....................................................................................Nous avons abordé dans ce chapitre la créativité. Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
 Il y a 4 étapes pour apprendre : 
 1. Incompétence, inconsciente : Je ne sais pas que je ne sais pas. 2. Incompétence, consciente : Je sais que je ne sais pas.3. Compétence inconsciente : Je ne sais pas que je sais. 4. Compétence consciente : Je sais que je sais. 
-Voici quelques solutions que vous pouvez utiliser si vous avez besoin d'acquérir davantage de connaissance sur votre sujet : 
+Voici quelques solutions que vous pouvez utiliser si vous avez besoin d'acquérir davantage de connaissance sur le sujet que vous traitez : 
 - Recherche sur le web, bibliothèques, etc.
 
 - Interviewer des experts ou utilisateurs vivant au quotidien la problèmatique.

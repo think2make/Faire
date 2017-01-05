@@ -2,7 +2,7 @@
 
 # Level 4 : planifier. 
 
-Le comment - le déroulement et les étapes.  
+
 
 Ignorez le monde réel. Planifiez votre monde. 
 
@@ -17,6 +17,9 @@ Vous planifiez comment vous allez vous habiller, quand et quoi manger et même l
 - produire d'idées
 - Organiser
 - identifier prochaines actions 
+
+Il
+
 
 ### Les cinq comment 
 
@@ -39,13 +42,7 @@ la planification par scénario permet de visualiser le scénario catastrophique 
 
 Le fait d'avoir visualisé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motiver pour y parvenir. 
 
-### Méthode 10-10-10
 
-La méthode 10-10-10 (Suzy Welch) : 
-
-- quel sera l'impact de ma décision dans 10 jours ? 
-- dans 10 mois ? 
-- dans 10 ans ? 
 
 
 ### Planifier pour la journée, la semaine, le mois, l'année et votre vie 

@@ -6,12 +6,17 @@
 ## Save them to the folder /temp/
 
 ## 1: We declare some variables
-## removing Talks for now ../content/talks/*.*
 
-INPUT="../contents/meta.txt ../contents/Introduction.md ../contents/Partie*/Level*/*.*  ../contents/outro.txt" 
+INPUT="../contents/meta.txt" 
+INPUT+=" ../contents/Introduction.md"
+INPUT+=" ../contents/Partie*/Level*/*.md"
+# INPUT+=" ../contents/Partie-1-Penser/Level-2/*.*"
+INPUT+=" ../contents/outro.txt"
+
 TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
+
 OUTPUT="../output/Faire-"$TIMESTAMP".pdf"
 
 

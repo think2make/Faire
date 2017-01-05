@@ -2,7 +2,7 @@
 
 Comment matérialiser des idées ?Il est toujours surprenant de constater à quel point nous  avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste ou faux, c'est blanc ou noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
 Il est également similaire dans la façon dont nous décidons des solutions. Dans le chapitre précédent nous avons vue la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendances à juger drastiquement les idées produites, en rentrant dans un mode binaire. Dans ce chapitre, nous plongeons dans la phase d'émergence et convergence. Comme la phase divergence, cette phase de convergence comporte 4 principes. 
-Ensuite, contrairement à ce qu'on peut penser, nous n'allons pas en premier lieu commencer par l'évaluation des idées mais par le prototypage des idées car un prototype vaut mille mots. La meilleure manière de découvrir le potentiel réel d’une d’idée est de la matérialiser. 
+Puis, en constant que la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou las olution est invicible, nous allons parcourir le prototypage des idées car un prototype vaut mille mots. Et la meilleure manière de découvrir le potentiel réel d’une d’idée est de la matérialiser. Et enfin, nous parcourerons les moyens pour évaluer et décider efficacement d'une idée. 
 ### 4 principes de la décision
 ###### Ayez un jugement affirmatif
 Cherchez d’abord les forces ou les points positifs d’une idée. Quand vous identifiez des limites d'une idée, évitez les phrases qui tuent les idées prématurément. Énoncez plutôt vos préoccupations sous forme de questions encourageant à continuer à développer ou améliorer les idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.###### Utilisez une démarche systématique
@@ -17,22 +17,27 @@ Il se peut également que, fur à mesure que votre projet avance, votre objectif
 
 Quand vous tentez de matérialiser les idées pour saisir les formes, vous pouvez utiliser 3 niveaux pour rendre l'idée plus concrets et plus compréhensibles : - Niveau 1 -  Simple : **Feuille d’idée** – Le concept est décrit à travers un titre et une description.
 - Niveau 2 - Moyen : **Visualisation 2D** – Le concept est illustré à l’aide d’un design sur papier ou écran.  - Niveau 3 - Complexe :  **Prototype 3D** – Le concept est fabriqué en 3D. 
-Evaluez les prototypes permet de découvrir l’attractivité  de chaque idée.Ainsi, cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. 
+Evaluez les prototypes permet de découvrir l’attractivité  de chaque idée.Ainsi, cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. Et souvent la solution finale ou le résultat saute aux yeux. 
 
 ![Protoype 3D d'agriculture urbaine](../contents/img/urban-gardening.jpg)
 
 
 ### 6 façons de visualiser les idées 
 
-Ce que nous faisons depuis le début de ce chapitre, c'est  transformer une pensée verbale en pensée visuelle. 
+Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées et les personnes à qui vous souhaitez apporter votre idée. 
+Pour cela, un simple dessin est le meilleur moyen. Car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
+
+Il y 6 questions fondamentales, appelé communément la méthode QQOQCP. Pour représenter une idée, vous pouvez utiliser 6 façons différentes : portrait (design), diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
 
 
-- **Qui :** Si vous entendez un nom, dessinezun portrait pour montrer le sujet del'idée
-- **Quoi : **Si vous entendez un nombre,dessinez un diagramme pourmontrer le nombre d'éléments
-- **Où :** Si vous entendez une énumérationd’objets, dessinez une carte pourmontrer la relation entre eux
-- **Quand :** Si vous entendez une histoire,dessinez une chronologie pourexposer les événements dansl'ordre
-- **Comment : **Si vous entendez un enchaînementd'événements, dessinez unlogigramme pour montrer commentune chose a provoqué une chosepuis une autre chose
-- **Pourquoi :** Si vous entendez une multitude defaits, dessinez un graphique àplusieurs variables pour décrirel'interaction à partir d'un seulschéma.
+- **Qui/Quoi :** Si vous entendez un nom, dessinez**un portrait **pour montrer le sujet del'idée
+- **Combien : **Si vous entendez un nombre,dessinez **un diagramme** pourmontrer le nombre d'éléments
+- **Où :** Si vous entendez une énumérationd’objets, dessinez **une carte **pourmontrer la relation entre eux
+- **Quand :** Si vous entendez une histoire,dessinez **une chronologie** pourexposer les événements dansl'ordre
+- **Comment :** Si vous entendez un enchaînementd'événements, dessinez un**logigramme** pour montrer commentune chose a provoqué une chosepuis une autre chose
+- **Pourquoi :** Si vous entendez une multitude defaits, dessinez **un graphique** àplusieurs variables pour décrirel'interaction à partir d'un seulschéma.
+Prenons un exemple : Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez desiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
+Prenez une feuille et un crayon. Et démarrez maintenant. 
 
 
 ### simplifiez vos idées : 3 façons d'y arriver
@@ -53,7 +58,6 @@ La meilleure façon de décider de la bonne idée, est d'impliquer les personnes
 
 - **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs (possible avec Google Drive, formule "MOYENNE").
 - **Polarisation des idées :** calcul de l'écart entres les moyennes (possible avec Google Drive, formule "ECART.MOYEN"). 
-
 
 
 Certaines idées auront des polarisations élevées, ce sont celles où l'on est fortement pour ou contre.
@@ -84,7 +88,7 @@ Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces,
 
 ### Etude de marché rapide : 10 questions à se poser 
 
-Si votre idée consiste à mettre sur le marché un nouveau service (un produit est également un service). Et que le temps vous manque. Alors vous pouvez utiliser	ces 10 questions pour évaluer le potentiel de votre idée. 
+Si votre idée consiste à mettre sur le marché un nouveau service (un produit c'est aussi un service, une perceuse offre le service de percer des trous). Et que le temps vous manque. Alors vous pouvez utiliser ces 10 questions pour évaluer le potentiel de votre idée. 
 
 Comment ça fonctionne : Pour chaque question, donnez spontanément des points de 0 à 10 (méthode pifomètre). 
 Additionnez les points. Analysez et décidez si cela nécessite d'éliminer votre idée, de l'améliorer ou foncer pour la concrétiser. 

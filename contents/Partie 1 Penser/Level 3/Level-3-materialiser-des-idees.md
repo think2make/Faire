@@ -269,7 +269,13 @@ Remarques :
 ....................................................................................
 
 
+### Méthode 10-10-10
 
+Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile et avant de passer à l'action, vous pouvez vous inspirer de ces 3 questions : 
+
+- quel sera l'impact de ma décision dans **10 jours** ? 
+- quel sera l'impact de ma décision dans **10 mois** ? 
+- quel sera l'impact de ma décision dans **10 ans** ? 
 
 
 

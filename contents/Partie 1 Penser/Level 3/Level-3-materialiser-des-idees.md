@@ -1,5 +1,17 @@
 # Level 3. Décider 
 
+<<<<<<< HEAD
+Comment matérialiser des idées ?Il est toujours surprenant de constater à quel point nous  avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste ou faux, c'est blanc ou noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
+Il est également similaire dans la façon dont nous décidons des solutions. Dans le chapitre précédent nous avons vue la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendances à juger drastiquement les idées produites, en rentrant dans un mode binaire. Dans ce chapitre, nous plongeons dans la phase d'émergence et convergence. Comme la phase divergence, cette phase de convergence comporte 4 principes. 
+Puis, en constant que la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou las olution est invicible, nous allons parcourir le prototypage des idées car un prototype vaut mille mots. Et la meilleure manière de découvrir le potentiel réel d’une d’idée est de la matérialiser. Et enfin, nous parcourerons les moyens pour évaluer et décider efficacement d'une idée. 
+### 4 principes de la décision
+###### Ayez un jugement affirmatif
+Cherchez d’abord les forces ou les points positifs d’une idée. Quand vous identifiez des limites d'une idée, évitez les phrases qui tuent les idées prématurément. Énoncez plutôt vos préoccupations sous forme de questions encourageant à continuer à développer ou améliorer les idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.###### Utilisez une démarche systématique
+Trop souvent, nous pensons que évaluer et décider doit être sans émotion. Au contraire. Il est impossible de décider sans y mettre de l'émotion. Evidemment, il est encore plus difficile sans avoir une démarche structurée. A cet effet, nous vous proposerons quelques outils que vous pouvez utiliser dans la phase de convergence. Utilisez  ces outils ou inventez en d'autres. Si vous travailez en groupe, communiquez et partager votre démarche d'analyse et décision avec les personnes avec lesquelles vous travailler sur votre projet. Ainsi, vous favorisez un regard complémentaire sur votre démarche d'analyse, une évaluation pertinente et l'adhésion des personnes.
+###### Detéctez la nouveauté Les idées sont extremment émotionnelles. Il est tentant d'éviter de prendre trop de risque et décider d'une idée "mainstream", d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
+Quand le but est de chercher de nouvelles idées, vous devez vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie pour la détecter.
+Sinon, vous vous demandez pourquoi vous avez cherchez une idée ! Gardez à l'esprit de toujours assurer que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mix entre des personnes qui peuvent apporter un regard expérimenté et un regard nouveau dans votre projet.
+=======
 > Comment matérialiser des idées ?
 
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste *ou* faux, c'est blanc *ou* noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
@@ -37,15 +49,15 @@ Il se peut également que, fur à mesure que votre projet avance, votre objectif
 
 
 ## Visualiser les idées 
+>>>>>>> origin/master
 
-Quand vous tentez de matérialiser les idées pour saisir les formes, vous pouvez utiliser 3 niveaux pour rendre l'idée plus concrets et plus compréhensibles : 
+###### Gardez le cap de vos objectifsQuand nous cherchons de nouvelles idées, nous pouvons vite nous emballer par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. Utilisez le cahier des charges (voir chapitre 1) comme boussole dans votre avancement et un moyens d'évaluer les solutions pour atteindre votre objectif.
+Il se peut également que, fur à mesure que votre projet avance, votre objectif initial nécessite une correction. Faire des idées est un acte remplie d'aléas, ce n'est pas une route droite, ni parfaite. Et c'est là que réside le plaisir. 
+## Visualiser les idées 
 
-- Niveau 1 -  Simple : **Feuille d’idée** – Le concept est décrit à travers un titre et une description.
-- Niveau 2 - Moyen : **Visualisation 2D** – Le concept est illustré à l’aide d’un design sur papier ou écran.
-- Niveau 3 - Complexe :  **Prototype 3D** – Le concept est fabriqué en 3D. 
-
-Evaluez les prototypes permet de découvrir l’attractivité  de chaque idée.
-Ainsi, cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. Et souvent la solution finale ou le résultat saute aux yeux. 
+Quand vous tentez de matérialiser les idées pour saisir les formes, vous pouvez utiliser 3 niveaux pour rendre l'idée plus concrets et plus compréhensibles : - Niveau 1 -  Simple : **Feuille d’idée** – Le concept est décrit à travers un titre et une description.
+- Niveau 2 - Moyen : **Visualisation 2D** – Le concept est illustré à l’aide d’un design sur papier ou écran.  - Niveau 3 - Complexe :  **Prototype 3D** – Le concept est fabriqué en 3D. 
+Evaluez les prototypes permet de découvrir l’attractivité  de chaque idée.Ainsi, cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. Et souvent la solution finale ou le résultat saute aux yeux. 
 
 ![Protoype 3D d'agriculture urbaine](../contents/img/urban-gardening.jpg)
 
@@ -58,6 +70,16 @@ Pour cela, un simple dessin est le meilleur moyen. Car il permet de comprendre u
 Il y 6 questions fondamentales, appelé communément la méthode QQOQCP. Pour représenter une idée, vous pouvez utiliser 6 façons différentes : portrait (design), diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
 
 
+<<<<<<< HEAD
+- **Qui/Quoi :** Si vous entendez un nom, dessinez**un portrait **pour montrer le sujet del'idée
+- **Combien : **Si vous entendez un nombre,dessinez **un diagramme** pourmontrer le nombre d'éléments
+- **Où :** Si vous entendez une énumérationd’objets, dessinez **une carte **pourmontrer la relation entre eux
+- **Quand :** Si vous entendez une histoire,dessinez **une chronologie** pourexposer les événements dansl'ordre
+- **Comment :** Si vous entendez un enchaînementd'événements, dessinez un**logigramme** pour montrer commentune chose a provoqué une chosepuis une autre chose
+- **Pourquoi :** Si vous entendez une multitude defaits, dessinez **un graphique** àplusieurs variables pour décrirel'interaction à partir d'un seulschéma.
+Prenons un exemple : Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez desiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
+Prenez une feuille et un crayon. Et démarrez maintenant. 
+=======
 - **Qui/Quoi :** Si vous entendez un nom, dessinez **un portrait **pour montrer le sujet de l'idée.
 
 - **Combien : **Si vous entendez un nombre, dessinez **un diagramme** pour montrer le nombre d'éléments.
@@ -79,6 +101,7 @@ l'interaction à partir d'un seul schéma.
 Prenons un exemple : Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez desiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
 
 Prenez une feuille et un crayon. Et démarrez maintenant. 
+>>>>>>> origin/master
 
 
 ### Simplifiez vos idées : 3 façons d'y arriver
@@ -87,6 +110,12 @@ Soustraire ce qui est évident, ajouter ce qui a du sens. Le mot d'ordre est la 
 
 La difficulté n’est pas a priori comment simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas facile. La meilleure façon de procéder est d’aller par réduction.
 
+<<<<<<< HEAD
+Note : Ces 3 solutions sont autant utilisable pour un produit matériel ou immatériel (site web, application, etc.)###### Atténuer : 
+Il existe des objets de tailles très petites qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince ou délicate, nous arrivons à donner un plaisir inattendu.###### Masquer : 
+Une fois enlevé ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui donne un sentiment de simplicité.###### Insuffler : 
+En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première. 
+=======
 Note : Ces 3 solutions sont autant utilisables pour un produit matériel ou immatériel (site web, application, etc.)
 
 ###### Atténuer : 
@@ -97,6 +126,7 @@ Une fois enlevé ce qui pouvait l’être, nous pouvons masquer la complexité. 
 
 ###### Insuffler : 
 En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première. 
+>>>>>>> origin/master
 
 
 ## Evaluer les idées 
@@ -125,12 +155,36 @@ Etant donné que les idées sont très émotionnelles, la plus part du temps, ch
 
 Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif. 
 
+<<<<<<< HEAD
+
+- **Pluses :** Quels sont les avantages directs du concept oude l’idée ?
+- **Potentiels : **Quels sont les retombées positives potentielles ? 
+- **Concernes :** Quels sont les risques ?
+- **Overcome concerne :** Comment coutourner ces risques ? 
+La quatrième question nécessite souvent une deuxième itération de recherche d'idées (divergence) pour contourner les risquess. 
+
+
+###Facile, Difficile, Plaisant, Ennuyeux
+
+Un autre moyen pour décider est de mettre les idées sur 4 catégories : 
+
+- faciles et plaisantes
+- faciles et ennuyeux
+- difficiles et amusant
+- difficiles et ennuyeux 
+=======
 - **Pluses :** Quels sont les avantages directs du concept ou
 de l’idée ?
 - **Potentiels : **Quels sont les retombées positives potentielles ? 
 - **Concernes :** Quels sont les risques ?
 - **Overcome concerne :** Comment coutourner ces risques ? 
 La quatrième question nécessite souvent une deuxième itération de recherche d'idées (divergence) pour contourner les risquess. 
+>>>>>>> origin/master
+
+Vous pouvez de cette façon avoir une vue d'ensemble avant la décision finale. Logiquement, les solutions difficiles et ennuyeuses seront éliminées rapidement. 
+
+
+![](../contents/img/evaluer-facile-diff.jpg)
 
 
 ### Etude de marché rapide : 10 questions à se poser 
@@ -140,15 +194,15 @@ Si votre idée consiste à mettre sur le marché un nouveau service (un produit 
 Comment ça fonctionne : Pour chaque question, donnez spontanément des points de 0 à 10 (méthode pifomètre). 
 Additionnez les points. Analysez et décidez si cela nécessite d'éliminer votre idée, de l'améliorer ou foncer pour la concrétiser. 
 
-Si vous avez -50pts = passez à autre chose
-Si vous avez +75pts = c’est bien, foncez
-Si vous avez +50 et -75pts = lourd investissement, à vous de décider.
-Total de points : ..........................
+Si vous avez -50pts = passez à autre choseSi vous avez +75pts = c’est bien, foncezSi vous avez +50 et -75pts = lourd investissement, à vous de décider.
+Total de points : ..........................##### 10 critères du marché 
 
-##### 10 critères du marché 
-
+<<<<<<< HEAD
+**Urgence : **Dans quelle mesure votre offre répond-elle à un besoin ou à un désir immédiatdes individus ?
+=======
 **Urgence :** Dans quelle mesure votre offre répond-elle à un besoin ou à un désir immédiat
 des individus ?
+>>>>>>> origin/master
 
 Nombre de points : ..........................
 
@@ -160,7 +214,7 @@ Remarques :
 
 ....................................................................................
 
-**Taille du marché :** Combien de personnes sont prêtes à acheter ce genre de choses ?
+**Taille du marché :** Combien de personnes sont prêtes à acheter ce genre de choses ?
 
 Nombre de points : ..........................
 
@@ -171,10 +225,15 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Prix possible :** Quel est le prix le plus élevé qu’un acheteur type serait prêt à payer pour trouverune solution à son problème ?
+
+=======
 
 **Prix possible :** Quel est le prix le plus élevé qu’un acheteur type serait prêt à payer pour trouver
 une solution à son problème ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -184,10 +243,15 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Cout d’acquisition d’un client :** Est-il facile de gagner un nouveau client ? En moyenne, combien allez-vousinvestir – en termes d’argent, de temps et d’énergie – pour générer une vente ?
+
+=======
 
 **Cout d’acquisition d’un client :** Est-il facile de gagner un nouveau client ? En moyenne, combien allez-vous
 investir – en termes d’argent, de temps et d’énergie – pour générer une vente ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -197,9 +261,13 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Cout pour délivrer la valeur :** A combien estimez-vous le coût de la création de la valeur pour la délivrer entermes de temps, d’argent et d’énergie ?
+=======
 
 **Cout pour délivrer la valeur :** A combien estimez-vous le coût de la création de la valeur pour la délivrer en
 termes de temps, d’argent et d’énergie ?
+>>>>>>> origin/master
 
 Nombre de points : ..........................
 
@@ -210,11 +278,16 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Originalité de l’offre : **Quel est le degré de singularité de votre offre comparée aux offres existantes dela concurrence et dans quelle mesure est-il facile pour vos concurrents de vouscopier ?
+
+=======
 
 **Originalité de l’offre : **Quel est le degré de singularité de votre offre comparée aux offres existantes de
 la concurrence et dans quelle mesure est-il facile pour vos concurrents de vous
 copier ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -224,9 +297,14 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Rapidité de mise sur le marché :** Avec quelle rapidité pouvez-vous créer quelque chose à vendre ?
+
+=======
 
 **Rapidité de mise sur le marché :** Avec quelle rapidité pouvez-vous créer quelque chose à vendre ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -236,9 +314,14 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Investissement initial :** Combien allez-vous devoir investir avant d’être prêt à vendre votre produit ?
+
+=======
 
 **Investissement initial :** Combien allez-vous devoir investir avant d’être prêt à vendre votre produit ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -248,10 +331,15 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Potentiel de ventes additionnelles :** Pourriez-vous réaliser des ventes connexes à l’offre que vous proposez à vosclients ?
+
+=======
 
 **Potentiel de ventes additionnelles :** Pourriez-vous réaliser des ventes connexes à l’offre que vous proposez à vos
 clients ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -261,10 +349,15 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+<<<<<<< HEAD
+**Potentiel de persistance :** Une fois que vous avez créé votre offre initiale, quelle somme de travailsupplémentaire allez-vous devoir lui consacre pour continuer à la vendre ?
+
+=======
 
 **Potentiel de persistance :** Une fois que vous avez créé votre offre initiale, quelle somme de travail
 supplémentaire allez-vous devoir lui consacre pour continuer à la vendre ?
 
+>>>>>>> origin/master
 Nombre de points : ..........................
 
 Remarques :
@@ -278,7 +371,7 @@ Remarques :
 
 ### Méthode 10-10-10
 
-Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile et avant de passer à l'action, vous pouvez vous inspirer de ces 3 questions : 
+Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile, vous pouvez vous inspirer de ces 3 questions avant de passer à l'action: 
 
 - quel sera l'impact de ma décision dans **10 jours** ? 
 - quel sera l'impact de ma décision dans **10 mois** ? 

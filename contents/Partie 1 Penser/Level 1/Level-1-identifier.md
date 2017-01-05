@@ -6,26 +6,25 @@
 
 # Level 1. Identifier et définir un défi
 
+## Identifier un défi
 
-##Identifier un défi
-Il existe un grand nombre de méthodes pour identifier un problème, la structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existe sur le globle et dans l'histoire de l'humanité mais uniquement de données un aperçu des moyens disponibles. Vous, le lecteur, pouvez faire des recherches approfondit selon vos besoins.  
+Il existe un grand nombre de méthodes pour identifier un problème, le structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existent sur le globle et dans l'histoire de l'humanité, mais uniquement de donner un aperçu des moyens disponibles. Vous, le lecteur, pouvez faire des recherches approfondies selon vos besoins.  
 
 Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un défi/problème. 
 
 1. **Trouvez la cause.** Nous voyons souvent que la conséquence des choses. Vous pouvez utiliser un diagramme de Cause-Effet (Ishikawa). 
 2. **Priorisez.** Tout semble important mais finalement... Utilisez des outils tels qu'un diagramme de Pareto. 
-3. **Ecrivez.** Pour identifier un défi, le plus simple est d'écrire. Formalisez par écrit toutes les informations disponibles
-
-
+3. **Ecrivez.** Pour identifier un défi, le plus simple est d'écrire. Formalisez par écrit toutes les informations disponibles.
 
 ![](../contents/img/cause-effet.jpg)
 
 
 ## Définir le projet
-Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Savez-vous la différence entre la gestion de projets et la créativité ? La gestion de projet chercher à atteindre un but fixé, la créativité cherche à atteindre un but encore inconnu. Ici se trouve une différence avec certaines situations que vous avez pu expérimenter.....Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
+
+Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Connaissez-vous la différence entre la gestion de projet et la créativité ? La gestion de projet cherche à atteindre un but fixé, la créativité cherche à atteindre un but encore inconnu. Ici se trouve une différence avec certaines situations que vous avez pu expérimenter.....Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire.
 
 
-#### 5 parties pour formaliser le cahier des charges du projet :
+#### 5 étapes pour formaliser le cahier des charges du projet :
 
 
 - Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des faits qui peuvent être vérifiés. 

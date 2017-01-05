@@ -1,8 +1,8 @@
 # Level 3. Décider 
 
-Comment matérialiser des idées ?
+> Comment matérialiser des idées ?
 
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste ou faux, c'est blanc ou noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste *ou* faux, c'est blanc *ou* noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
 
 Il est également similaire dans la façon dont nous décidons des solutions. Dans le chapitre précédent nous avons vue la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire. 
 
@@ -25,9 +25,10 @@ Trop souvent, nous pensons que évaluer et décider doit être sans émotion. Au
 
 ###### Detéctez la nouveauté 
 
-Les idées sont extremment émotionnelles. Il est tentant d'éviter de prendre trop de risque et décider d'une idée "mainstream", d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
+Les idées sont extrêmement émotionnelles. Il est tentant d'éviter de prendre trop de risques et décider d'une idée "mainstream", d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
 Quand le but est de chercher de nouvelles idées, vous devez vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie pour la détecter.
-Sinon, vous vous demandez pourquoi vous avez cherchez une idée ! Gardez à l'esprit de toujours assurer que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mix entre des personnes qui peuvent apporter un regard expérimenté et un regard nouveau dans votre projet.
+
+Sinon, vous vous demandez pourquoi vous avez cherché une idée ! Gardez à l'esprit de toujours assurer que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mix entre des personnes qui peuvent apporter un regard expérimenté et un regard nouveau dans votre projet.
 
 ###### Gardez le cap de vos objectifs
 
@@ -65,8 +66,7 @@ Il y 6 questions fondamentales, appelé communément la méthode QQOQCP. Pour re
 
 - **Quand :** Si vous entendez une histoire, dessinez **une chronologie** pour exposer les événements dans l'ordre.
 
-- **Comment :** Si vous entendez un enchaînement
-d'événements, dessinez un
+- **Comment :** Si vous entendez un enchaînement d'événements, dessinez un
 **logigramme** pour montrer comment
 une chose a provoqué une chose
 puis une autre chose
@@ -81,16 +81,16 @@ Prenons un exemple : Vous souhaitez créer une future application mobile. Pour l
 Prenez une feuille et un crayon. Et démarrez maintenant. 
 
 
-### simplifiez vos idées : 3 façons d'y arriver
+### Simplifiez vos idées : 3 façons d'y arriver
 
-Soustraire ce qui est évident, ajouter ce qui a du sens. Mot d'ordre est la simplicité. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel.  
+Soustraire ce qui est évident, ajouter ce qui a du sens. Le mot d'ordre est la simplicité. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel.
 
 La difficulté n’est pas a priori comment simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas facile. La meilleure façon de procéder est d’aller par réduction.
 
-Note : Ces 3 solutions sont autant utilisable pour un produit matériel ou immatériel (site web, application, etc.)
+Note : Ces 3 solutions sont autant utilisables pour un produit matériel ou immatériel (site web, application, etc.)
 
 ###### Atténuer : 
-Il existe des objets de tailles très petites qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince ou délicate, nous arrivons à donner un plaisir inattendu.
+Il existe des objets de tailles très petites qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince ou délicat, nous arrivons à donner un plaisir inattendu.
 
 ###### Masquer : 
 Une fois enlevé ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui donne un sentiment de simplicité.
@@ -125,7 +125,6 @@ Etant donné que les idées sont très émotionnelles, la plus part du temps, ch
 
 Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif. 
 
-
 - **Pluses :** Quels sont les avantages directs du concept ou
 de l’idée ?
 - **Potentiels : **Quels sont les retombées positives potentielles ? 
@@ -148,7 +147,7 @@ Total de points : ..........................
 
 ##### 10 critères du marché 
 
-**Urgence : **Dans quelle mesure votre offre répond-elle à un besoin ou à un désir immédiat
+**Urgence :** Dans quelle mesure votre offre répond-elle à un besoin ou à un désir immédiat
 des individus ?
 
 Nombre de points : ..........................
@@ -172,6 +171,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Prix possible :** Quel est le prix le plus élevé qu’un acheteur type serait prêt à payer pour trouver
 une solution à son problème ?
 
@@ -184,6 +184,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Cout d’acquisition d’un client :** Est-il facile de gagner un nouveau client ? En moyenne, combien allez-vous
 investir – en termes d’argent, de temps et d’énergie – pour générer une vente ?
 
@@ -196,6 +197,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Cout pour délivrer la valeur :** A combien estimez-vous le coût de la création de la valeur pour la délivrer en
 termes de temps, d’argent et d’énergie ?
 
@@ -208,6 +210,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Originalité de l’offre : **Quel est le degré de singularité de votre offre comparée aux offres existantes de
 la concurrence et dans quelle mesure est-il facile pour vos concurrents de vous
 copier ?
@@ -221,6 +224,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Rapidité de mise sur le marché :** Avec quelle rapidité pouvez-vous créer quelque chose à vendre ?
 
 Nombre de points : ..........................
@@ -232,6 +236,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Investissement initial :** Combien allez-vous devoir investir avant d’être prêt à vendre votre produit ?
 
 Nombre de points : ..........................
@@ -243,6 +248,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Potentiel de ventes additionnelles :** Pourriez-vous réaliser des ventes connexes à l’offre que vous proposez à vos
 clients ?
 
@@ -255,6 +261,7 @@ Remarques :
 ....................................................................................
 
 ....................................................................................
+
 **Potentiel de persistance :** Une fois que vous avez créé votre offre initiale, quelle somme de travail
 supplémentaire allez-vous devoir lui consacre pour continuer à la vendre ?
 

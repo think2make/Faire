@@ -172,7 +172,7 @@ Inverser le positif et le négatif ou tromper les attentes ?Puis-je retourner c
 ....................................................................................
 
 ....................................................................................Nous avons abordé dans ce chapitre la créativité. Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
-Il y a 4 étapes pour apprendre : 
+N'oubliez pas qu'il y a 4 étapes de l'apprentissage : 
 1. Incompétence, inconsciente : Je ne sais pas que je ne sais pas. 2. Incompétence, consciente : Je sais que je ne sais pas.3. Compétence inconsciente : Je ne sais pas que je sais. 4. Compétence consciente : Je sais que je sais. 
 Voici quelques solutions que vous pouvez utiliser si vous avez besoin d'acquérir davantage de connaissance sur le sujet que vous traitez : 
 - Recherche sur le web, bibliothèques, etc.

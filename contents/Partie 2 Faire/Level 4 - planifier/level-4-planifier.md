@@ -94,7 +94,7 @@ Il existe deux types de temps : le temps des horloges (atomique) et temps person
 
 Avez-vous déjà remarqué que certains moments paraissent éternel (par exemple, chez le dentiste) ou très court (le sexe). Selon le type d'action, le vécu va varier. 
 
-#### temps pour penser, temps pour faire
+#### temps pour *penser*, temps pour *faire*
 
 Il est important de différencier le temps opérationnel (temps pour produire) et le temps de mise en train (temps pour penser). 
 

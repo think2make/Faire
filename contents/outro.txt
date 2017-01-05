@@ -1,4 +1,4 @@
-% \part{Notes}
+\part{Notes}
 
 Notes
 

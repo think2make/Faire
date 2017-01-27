@@ -37,20 +37,30 @@ b. Promotion :
 c. Vente : 
 d. Délivrer : 
 
+Accroche pour le livre : 
+
+- comment monter les paliers de la productivité personnelle (sans tomber de l'échelle).
+- comment faire des idées immatérielles un succès matériel
+- comment résoudre vos grands défis
+- comment convaincre et vendre vos idées 
+- comment accélérer la création de valeur 
+
+####Comment utiliser ce livre 
+
+- Contenu et composition des chapitres
+
+Comment identifier un défi ? 
+Comment définir un problème ? 
+Comment générer des idées ? 
+Comment savoir si une solution est viable, faisable et désirable ? 
+Comment prototyper des ideés ? 
+Comment planifier l'implémentation ? 
+Comment implémenter une idée avec le chemin le plus court  ? 
+
+
+
+- Ce que vous allez obtenir à la fin de chaque chapitre (les délivrables)
+
 
 
 \newpage
-
-### Table des matières 
-
-**Partie 1 : Penser - idéation**
-
-- Level 1 - identifier un défi
-- Level 2 - produire des idées
-- Level 3 - prototyper les idées
-
-**Partie 2 : Faire - Execution**
-
-- Level 4 - planifier l'implémentation
-- Level 5 - faire, faire, faire
-- Level 6 - suivre, suivre, suivre

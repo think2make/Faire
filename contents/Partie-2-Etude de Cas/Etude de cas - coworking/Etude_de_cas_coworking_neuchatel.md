@@ -56,4 +56,13 @@ Suite au succès de cette semaine de test, nous ouvrons l'espace dès le mois de
 
 Itération constante et organisation agile. Essayer constamment une approche nouvelle. Ainsi, nous avons récolté des feedbacks des utilisateurs directs et de l'environnement. 
 
+
+...
+Nous avons crée une nouvelle façon de travailler.
+
+- culture ouverte et collaborative
+- où l'on tire parti des différences de chacun
+- pas de décideurs d'un coté et les faiseurs de l'autre (comme cela est couramment dans l'industrie)
+- 
+
 ![Soirée afterwork: comment construire un espace d’innovation](../contents/img/coworking-afterwork.jpg)

@@ -1,4 +1,4 @@
-\part{Partie 1 : Penser - idéation}
+\part{Partie 1}
 
 ![](../contents/img/texture-nuages-v.jpg)
 

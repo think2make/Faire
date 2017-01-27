@@ -48,13 +48,23 @@ Le fait d'avoir visualisé le pire permet de découvrir que souvent les grandes 
 
 Et le fait de visualiser l'idéal permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, et de pouvoir motiver les autres à atteindre le résultat final. 
 
-Ensuite, traduisez votre séanario en 3 actes, comme au théâtre:  
+Ensuite, traduisez votre scénario en 3 actes, comme au théâtre:  
 
 1. le début
 2. le milieu
 3. la fin
 
 Commencez par la fin - le but à atteindre, le délivrable. Et ensuite, le début - le commencement. Enfin, définissez les moyens à mettre en œuvre pour arriver à la finalité - le milieu. 
+
+Une autre façon de procéder, similaire au scénario en 3 actes est la suivante  :
+
+1. maintenant
+2. après
+3. plus tard 
+4. peut-être
+
+Explication : vous définissez ce que vous allez faire maintenant. Puis, après et ensuite plus tard. Et enfin, les choses que vous pouvez peut-être faire. L'avantage de cette méthode : elle combine la temporalité et la priorisation. 
+
 
 ##### Planifiez l'année 
 

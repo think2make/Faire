@@ -1,5 +1,12 @@
 # Level 5 : Agir
 
+"il n'y a de realité que dans l'action."
+
+Jean-Paul Sartre
+
+
+
+
 Introduction au chapitre.
 
 

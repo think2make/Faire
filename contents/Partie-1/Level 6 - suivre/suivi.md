@@ -23,3 +23,7 @@ C'est ici que ce trouve la différence entre les buts (partie 1, level 1) et le 
 Les buts déterminent votre direction. Les systèmes déterminent votre progression. Vous n'obtiendrez jamais quelque chose juste en tenant le gouvernail, vous devez ramer. 
 
 Les systèmes : comprendre, analyser, améliorer. (Personel MBA)
+
+
+![](../contents/img/process-think-make-check.png)
+

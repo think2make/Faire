@@ -62,5 +62,71 @@ Comment implémenter une idée avec le chemin le plus court  ?
 - Ce que vous allez obtenir à la fin de chaque chapitre (les délivrables)
 
 
+\newpage
+
+## Principes de votre guide personnel
+
+Le livre que vous tenez entre vos mains a quelques principes à respecter : 
+
+1. Ce livre est personnel. Vous n'avez pas le droit de l'offrir à votre grand-même ou vos petits enfants. Achetez leur un autre. 
+
+2. Ce livre ne se lit pas. Vous devez travailler avec. C'est un outil pratique. Commencez par noter votre nom ci-desous 
+
+3. Ce livre a une temporalité. il y a une date de peremption, chaque livre convient pour 1 (un) projet spécifique délimité dans le temps.
+
+4. Ce livre convient pour tout type de sujet. Vous êtes libre d'utiliser sont contenu pour n'importe quel sujet - même illégal. 
+
+
+
+Ce livre appartient à 
+![](../contents/img/crayon - petit)....................................................................................
+
+
+Titre de votre projet
+....................................................................................
+
+Courte description 
+....................................................................................
+
+....................................................................................
+
+....................................................................................
 
 \newpage
+
+## Pourquoi ce livre ? 
+
+Il ne suffit pas de génére des idées, vous devez les faire. Et si vous souhaitez que votre idée soit un peu plus qu'une ébauche, vous devez portez un attention sur votre productivité personnelle. Trop souvent, les idées meurt pas manque de structure, d'outil et de temps. 
+
+Ce livre fait ce travail à merveille. Il vous offre une approche structurée vous permettant de faire des idées en gardant la pêche* et innover. 
+
+...Les entrepreneurs/managers/professionnels sont confrontés à des situations qui nécessitent une approche qui les guide étape par étape à résoudre un problème systématiquement...
+
+Ce livre est idéal pour : 
+
+- identifier et définir un défi
+- accélérer la création des idées
+- transformer les idées immatérielles en succès matériel
+- convaincre et vendre votre solution
+- monter les paliers de votre productivité personnelle 
+ 
+
+\newpage
+
+## A propos des auteurs 
+
+Les auteurs, Manuel et Sedat, sont les fondateurs de du premier espace de travail partagé -  coworking de Neuchâtel. Cet espace accueille depuis 2014 des entrepreneurs, chercheurs et managers de sociétés. 
+
+Coworking est un mouvement mondial ... 
+
+Les *coworkeurs* sont des professionels autonomes et performants. Ce livre est dédié à ces travailleurs du savoir. Les auteurs ont découvert que les personnes sont intéressées à devenir plus productif au quotidien. 
+
+Sedat Adiyaman est le fondateur de la manufacture d'idées think2make, prestations service qui propose des formations et facilitation de projet d'innovation. 
+
+Diplômé en conception industrielle et processus d’entreprise, Sedat a plus de 10 années d’expérience dans la gestion de projets d’innovation. Il accompagne ses clients sur des projets novateurs, forme des ingénieurs et MBA et conseille des entrepreneurs et managers sur des questions d’innovation. 
+
+Manuel Schmalstieg a une grande expérience dans l'édition de livre par le biais de sa maison d'édition *Greyscale Press*, l'enseignement autour de l'édition, ses recherches approfondies dans le domaine de l'écriture *open source*.
+
+En collaboration, les auteurs Manuel et Sedat mettent à contribution leur connaissance pour délivrer un livre à grande valeur - tout en allant directement à l'essentiel et sans faire perdre du temps au lecteur. Car ils savent combien il est crucial de laisser du temps pour **faire**.
+
+**Garder la pêche* est une expression venant des banlieues pour inciter ironiquement à garder son calme.

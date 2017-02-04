@@ -16,15 +16,17 @@ Dans les précédents chapitres, nous avons étudié les 3 premiers points (*dé
 
 À présent, nous allons définir comment *organiser les actions*. 
 
-La diffculté quand nous essayons de réaliser quelque chose que nous n'avons encore jamais fait, c'est qu'il n'y pas de planification existante, pas de modèle ou de template. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
+La diffculté quand nous essayons de réaliser quelque chose que nous n'avons encore jamais fait, c'est qu'il n'y pas de planification existante, pas de modèle ou de *template*. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
 
 C'est souvent dans ce genre de situation que nous entendons certains dire "cela ne fonctionnera jamais dans le monde réel"... surtout lorsqu'il s'agit de nouvelles idées. En regardant la télé, en lisant les journaux, il peut sembler que le monde est cruel, que les plans nobles échouent tout le temps. 
 
 Ne les écoutez pas, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. Ignorez le monde réel. Planifiez votre monde. 
 
+Sans une planification, vous risquez deux choses. La première, vous ne faite pas ce que vous souhaitez faire, la procrastination. La deuxième, vous faite ce que vous avez pas vraiment pensé à faire, agir de façon impulsives. Les outils qui vont suivre, vous aller donner une ligne conductrice entre vos pensées et vos actes. 
+
 ### Les cinq "comment"
 
-Quand vous souhaitez planifier des tâches, vous pouvez stimuler votre cerveau avec une méthode simple : une fois que vous avez défini ce que vous souhaitez accomplir, posez-vous la question : "comment faire?". Une fois que vous avez la réponse à cette première question, posez-vous à nouveau la question "comment faire?", etc. 
+Quand vous souhaitez planifier des tâches, vous pouvez stimuler votre cerveau avec une méthode simple : une fois que vous avez défini ce que vous souhaitez accomplir, posez-vous la question : "comment faire?". Une fois que vous avez la réponse à cette première question, posez-vous à nouveau la question "comment faire?" à votre réponse, etc. 
 
 La méthode des "5 comment" est un outil qui permet de connecter les buts à des actions physiques avec une chaîne d'actions complète.
 

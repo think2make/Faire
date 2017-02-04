@@ -1,6 +1,6 @@
-# Level 2: produire des idées
+# Level 2: cogiter
 
-> Pourriez-vous s'il vous plait nous montrer comment diverger ? Oui. Montez les bras au ciel et attendez. Vous saurez diverger quand j'aurai fini de faire le selfie avec vous. LOL 
+> "Travailler est plus amusant que de s'amuser " - Baudelaire (peut-être)
 
 Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
@@ -9,6 +9,18 @@ Tout d'abord, générer de nouvelles idées n'est pas une chose innée. Et vous 
 Comment générer des idées nouvelles ? Il existe des centaines de méthodes pour générer des idées. Il ne sert à rien d'utiliser un outil spécifique si nous ne comprenons pas l'approche générale/l'opération/le processus...
 
 Quand vous cherchez une nouvelle idée, vous pouvez mettre en place une démarche structurée. Et vous pouvez réaliser cela de façon indviduelle ou en groupe.
+
+Les places : 
+
+- zone d'idéation
+- zone de conception
+- zone d'implementation
+
+Les personnes : 
+
+- les experts 
+- les externes
+- les facilitateurs 
 
 De plus, faisons la différence entre la connaissance et la créativité. La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. La connaissance c'est ....  (explication Théorie C-K). A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. Nous aborderons ce dernier point dans les derniers chapitres. 
 
@@ -59,22 +71,27 @@ Vous avez défini :
 
 Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenu est votre café. Le contenant la tasse. 
 
-- Le contenu : nous l'avons travaillé jusqu'ici avec le cahier des charges et les questions.
-- Le contenant : c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement,etc.) est également un élément fondamental. 
+- **Le contenu :** nous l'avons travaillé jusqu'ici avec le cahier des charges et les questions.
+- **Le contenant : **c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement,etc.) est également un élément fondamental. 
+
 Si vous vous voulez donner envie à quelqu'un de manger des pop-corns, amenez-le au cinéma. Vous comprenez le sens ? L'environnement, le contexte influence beaucoup. 
 
 Voici quatres règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement : 
 
-1.	Ne pas juger les idées : 
+**1)	Ne pas juger les idées **
+
 Retardez le jugement et l'analyse jusqu'au moment où vous avez suffisamment d'idées alternatives. Car en tentant d'analyser fur à mesure que les idées viennent, vous limitez la quantité d'idées et les nouvelles possibilités. 
 
-2.	Tabler sur la quantité d’idées : 
+**2)	Tabler sur la quantité d’idées **
+
 Visez à produire autant d'idées que possible. Il est possible par notre expérience de produire +100 idées en moins de 60 minutres. La quantité amène souvent la qualité. Tentez de décrire chaque idée avec concision, évitez de trop détailler. 
 
-3.	Encourager la spontanéité : 
+**3)	Encourager la spontanéité **
+
 Favoriser les idées les plus folles ou stupides. Mêmes les idées illégaux sont les bienvenues. Car les idées les plus dingues servent souvent de tremplin pour de meilleures idées pour vous-même ou une autre personne si vous travaillez en groupe. 
 
-4.  Faire des associations d'idées : 
+**4)  Faire des associations d'idées **
+
 Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propositions. C'est souvent une combinaison de plusieurs idées brutes qui donne une solution pertinente. Favorisez un language "oui, et.." au lieu de "mais..."
 
 #### SCAMPER : des questions pour produire des idées 

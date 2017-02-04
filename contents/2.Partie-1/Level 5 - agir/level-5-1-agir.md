@@ -26,7 +26,7 @@ Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d
 
 Cette thématique sera approfondie dans la 2ème partie du livre.Il y a un frein à l’action : la peur.
  
-On ne peut pas éviter la peur et il ne faut pas. Il faut uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
+On ne peut pas éviter la peur et il ne faut pas. uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
 Faire de petites étapes en découpant l’action en petit bout
 Faire une grande étape en plongeant complètement dedant. 
 

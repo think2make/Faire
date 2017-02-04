@@ -22,7 +22,18 @@ C'est ici que ce trouve la différence entre les buts (partie 1, level 1) et le 
 
 Les buts déterminent votre direction. Les systèmes déterminent votre progression. Vous n'obtiendrez jamais quelque chose juste en tenant le gouvernail, vous devez ramer. 
 
-Les systèmes : comprendre, analyser, améliorer. (Personel MBA)
+Mettez en place des  systèmes (- des habitudes?) : comprendre, analyser, améliorer. (Personel MBA)
+
+
+Evitez que la peur de l'échec soit plus fort que l'envie de réussir.
+
+Créez votre pitch - communiquez constamment
+
+Débrifieng :  comment faire ? 
+
+S'entourer : l'organisation idéeal = coworking
+
+Continuez de réaliser des itération - recevez constamment des feedbacks 
 
 
 ![](../contents/img/process-think-make-check.png)

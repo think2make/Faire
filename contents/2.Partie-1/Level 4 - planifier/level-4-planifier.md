@@ -22,19 +22,26 @@ C'est souvent dans ce genre de situation que nous entendons certains dire "cela 
 
 Ne les écoutez pas, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. Ignorez le monde réel. Planifiez votre monde. 
 
-Sans une planification, vous risquez deux choses. La première, vous ne faite pas ce que vous souhaitez faire, la procrastination. La deuxième, vous faite ce que vous avez pas vraiment pensé à faire, agir de façon impulsives. Les outils qui vont suivre, vous aller donner une ligne conductrice entre vos pensées et vos actes. 
+Sans une planification, vous risquez deux choses : 
+
+- La première, vous ne faite pas ce que vous souhaitez faire, la procrastination. 
+- La deuxième, vous faite ce que vous avez pas vraiment pensé à faire, agir de façon impulsives. 
+
+Les outils que nous allons vous présenter, vont vous aider à donner une ligne conductrice entre vos pensées et vos actes. 
 
 ### Les cinq "comment"
 
 Quand vous souhaitez planifier des tâches, vous pouvez stimuler votre cerveau avec une méthode simple : une fois que vous avez défini ce que vous souhaitez accomplir, posez-vous la question : "comment faire?". Une fois que vous avez la réponse à cette première question, posez-vous à nouveau la question "comment faire?" à votre réponse, etc. 
 
-La méthode des "5 comment" est un outil qui permet de connecter les buts à des actions physiques avec une chaîne d'actions complète.
+La méthode des "5 comment" est un outil très simple qui permet de connecter les buts à des actions physiques avec une chaîne de tâches complète.
 
 ### La planification : 
 
-Apprendre et s'améliorer à ne pas gaspiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. La spécificité avec le temps est le fait que nous ne pouvons pas le stocker. Par contre, nous pouvons le planifier.
+Apprendre à ne pas gaspiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. 
 
-Le seul risque avec la planification, c'est de passer plus de temps à planifier qu'à agir - c'est ce qui se passe trop souvent dans les entreprises. La planification ne devrait pas accaparer la majorité de votre temps. Votre succès et votre vie n'est pas une simple unité de temps. 
+La spécificité avec le temps est le fait que nous ne pouvons pas le stocker. Par contre, nous pouvons le planifier.
+
+Le risque avec la planification, c'est de passer plus de temps à planifier qu'à agir - c'est ce qui se passe trop souvent dans les entreprises. La planification ne devrait pas accaparer la majorité de votre temps. Votre succès et votre vie n'est pas une simple unité de temps. 
 
 #### Planification par scénario 
 
@@ -52,11 +59,14 @@ Et le fait de visualiser l'idéal permet de ressentir le résultat final, d'avoi
 
 Ensuite, traduisez votre scénario en 3 actes, comme au théâtre:  
 
-1. le début
-2. le milieu
-3. la fin
+1. le début : le commencement, la situation actuelle.
+2. le milieu : les moyens, le chemin.
+3. la fin : le but à atteindre, le délivrable
 
-Commencez par la fin - le but à atteindre, le délivrable. Et ensuite, le début - le commencement. Enfin, définissez les moyens à mettre en œuvre pour arriver à la finalité - le milieu. 
+![](../contents/img/Long-terme-plan.png)
+
+
+Commencez par la fin. Ensuite, le début. Et enfin, le milieu - définissez les moyens à mettre en œuvre pour arriver à la finalité. 
 
 Une autre façon de procéder, similaire au scénario en 3 actes est la suivante  :
 
@@ -70,13 +80,14 @@ Explication : vous définissez ce que vous allez faire maintenant. Puis, après 
 
 ##### Planifiez l'année 
 
-Il existe différentes approches de planification. Nous vous invitons à les découvrir...
+Il existe différentes approches de planification. Il souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets d'innovation. 
+Dans le chapitre suivant, nous vous présenterons la méthode SCRUM/Agile. En attendant, un peu de patience.  
 
 - **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 - **Pert** : technique de modélisation de projet (Program, Evaluation and Review Technique : technique d'évaluation et de révision de programme). Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
 - **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe.
 
-Cette dernière sera approfondie dans le chapitre suivant. 
+NB : le lecteur est invité à découvrir les autres méthodes sur le web. 
 
 ##### Planifiez le mois 
 
@@ -87,6 +98,8 @@ Voici une structure pour planifier votre mois :
 ##### Planifiez la semaine
 
 1. Analysez la semaine qui vient de s'écouler2. Définissez vos objectifs pour la semaine à venir (par ex : 5 objectifs au max)3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. **Conseil : ** Ayez 3 actions en réserve (planifier pour la semaine suivante, mais garder si une tâche s'annule ou se déplace)
+
+![](../contents/img/agenda-semaine.png)
 
 ##### Planifiez la journée 
 

@@ -1,6 +1,5 @@
 # Level 3. Décider 
 
-Comment matérialiser des idées ?
 
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste *ou* faux, c'est blanc *ou* noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
 
@@ -64,7 +63,13 @@ Il y six questions fondamentales, appelées communément la méthode QQOQCP. Pou
 
 Prenons un exemple : Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez dessiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
 
-Prenez une feuille et un crayon. Et démarrez maintenant. 
+Face à des problèmes d'envergures où souvent plusieurs personnes interagissent venant parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre. 
+Pour cela, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
+
+Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoire racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou semble encore invisible.
+
+Prenez une feuille et un crayon et dessinez votre idée maintenant. 
+
 
 ### Simplifiez vos idées : 3 façons d'y arriver
 
@@ -95,6 +100,7 @@ La meilleure façon de décider de la bonne idée, est d'impliquer les personnes
 
 
 Certaines idées auront des polarisations élevées, ce sont celles où l'on est fortement pour ou contre.
+Avec cette méthode vous de montrer qualitativement "combien" une idée est apprécié. 
 
 Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement polarisées qui sont intéressantes, plutôt que celles qui ont les plus hautes moyennes, mais une faible polarisation.
 

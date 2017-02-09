@@ -36,5 +36,18 @@ S'entourer : l'organisation idéeal = coworking
 Continuez de réaliser des itération - recevez constamment des feedbacks 
 
 
+
+### Célébrez vos échecs 
+
+Christophe Colomb souhaitez aller en Inde. Objectivement parlant, il a échoué. Mais. Il a trouvé l'amérique. 
+
+Dans la poursuite de votre objectif, gardez l'esprit d'aventurier. Car le chemin est plus enrichissant que le but. Vous allez apprendre beaucoup sur ce chemin. 
+
+### "Si tu te sens seul, travaille en bande"
+
+Pour faire le poin, on vous propose un point d'interrogation : 
+
+....? 
+
 ![](../contents/img/process-think-make-check.png)
 

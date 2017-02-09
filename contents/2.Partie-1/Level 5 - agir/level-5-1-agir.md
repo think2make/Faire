@@ -37,3 +37,19 @@ Derrière la procrastination, il y a de la peur. Deux questions à se poser pour
 
 - Est-ce que la vie de quelqu’un est en danger ? 
 - Quelle est l’alternative de faire ça ? 
+
+### La loi de la gestation 
+
+Lors de nos formations, certains participants souhaitent rapidement acquérir du savoir - c'est comme si ils chargez des données dans leurs cerveaux. Ce n'est pas ainsi que les cerveaux fonctionne. 
+
+Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. 
+
+Apprenez à respecter le processus de gestation et soyez complé de vos progrès invicilbe. C'est un peu comme une graine semée, il faut du temps pour que la plante se fasse voir. Respectez la croissance.
+
+### l'incofortable confort
+
+C'est toujours fascinant de constater à quel point nous sommes inconfortable avec certaines tâches à faire. Quand votre objectif est de faire une nouvelle idée, vous vous trouvez naturellement dans une nouvelle situation. Cela peut être inconfortable. Apprenez à devenir confortable avec l'inconfortable. Et n'oubliez pas, peu importe ce que vous pensez faite l'inverse. 
+
+### Les habitudes 
+
+Vos grandes accomplissement prennent leur racine dans des rituels du quotidien. Prévoyez-les. Evaluez-les. Améliorez-les. 

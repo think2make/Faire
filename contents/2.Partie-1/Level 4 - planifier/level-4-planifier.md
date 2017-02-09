@@ -129,10 +129,13 @@ Il est important de différencier le temps opérationnel (temps pour produire) e
 Dans l'industrie, les opérateurs qui règlent une machine nécessitent une période pour préparer le travail, les outils, programmer la machine, etc. Ce temps est différent du temps de production, car il nécessite souvent plus de temps et a une certaine variabilité. 
 Dès que la machine est lancée, la production est souvent prévisible - contrairement au temps de mise en train. 
 
-C'est similaire avec le temps dont les humains ont besoin pour le temps de création. 
+C'est similaire avec le temps dont les humains ont besoin pour la création. 
 
-Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités nécessitent un temps d'arrêt ou une période _off_ (un temps qui peut être difficilement calculable - parfois en demi-journées ou en journées entières). 
+Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités ont besoin d'un temps d'arrêt ou une période _off_ (un temps qui peut être difficilement calculable - parfois en demi-journées ou en journées entières). 
 
-Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, répétitives, soyez ferme et laissez peu de tolérance. Vous risquez de faire des miracles. 
+Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de tolérance. Ainsi, vous risquez de faire des miracles. 
 
+### Fukc le SMART
+
+Au début du livre, nous avons présenté l'acroynme SMART pour la définition de votre objectif (chapitre 1). La grande erreur à éviter c'est que votre objectif ne vous emprisonnent pas. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs. 
 

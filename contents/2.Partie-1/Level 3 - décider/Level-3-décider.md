@@ -61,7 +61,8 @@ Il y six questions fondamentales, appelées communément la méthode QQOQCP. Pou
 5. **Comment :** Si vous entendez un enchaînement d'événements, dessinez un **logigramme** pour montrer comment une chose a provoqué une chose, puis une autre chose.
 6. **Pourquoi :** Si vous entendez une multitude de faits, dessinez **un graphique** à plusieurs variables pour décrire l'interaction à partir d'un seul schéma.
 
-Prenons un exemple : Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez dessiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
+#### Un exemple
+Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le "quoi"). Pour déterminer son prix, vous allez dessiner un diagramme (le "combien"). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le "quand"). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le "comment"). 
 
 Face à des problèmes d'envergures où souvent plusieurs personnes interagissent venant parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre. 
 Pour cela, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 

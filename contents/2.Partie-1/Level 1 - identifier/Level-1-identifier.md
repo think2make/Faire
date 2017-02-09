@@ -13,10 +13,16 @@ Il existe un grand nombre de méthodes pour identifier un problème, le structur
 Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un défi/problème. 
 
 1. **Trouvez la cause.** Nous voyons souvent que la conséquence des choses. Vous pouvez utiliser un diagramme de Cause-Effet (Ishikawa). 
-2. **Priorisez.** Tout semble important mais finalement... Utilisez des outils tels qu'un diagramme de Pareto. 
-3. **Ecrivez.** Pour identifier un défi, le plus simple est d'écrire. Formalisez par écrit toutes les informations disponibles.
 
 ![](../contents/img/cause-effet.jpg)
+
+2. **Priorisez.** Tout semble important mais finalement... Utilisez des outils tels qu'un diagramme de Pareto. 
+
+Image pareto
+
+3. **Ecrivez.** Pour identifier un défi, le plus simple est d'écrire. Formalisez par écrit toutes les informations disponibles.
+
+Image papier + crayon. 
 
 
 ## Définir le projet

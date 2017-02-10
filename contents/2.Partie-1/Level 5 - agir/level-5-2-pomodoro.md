@@ -1,5 +1,16 @@
 ## La technique Pomodoro
 
+
+- Objectif/bienfaits/avantages
+
+- Préparation
+
+- Consignes
+
+- Commentaires
+
+
+
 Parmi les différentes méthodes visant à améliorer la faculté à se focaliser sur un travail, la technique Pomodoro est l'une des plus simples.
 
 **Matériel requis:**

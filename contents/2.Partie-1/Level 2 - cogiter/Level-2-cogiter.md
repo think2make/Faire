@@ -10,18 +10,6 @@ Comment générer des idées nouvelles ? Il existe des centaines de méthodes p
 
 Quand vous cherchez une nouvelle idée, vous pouvez mettre en place une démarche structurée. Et vous pouvez réaliser cela de façon indviduelle ou en groupe.
 
-Les places : 
-
-- zone d'idéation
-- zone de conception
-- zone d'implementation
-
-Les personnes : 
-
-- les experts 
-- les externes
-- les facilitateurs 
-
 De plus, faisons la différence entre la connaissance et la créativité. La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. La connaissance c'est ....  (explication Théorie C-K). A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. Nous aborderons ce dernier point dans les derniers chapitres. 
 
 Dans ce chapitre, nous nous concentrons sur la créativité. 
@@ -40,7 +28,8 @@ D'où la nécessité de comprendre le fonctionnement pour faciliter cette produc
 - **Phase d’émergence** permet de conceptualiser. C'est la crystalisation des pensées. C'est une phase peu confortable car elle remet en question certaines compréhension initiale. Ici quelque chose commence à remonter à la surface. Cette phase permet de commener à visualiser des solutions potentielles. 
 
 - **Phase de convergence** permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme d'une solution analysées  pour prendre des décision, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
-- 
+
+
 Comment est-ce qu'on diverge, émerge et converge ? 
 
 La suite de ce chapitre apportera des clés pour favoriser la phase de divergence et préparera l'émergence de nouvelles solutions. Les chapitres suivants détaillera l'émergence et convergence. 
@@ -96,7 +85,15 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propos
 
 #### SCAMPER : des questions pour produire des idées 
 
-Voici une méthode axée sur  le  questionnement que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
+Voici une méthode axée sur le  questionnement que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
+
+- Objectif/bienfaits/avantages
+
+- Préparation
+
+- Consignes
+
+- Commentaires
 
 ###### Le principe du SCAMPER : 
 
@@ -105,8 +102,6 @@ Liste de questions destinées à faire jaillir des idées.  Les étapes sont
 1.	Identifiez l’idée/l’objet/le problème auquel vous voulez réfléchir. 
 2.	Formulez l’objet de votre recherche, c’est la question centrale : « comment pourrais-je …. ? »
 3.	Posez ensuite l’ensemble des questions SCAMPER
-
-![](../contents/img/scamper_problem-solving.jpg)
 
 ##### S: SUBSTITUER
 

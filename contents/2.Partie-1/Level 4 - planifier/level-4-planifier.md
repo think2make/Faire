@@ -68,15 +68,6 @@ Ensuite, traduisez votre scénario en 3 actes, comme au théâtre:
 
 Commencez par la fin. Ensuite, le début. Et enfin, le milieu - définissez les moyens à mettre en œuvre pour arriver à la finalité. 
 
-Une autre façon de procéder, similaire au scénario en 3 actes est la suivante  :
-
-1. maintenant
-2. après
-3. plus tard 
-4. peut-être
-
-Explication : vous définissez ce que vous allez faire maintenant. Puis, après et ensuite plus tard. Et enfin, les choses que vous pouvez peut-être faire. L'avantage de cette méthode : elle combine la temporalité et la priorisation. 
-
 
 ##### Planifiez l'année 
 
@@ -100,6 +91,14 @@ Voici une structure pour planifier votre mois :
 1. Analysez la semaine qui vient de s'écouler2. Définissez vos objectifs pour la semaine à venir (par ex : 5 objectifs au max)3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. **Conseil : ** Ayez 3 actions en réserve (planifier pour la semaine suivante, mais garder si une tâche s'annule ou se déplace)
 
 ![](../contents/img/agenda-semaine.png)
+
+- Objectif/bienfaits/avantages
+
+- Préparation
+
+- Consignes
+
+- Commentaires
 
 ##### Planifiez la journée 
 

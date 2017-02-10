@@ -26,11 +26,21 @@ Image papier + crayon.
 
 
 ## Définir le projet
-
-Comment élaborer un cahier des charges simple, précis et orienté vers l’action ?Connaissez-vous la différence entre la gestion de projet et la créativité ? La gestion de projet cherche à atteindre un but fixé, la créativité cherche à atteindre un but encore inconnu. Ici se trouve une différence avec certaines situations que vous avez pu expérimenter.Pour élaborer votre cahier des charges, assurez-vous que le sujet est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Facile à dire!
-
+Connaissez-vous la différence entre la gestion de projet et la créativité ? 
+La gestion de projet cherche à atteindre un but fixé, la créativité cherche à atteindre un but encore inconnu. Si vous avez découvert des situations où vous avez pu expérimenter cela. Veuillez lever la main. C'est bon vous pouvez redescendre.
+Nous découvrons parfois des projets où le cadre du projet est tellement bien défini qu'il ne laisse plus de liberté pour travailler dessus. C'est comme si on tente déjà de décider de ce qu'on va faire sans avoir encore compris ce qu'il faudrait faire. 
+Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. 
+Voici comment élaborer votre cahier des charges de façon simple, précis et orienté vers l'action - tout en laissant de la liberté dans la manière de procéder. 
 
 #### 5 étapes pour formaliser le cahier des charges du projet :
+
+- Objectif/bienfaits/avantages
+
+- Préparation
+
+- Consignes
+
+- Commentaires
 
 
 - Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des faits qui peuvent être vérifiés. 
@@ -57,7 +67,7 @@ Comment élaborer un cahier des charges simple, précis et orienté vers l’act
 
 ....................................................................................
 
-- Objectif : quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet. De façon brève. ? 
+- Objectif : quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet de façon brève. Exemple: "Implémenter une nouvelle procédure de pause qui favorise le breakdance dans nos ateliers de fabrication"? 
 ....................................................................................
 
 ....................................................................................
@@ -68,7 +78,7 @@ Comment élaborer un cahier des charges simple, précis et orienté vers l’act
 
 ....................................................................................
 
-- Résultats attendus : à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève.
+- Résultats attendus : à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève. Exemple "une carte de route avec 3 actions à implémenter par nos équipes "
 
 ....................................................................................
 
@@ -131,10 +141,11 @@ Se poser les bonnes questions, c’est la moitié de la solution. Identifiez les
 Voici les 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
 -  Hypothèses sous-tendant à la question
-- Les croyances, les clichés influencent la perception de la question. Pas de mauvaise interpretation. 
+- Les croyances, les clichés influencent la perception de la question.
 Si vous voulez recevoir les bonnes réponses, posez les bonnes questions.
 
 La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'écoutant, forcent à réfléchir, inspirent, etc. 
+
 Une bonne question c'est une question : 
 
 - simple, précise et claire
@@ -147,19 +158,4 @@ Un exemple pour illustrer le degré de complexité d'une question :
 
 Vous saississez comment les questions évoluent dans leur complexité. 
 
-
-##### Le pourquoi
-
-Si nous ne savons pas pourquoi nous faisons ce que nous faisons, il ne sert à rien de faire quoi que ce soit. 
-
-Définissez le pourquoi de votre défi avec cette question : "pourquoi est-ce qu'on fait ce qu'on fait?" ou "pourquoi est-ce que je fais ce que je fais ?"
-
-Le "Pourquoi" permet de : 
-
-- clarifier quel est votre succès à atteindre
-- définir les critères de ce succès
-- d'aligner les ressources que vous souhaitez mettre en oeuvre
-- motiver et vous motiver
-- focaliser 
-
-Cette question semble introspective. Néanmoins elle vous permettra de vous focaliser plus clairement où mettre de l'énergie, et surtout faire comprendre aux autres la nécessité de *faire*. 
+Tournez la page. 

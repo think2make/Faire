@@ -142,6 +142,14 @@ Vous pouvez de cette façon avoir une vue d'ensemble avant la décision finale. 
 
 ### Etude de marché rapide : 10 questions à se poser 
 
+- Objectif/bienfaits/avantages
+
+- Préparation
+
+- Consignes
+
+- Commentaires
+
 Si votre idée consiste à mettre sur le marché un nouveau service (un produit c'est aussi un service, une perceuse offre le service de percer des trous). Et que le temps vous manque. Alors vous pouvez utiliser ces 10 questions pour évaluer le potentiel de votre idée. 
 
 Comment ça fonctionne : Pour chaque question, donnez spontanément des points de 0 à 10 (méthode pifomètre).  

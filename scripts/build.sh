@@ -8,8 +8,9 @@
 ## 1: We declare some variables
 
 INPUT="../contents/meta.txt" 
-INPUT+=" ../contents/Introduction.md"
-INPUT+=" ../contents/Partie*/Level*/*.md"
+INPUT+=" ../contents/1.Introduction.md"
+INPUT+=" ../contents/2.Partie*/*/*.md"
+INPUT+=" ../contents/3.Conclusion.md"
 # INPUT+=" ../contents/Partie-1-Penser/Level-2/*.*"
 INPUT+=" ../contents/outro.txt"
 

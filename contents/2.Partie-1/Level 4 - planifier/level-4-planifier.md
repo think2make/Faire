@@ -1,4 +1,4 @@
-\part{Partie 2 : Faire - Execution}
+
 
 # Level 4 : planifier. 
 

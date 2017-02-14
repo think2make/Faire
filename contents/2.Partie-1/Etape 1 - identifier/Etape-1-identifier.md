@@ -102,7 +102,7 @@ La gestion de projet cherche à atteindre un but fixé, la créativité cherche 
 
 ....................................................................................
 
-- Déroulement : comment devrions-nous réaliser les étapes ?
+- 🚡 Déroulement : comment devrions-nous réaliser les étapes ?
 
 ....................................................................................
 

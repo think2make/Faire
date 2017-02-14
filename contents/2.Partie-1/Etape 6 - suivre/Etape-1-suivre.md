@@ -42,7 +42,7 @@ Types de personnes: ceux qui travaillent beaucoup, et communiquent peu... et ceu
 
 Trouver l'équilibre!
 
-![Travailler / Communiquer](../img/travailler-communiquer.png)
+![Travailler / Communiquer](../contents/img/travailler-communiquer.png)
 
 
 

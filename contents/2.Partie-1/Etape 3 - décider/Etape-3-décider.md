@@ -1,4 +1,4 @@
-# Level 3. Décider 
+# Etape 3. Décider 
 
 
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*" (exemple : c'est juste *ou* faux, c'est blanc *ou* noir, etc.). Et de ne pas réussir à voir en mode "*et*" (exemple : c'est juste et c'est juste, c'est blanc et noir donc gris, etc.). 
@@ -318,5 +318,6 @@ Dernier outil mais non le moindre, quand il s'agit de prendre une décision diff
 
 
 
+\newpage
 
 

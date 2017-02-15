@@ -1,4 +1,4 @@
-# Level 6: Le suivi
+# Etape 6: Le suivi
 
 Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'habitude de les protocoler. 3 catégories de pensées : 
 
@@ -65,9 +65,11 @@ Dans la poursuite de votre objectif, gardez l'esprit d'aventurier. Car le chemin
 
 ### "Si tu te sens seul, travaille en bande"
 
-Pour faire le poin, on vous propose un point d'interrogation : 
+Pour faire le point, on vous propose un point d'interrogation : 
 
 ....? 
 
 ![](../contents/img/process-think-make-check.png)
 
+
+\newpage

@@ -1,4 +1,4 @@
-# Level 5 : Agir
+# Etape 5 : Agir
 
 "il n'y a de realité que dans l'action."
 
@@ -53,3 +53,6 @@ C'est toujours fascinant de constater à quel point nous sommes inconfortable av
 ### Les habitudes 
 
 Vos grandes accomplissement prennent leur racine dans des rituels du quotidien. Prévoyez-les. Evaluez-les. Améliorez-les. 
+
+
+\newpage

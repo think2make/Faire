@@ -1,4 +1,4 @@
-# Level 2: cogiter
+# Etape 2: cogiter
 
 > "Travailler est plus amusant que de s'amuser " - Baudelaire (peut-être)
 
@@ -86,14 +86,6 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propos
 #### SCAMPER : des questions pour produire des idées 
 
 Voici une méthode axée sur le  questionnement que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
-
-- Objectif/bienfaits/avantages
-
-- Préparation
-
-- Consignes
-
-- Commentaires
 
 ###### Le principe du SCAMPER : 
 
@@ -253,3 +245,6 @@ Voici quelques solutions que vous pouvez utiliser si vous avez besoin d'acquéri
 - Interviewer des experts ou utilisateurs vivant au quotidien la problèmatique.
 
 Belle exploration à vous. 
+
+
+\newpage

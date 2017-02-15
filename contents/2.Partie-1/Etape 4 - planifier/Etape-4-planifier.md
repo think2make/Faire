@@ -1,6 +1,6 @@
 
 
-# Level 4 : planifier. 
+# Etape 4 : planifier. 
 
 Pour achever ce que vous avez déjà achevé dans le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. 
 
@@ -138,3 +138,5 @@ Dans votre planification, tenez compte de ces aspects. Pour des activités de r�
 
 Au début du livre, nous avons présenté l'acroynme SMART pour la définition de votre objectif (chapitre 1). La grande erreur à éviter c'est que votre objectif ne vous emprisonnent pas. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs. 
 
+
+\newpage

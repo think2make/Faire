@@ -4,7 +4,7 @@
 
 \newpage
 
-# Level 1. Identifier et définir un défi
+# Etape 1. Identifier et définir un défi
 
 ## Identifier un défi
 
@@ -33,14 +33,6 @@ La gestion de projet cherche à atteindre un but fixé, la créativité cherche 
 Voici comment élaborer votre cahier des charges de façon simple, précis et orienté vers l'action - tout en laissant de la liberté dans la manière de procéder. 
 
 #### 5 étapes pour formaliser le cahier des charges du projet :
-
-- Objectif/bienfaits/avantages
-
-- Préparation
-
-- Consignes
-
-- Commentaires
 
 
 - Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des faits qui peuvent être vérifiés. 
@@ -159,3 +151,6 @@ Un exemple pour illustrer le degré de complexité d'une question :
 Vous saississez comment les questions évoluent dans leur complexité. 
 
 Tournez la page. 
+
+
+\newpage

@@ -6,8 +6,6 @@ Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'ha
 - **References** : ne sont pas executable. Ce sont des documents à partager, les notes, les croquis, les PV, etc.
 - **Veilleuse** : ce sont des idées encore non executables mais peuvent l'être plus tard. Ce sont de nouvelles idées qui ne sont pas pertinent pour votre projet actuel mais qui pourrait l'être à l'avenir. 
 
-![](../contents/img/tasks-priorities-level6.gif)
-
 Prenez l'habituel de protocoler ces données par catégorie et prévoyez de parcourir environ 1 fois par mois le contenu. 
 
 Un outil informatique qui pourrait etre utilisé pour cela : Trello.

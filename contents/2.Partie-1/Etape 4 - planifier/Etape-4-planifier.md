@@ -51,7 +51,6 @@ Commencez par une planification *par scénario*, qui permet de visualiser le sc�
 - Et si cela ne fonctionne pas ? 
 - A quoi devrait ressembler le résultat idéal ? 
 
-![](../contents/img/prise-de-notes.jpg)
 
 Le fait d'avoir visualisé le pire permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. 
 
@@ -84,7 +83,7 @@ NB : le lecteur est invité à découvrir les autres méthodes sur le web.
 
 Voici une structure pour planifier votre mois : 
 
-1. définir les activité en % + par priorité 2. définir des objectifs pour le mois à venir à la fin du mois précédent3. ajouter les petites étapes de chaque objectif à l'intérieur de l'agenda du mois (p.ex : 1 étape par semaine)
+1. définir les activité en % et  les priorités  2. définir des objectifs pour le mois à venir à la fin du mois précédent (si vous travaillez en équipe, définisez les personnes assignées)3. ajouter les petites étapes de chaque objectif à l'intérieur de l'agenda du mois (p.ex : 1 étape par semaine)
 
 ##### Planifiez la semaine
 
@@ -92,19 +91,12 @@ Voici une structure pour planifier votre mois :
 
 ![](../contents/img/agenda-semaine.png)
 
-- Objectif/bienfaits/avantages
-
-- Préparation
-
-- Consignes
-
-- Commentaires
 
 ##### Planifiez la journée 
 
 Planifier une architecture de base d'une journée, par exemple : 
 
-- 5h-6h : réveil & lecture - 6h-7h : dejeuner- 7h-8h : préparation détaillée de la journée - 8h-10h : Zone de basse productivité (emails, calls, meetings, social network)- 10h-12h : Zone de haute productivité (production, travail solo)- 12h-13h : pause diner- 13h-15h : Zone de basse productivité (emails, calls, meetings, social network)- 15h-17h : Zone de haute productivité (production, travail solo)- 17h-18h : check (meeting, finaliser, planifier lendemain)
+- 5h-6h : réveil & lecture - 6h-7h : dejeuner- 7h-8h : préparation détaillée de la journée - 8h-9h : Zone de basse productivité (emails, calls, meetings, social network)- 9h-12h : Zone de haute productivité (production, travail solo)- 12h-13h : pause diner- 13h-14h : Zone de basse productivité (emails, calls, meetings, social network)- 14h-17h : Zone de haute productivité (production, travail solo)- 17h-18h : check (meeting, finaliser, planifier lendemain)
  
 
 La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Si vous travaillez sur un ordinateur, vous pouvez observer votre propre zone de productivité avec des logiciels comme **RescueTime**.
@@ -136,7 +128,7 @@ Dans votre planification, tenez compte de ces aspects. Pour des activités de r�
 
 ### Fukc le SMART
 
-Au début du livre, nous avons présenté l'acroynme SMART pour la définition de votre objectif (chapitre 1). La grande erreur à éviter c'est que votre objectif ne vous emprisonnent pas. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs. 
+Au début du livre, nous avons présenté l'acroynme SMART pour la définition de votre objectif (chapitre 1). Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs. Evitez que votre objectif vous emprisonnent. 
 
 
 \newpage

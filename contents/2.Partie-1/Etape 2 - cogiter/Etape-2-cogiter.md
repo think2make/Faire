@@ -18,10 +18,9 @@ Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile 
 D'où la nécessité de comprendre le fonctionnement pour faciliter cette production d'idées.
 
 
-### La génération d’idées en trois phases
+## La génération d’idées en trois phases
 
 
-![](../contents/img/3-phases.png)
 
 - **Phase de divergence** permet de se plonger dans le sujet et générer de nouvelles inspirations –le défi est regardé à 360°. Cette phase permet d'avoir des idées brutes (des bribes d'idées). Elle est également une période de questionnement et partage du but à atteindre par les contributeurs du projet.
 
@@ -36,9 +35,9 @@ La suite de ce chapitre apportera des clés pour favoriser la phase de divergenc
  
 ### Le déroulement de la génération d'idées 
 
-Comment transformer un problème en opportunité ? 
+Le but est de transformer le contenu de votre cahier des charges en exercices de créativité. Ainsi, vous arriverez à transformer un problème en opportunité. Voici une façon simple pour trouver des champs de recherche d'idées : 
 
-Le but est de transformer le contenu de votre cahier des charges en exercices de créativité. Voici une façon simple pour trouver des champs de recherche d'idées : 
+#####Consignes 
 
 a. reprenez le cahier des charges défini dans le chapitre 1
 b. extrayez les mots-clés importants, les mots forts. Pour ce faire, vous pouvez utiliser un souligneur/stabylo. 
@@ -47,16 +46,11 @@ d. transformer les mots-clés de chaque domaine en questions stimulantes, surpre
 d. Faite une pause. Oui, les pauses c'est bon. 
 e. Vous pouvez maintenant commencer à générer des idées. 
 
-Qu'avez-vous fait ?  
-Vous avez défini : 
-
-- des champs où vous allez rechercher
-- des questions spécifiques à explorer
-- un déroulement cohérent avec votre thématique.
+Qu'avez-vous fait ?  Vous avez défini des champs où vous allez rechercher des idées, vous avez crée des questions spécifiques à explorer et un déroulement cohérent avec votre thématique.
 
 **(intégrer illustration visuel)**
 
-### La génération d'idées
+### Les 4 principes de la génération d'idées
 
 Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenu est votre café. Le contenant la tasse. 
 
@@ -87,7 +81,7 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propos
 
 Voici une méthode axée sur le  questionnement que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
 
-###### Le principe du SCAMPER : 
+#####Consignes 
 
 Liste de questions destinées à faire jaillir des idées.  Les étapes sont
 

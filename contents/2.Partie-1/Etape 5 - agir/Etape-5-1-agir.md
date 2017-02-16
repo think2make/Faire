@@ -14,19 +14,18 @@ Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d
 
 4 façon de réaliser une action (théorie de l’action?)
  
-1. Ne pas faire = Eliminer l’action
-2. Laisser faire = Déplacer l’action
-3. Faire faire = Déléguer l’action
-4. Faire = Réaliser l’action
-
+1. \faRemove Ne pas faire = Eliminer l’action
+2. \faReplyAll Laisser faire = Déplacer l’action
+3. \faRetweet Faire faire = Déléguer l’action
+4. \faCheckSquare Faire = Réaliser l’action
 
 ### La suite 
 Arrivé à cette étape du processus, voici 3 étapes pour préparer l’implémentation :
 1) Sélectionnez les idées ayant un potentiel. 2) Planifiez une carte de route en prenant en compte la complexité et le timing de mise en œuvre. 3) Mettez en œuvre l’idée sélectionnée de façon frugale et itérative. (voir partie 2) 
 
-Cette thématique sera approfondie dans la 2ème partie du livre.Il y a un frein à l’action : la peur.
+Cette thématique sera approfondie dans la 2ème partie du livre.### Love la peur Il y a un frein à l’action : la peur.
  
-On ne peut pas éviter la peur et il ne faut pas. uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
+Qu'est-ce qui fait qu'on agit pas ? La peur. On ne peut pas éviter la peur et il ne faut pas. uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
 Faire de petites étapes en découpant l’action en petit bout
 Faire une grande étape en plongeant complètement dedant. 
 
@@ -53,6 +52,37 @@ C'est toujours fascinant de constater à quel point nous sommes inconfortable av
 ### Les habitudes 
 
 Vos grandes accomplissement prennent leur racine dans des rituels du quotidien. Prévoyez-les. Evaluez-les. Améliorez-les. 
+
+### Méthode 10-10-10
+
+Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile, vous pouvez vous inspirer de ces 3 questions avant de passer à l'action: 
+
+- quel sera l'impact de ma décision dans **10 jours** ? 
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
+
+
+- quel sera l'impact de ma décision dans **10 mois** ? 
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
+
+
+- quel sera l'impact de ma décision dans **10 ans** ? 
+
+....................................................................................
+
+....................................................................................
+
+....................................................................................
+
 
 
 \newpage

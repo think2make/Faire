@@ -45,8 +45,6 @@ Quand vous tentez de matérialiser les idées pour saisir les formes, vous pouve
 Evaluer les prototypes permet de découvrir l’attractivité  de chaque idée.
 Ainsi, cette étape d’affinement des idées produites vous permet d’obtenir une collection d’idées comparables entre elles. Et souvent la solution finale ou le résultat saute aux yeux. 
 
-![Protoype 3D d'agriculture urbaine](../contents/img/urban-gardening.jpg)
-
 
 ### 6 façons de visualiser les idées 
 
@@ -109,9 +107,9 @@ Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement 
 
 Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici les 3 critères* de base que nous pouvez utiliser pour votre sujet : 
 
-- **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
-- **Durabilité d'une idée** : ce critère vous informe sur la longévité, sa viabilité. 
-- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
+\faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
+\faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité, sa viabilité. 
+\faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
 
 *Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
@@ -137,21 +135,14 @@ Un autre moyen pour décider est de mettre les idées sur 4 catégories :
 
 Vous pouvez de cette façon avoir une vue d'ensemble avant la décision finale. Logiquement, les solutions difficiles et ennuyeuses seront éliminées rapidement. 
 
-![](../contents/img/evaluer-facile-diff.jpg)
 
 
 ### Etude de marché rapide : 10 questions à se poser 
 
-- Objectif/bienfaits/avantages
-
-- Préparation
-
-- Consignes
-
-- Commentaires
-
 Si votre idée consiste à mettre sur le marché un nouveau service (un produit c'est aussi un service, une perceuse offre le service de percer des trous). Et que le temps vous manque. Alors vous pouvez utiliser ces 10 questions pour évaluer le potentiel de votre idée. 
 
+#####Consignes 
+ 
 Comment ça fonctionne : Pour chaque question, donnez spontanément des points de 0 à 10 (méthode pifomètre).  
 Additionnez les points. Analysez et décidez si cela nécessite d'éliminer votre idée, de l'améliorer ou foncer pour la concrétiser. 
 
@@ -277,37 +268,6 @@ Remarques :
 Nombre de points : ..........................
 
 Remarques :
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
-
-
-### Méthode 10-10-10
-
-Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile, vous pouvez vous inspirer de ces 3 questions avant de passer à l'action: 
-
-- quel sera l'impact de ma décision dans **10 jours** ? 
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
-
-
-- quel sera l'impact de ma décision dans **10 mois** ? 
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
-
-
-- quel sera l'impact de ma décision dans **10 ans** ? 
 
 ....................................................................................
 

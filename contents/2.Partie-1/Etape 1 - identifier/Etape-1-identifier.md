@@ -149,7 +149,7 @@ Une bonne question c'est une question :
 
 Un exemple pour illustrer le degré de complexité d'une question : 
 
-1.	\faBattery[1] Avez-vous écouté de la musique la semaine passée ? (question binaire: oui/non)2.	\faBattery[2] Quel type de musique écoutez-vous le plus ? (question factuelle)3.	\faBattery[4] Comment décidez-vous quel type de musique vous autorisez à vos enfants ? (question complexe : factuel + croyances)
+\faBattery[1] Avez-vous écouté de la musique la semaine passée ? (question binaire: oui/non)\faBattery[2] Quel type de musique écoutez-vous le plus ? (question factuelle)\faBattery[4] Comment décidez-vous quel type de musique vous autorisez à vos enfants ? (question complexe : factuel + croyances)
 
 Si vous saississez comment les questions évoluent dans leur complexité, vous pouvez vous exercer et quand vous êtes prêt vous pouvez tourner la page.  
 

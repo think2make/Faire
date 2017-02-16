@@ -14,10 +14,10 @@ Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d
 
 4 façon de réaliser une action (théorie de l’action?)
  
-1. \faRemove Ne pas faire = Eliminer l’action
-2. \faReplyAll Laisser faire = Déplacer l’action
-3. \faRetweet Faire faire = Déléguer l’action
-4. \faCheckSquare Faire = Réaliser l’action
+\faRemove Ne pas faire = Eliminer l’action
+\faReplyAll Laisser faire = Déplacer l’action
+\faRetweet Faire faire = Déléguer l’action
+\faCheckSquare Faire = Réaliser l’action
 
 ### La suite 
 Arrivé à cette étape du processus, voici 3 étapes pour préparer l’implémentation :

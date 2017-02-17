@@ -7,7 +7,7 @@
 # Etape 1. Identifier et définir un défi
 
 
-> "Le premier projet de quoi que ce soit c’est de la merde" - Ernest Hemingway
+> "La première ébauche de quoi que ce soit c’est de la merde" - Ernest Hemingway
 > 
 
 ## Par où commencer 

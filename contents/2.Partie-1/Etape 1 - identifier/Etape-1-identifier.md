@@ -8,17 +8,16 @@
 
 
 > "La première ébauche de quoi que ce soit c’est de la merde" - Ernest Hemingway
-> 
+
+
 
 ## Par où commencer 
 
 Quand on tente de comprendre un élément à corriger, c'est parfois le brouillard. On perçoit bien les nuages, néamoins cela reste encore flou. 
 
-Identifez un défi. Il existe un grand nombre de méthodes pour identifier un problème, le structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existent sur le globle et dans l'histoire de l'humanité, mais uniquement de donner un aperçu des moyens disponibles. Vous, le lecteur, pouvez faire des recherches approfondies selon vos besoins.  
+Identifez un défi. Il existe un grand nombre de méthodes pour identifier un problème, le structurer, etc. Le but ici n'est pas de mettre lumière toutes les méthodes qui existent dans l'histoire de l'humanité, mais uniquement de donner un aperçu des moyens disponibles. Vous, le lecteur, pouvez faire des recherches approfondies selon vos besoins.  
 
-Globalement, il y a 3 éléments à prendre en compte dans l'identification d'un défi/problème. 
-
-Comment identifier les opportunités d'innovation ? 
+Les trois outils à prendre en compte dans l'identification d'un problème sont : 
 
 1. **Questionnez.** Pour identifier un défi, le plus simple est de questionner. Pour questionner, le plus simple est d'observer. Pour observer, le plus simple est de formalisez par écrit toutes les informations disponibles et que vous découvrez.
 
@@ -125,7 +124,7 @@ Critères de succès : comment allons-nous mesurer le succès ? Sur quel critè
 
 
 
-### Autres éléments importants pour définir un défi
+### Trois éléments importants pour définir un défi
 
 ##### L'objectif SMART
 
@@ -158,11 +157,38 @@ Une bonne question c'est une question :
 - qui touche la réalité
 
 Un exemple pour illustrer le degré de complexité d'une question : 
-
-\faBattery[1] Avez-vous écouté de la musique la semaine passée ? (question binaire: oui/non)\faBattery[2] Quel type de musique écoutez-vous le plus ? (question factuelle)\faBattery[4] Comment décidez-vous quel type de musique vous autorisez à vos enfants ? (question complexe : factuel + croyances)
 ![](../contents/img/pyramide_question.png)
+ 
+##### trois rôles 
+
+Quand les choses fonctionnent pas dans les entreprises, on a tendance à l'accorder au manque de communication. Hors, ce qui manque souvent c'est des rôles clairs pour travailler ensemble. Notre expérience montre qu'il existe trois profils à intégrer dès le début du projet. 
+
+![](../contents/img/IMG_etape1_3profils.jpg)
+
+- **Représenter :** son rôle est d'apporter son expertise sur le sujet, d'amener un regard interne à l'entreprise - se sont souvent les collaborateurs internes ou des experts externes de la branche de métier. 
+- **Renverser :** son rôle est d'apporter un regard nouveau et parfois déroutant. Communément appelé "lateral thinker" - se sont souvent des profils recrutés à l'extérieur de l'entreprise et le profils est défini quand les informations sont récoltées au début du projet. 
+- **Faciliter : **son rôle est d'apporter les techniques d'animation combiné à une connaissance de la thèmatique traitée, sans être un expert pointu - se sont souvent des profils qui peuvent être formé en interne de l'entreprise ou mandaté depuis l'externe. 
+
+###### le facilitateur 
+
+Le facilitateur a pour but d'amener les équipes dans un état de "flow"[^1]. Grace à la facilitation, les séances peuvent devenir plus efficientes et les contributeurs peuvent développement davantage d'initiatives personnelles. Il donne le sentiment au groupe qu'ils l'on fait seuls.
+
+![](../contents/img/IMG_facilitateur.jpg)
+
+Pour nos clients, nous enfilons souvent le rôle du facilitateur. Nos recommandations pour vous : 
+
+- avant un projet, préparez le déroulement que vous souhaitez aborder. S'il y a des éléments sensibles à traiter (car il y a toujours des éléments sensibles à traiter), prevoyez de travailler dessus à la moitié de la séance ou du projet. La meilleure façon, c'est de poser des questions, c'est la façon la plus simple et la plus efficace pour avancer (nous aborderons la thématique du questionnement tout au long du livre). 
+
+- au début d'un projet ou d'un workshop, commencez par adopter un point de vue neutre, sans position, votre rôle est d'impliquer les autres et à les aider à penser. au fur et à mesure de l'avancement, vous pouvez apporter vos éclairage dans les réflexions. 
+
+- prévoyez du temps, vous ne pouvez pas réunir des experts, des collaborateurs et des lateral thinkers pour une durée de 45 minutes. C'est frustrant et le résulat est médiocre. des créneaux de demi-jour, c'est le temps à prévoir si vous réunissez une dizaine de personnes. Et soyez flexible (et optimiste) avec le déroulement, les choses peuvent changer en cours de route. 
 
 
-Si vous saississez comment les questions évoluent dans leur complexité, vous pouvez vous exercer et quand vous êtes prêt vous pouvez tourner la page.  
+
+
+
+[^1]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. 
+
+
 
 \newpage

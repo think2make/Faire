@@ -1,6 +1,6 @@
 # Etape 2: cogiter
 
-> "Travailler est plus amusant que de s'amuser " - Baudelaire (peut-être)
+> "Travailler est plus amusant que de s'amuser " - Baudelaire
 
 Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 

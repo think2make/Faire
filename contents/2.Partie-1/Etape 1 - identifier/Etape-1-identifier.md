@@ -126,7 +126,7 @@ Critères de succès : comment allons-nous mesurer le succès ? Sur quel critè
 
 ### Trois éléments importants pour définir un défi
 
-##### L'objectif SMART
+##### 1. L'objectif SMART
 
 Gardez à l'esprit l'acronyme SMART lorsque vous définissez l'objectif de votre projet. 
  
@@ -138,7 +138,7 @@ Gardez à l'esprit l'acronyme SMART lorsque vous définissez l'objectif de votre
 
 Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définir de manière smart votre projet permet ainsi, d'être au clair quoi atteindre, le partager avec les autres facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel de votre objectif. Tout en gardant une attention particulière sur la temporalité car concrétiser un projet peu prendre du temps, beaucoup de temps. 
 
-##### Questionner : l'outil fondemantal pour penser et faire
+##### 2. Questionner : l'outil fondemantal pour penser et faire
 > « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  EinsteinDepuis l’école, on nous apprend à répondre, et non à imaginer des questions. Nous pouvons devenir de meilleurs poseurs de questions. 
 Savoir se poser les bonnes questions, c’est la moitié de la solution. Pour cela, commencez par identifier les informations nécessaires avant de démarrer l’exploration des solutions. 
 
@@ -159,7 +159,7 @@ Une bonne question c'est une question :
 Un exemple pour illustrer le degré de complexité d'une question : 
 ![](../contents/img/pyramide_question.png)
  
-##### trois rôles 
+##### 3. trois rôles 
 
 Quand les choses fonctionnent pas dans les entreprises, on a tendance à l'accorder au manque de communication. Hors, ce qui manque souvent c'est des rôles clairs pour travailler ensemble. Notre expérience montre qu'il existe trois profils à intégrer dès le début du projet. 
 

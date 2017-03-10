@@ -1,4 +1,4 @@
-## Les méthodes agiles
+## Les méthodes agiles - agir avec agilité
 
 Les méthodes agiles sont un groupe de pratiques de pilotage et de réalisation de projets. 
 

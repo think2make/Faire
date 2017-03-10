@@ -5,57 +5,49 @@
 Jean-Paul Sartre
 
 
+Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d’être juste occupé, les fourmis le sont aussi. Vous pouvez faire beaucoup plus qu'une fourmi. 
+
+Combien de fois arrive des situations où des processus ou des produits deviennent obselètes au moment où ils ont été crées et validés ? Des collaborateurs refusent de remettre en question des choses absurdes uniquement parce que cela a été "validée" ? Que des séances interminables avec comme résultat, du vent. Des journées où malgré la bonne volonté les perturbations diverses nous amène à avoir le sentiment d'avoir rien concrétiser ? 
+
+Dans ce chapitre, vous découvrirez une méthode gestion inspirée du monde informatique, les méthodes agiles. Un outil pragmatique pour améliorer sa capacité à se focaliser et délivrer.
 
 
-Introduction au chapitre.
-
-
-Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d’être juste occupé, les fourmis le sont aussi, vous pouvez faire beaucoup plus qu'une fourmi. L’action doit résoudre un problème important et/ou répondre à un désir important.
-
-4 façon de réaliser une action (théorie de l’action?)
+#### 4 façon de réaliser une action 
  
-\faRemove Ne pas faire = Eliminer l’action
-\faReplyAll Laisser faire = Déplacer l’action
-\faRetweet Faire faire = Déléguer l’action
-\faCheckSquare Faire = Réaliser l’action
+- \faRemove - Ne pas faire = Eliminer l’action
+- \faReplyAll - Laisser faire = Déplacer l’action
+- \faRetweet - Faire faire = Déléguer l’action
+- \faCheckSquare - Faire = Réaliser l’action
 
-### La suite 
-Arrivé à cette étape du processus, voici 3 étapes pour préparer l’implémentation :
-1) Sélectionnez les idées ayant un potentiel. 2) Planifiez une carte de route en prenant en compte la complexité et le timing de mise en œuvre. 3) Mettez en œuvre l’idée sélectionnée de façon frugale et itérative. (voir partie 2) 
+(théorie de l’action?)
 
-Cette thématique sera approfondie dans la 2ème partie du livre.### Love la peur Il y a un frein à l’action : la peur.
+#### Aimez la peur Qu'est-ce qui fait qu'on agit pas ? La peur. Pourtant, dans la majorité du temps, il n'y a pas de danger de mort. On ne peut pas éviter la peur et il ne faut pas, le but est uniquement d'éviter que la peur prenne toute la place dans la décision et dans l’action. Quand la peur est là, deux façons de procéder s'offre à vous : 
+
+- Faire de petites étapes en découpant l’action en petit bout
+- Faire une grande étape en plongeant complètement dedant. 
+
+Contrairement à se qu’on pense, si c'est compliqué, faite un grand pas. Une fois plongé dedans, vous pourrez vous familiarisez avec les éléments inconnus et achever les actions pour aller vers le but défini. 
+
+Si c’est simple, contrairement à se qu’on pense, faite des petits pas car c’est jamais vraiment simple sinon cela existerait.  
  
-Qu'est-ce qui fait qu'on agit pas ? La peur. On ne peut pas éviter la peur et il ne faut pas. uniquement éviter que la peur prenne toute la place dans la décision et dans l’action. Quand j’ai peur de passer à l’action, j’ai 2 façons de procéder : 
-Faire de petites étapes en découpant l’action en petit bout
-Faire une grande étape en plongeant complètement dedant. 
 
-Si c’est compliqué : contrairement à se qu’on pense, faire un grand pas. 
-Si c’est simple : contrairement à se qu’on pense, faire des petits pas car c’est jamais vraiment simple sinon nous l’aurions déjà fait.  
 
-Derrière la procrastination, il y a de la peur. Deux questions à se poser pour être certain que c’est de la peur : 
-
-- Est-ce que la vie de quelqu’un est en danger ? 
-- Quelle est l’alternative de faire ça ? 
-
-### La loi de la gestation 
-
-Lors de nos formations, certains participants souhaitent rapidement acquérir du savoir - c'est comme si ils chargez des données dans leurs cerveaux. Ce n'est pas ainsi que les cerveaux fonctionne. 
+#### La loi de la gestation 
 
 Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. 
 
-Apprenez à respecter le processus de gestation et soyez complé de vos progrès invicilbe. C'est un peu comme une graine semée, il faut du temps pour que la plante se fasse voir. Respectez la croissance.
+Lors de nos formations, certains participants souhaitent rapidement acquérir du savoir - c'est comme si ils chargez des données dans leurs cerveaux. Ce n'est pas ainsi que les cerveaux fonctionne. 
 
-### l'incofortable confort
+Apprenez à respecter le processus de gestation et soyez complé de vos progrès invicible. C'est un peu comme une graine semée, il faut du temps pour que la plante se fasse voir. Respectez la croissance.
 
-C'est toujours fascinant de constater à quel point nous sommes inconfortable avec certaines tâches à faire. Quand votre objectif est de faire une nouvelle idée, vous vous trouvez naturellement dans une nouvelle situation. Cela peut être inconfortable. Apprenez à devenir confortable avec l'inconfortable. Et n'oubliez pas, peu importe ce que vous pensez faite l'inverse. 
+#### l'incofortable confort
 
-### Les habitudes 
+C'est toujours fascinant de constater à quel point nous sommes inconfortable avec certaines tâches à faire. Quand votre objectif est de faire quelque chose de novueau, vous vous trouvez naturellement dans une nouvelle situation. Cela peut être inconfortable. Apprenez à devenir confortable avec l'inconfortable. 
 
-Vos grandes accomplissement prennent leur racine dans des rituels du quotidien. Prévoyez-les. Evaluez-les. Améliorez-les. 
 
-### Méthode 10-10-10
+### trois questions avant action
 
-Dernier outil mais non le moindre, quand il s'agit de prendre une décision difficile, vous pouvez vous inspirer de ces 3 questions avant de passer à l'action: 
+Chaque décision et action a une influence sur votre entreprise et votre futur. Dans un monde aussi rapide, il est parfois difficile de savoir s'il faut agir ou pas L'auteur Suzy Welch, dans son livre 10-10-10, a mis au point trois questions qu'il s'agit de se poser avant d'agir. Vous pouvez vous en inspirer avant de passer à l'action : 
 
 - quel sera l'impact de ma décision dans **10 jours** ? 
 

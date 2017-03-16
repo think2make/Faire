@@ -23,9 +23,9 @@ Les outils de créativité portent souvent des noms exotiques. L'ensemble de ces
 
 - **Phase de convergence** permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme d'une solution analysées  pour prendre des décision, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
 
-La résolution creative de problème[^1] est une approche complète et structurée que nous utilisons et qui a été mis au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode Brainstorming. D'autres approches, comme la Design Thinking,
+La résolution creative de problème[^2] est une approche complète et structurée que nous utilisons et qui a été mis au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode Brainstorming. D'autres approches, comme la Design Thinking,
 
-[^1]: l'approche Creative Problem Solving (résolution creative de problème) réuni un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Fondation aux Etats-Unis.
+[^2]: l'approche Creative Problem Solving (résolution creative de problème) réuni un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Fondation aux Etats-Unis.
 
 ### Les places d'innovation 
 
@@ -44,19 +44,19 @@ Nous avons experminenté des situations avec des résultats médiocres car l'env
 
 Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont des objets symboliques. Par exemple, quand vous utilisez un post-it, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. Le cas des post-its est simple car connu par la majorité des personnes. Il existe d'autres solutions qui aide à *penser* et *dépenser*. Les animateurs de brainstorming connaissent bien ces outils, parfois onéreux. 
 
-Nous utilisons des solutions inspirés des serious games (jeu sérieux)[^2] comme lego serious play ou des outils en ligne (online)[^3] comme hors ligne (offline) - et parfois un mix : la boite à idées u2[^4] est un bel exemple. Nous collaborons avec des chercheurs  pour certains outils comme le Creative Profiler[^5]. Cela nous arrive aussi d'inventer de nouvels outils en lien avec la thématique de nos clients. 
+Nous utilisons des solutions inspirés des serious games (jeu sérieux)[^3] comme lego serious play ou des outils en ligne (online)[^4] comme hors ligne (offline) - et parfois un mix : la boite à idées u2[^5] est un bel exemple. Nous collaborons avec des chercheurs  pour certains outils comme le Creative Profiler[^6]. Cela nous arrive aussi d'inventer de nouvels outils en lien avec la thématique de nos clients. 
 
-Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^6] pour vos sessions de brainstorming.
+Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^7] pour vos sessions de brainstorming.
 
-[^2]: les jeux sérieux ont pour vocation de rendre attrayant  et ludique des dimensions sérieux. Historiquement, au XVème siècle, des littéraire utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourd. Avec l'avénement de l'informatique, les entreprises utilisent.
+[^3]: les jeux sérieux ont pour vocation de rendre attrayant  et ludique des dimensions sérieux. Historiquement, au XVème siècle, des littéraire utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourd. Avec l'avénement de l'informatique, les entreprises utilisent.
 
-[^3]: il existe sur le web des tonnes des logiciels de génération d'idées. Nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
+[^4]: il existe sur le web des tonnes des logiciels de génération d'idées. Nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
 
-[^4]: constatant que la majorité des boite à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ. 
+[^5]: constatant que la majorité des boite à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ. 
 
-[^5]: Creative Profiler est logiciel d'évaluatioin des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
+[^6]: Creative Profiler est logiciel d'évaluatioin des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
 
-[^6]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
+[^7]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
  
 
 ### Les principes de la génération d'idées

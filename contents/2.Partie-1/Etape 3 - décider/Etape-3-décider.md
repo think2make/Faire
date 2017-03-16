@@ -110,13 +110,13 @@ Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement 
 
 ### Une bonne idée : trois Critères fondamentales 
 
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^1] de base que vous pouvez utiliser pour votre sujet : 
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] de base que vous pouvez utiliser pour votre sujet : 
 
 \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
 \faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité, est-ce  sa viable ou pas. 
 \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
 
-[^1]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
+[^8]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
 
 

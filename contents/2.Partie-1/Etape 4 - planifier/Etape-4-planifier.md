@@ -23,14 +23,14 @@ Auparavant, nous avons présenté l'acroynme SMART pour la définition de votre 
 
 ### Comment planifier ?
 
-Il existe différentes approches de planification comme Gantt[^1], PERTT[^2], ou SCRUM/Agile[^3]. Il souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte des éléments nouveaux et inconnus. 
+Il existe différentes approches de planification comme Gantt[^9], PERTT[^10], ou SCRUM/Agile[^11]. Il souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte des éléments nouveaux et inconnus. 
 
 
-[^1]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
+[^9]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 
-[^2]: **Pert** : technique de modélisation de projet (Program, Evaluation and Review Technique : technique d'évaluation et de révision de programme). Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
+[^10]: **Pert** : technique de modélisation de projet (Program, Evaluation and Review Technique : technique d'évaluation et de révision de programme). Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
 
-[^3]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe. Dans le chapitre suivant, nous vous présenterons la méthode SCRUM/Agile. Un peu de patience.  
+[^11]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe. Dans le chapitre suivant, nous vous présenterons la méthode SCRUM/Agile. Un peu de patience.  
 
 Commencez par une planification *par scénario*, qui permet de visualiser le scénario catastrophique ou le scénario idéal. Posez-vous les questions suivantes : 
 
@@ -89,7 +89,15 @@ Il existe pléthores de façon de planifier. La méthode quenous utilisons est s
 1. Analysez la semaine qui vient de s'écouler. Pour ce faire, deux questions à poser à vous-même :
 >Quelles sont les cinq plus importantes lessons j'ai appris des expériences de cette semaine ?  2. Définissez vos objectifs pour la semaine à venir (par ex : 5 objectifs au max)
 >Quelles sont mes cinq objectifs pour la semaine à venir ?
-3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. **Conseil : ** Ayez trois actions en réserve (planifier pour la semaine suivante, mais garder si une tâche s'annule ou se déplace)
+3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. **Conseils :** 
+
+- Ayez trois actions en réserve (planifier pour la semaine suivante, mais garder si une tâche s'annule ou se déplace)
+- Structurez les journées de votre semaine en thématique 
+
+
+**Intégrer printscreen planification semaine.**
+
+
 
 ![](../contents/img/agenda-semaine.png)
 
@@ -106,9 +114,9 @@ Nos activités favoris par zone de productivité :
 - Zone de basse productivité :emails, appels, séances
 - Zone de haute productivité : travail solo, écriture, stratégique
 
-La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme **RescueTime**[^4].
+La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme **RescueTime**[^12].
 
-[^4]: RescueTime est un logiciel de qui vous permet de comprendre comment vous et vos équipes utilisez votre temps et l'optimiser.
+[^12]: RescueTime est un logiciel de qui vous permet de comprendre comment vous et vos équipes utilisez votre temps et l'optimiser.
 
 Si votre activité est davantage manuelle, notez toutes les tâches que vous réalisez, et les durées des tâches. De cette façon, vous pourrez observer les interruptions, les zones de productivité, etc. 
 
@@ -136,9 +144,9 @@ L'instant vécu est différent selon la vitesse à laquelle le temps est _compta
 
 Il existe deux types de temps : le temps des horloges (atomique) et temps personnel (vécu). 
 
-Avez-vous déjà remarqué que certains moments paraissent éternels (par exemple, chez le dentiste) ou très court (le sexe)[^5]. Selon le type d'action, le vécu va varier. 
+Avez-vous déjà remarqué que certains moments paraissent éternels (par exemple, chez le dentiste) ou très court (le sexe)[^13]. Selon le type d'action, le vécu va varier. 
 
-[^5]:Pas de commentaire.
+[^13]:Pas de commentaire.
 
 #### temps pour *penser*, temps pour *faire*
 

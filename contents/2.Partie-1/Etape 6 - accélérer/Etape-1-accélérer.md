@@ -1,4 +1,4 @@
-# Etape 6: accélérer
+# Chapitre 6. accélérer
 
 Sur le chemin de votre travail, d'autres pensées viendront à vous. Prenez l'habitude de les protocoler. 3 catégories de pensées : 
 

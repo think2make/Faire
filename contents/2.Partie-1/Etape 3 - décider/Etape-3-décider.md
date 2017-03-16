@@ -1,4 +1,4 @@
-# Etape 3. Décider 
+# Chapitre 3. décider 
 
 > .................................................................................... (champ citation à remplir, à vous de décier)
 

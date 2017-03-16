@@ -1,6 +1,8 @@
 
 
-# Etape 4 : planifier. 
+# Chapitre 4. planifier 
+
+
 
 Pour achever ce que vous avez déjà achevé dans le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Vous planifiez comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler. 
 
@@ -84,7 +86,7 @@ Créez des bonnes habitudes qui se répétent. Comme dit le sage Bruce lee "je n
 
 ### Planifiez la semaine
 
-Il existe pléthores de façon de planifier. La méthode quenous utilisons est simple, efficace et ça fonctionne. Consignes : 
+Peu de personnes planifie leur temps hebdomadaire pourtant il existe pléthores de façon de planifier. La méthode que nous utilisons est simple, efficace et ça fonctionne. Consignes : 
 
 1. Analysez la semaine qui vient de s'écouler. Pour ce faire, deux questions à poser à vous-même :
 >Quelles sont les cinq plus importantes lessons j'ai appris des expériences de cette semaine ?  2. Définissez vos objectifs pour la semaine à venir (par ex : 5 objectifs au max)

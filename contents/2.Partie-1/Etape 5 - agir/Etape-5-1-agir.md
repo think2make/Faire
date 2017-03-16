@@ -1,4 +1,4 @@
-# Etape 5 : Agir
+# Chapitre 5. agir
 
 "il n'y a de realité que dans l'action."
 

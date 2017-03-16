@@ -1,4 +1,4 @@
-# Etape 2: cogiter
+# Chapitre 2. cogiter
 
 > "Travailler est plus amusant que de s'amuser" - Baudelaire
 

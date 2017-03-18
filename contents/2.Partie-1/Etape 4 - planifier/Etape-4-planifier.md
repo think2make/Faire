@@ -18,21 +18,19 @@ Apprendre à ne pas gaspiller une seule goutte de votre temps est le meilleur in
 Le risque avec la planification, c'est de passer plus de temps à planifier qu'à agir - c'est ce qui se passe trop souvent dans les entreprises. La planification ne devrait pas accaparer la majorité de votre temps. Votre succès et votre vie n'est pas une simple unité de temps. 
 
 
-###### Fukc les objectifs SMART
-
-Auparavant, nous avons présenté l'acroynme SMART pour la définition de votre objectif. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. 
-
 
 ### Comment planifier ?
+
+Un des plus grand défi des entrepreneurs et des entrprises n'est pas de générer des idées mais de planificer celles-ci et de les implémenter. 
 
 Il existe différentes approches de planification comme Gantt[^9], PERTT[^10], ou SCRUM/Agile[^11]. Il souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte des éléments nouveaux et inconnus. 
 
 
 [^9]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 
-[^10]: **Pert** : technique de modélisation de projet (Program, Evaluation and Review Technique : technique d'évaluation et de révision de programme). Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
+[^10]: **Pert** : technique de modélisation de projet. Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
 
-[^11]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe. Dans le chapitre suivant, nous vous présenterons la méthode SCRUM/Agile. Un peu de patience.  
+[^11]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe.   
 
 Commencez par une planification *par scénario*, qui permet de visualiser le scénario catastrophique ou le scénario idéal. Posez-vous les questions suivantes : 
 
@@ -113,8 +111,8 @@ Définissez vos zones de productivité ensuite planifiez une architecture de bas
  
 Nos activités favoris par zone de productivité : 
 
-- Zone de basse productivité :emails, appels, séances
-- Zone de haute productivité : travail solo, écriture, stratégique
+- Zone de basse productivité : emails, appels, séances
+- Zone de haute productivité : code, design, écriture, etc.
 
 La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme **RescueTime**[^12].
 
@@ -154,15 +152,18 @@ Avez-vous déjà remarqué que certains moments paraissent éternels (par exempl
 
 Il est important de différencier le temps opérationnel (temps pour produire) et le temps de mise en train (temps pour penser). 
 
-Dans l'industrie, les opérateurs qui règlent une machine nécessitent une période pour préparer le travail, les outils, programmer la machine, etc. Ce temps est différent du temps de production car il nécessite souvent plus de temps et a une certaine variabilité. 
-Dès que la machine est lancée, la production est souvent prévisible - contrairement au temps de mise en train. 
+Dans l'industrie, les opérateurs qui règlent une machine nécessitent une période pour préparer le travail, les outils, programmer la machine, etc. Ce temps est différent du temps de production car il nécessite souvent plus de temps et a une certaine variabilité. Dès que la machine est lancée, la production est souvent prévisible - contrairement au temps de mise en train. 
 
 C'est similaire avec le temps dont les humains ont besoin pour la création. 
-
 Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités ont besoin d'un temps d'arrêt ou une période _off_ (un temps qui peut être difficilement calculable - parfois en demi-journées ou en journées entières). 
 
 Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de tolérance. Ainsi, vous risquez de faire des miracles. 
 
+
+
+### Fukc les objectifs SMART
+
+Auparavant, nous avons présenté l'acroynme SMART pour la définition de votre objectif. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. 
 
 
 \newpage

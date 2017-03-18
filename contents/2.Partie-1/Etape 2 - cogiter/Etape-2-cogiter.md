@@ -2,13 +2,15 @@
 
 > "Travailler est plus amusant que de s'amuser" - Baudelaire
 
+Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
+
 Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
-Tout d'abord, quelques définitions. La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. 
+La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. 
 
-Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Pour y parvenir, vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. 
+Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Mais, il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. 
 
-Dans ce chapitre, nous nous concentrons sur ce proceessus sous-jacent et ensuite sur quelques outils pour favoriser la créativité. Dans les chpaitres suivants, vous découvrirez le processus de développement et mise sur le marché de novuelles innovations. 
+Dans ce chapitre, nous nous concentrons sur ce proceessus sous-jacent et les outils pour favoriser la créativité. Dans les chpaitres suivants, vous découvrirez le processus de développement et mise sur le marché de nouvelles innovations. 
 
 Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile de demander à des personnes de produire des idées comme s'ils usinaient ou assemblaient des pièces dans une usine, encore moins, s'ils ne connaissent pas une démarche structurée, ni les outils adéquats. D'où la nécessité de comprendre le fonctionnement pour faciliter cette production d'idées, ce ce que vous allez découvrir ici. 
 
@@ -91,8 +93,8 @@ Le but est de transformer le contenu de votre cahier des charges en exercices de
 a. reprenez le cahier des charges défini dans le chapitre 1
 b. extrayez les mots-clés importants, des mots forts qui ont un aspects très spécifiques (utilisez un souligneur/stabylo). 
 c. faite un inventaire des mots-clés, et catégorisez-les par thème. Chaque thème sera un domaine de recherche. 
-d. transformez les mots-clés de chaque domaine en questions stimulantes et surprenantes. Ci dessous, avec l'acronyme SCAMPER, vous trouverez quelques inspiration. Ce sont des questions que vous pourrez utiliser durant *la phase de divergence* (pour ouvrir les champs des possibilités)
-e. formulez la question centrale de votre recherche, c'est la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est une formulation sous forme de question de votre objectif (étape 1 - définir).
+d. transformez les mots-clés de chaque domaine en questions stimulantes et surprenantes. Ci dessous avec l'acronyme SCAMPER, vous trouverez quelques inspiration. Ce sont des questions que vous pourrez utiliser durant *la phase de divergence* (pour chercher de nouveaux champs des possibilités)
+e. formulez la question centrale de votre recherche, c'est la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simpe et pertinente (étape 1 - définir).
 f. Faite une pause. Oui, les pauses c'est importants. Vous pouvez maintenant commencer à générer des idées, c'est-à-dire, répondre aux questions de divergence (8 questions inspirées de l'outil SCAMPER). Une fois que vous pensez disposer d'alternatives et d'inpsirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence). 
 
 
@@ -102,7 +104,7 @@ f. Faite une pause. Oui, les pauses c'est importants. Vous pouvez maintenant com
 
 #### SCAMPER: des questions pour produire des idées 
 
-Voici une liste de questions volées de Michael Michalko ( thinkertoys, 30 jeux pour dégourdir l'esprit), destinées à faire jaillir des idées que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
+Apprendre à formuler des questions brûlantes permet récolter des idées flamboyantes. Voici une liste de questions volées de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*), destinées à faire jaillir des idées que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
 
 
 ##### S: SUBSTITUER
@@ -114,65 +116,55 @@ Qu’est-ce qui peut être remplacé ? Qui d’autres ? Quoi d’autres ?
 
 ....................................................................................
 
-....................................................................................
-
 
 ##### C: COMBINER
 
 Fusionner deux concepts, deux idées...  
 Que pourrions-nous combiner pour multiplier les usages possibles ?
-....................................................................................
+
 
 ....................................................................................
 
 ....................................................................................
-
 
 ##### A: ADAPTER
 
-Placer son concept dans un autre contexte  
+Placer son concept dans un autre contexte...  
 Y a-t-il eu quelque chose de semblable dans le passé ? Que pourrais-je reproduire ?
 
-....................................................................................
 
 ....................................................................................
 
 ....................................................................................
-
 
 
 ##### M: MAGNIFIER
 
-Magnifier, grossir, agrandir ou étendre ?   
+Magnifier, grossir, agrandir ou étendre... 
 Que peut-on ajouter ? Du temps ? De la force ? De la hauteur ? De la longueur ?
 
-....................................................................................
 
 ....................................................................................
 
 ....................................................................................
-
 
 
 ##### M: MODIFIER
 
-Changer la signification, la couleur, la forme ?  
+Changer la signification, la couleur, la forme... 
 Peut-on changer la signification, la couleur, le mouvement, le son, l’odeur, la forme ?
 
-....................................................................................
 
 ....................................................................................
 
 ....................................................................................
-
 
 
 ##### P: PRODUIRE ou TROUVER UN AUTRE USAGE
 
-D’autres utilisations possibles si on le modifie ?  
+D’autres utilisations possibles si on le modifie...  
 Existe-t-il d’autres utilisations possibles si on le modifie ? 
 
-....................................................................................
 
 ....................................................................................
 
@@ -181,11 +173,10 @@ Existe-t-il d’autres utilisations possibles si on le modifie ?
 
 ##### E: ÉLIMINER OU ÉPURER
 
-Qu’est-ce qui n’est pas nécessaire ?  
+Qu’est-ce qui n’est pas nécessaire...  
 Peut-on soustraire ? Supprimer ? Diminuer ?
 Peut-on éliminer certaines règles ?  
 
-....................................................................................
 
 ....................................................................................
 
@@ -194,10 +185,9 @@ Peut-on éliminer certaines règles ?
 
 ##### R: RÉORGANISER
 
-D’autres dispositions ?  
+D’autres dispositions... 
 D’autres séquences ? Un ordre différent ?
 
-....................................................................................
 
 ....................................................................................
 
@@ -206,20 +196,18 @@ D’autres séquences ? Un ordre différent ?
 
 ##### R: RENVERSER (Inverser)
 
-Inverser le positif et le négatif ou tromper les attentes ?  
+Inverser le positif et le négatif ou tromper les attentes... 
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
-....................................................................................
 
 ....................................................................................
 
 ....................................................................................
 
+### Créativité & savoir
 
 
-Nous avons abordé dans ce chapitre la créativité. Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
-
-N'oubliez pas qu'il y a 4 étapes de l'apprentissage : 
+Nous avons abordé dans ce chapitre la créativité. Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. Il existe 4 étapes de l'apprentissage : 
 
 1. Incompétence, inconsciente : *"Je ne sais pas que je ne sais pas"*. 
 2. Incompétence, consciente : *"Je sais que je ne sais pas"*.

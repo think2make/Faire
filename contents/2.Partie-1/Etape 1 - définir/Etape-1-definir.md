@@ -52,7 +52,14 @@ Nous considérons q'une définition claire d'un projet comporte 7 questions à r
 
 Cela signifie que nous pouvons conaitre tout les éléments de la conséquence d'un projet en recherchant et en définissant ces 7 questions. 
 
+### Par où commencer 
 
+Il est parfois difficile de savoir quel sujet empoigner. Prenez un sujet qui illustre globalement votre activité donc qui est important pour vous. Qui peu apporter un retour sur investissement intéressant - personnel et professionnel. Mais ne soyez pas cascadeur, évitez de démarrer avec un projet critique pour votre vie. Exemple de sujets : 
+
+- Créer valeur : 
+- Marketing : 
+- Vente : 
+- Délivrer : 
 
 
 #### 5 éléments d'un projet :
@@ -70,7 +77,7 @@ Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Qu
 
 ....................................................................................
 
-....................................................................................
+
 
 
 
@@ -84,7 +91,7 @@ But global/désir : quel est le but, la vision ? Où voulons-nous aller ? Pourq
 
 ....................................................................................
 
-....................................................................................
+
 
 
 
@@ -96,7 +103,7 @@ Objectif : quelle est la prochaine étape pour atteindre le but global ? Notez 
 
 ....................................................................................
 
-....................................................................................
+
 
 
 
@@ -110,7 +117,7 @@ Résultats attendus : à quoi va ressembler concrètement le livrable ? Ecrivez
 
 ....................................................................................
 
-....................................................................................
+
 
 
 
@@ -124,7 +131,7 @@ Critères de succès : comment allons-nous mesurer le succès ? Sur quel critè
 
 ....................................................................................
 
-....................................................................................
+
 
 
 

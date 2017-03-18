@@ -11,10 +11,8 @@
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*". Et de ne pas réussir à voir en mode "*et*", de façon complémentaire. Il en va de même dans la façon dont nous décidons des solutions. Dans le chapitre précédent, nous avons vu la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire "c'est juste ou c'est faux". 
 
 Dans ce chapitre, nous plongeons dans la phase de convergence. Ici nous allons détailler comment décier sans détruire. Comme la phase de divergence, cette phase de convergence comporte quatre principes. 
-
 En constant que la plupart des défis ne sont pas compliqués ou impossibles mais juste difficilement perceptible ou la solution est invisible, nous allons voir comment prototyper des idées car un prototype vaut mille mots et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. 
-
-Et enfin, nous parcourerons les moyens pour évaluer et décider efficacement d'une idée. 
+Et enfin, nous parcourerons les trois méthodes  pour évaluer et décider selon la typologie de votre sujet.
 
 ### 4 principes de la décision
 
@@ -59,11 +57,28 @@ Il est essentiel d'avoir un language universel pour la compréhension d'une solu
 Il y six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayons* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
 
 1. **Qui/Quoi :** Si vous souhaitez illustrer un nom, dessinez **un portrait ** pour montrer le sujet ou l'objet.
+
+![](../contents/img/1.Quoi.png)
+
 2. **Combien :** Si vous souhaitez illustrer un nombre, dessinez **un diagramme** pour montrer le nombre d'éléments.
+
+![](../contents/img/2.Combien.png)
+
 3. **Où :** Si vous souhaitez illustrer une énumération d’objets, dessinez **une carte** pour montrer la relation entre eux.
+
+![](../contents/img/3.Ou.png)
+
 4. **Quand :** Si vous souhaitez illustrer une histoire, dessinez **une chronologie** pour exposer les événements dans l'ordre.
+
+![](../contents/img/4.Quand.png)
+
 5. **Comment :** Si vous souhaitez illustrer un enchaînement d'événements, dessinez un **logigramme** pour montrer comment une chose a provoqué une chose, puis une autre chose.
+![](../contents/img/5.Comment.png)
+
 6. **Pourquoi :** Si vous souhaitez illustrer une multitude de faits, dessinez **un graphique** à plusieurs variables pour décrire l'interaction à partir d'un seul schéma.
+
+![](../contents/img/6.Pourquoi.png)
+
 
 ###### Un exemple
 Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le *quand*). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
@@ -77,11 +92,9 @@ Prenez une feuille et un crayon et dessinez votre idée maintenant.
 
 ### Simplifiez vos idées : trois façons d'y arriver
 
-Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel  pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité de veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme.
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel  pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité ne veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme, pourtant la finalité l'est.
 
 La difficulté n’est pas a priori *comment* simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas facile. La meilleure façon de procéder est d’aller par réduction.
-
-Note : Ces  sont autant utilisables pour un produit matériel ou immatériel (site web, application, etc.)
 
 **Atténuer :** 
 
@@ -97,6 +110,17 @@ En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplif
 
 ## Evaluer les idées 
 
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] de base que vous pouvez utiliser pour votre sujet : 
+
+- \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
+
+- \faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité, est-ce viable ou pas. 
+
+- \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
+
+[^8]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
+
+
 La meilleure façon de décider de la bonne idée, est d'impliquer les personnes qui vont être confronté à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
 
 - **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
@@ -108,45 +132,25 @@ Avec cette méthode vous démontrer qualitativement "combien" une idée est appr
 
 Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement polarisées qui sont intéressantes, plutôt que celles qui ont les plus hautes moyennes et une faible polarisation.
 
-### Une bonne idée : trois Critères fondamentales 
-
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] de base que vous pouvez utiliser pour votre sujet : 
-
-\faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
-\faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité, est-ce  sa viable ou pas. 
-\faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
-
-[^8]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
 
 
-### Analyser sans détruire : quatre questions
 
-Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif. 
+### Analyser sans détruire : quatre questions stratégique
+
+Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative . 
 
 - **Pluses :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 
 - **Concerns :** Quels sont les risques ?
-- **Overcome concerns :** Comment coutourner ces risques ? 
+- **Overcome concerns :** Comment coutourner ces risques ?* 
 
-La quatrième question nécessite souvent une deuxième itération de recherche d'idées (divergence) pour contourner les risquess. 
-
-### Facile, Difficile, Plaisant, Ennuyeux
-
-Un autre moyen pour décider est de mettre les idées sur 4 catégories : 
-
-- faciles et plaisantes
-- faciles et ennuyeuses
-- difficiles et plaisantes
-- difficiles et ennuyeuses 
-
-Vous pouvez de cette façon avoir une vue d'ensemble avant la décision finale. Logiquement, les solutions difficiles et ennuyeuses seront éliminées rapidement. 
-
+*La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risquess. 
 
 
 ### Etude de marché rapide : 10 questions à se poser 
 
-Si votre projet, défini dans l'étape 1, est un sujet en lien avec l'entreprise, consiste à mettre sur le marché un nouveau processus, service ou produit. Et que le temps vous manque. Alors vous pouvez utiliser ces 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. 
+Le succès dépend grandement de la capacité à prendre des décisions rapidement. Et le temps vous manque. Alors vous pouvez utiliser ces 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché rapide. 
 
 #####Consignes 
  
@@ -171,7 +175,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Taille du marché :** Combien de personnes sont prêtes à acheter ce genre de choses ?
 
@@ -183,7 +187,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Prix possible :** Quel est le prix le plus élevé qu’un acheteur type serait prêt à payer pour trouver une solution à son problème ?
 
@@ -195,7 +199,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Coût d’acquisition d’un client :** Est-il facile de gagner un nouveau client ? En moyenne, combien allez-vous investir – en termes d’argent, de temps et d’énergie – pour générer une vente ?
 
@@ -207,7 +211,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Coût pour délivrer la valeur :** A combien estimez-vous le coût de la création de la valeur pour la délivrer en termes de temps, d’argent et d’énergie ?
 
@@ -219,7 +223,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Originalité de l’offre :** Quel est le degré de singularité de votre offre comparée aux offres existantes de la concurrence, et dans quelle mesure est-il facile pour vos concurrents de vous copier ?
 
@@ -231,7 +235,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Rapidité de mise sur le marché :** Avec quelle rapidité pouvez-vous créer quelque chose à vendre ?
 
@@ -243,7 +247,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Investissement initial :** Combien allez-vous devoir investir avant d’être prêt à vendre votre produit ?
 
@@ -255,7 +259,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 **Potentiel de ventes additionnelles :** Pourriez-vous réaliser des ventes connexes à l’offre que vous proposez à vos clients ?
 
@@ -267,7 +271,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 
 **Potentiel de persistance :** Une fois que vous avez créé votre offre initiale, quelle somme de travail supplémentaire allez-vous devoir lui consacrer pour continuer à la vendre ?
@@ -280,7 +284,7 @@ Remarques :
 
 ....................................................................................
 
-....................................................................................
+
 
 
 

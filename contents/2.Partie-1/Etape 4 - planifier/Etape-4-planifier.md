@@ -30,7 +30,7 @@ Il existe différentes approches de planification comme Gantt[^9], PERTT[^10], o
 
 [^10]: **Pert** : technique de modélisation de projet. Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
 
-[^11]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles et itératives, ainsi que sur la communication et la collaboration au sein d'une équipe.   
+[^11]: **SCRUM/Agile** : ensemble de méthodologies issues du développement informatique, mettant l'accent sur des démarches flexibles, itératives et sur la communication et collaboration au sein d'une équipe.   
 
 Commencez par une planification *par scénario*, qui permet de visualiser le scénario catastrophique ou le scénario idéal. Posez-vous les questions suivantes : 
 
@@ -89,30 +89,36 @@ Peu de personnes planifie leur temps hebdomadaire pourtant il existe pléthores 
 1. Analysez la semaine qui vient de s'écouler. Pour ce faire, deux questions à poser à vous-même :
 >Quelles sont les cinq plus importantes lessons j'ai appris des expériences de cette semaine ?  2. Définissez vos objectifs pour la semaine à venir (par ex : 5 objectifs au max)
 >Quelles sont mes cinq objectifs pour la semaine à venir ?
-3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. **Conseils :** 
+3. Priorisez en mettant les points les plus importants au début de la semaine4. Laissez des espaces de temps pour des imprévus5. Faites les choses prévues au moment prévu. ![](../contents/img/agenda-semaine.png)
 
-- Ayez trois actions en réserve (planifier pour la semaine suivante, mais garder si une tâche s'annule ou se déplace)
-- Structurez les journées de votre semaine en thématique 
+**Un conseil**
+
+Structurez les journées de votre semaine en thématique. Afin d'éviter de sauter d'une tâche à l'autre et d'etre complémentent surmené à la fin de la journée.  
+
+![](../contents/img/Agenda_semaine_activites.png)
 
 
-**Intégrer printscreen planification semaine.**
+##### A propos des réunions 
 
 
 
-![](../contents/img/agenda-semaine.png)
+- Avez-vous remarqué que la plupart du temps, les séances durent la durée que nous avons préalablement fixé - soit 60 minutes. Dont 20 minutes sont consacré à l'essentiel et 40 minutes aux loisirs de pêche de Fred. Il suffit de définir des crénaux de 15 minutes ou 30 minutes pour avancer plus effiacement et les loisirs peuvent être discuté à l'occasion d'un verre hors du travail. 
+-  Trop souvent, on passe dutemps dans les réuions sans avoir clairment défini le délivrable de la séance. Définissez le but de la réunion avant la réunion. Posez-vous la question suivante : 
+>Que voulons-nous atteindre avant de quitter la séance ? 
+- En définissant clairement le but à atteindre de la séance, vous pouvez définir quel mode de communication est le plus efficace (il y a tant de bonnes façon de communiquer aujour'dhui - si rapide et non critique: SMS, email. Si cela nécessite des interactions aller-retour : téléphne,conférence téléphonique. Si interaction personnelle : rencontre face-à-face). Quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. Parfois, en définissant un lieu tiers, par exemple un espace de coworking, vous pouvez influer sur les 3 facteurs - vous déiniffsez un lieu neutre, le temps qui vous coresspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum. 
+
+
+
+
+
 
 
 ### Planifiez le jour 
 
-Définissez vos zones de productivité ensuite planifiez une architecture de base d'une journée, par exemple : 
+Il y a bien longtemps, un certain Frederick Winslow Taylor inventa l'organisation scientifique du travail - le taylorisme. Avec différentes méthodes de chronométrage, le but était de définir clairement le temps que l'opérateur passe à chaque tâche. Sans revivre les temps modernes, définissez vos zones de productivité et planifiez une architecture de base d'une journée pour pouvoir intégrer des tâches qui fassent sens et que vous pouvez achever avec efficacité. Par exemple : 
 
-![](../contents/img/zone_productivite.jpeg)
+![](../contents/img/zone_productive.png)
 
- 
-Nos activités favoris par zone de productivité : 
-
-- Zone de basse productivité : emails, appels, séances
-- Zone de haute productivité : code, design, écriture, etc.
 
 La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme **RescueTime**[^12].
 

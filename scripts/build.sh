@@ -63,17 +63,18 @@ END {
 
 pandoc -f markdown --template=../templates/custom $TEMP \
 	--latex-engine=xelatex \
-    --variable mainfont="HKSerif-Regular" \
-    --variable boldfont="HKSerif-Bold" \
-    --variable italicfont="HKSerif-Italic" \
-    --variable sansfont="HK Grotesk Pro" \
-    --variable fontsize=9pt \
-    --variable urlcolor=black \
-    --variable linkcolor=black \
-    --variable documentclass=book \
-    --toc --toc-depth=1 \
-    --listings \
-    --include-before-body=../contents/infocouverture.txt \
-    -o $OUTPUT
+  --variable lang=french \
+  --variable mainfont="HKSerif-Regular" \
+  --variable boldfont="HKSerif-Bold" \
+  --variable italicfont="HKSerif-Italic" \
+  --variable sansfont="HK Grotesk Pro" \
+  --variable fontsize=9pt \
+  --variable urlcolor=black \
+  --variable linkcolor=black \
+  --variable documentclass=book \
+  --toc --toc-depth=1 \
+  --listings \
+  --include-before-body=../contents/infocouverture.txt \
+  -o $OUTPUT
 
 ## End of file

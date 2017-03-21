@@ -34,3 +34,12 @@ Erreurs possibles :
 LaTeX Error: File `flushend.sty' not found. - installer l'extension Latex "sttools" abec la commande suivante:
 
 sudo tlmgr install sttools
+
+Font not found: the font "FontAwesome" cannot be found.
+
+Il faut installer la fonte FontAwesome, en la téléchargeant ici: http://fontawesome.io/
+
+* Dézipper le fichier Zip téléchargé.
+* Dans le dossier Fontawesome, ouvrir le dossier "fonts".
+* Double-cliquer le fichier FontAwesome.otf pour l'installer.
+

@@ -19,7 +19,22 @@
 - manque de critères d'évaluation du  succès 
  
 
-#### Sept causes et questions :
+### Par où commencer 
+
+Il est parfois difficile de savoir quel sujet empoigner et comment le faire. Prenez un sujet qui illustre globalement votre activité donc qui est important pour vous. Qui peu apporter un retour sur investissement intéressant - personnel et professionnel. Mais ne soyez pas cascadeur, évitez de démarrer avec un projet critique pour votre vie. Exemple de sujets : 
+
+- Créer valeur : Comment anticiper les besoins de nos clients actuels ? A quoi ressembleront nos clients à l'avenir ? 
+- Marketing : Comment créer le dialogue avec nos clients actuels ? Comment attirer davantage de clients pour notre offre ? Comment définir notre avantage en une phrase ? 
+- Vente : Comment ....? Comment accélérer notre processus de vente ? 
+- Délivrer : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
+
+Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définir de manière *smart*[^2] votre projet permet ainsi, d'être au clair le quoi à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel car concrétiser un projet peut prendre du temps, beaucoup de temps. 
+
+
+[^2]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
+
+
+#### Sept causes et sept questions :
 
 Souvent les projets ont un cadre est tellement bien défini qu'il ne laisse plus de liberté pour travailler dessus. C'est comme si on tente déjà de décider de ce qu'on va faire sans avoir encore compris ce qu'il faudrait faire. 
 
@@ -50,110 +65,13 @@ Nous considérons q'une définition claire d'un projet comporte 7 questions à r
 - Pourquoi 
 
 
+
 Cela signifie que nous pouvons conaitre tout les éléments de la conséquence d'un projet en recherchant et en définissant ces 7 questions. 
 
-### Par où commencer 
-
-Il est parfois difficile de savoir quel sujet empoigner. Prenez un sujet qui illustre globalement votre activité donc qui est important pour vous. Qui peu apporter un retour sur investissement intéressant - personnel et professionnel. Mais ne soyez pas cascadeur, évitez de démarrer avec un projet critique pour votre vie. Exemple de sujets : 
-
-- Créer valeur : 
-- Marketing : 
-- Vente : 
-- Délivrer : 
-
-
-#### 5 éléments d'un projet :
-
-En prenant la posture du journaliste définissez votre projet. Gardez uniquement les informations utiles, intéressantes et stables.  
-
-
-\faMapPin  
-
-Situation : quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des données qui peuvent être vérifiés. 
-
-*Exemple : Vous savez que les extrateresstre atérissent sur la planète terre le 12 mars 2037. Vous ne savez pas si c'est pour dire un bonjour amical ou pour attaquer l'humanité.*
-
-....................................................................................
-
-....................................................................................
 
 
 
-
-
-\faMapSigns 
-
-But global/désir : quel est le but, la vision ? Où voulons-nous aller ? Pourquoi fait-on ce qu'on fait ? Définissez le but poursuivi par votre projet.
-
-*Exemple : Votre vision est de continuer de vivre de façon harmonieuse avec les autres - peu importe leur forme.* 
-
-....................................................................................
-
-....................................................................................
-
-
-
-
-
-\faSpaceShuttle 
-
-Objectif : quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet de façon brève. Exemple: "Implémenter une nouvelle procédure de pause qui favorise le breakdance dans nos ateliers de fabrication"? 
-*Exemple : Formuler deux stratégies. La première, l'accueil amical. La deuxième, la protection.* 
-....................................................................................
-
-....................................................................................
-
-
-
-
-
-\faCube 
-
-Résultats attendus : à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève. Exemple "une carte de route avec 3 actions à implémenter par nos équipes "
-
-*Exemple : Chaque stratégie comporte un plan de route impliquant une temporalité et des actions précises et des personnes spécifiques assignées.* 
-
-....................................................................................
-
-....................................................................................
-
-
-
-
-
-\faStar 
-
-Critères de succès : comment allons-nous mesurer le succès ? Sur quel critères(s) allez-vous évaluer le succès ? Ecrivez si possible des critères mesurables mais gardez à l'esprit que les critères qualitatives qui sont difficilement mesurable peuvent le devenir par la suite. Notez les également.
-
-*Exemple : les plans d'action convient aux membres intergouvernemaentaux, et sont validés par eux. Les informations importante et urgentes sont partagés par tous.*
-
-....................................................................................
-
-....................................................................................
-
-
-
-
-
-
-
-### Trois éléments importants pour définir un défi
-
-##### 1. L'objectif SMART
-
-Nous n'irons pas dans le détail de notre exemple loufoque, gardez néanmoins de définir des objectifs clairs. L'acronyme SMART[^2] est un excellent moyen pour cela. 
- 
-- **S**pécifique : l'objectif doit être simple à comprendre.
-- **M**esurable : l'objectif doit être quantifiable.
-- **A**tteignable : l'objectif doit être ambitieux et raisonnable.
-- **R**éaliste : l'objectif doit être empoignable. 
-- **T**emporel : l'objectif doit avoir une date ou délai précis.
-
-[^2]: cette façon de procédé a été introduit la première fois en 1981 par le consultant George T. Doran. 
-
-Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définir de manière *smart* votre projet permet ainsi, d'être au clair le quoi à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel car concrétiser un projet peut prendre du temps, beaucoup de temps. 
-
-##### 2. Questionner : l'outil fondemantal pour penser et faire
+##### Questionner : l'outil fondemantal pour penser et faire
 
 > « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  EinsteinDepuis l’école, on nous apprend à répondre, et non à imaginer des questions. Nous pouvons devenir de meilleurs poseurs de questions. 
 Savoir se poser les bonnes questions, c’est la moitié de la solution. Pour cela, commencez par identifier les informations nécessaires avant de démarrer l’exploration des solutions. 
@@ -175,38 +93,105 @@ Une bonne question c'est une question :
 Un exemple pour illustrer le degré de complexité d'une question : 
 ![](../contents/img/pyramide_question.png)
  
-##### 3. Les rôles 
 
-Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a tendance à l'accorder au manque de communication. Hors, ce qui manque souvent c'est des rôles clairs pour travailler ensemble. Notre expérience montre qu'il existe trois profils à intégrer dès le début du projet. 
+
+
+
+
+
+#### 5 éléments d'un projet :
+
+En prenant la posture du journaliste définissez votre projet. Gardez uniquement les informations utiles, intéressantes et actuelles. Et n'oubliez pas l'acronyme SMART pour la définition d'objectif. 
+Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence de la définition d'un sujet d'innovation. D'autres éléments, comme les rôles des personnes dans un projets ne sont pas inclus (cf. plus bas). 
+ 
+
+
+\faMapPin  
+
+**Situation :** quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? Ecrivez des données qui peuvent être vérifiés. 
+
+*Exemple : Vous savez que les extrateresstre atérissent sur la planète terre le 12 mars 2037. Vous ne savez pas si c'est pour dire un bonjour amical ou pour attaquer l'humanité.*
+
+....................................................................................
+
+....................................................................................
+
+
+
+
+
+\faMapSigns 
+
+**But global/vision/désir :** quel est le but, la vision ? Où voulons-nous aller ? Pourquoi fait-on ce qu'on fait ? Définissez le but poursuivi par votre projet.
+
+*Exemple : Votre vision est de continuer de vivre de façon harmonieuse avec les autres - peu importe leur forme.* 
+
+....................................................................................
+
+....................................................................................
+
+
+
+
+
+\faSpaceShuttle 
+
+**Objectif :** quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet de façon brève. Exemple: "Implémenter une nouvelle procédure de pause qui favorise le breakdance dans nos ateliers de fabrication"? 
+*Exemple : Formuler deux stratégies. La première, l'accueil amical. La deuxième, la protection.* 
+....................................................................................
+
+....................................................................................
+
+
+
+
+
+\faCube 
+
+**Résultats attendus :** à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève. Exemple "une carte de route avec 3 actions à implémenter par nos équipes "
+
+*Exemple : Chaque stratégie comporte un plan de route impliquant une temporalité et des actions précises et des personnes spécifiques assignées.* 
+
+....................................................................................
+
+....................................................................................
+
+
+
+
+
+\faStar 
+
+**Critères de succès :** comment allons-nous mesurer le succès ? Sur quel critères(s) allez-vous évaluer le succès ? Ecrivez si possible des critères mesurables mais gardez à l'esprit que les critères qualitatives qui sont difficilement mesurable peuvent le devenir par la suite. Notez les également.
+
+*Exemple : les plans d'action convient aux membres intergouvernemaentaux, et sont validés par eux. Les informations importante et urgentes sont partagés par tous.*
+
+....................................................................................
+
+....................................................................................
+
+
+
+
+### Trois rôles
+
+Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a tendance à l'accorder au manque de communication. Hors, ce qui manque souvent c'est des rôles clairs pour travailler ensemble. Notre expérience montre qu'il existe trois rôles à intégrer dès le début du projet. Par rôle, nous entendons non pas la fonction, le statut ou le titre mais une posture que la personne prend pendant un temps T - indépendamment de sa fonction et son statut. 
 
 ![](../contents/img/IMG_etape1_3profils.jpg)
 
-- **Représenter :** son rôle est d'apporter son expertise sur le sujet, d'amener un regard interne à l'entreprise - se sont souvent les collaborateurs internes ou des experts externes de la branche de métier. 
-- **Renverser :** son rôle est d'apporter un regard nouveau et parfois déroutant. Communément appelé "lateral thinker" - se sont souvent des profils recrutés à l'extérieur de l'entreprise et le profils est défini quand les informations sont récoltées au début du projet. Cela peut également être des personnes de l'interne à l'entreprise. 
-- **Faciliter :** son rôle est d'apporter les techniques d'animation combiné à une connaissance de la thèmatique traitée, sans être un expert pointu - se sont souvent des profils qui peuvent être formé en interne de l'entreprise ou mandaté depuis l'externe. 
-
-###### le facilitateur 
-
-Contrairement à la représentation dominante du leadership, dans laquelle le leader est perçu comme la personne la plus importante à la table, un facilitateur favorise en premier lieu l’émergence des idées par le groupe. Il a pour but d'amener les équipes dans un état de *flow*[^1]. Grace à la facilitation, les séances peuvent devenir plus efficientes.  
-
-
-
-Pour nos clients, nous enfilons souvent le rôle du facilitateur. Nos recommandations pour vous : 
-
-- avant un projet, préparez le déroulement que vous souhaitez aborder. S'il y a des éléments sensibles à traiter (car il y a toujours des éléments sensibles à traiter), prevoyez de travailler dessus à la moitié de la séance ou du projet. La meilleure façon, c'est de poser des questions, c'est la façon la plus simple et la plus efficace pour avancer (nous aborderons la thématique du questionnement tout au long du livre). 
-
-- au début d'un projet ou d'un workshop, commencez par adopter un point de vue neutre, sans position, votre rôle est d'impliquer les autres et à les aider à penser. au fur et à mesure de l'avancement, vous pouvez apporter vos éclairage dans les réflexions. 
-
-- prévoyez du temps, vous ne pouvez pas réunir des experts, des collaborateurs et des lateral thinkers pour une durée de 45 minutes. C'est frustrant et le résulat est médiocre. des créneaux de demi-jour, c'est le temps à prévoir si vous réunissez une dizaine de personnes. Et soyez flexible (et optimiste) avec le déroulement, les choses peuvent changer en cours de route. 
+- **Représenter :** son rôle est d'apporter son expertise sur le sujet, d'amener un regard interne et une expertise sur le défi ou sur l'entreprise - se sont souvent les collaborateurs internes, des experts externes de la branche de métier ou des clients ou fournisseur de l'entreprise. 
+- **Renverser :** son rôle est d'apporter un regard nouveau et parfois déroutant. Se sont des personnes qui peuvent apporter une pensée latérale[^4] (par opposition à la pensée verticale soit clasique et continue) - se sont souvent des profils recrutés à l'extérieur de l'entreprise et le profils est défini quand suffisamment d'informations sont récoltées au début du projet. Il est également possible de recruter ces personnes de l'interne à l'entreprise en évaluant le potentiel créatif des contributeurs du projet. 
+- **Faciliter :** son rôle est d'apporter les techniques d'animation combiné à une connaissance de la thèmatique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^1] - que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser - se sont souvent des profils qui peuvent être formé en interne de l'entreprise ou mandaté depuis l'externe, à condition qu'il puisse amener un point de vue neutre.
 
 ![](../contents/img/IMG_facilitateur.jpg)
 
 
+Cela signifie que faire contribuer ces trois rôles créer un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe - enfin cela a toujours été. Contrairement àa la croyance commune, dans les entreprises les groupes de personnes s'appelle des équipes mais se sont et le reste des groupes. Car les objectifs - même si ils sont commun à l'entrprise, chacun a son propre but à atteindre. En fin d'année, il y a une évaluation individuelle et non de l'équipe. 
 
 
+[^1]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*
 
-[^1]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. 
-
+[^4]: Lateral Thinking (pensée laterale) est un concept élaboré par le Docteur Edward de Bono qui a pour but de façoriser la pensée divergente - c'est-à-dire l'éaboration de nombreuses solutions originales.
 
 
 \newpage

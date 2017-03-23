@@ -7,6 +7,7 @@ Générer de nouvelles idées n'est pas une chose innée, tout le monde est capa
 Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
 La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. 
+Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
 
 Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Mais, il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. 
 
@@ -25,16 +26,20 @@ Les outils de créativité portent souvent des noms exotiques. L'ensemble de ces
 
 - **Phase de convergence** permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme d'une solution analysées  pour prendre des décision, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
 
-La résolution creative de problème[^2] est une approche complète et structurée que nous utilisons et qui a été mis au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode Brainstorming. D'autres approches, comme la Design Thinking,
+Cest trois phases sont une suite ordrée. Leur temporalité indivduelle est variabl, allant de quelques heures à quelques jours. l?ensemble peut constituer un créneaux temps de 3 semaines pour des petits projets à  3 mois pour des projets d'envergure. Le livrable à la fin d'un premier créenau temps est un prototype. 
+
+La résolution creative de problème[^2] est une approche complète et structurée que nous utilisons et qui a été mis au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode Brainstorming. D'autres approches, comme la Design Thinking,...
 
 [^2]: l'approche Creative Problem Solving (résolution creative de problème) réuni un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Fondation aux Etats-Unis.
 
-### Les places d'innovation 
+### Contenu & Contenant 
+
+Jusqu'à maintenant, depuis le chapitre 1, nous avons parlé du contenu. Dans le reste de ce chaptire, nosu allons aborder le contenant. 
 
 Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenu est votre café. Le contenant la tasse. 
 
 - **Le contenu :** nous l'avons travaillé jusqu'ici avec le cahier des charges et allons continuer avec les questions de remue-méninges.
-- **Le contenant : ** c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement,etc.) est également un élément fondamental. Ce sont les *places* (voir introduction, trois P pour innover).
+- **Le contenant :** c’est-à-dire, le cadre du projet (les artefacts, méthodes, déroulement,etc.) est également un élément fondamental. Ce sont les *places* (voir introduction, trois P pour innover).
 
 
 Si vous vous voulez donner envie à quelqu'un de manger des pop-corns, amenez-le au cinéma. L'environnement et le contexte influence beaucoup. Nous le constatons à chaque fois avec les projets que nous gérons pour nos clients. Le contenu (le fond - le sujet)et le contenant (la forme - la façon de faire) ont un poid l'un aussi important que l'autre sur le processus créatif. 
@@ -84,7 +89,7 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propos
 **NOTE :** Ces règles sont un standard, cela ne signifie pas que les personnes avec qui vous aller rechercher des idées doivent absolument respecter ces règles ou que vous devez absolument leur dire au début d'une séance de recherche d'idées. Parfois, la spontanéité est d'être spontanée et ne pas instaurer directement des "principes" à respecter. Une façon alternative de procéder : proposez leur de définir les règles ensemble. Ainsi d'autres éléments, peut-etre plus fondamentals, peuvent surgir pour votre projet. 
 
 
-### Préparez la génération d'idées 
+### Recette secrète pour générer des idées 
 
 Sans attendre plus longtemps, mettez la main à la pâte. Voici un exercice pour vous. 
 Le but est de transformer le contenu de votre cahier des charges en exercices de créativité. Ainsi, vous arriverez à transformer un problème en opportunité et à générer des idées réjouissantes.
@@ -93,18 +98,17 @@ Le but est de transformer le contenu de votre cahier des charges en exercices de
 a. reprenez le cahier des charges défini dans le chapitre 1
 b. extrayez les mots-clés importants, des mots forts qui ont un aspects très spécifiques (utilisez un souligneur/stabylo). 
 c. faite un inventaire des mots-clés, et catégorisez-les par thème. Chaque thème sera un domaine de recherche. 
-d. transformez les mots-clés de chaque domaine en questions stimulantes et surprenantes. Ci dessous avec l'acronyme SCAMPER, vous trouverez quelques inspiration. Ce sont des questions que vous pourrez utiliser durant *la phase de divergence* (pour chercher de nouveaux champs des possibilités)
-e. formulez la question centrale de votre recherche, c'est la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simpe et pertinente (étape 1 - définir).
-f. Faite une pause. Oui, les pauses c'est importants. Vous pouvez maintenant commencer à générer des idées, c'est-à-dire, répondre aux questions de divergence (8 questions inspirées de l'outil SCAMPER). Une fois que vous pensez disposer d'alternatives et d'inpsirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence). 
+d. transformez les mots-clés de chaque domaine en questions stimulantes et surprenantes (Cf. l'outil SCAMPER). Ce sont des questions que vous pouvez utiliser durant *la phase de divergence* (pour chercher de nouveaux champs des possibilités), formulez la question centrale de votre recherche, c'est la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simpe et pertinente (étape 1 - définir).
+f. Faite une pause. Oui, les pauses c'est importants. Vous pouvez maintenant commencer à générer des idées, c'est-à-dire, répondre aux questions de divergence (8 questions que vous avez élaboré grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inpsirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence). 
 
 
 
 
 ![](../contents/img/Etapes-creatif-chapitre-2.jpg)
 
-#### SCAMPER: des questions pour produire des idées 
+#### Questionstorming : des questions pour produire des idées 
 
-Apprendre à formuler des questions brûlantes permet récolter des idées flamboyantes. Voici une liste de questions volées de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*), destinées à faire jaillir des idées que vous pouvez utiliser personnellement ou en groupe. Inspirez-vous de ces questions pour les adapter à votre contexte. 
+Apprendre à formuler des questions brûlantes permet de récolter des idées flamboyantes. Nous avons choisi la technique de concassage SCAMPER, crée par Alex Osborn (créateur du Brainstorming, qui permet grâce à une liste de questions, faire jaillir des idées. Inspirez-vous de ces questions pour les adapter à votre contexte. Vous pouvez utiliser cet outil personnellement pour élaborer des questions ou sous forme d'exercice en groupe pour élaborer des questions et vous faciliter à générer de nouvelles idées ou à les transformer en nouveaux produits, projets ou services. 
 
 
 ##### S: SUBSTITUER
@@ -204,17 +208,7 @@ Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
 ....................................................................................
 
-### Créativité & savoir
-
-
-Nous avons abordé dans ce chapitre la créativité. Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. Il existe 4 étapes de l'apprentissage : 
-
-1. Incompétence, inconsciente : *"Je ne sais pas que je ne sais pas"*. 
-2. Incompétence, consciente : *"Je sais que je ne sais pas"*.
-3. Compétence inconsciente : *"Je ne sais pas que je sais"*. 
-4. Compétence consciente : *"Je sais que je sais"*. 
-
-Qelques canaux que vous pouvez utiliser si vous avez besoin d'acquérir davantage de connaissance sur le sujet que vous traitez : Recherche sur le web, bibliothèques, interviewer des experts ou utilisateurs vivant au quotidien la problèmatique. Nous procédons ainsi pour nos clients avant de mettre en marche une phase de divergence et émergence. 
+Pour aller plus loin, livre de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*)
 
 
 

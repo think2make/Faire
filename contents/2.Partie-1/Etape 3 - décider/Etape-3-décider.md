@@ -134,8 +134,6 @@ Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement 
 
 
 
-
-
 ### Analyser sans détruire : quatre questions stratégique
 
 Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative . 
@@ -148,9 +146,18 @@ Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces,
 *La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risquess. 
 
 
+### Evaluer n'est pas décider
+
+Trop souvent en entrprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter - et à la fin il n'y a personne pour décider. Durant ce chapitre, vous le lecteur avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous êtes maintenant sur le point de prendre une décision importante ? Notre suggestion : prenez votre décision le matin. 
+
+En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Et souvent trop rapidement. C'est la constatation d'une étude dirigée par le psychologue argentin Mariano Sigman[^0].
+
+[^0]: Magazine Psychoscope 2/2017
+
+
 ### Etude de marché rapide : 10 questions à se poser 
 
-Le succès dépend grandement de la capacité à prendre des décisions rapidement. Et le temps vous manque. Alors vous pouvez utiliser ces 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché rapide. 
+Le succès dépend grandement de la capacité à prendre des décisions efficacement. Et le temps vous manque. Alors vous pouvez utiliser ces 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché rapide. 
 
 #####Consignes 
  

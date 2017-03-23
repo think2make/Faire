@@ -36,7 +36,7 @@ Trouver l'équilibre!
 
 
 
-### Célébrez vos échecs 
+### Et si faire était un échec
 
 Christophe Colomb souhaitez aller en Inde. Objectivement parlant, il a échoué. Mais. Il a trouvé l'amérique. 
 

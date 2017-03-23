@@ -1,4 +1,4 @@
-# Chapitre 5. agir
+# Chapitre 5. faire
 
 "il n'y a de realité que dans l'action."
 

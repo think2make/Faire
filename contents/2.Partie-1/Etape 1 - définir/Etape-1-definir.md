@@ -31,6 +31,8 @@ Il est parfois difficile de savoir quel sujet empoigner et comment le faire. Pre
 Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définir de manière *smart*[^2] votre projet permet ainsi, d'être au clair le quoi à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel car concrétiser un projet peut prendre du temps, beaucoup de temps. 
 
 
+
+
 [^2]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
 
 
@@ -123,6 +125,9 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 \faMapSigns 
 
 **But global/vision/désir :** quel est le but, la vision ? Où voulons-nous aller ? Pourquoi fait-on ce qu'on fait ? Définissez le but poursuivi par votre projet.
+
+**Remarque sur l'objectif SMART : ** trop souvent, on se focalise trop sur l'objectif. Les grandes idées et visions n'ont rien de SMART - elles sont non-mesurable et même inatteignable. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. Dane cette partie, décrivez le but ultime de votre produit ou service - ou votre entreprise. 
+
 
 *Exemple : Votre vision est de continuer de vivre de façon harmonieuse avec les autres - peu importe leur forme.* 
 

@@ -40,7 +40,7 @@ Commencez par une planification *par scénario*, qui permet de visualiser le sc�
 
 Le fait d'avoir visualisé le pire permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, et de pouvoir motiver les autres à atteindre le résultat final avec vous. 
 
-##### En trois actes 
+##### Scénario en trois actes 
 
 Ensuite, traduisez votre scénario en 3 actes, comme au théâtre:  
 
@@ -60,7 +60,7 @@ Et enfin, le milieu. Se sont les actions et moyens à mettre en œuvre pour arri
 Le plus difficile est que le déroulement soit harmonieux, surtout si vous prévoyez plusieur scénarios. Peu importe si c'est de créer une nouvelle entreprise, un nouveau produit ou service ou une nouvellle façon de travailler (une processus), pour atteindre votre but vous devez créer une chaine d'actions cohérente. 
 
 
-###### Les cinq "comment"
+###### Comment implémenter une idée : Les cinq "comment"
 
 Pour planifier des tâches de façon harmonieuses, vous pouvez stimuler votre cerveau avec une méthode simple : une fois que vous avez défini ce que vous souhaitez accomplir, posez-vous la question : "comment faire?". Une fois que vous avez la réponse à cette première question, posez-vous à nouveau la question "comment faire?" à votre réponse, ainsi de suite. 
 
@@ -69,8 +69,7 @@ La méthode des "5 comment" est un outil simple qui permet de connecter les buts
 Durant cette simulation, vous pouvez également découvrir plusieurs alternatives de chemin.
 
 
-
-
+La temporalité étant inconnu - car il n'existe pas d'expérience précédente, définissez un premier cycle de 3 semaine si cela vous semble plutôt facile et 3 mois si votre projet est plus d'envergure. La raison : il est plus facile à notre esprit de se projeter pour une priodicité de 3 mois que de 12 mois - ainsi il vous sera plus facile de créer une chaine de tâche à réaliser. 
 
 ### Planifiez le mois 
 
@@ -107,7 +106,7 @@ Structurez les journées de votre semaine en thématique. Afin d'éviter de saut
 >Que voulons-nous atteindre avant de quitter la séance ? 
 - En définissant clairement le but à atteindre de la séance, vous pouvez définir quel mode de communication est le plus efficace (il y a tant de bonnes façon de communiquer aujour'dhui - si rapide et non critique: SMS, email. Si cela nécessite des interactions aller-retour : téléphne,conférence téléphonique. Si interaction personnelle : rencontre face-à-face). Quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. Parfois, en définissant un lieu tiers, par exemple un espace de coworking, vous pouvez influer sur les 3 facteurs - vous déiniffsez un lieu neutre, le temps qui vous coresspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum. 
 
-
+Dans le chapitre 5, nous vous présenterons une méthode degestion de vos séances (méthode agile) 
 
 
 
@@ -166,10 +165,6 @@ Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un t
 Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de tolérance. Ainsi, vous risquez de faire des miracles. 
 
 
-
-### Fukc les objectifs SMART
-
-Auparavant, nous avons présenté l'acroynme SMART pour la définition de votre objectif. Beaucoup trop souvent, on se focalise trop sur l'objectif et pas assez sur le moment présent. Les grandes idées n'ont rien de SMART - elles sont non-mesurable et même inatteignable. D'où la nécessité de regarder le moment présent et faire un pas à la fois. Faite un pas après l'autre - vous allez ainsi atteindre le sommet de votre montagne. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. 
 
 
 \newpage

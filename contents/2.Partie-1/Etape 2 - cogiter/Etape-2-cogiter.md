@@ -4,7 +4,7 @@
 
 Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
 
-Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreux études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
+Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
 La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisée. 
 Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
@@ -68,7 +68,9 @@ Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser
 
 ### Les principes de la génération d'idées
 
-Il existe quatres règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement.
+Il existe quatres règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement. Ces règles sont un standard, cela ne signifie pas qu'elles doivent absolument être respectées.
+
+Parfois, la spontanéité consiste à être spontanés et non à directemnt instaurer des "principes" à appliquer. Dans le cadre d'un travai de groupe, les principes peuvent être crées ensemble. Ainsi d'autres éléments, peut-etre plus fondamentals, peuvent surgir. 
 
 **1)	Ne pas juger les idées **
 
@@ -86,7 +88,7 @@ Favoriser les idées les plus folles ou stupides. Mêmes les idées illégaux so
 
 Inspirez-vous des idées que d'autres suggèrent pour construire sur leur propositions. C'est souvent une combinaison de plusieurs idées brutes qui donne une solution pertinente. Favorisez un language "oui, et.." au lieu de "mais..."
 
-**NOTE :** Ces règles sont un standard, cela ne signifie pas que les personnes avec qui vous aller rechercher des idées doivent absolument respecter ces règles ou que vous devez absolument leur dire au début d'une séance de recherche d'idées. Parfois, la spontanéité est d'être spontanée et ne pas instaurer directement des "principes" à respecter. Une façon alternative de procéder : proposez leur de définir les règles ensemble. Ainsi d'autres éléments, peut-etre plus fondamentals, peuvent surgir pour votre projet. 
+
 
 
 ### Recette secrète pour générer des idées 

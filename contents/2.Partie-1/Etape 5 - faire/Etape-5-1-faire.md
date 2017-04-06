@@ -5,6 +5,9 @@
 Jean-Paul Sartre
 
 
+Caractèristiques et obstacles à l'action....
+
+
 Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d’être juste occupé, les fourmis le sont aussi. Vous pouvez faire beaucoup plus qu'une fourmi. 
 
 Combien de fois arrive des situations où des processus ou des produits deviennent obselètes au moment où ils ont été crées et validés ? Des collaborateurs refusent de remettre en question des choses absurdes uniquement parce que cela a été "validée" ? Que des séances interminables avec comme résultat, du vent. Des journées où malgré la bonne volonté les perturbations diverses nous amène à avoir le sentiment d'avoir rien concrétiser ? 
@@ -43,37 +46,6 @@ Apprenez à respecter le processus de gestation et soyez complé de vos progrès
 #### l'incofortable confort
 
 C'est toujours fascinant de constater à quel point nous sommes inconfortable avec certaines tâches à faire. Quand votre objectif est de faire quelque chose de novueau, vous vous trouvez naturellement dans une nouvelle situation. Cela peut être inconfortable. Apprenez à devenir confortable avec l'inconfortable. 
-
-
-### trois questions avant action
-
-Chaque décision et action a une influence sur votre entreprise et votre futur. Dans un monde aussi rapide, il est parfois difficile de savoir s'il faut agir ou pas L'auteur Suzy Welch, dans son livre 10-10-10, a mis au point trois questions qu'il s'agit de se poser avant d'agir. Vous pouvez vous en inspirer avant de passer à l'action : 
-
-- quel sera l'impact de ma décision dans **10 jours** ? 
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
-
-
-- quel sera l'impact de ma décision dans **10 mois** ? 
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
-
-
-- quel sera l'impact de ma décision dans **10 ans** ? 
-
-....................................................................................
-
-....................................................................................
-
-....................................................................................
 
 
 

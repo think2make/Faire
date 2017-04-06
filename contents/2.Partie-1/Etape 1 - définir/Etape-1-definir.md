@@ -7,7 +7,7 @@
 # Chapitre 1. définir
 
 
-> "La première ébauche de quoi que ce soit est de la merde" - Ernest Hemingway
+> « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  Einstein
 
 
 Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. On perçoit uniquement les nuages. Notre expérience auprès de centaine d'entreprise montre qu'il existe majoritairement cinq éléments manquants dans un sujet d'innovation - peu importe si c'est pour créer un nouveau service, un produit ou une nouvelle façon de travailler (un processus).
@@ -74,8 +74,7 @@ Cela signifie que nous pouvons conaitre tout les éléments de la conséquence d
 
 
 ##### Questionner : l'outil fondemantal pour penser et faire
-
-> « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  EinsteinDepuis l’école, on nous apprend à répondre, et non à imaginer des questions. Nous pouvons devenir de meilleurs poseurs de questions. 
+Depuis l’école, on nous apprend à répondre, et non à imaginer des questions. Nous pouvons devenir de meilleurs poseurs de questions. 
 Savoir se poser les bonnes questions, c’est la moitié de la solution. Pour cela, commencez par identifier les informations nécessaires avant de démarrer l’exploration des solutions. 
 
 Voici les 4 dimensions d’une question : - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…

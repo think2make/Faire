@@ -11,8 +11,18 @@ Growth hacking ?
 ### Un regard Systématique
 
 - Comprendre les systèmes
-- Analyser les systèmes
-- Améliorer les systémque
+
+Les flux
+Les stocks
+La Contrainte
+
+
+- Analyser et Améliorer les systémes 
+Mesurer > KPI 
+Tolérance
+L'échantillonage = Test Lean startup, MVP etc. 
+
+
 
 Boucle de rétroaction, contrainte, amélioration continue... 5S, TPM (total productive maintenance). But : Simplifier le travail. (voir livre: De Bono)
 
@@ -47,7 +57,7 @@ Prenez l'habituel de protocoler ces données par catégorie et prévoyez de parc
 Un outil informatique qui pourrait etre utilisé pour cela : Trello.
 
 
-### Améliorer système : faire le bilan
+##### Améliorer système : faire le bilan
 
 > Faire le bilan calmemnt en pensant à chaque instant
 
@@ -130,6 +140,18 @@ Créez votre pitch - communiquez constamment
 Trouver l'équilibre!
 
 ![Travailler / Communiquer](../contents/img/travailler-communiquer.png)
+
+« « en un seul serrage », c’est à dire sans nécessiter de démontage et de remontage, synonymes de perte de temps et de précision. 
+
+« Depuis les années 80, les notions de qualité et de lean on permis de faire un pas de plus en termes d’efficacité et de qualité de vie au travail, en instaurant davantage de polyvalence, de travail en équipe et de responsabilisation des opérateurs, notamment avec la notion d’autocontrôle. Mais les rythmes de travail restent imposés. »
+
+Vers une nouvelle façon de faire : 
+
+« Avec l’industrie 4.0 apparaît un nouveau modèle : les « organisations apprenantes ». Les salariés n’y suivent pas une procédure aveuglément pour éviter les aléas, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents sur l’ensemble des tâches, et qui « s’auto-organisent ». Leur travail intègre un fort contenu cognitif et l’homme est désormais au centre du dispositif. On parle ainsi « d’organisation réflexive » dans l’entreprise et dans les ateliers, faisant appel à l’intelligence collective. »
+
+« et, plus généralement, le télétravail remettent en cause les notions de temps et de lieu de travail. »« demain, sa mission passera d’un management de contrôle à un management d’animation et et de « mentoring » en mode projet ». « un travail vide de sens sera considéré aussi pénible qu’un travail physiquement difficile. Au-delà des conditions dans lesquelles il est réalisé, la qualité d’un travail sera jugée par son intérêt. ». « une image se rapprochant de l’artisanat, propre à réconcilier le grand-public avec l’industrie, perçue comme familière, sans danger, et destinée à satisfaire les besoins de chacun en fabricant des pièces et produits sur mesure et sur commande. »Vers l’entreprise légère et agile : « la conception doit être collaborative et les équipes de développement multidisciplinaires, fonctionnant en mode projet. »
+
+
 
 
 \newpage

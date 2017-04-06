@@ -113,6 +113,10 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 
 *Exemple : Vous savez que les extrateresstre atérissent sur la planète terre le 12 mars 2037. Vous ne savez pas si c'est pour dire un bonjour amical ou pour attaquer l'humanité.*
 
+Si nous n'arrivons pas à nous rappeler les faits et les erreurs du passé, les informations du présent, nous sommes condamné à les répéter. Une définition claire d'une situation actuelle permet de partir du bon pied pour la situation désirée. 
+
+ - Comme le dit George Santayana (Ecrivain et Philosophe) : "ceux qui ne peuvent se rappeler le passé sont condamné à le répéter."
+
 ....................................................................................
 
 ....................................................................................
@@ -125,7 +129,7 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 
 **But global/vision/désir :** quel est le but, la vision ? Où voulons-nous aller ? Pourquoi fait-on ce qu'on fait ? Définissez le but poursuivi par votre projet.
 
-**Remarque sur l'objectif SMART : ** trop souvent, on se focalise trop sur l'objectif. Les grandes idées et visions n'ont rien de SMART - elles sont non-mesurable et même inatteignable. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. Dane cette partie, décrivez le but ultime de votre produit ou service - ou votre entreprise. 
+Start with why : Trop souvent, dans les entreprises, nous nous concentrons sur le quoi : les produits ou les services. Ensuite, nous définissons le comment : les processus de travail, l'organisation, etc. Mais trop rarement, il y a une définition claire du pourquoi - pourquoi faisons-nous ce que nous faisons. La définition et la formulation du but global permet justement cette définition.
 
 
 *Exemple : Votre vision est de continuer de vivre de façon harmonieuse avec les autres - peu importe leur forme.* 
@@ -140,7 +144,11 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 
 \faSpaceShuttle 
 
-**Objectif :** quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet de façon brève. Exemple: "Implémenter une nouvelle procédure de pause qui favorise le breakdance dans nos ateliers de fabrication"? 
+**Objectif :** quelle est la prochaine étape pour atteindre le but global ? Notez le but spécifique à atteindre par votre projet de façon brève. Exemple: "Implémenter une nouvelle procédure de pause qui favorise le breakdance dans nos ateliers de fabrication" ? 
+
+
+**Remarque sur l'objectif SMART : ** trop souvent, on se focalise trop sur l'objectif. Les grandes idées et visions n'ont rien de SMART - elles sont non-mesurable et même inatteignable. Ayez un certain détachement sur vos objectifs et évitez que votre objectif vous emprisonnent. Dane cette partie, décrivez le but ultime de votre produit ou service - ou votre entreprise. 
+ 
 *Exemple : Formuler deux stratégies. La première, l'accueil amical. La deuxième, la protection.* 
 ....................................................................................
 
@@ -152,7 +160,9 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 
 \faCube 
 
-**Résultats attendus :** à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève. Exemple "une carte de route avec 3 actions à implémenter par nos équipes "
+**Résultats attendus :** à quoi va ressembler concrètement le livrable ? Ecrivez les résultats à atteindre. De façon brève. Exemple "une carte de route avec 3 actions à implémenter par nos équipes " 
+
+Les idées sont immatérielles. Un language trop "managerial" offre rarement une définition très claire de ce que nous cherchons à atteindre concrétement. Ici, le but est de mettre cela en lumière.
 
 *Exemple : Chaque stratégie comporte un plan de route impliquant une temporalité et des actions précises et des personnes spécifiques assignées.* 
 
@@ -166,9 +176,12 @@ Chaque défi est unique. Dans ce e briefing nous mettons en lumière l'essence d
 
 \faStar 
 
-**Critères de succès :** comment allons-nous mesurer le succès ? Sur quel critères(s) allez-vous évaluer le succès ? Ecrivez si possible des critères mesurables mais gardez à l'esprit que les critères qualitatives qui sont difficilement mesurable peuvent le devenir par la suite. Notez les également.
+**Critères de succès :** comment allons-nous mesurer le succès ? Sur quel critères(s) allez-vous évaluer le succès ? Ecrivez si possible des critères mesurables (quantitatifs) mais gardez à l'esprit que les critères qualitatives qui sont difficilement mesurable peuvent le devenir par la suite. Notez les également.
+
+La définition des critères de succès un bon moyen pour définir ce qui est attendu par vous ou/et ce que vous attendez des autres, cela créer de l'alignement entres les personnes impliquées et un outil de mesure pour cibler efficacement et eviter de vous disperser. 
 
 *Exemple : les plans d'action convient aux membres intergouvernemaentaux, et sont validés par eux. Les informations importante et urgentes sont partagés par tous.*
++60% des internautes inscrivent leur emails dans notre base de donnée. Le comité de direction accepte à l'unanimité notre proposition de planification stratégique. etc. 
 
 ....................................................................................
 

@@ -15,7 +15,10 @@ Sans une planification, vous risquez deux choses : La première, vous ne faite p
 
 Apprendre à ne pas gaspiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. Mais la spécificité avec le temps est le fait que nous ne pouvons pas le stocker. Par contre, nous pouvons le planifier. Les outils que nous allons vous présenter, peuvent vous aider à donner une ligne conductrice entre vos pensées et vos actes. 
 
-Le risque avec la planification, c'est de passer plus de temps à planifier qu'à agir - c'est ce qui se passe trop souvent dans les entreprises. La planification ne devrait pas accaparer la majorité de votre temps. Votre succès et votre vie n'est pas une simple unité de temps. 
+Le risque avec la planification, c'est de passer plus de temps à planifier qu'à agir - c'est ce qui se passe trop souvent dans les entreprises. Il est temps que la planification, qui après avoir été validé, deviennent caduque cesse.  La planification ne devrait pas accaparer la majorité de votre temps. Votre succès, celle de votre entreprise et votre vie n'est pas une simple unité de temps. 
+
+
+Le timing est l'élément clé dans tout aventure. Si c'est pas respecté, le cout du produit ne changera pas vraiment, par contre le cout global lié au projet augmentera de façon incontrolé. 
 
 
 
@@ -24,6 +27,7 @@ Le risque avec la planification, c'est de passer plus de temps à planifier qu'�
 Un des plus grand défi des entrepreneurs et des entrprises n'est pas de générer des idées mais de planificer celles-ci et de les implémenter. 
 
 Il existe différentes approches de planification comme Gantt[^9], PERTT[^10], ou SCRUM/Agile[^11]. Il souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte des éléments nouveaux et inconnus. 
+
 
 
 [^9]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
@@ -69,11 +73,11 @@ La méthode des "5 comment" est un outil simple qui permet de connecter les buts
 Durant cette simulation, vous pouvez également découvrir plusieurs alternatives de chemin.
 
 
-La temporalité étant inconnu - car il n'existe pas d'expérience précédente, définissez un premier cycle de 3 semaine si cela vous semble plutôt facile et 3 mois si votre projet est plus d'envergure. La raison : il est plus facile à notre esprit de se projeter pour une priodicité de 3 mois que de 12 mois - ainsi il vous sera plus facile de créer une chaine de tâche à réaliser. 
+La temporalité étant inconnu - car il n'existe pas d'expérience précédente, définissez un premier cycle de 3 semaine si cela vous semble plutôt facile et 3 mois si votre projet est plus d'envergure. La raison : il est plus facile à notre esprit de se projeter pour une priodicité de 3 mois que plus long comme 12 mois - ainsi il vous sera plus facile de créer une chaine de tâche à réaliser. 
 
 ### Planifiez le mois 
 
-Une fois le scénario établi, planifiez le premier mois. Notre expérience est le suivant, cela fonctionne rarement comme planifié. Alors pourquoi le faire ? Simplement parce qu'en planifiant votre mois, vous savez où mettre votre énergie et évitez de vous disperser. Et si vous ne vous dispersez jamais, alors c'est loccasion de commencer à vous disperser. Consignes :  
+Une fois le scénario établi, planifiez le premier mois. Notre expérience est le suivant, cela fonctionne rarement comme planifié. Alors pourquoi le faire ? Simplement parce qu'en planifiant votre mois, vous savez où mettre votre énergie et évitez de vous disperser. Et si vous ne vous dispersez jamais, alors c'est l'occasion de commencer à vous disperser. Consignes :  
 
 1. définir les activité les priorités  et les pourcentages sur les différentes actions. Définissez des objectifs pour le mois à venir à la fin du mois précédent.
 2. Si vous travaillez en équipe, définisez les personnes assignées. Si vous êtes seul, intégrer l'action de trouver des personnes à qui vous pourrez assigner des tâches. 3. Ajoutez les petites étapes de chaque objectif à l'intérieur de l'agenda du mois (par exemple : une étape par semaine). Et tenez bon. 
@@ -102,11 +106,11 @@ Structurez les journées de votre semaine en thématique. Afin d'éviter de saut
 
 
 - Avez-vous remarqué que la plupart du temps, les séances durent la durée que nous avons préalablement fixé - soit 60 minutes. Dont 20 minutes sont consacré à l'essentiel et 40 minutes aux loisirs de pêche de Fred. Il suffit de définir des crénaux de 15 minutes ou 30 minutes pour avancer plus effiacement et les loisirs peuvent être discuté à l'occasion d'un verre hors du travail. 
--  Trop souvent, on passe dutemps dans les réuions sans avoir clairment défini le délivrable de la séance. Définissez le but de la réunion avant la réunion. Posez-vous la question suivante : 
+-  Trop souvent, on passe du temps dans les réuions sans avoir clairment défini le délivrable de la séance. Définissez le but de la réunion avant la réunion. Posez-vous la question suivante : 
 >Que voulons-nous atteindre avant de quitter la séance ? 
-- En définissant clairement le but à atteindre de la séance, vous pouvez définir quel mode de communication est le plus efficace (il y a tant de bonnes façon de communiquer aujour'dhui - si rapide et non critique: SMS, email. Si cela nécessite des interactions aller-retour : téléphne,conférence téléphonique. Si interaction personnelle : rencontre face-à-face). Quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. Parfois, en définissant un lieu tiers, par exemple un espace de coworking, vous pouvez influer sur les 3 facteurs - vous déiniffsez un lieu neutre, le temps qui vous coresspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum. 
+- En définissant clairement le but à atteindre de la séance, vous pouvez définir quel mode de communication est le plus efficace (il y a tant de bonnes façon de communiquer aujourd'hui - si rapide et non critique: SMS, email. Si cela nécessite des interactions aller-retour : téléphne, conférence téléphonique. Si interaction personnelle : rencontre face-à-face). Quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. Parfois, en définissant un lieu tiers, par exemple un espace de coworking, vous pouvez influer sur les 3 facteurs - vous déiniffsez un lieu neutre, le temps qui vous correspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum d'efficacité. 
 
-Dans le chapitre 5, nous vous présenterons une méthode degestion de vos séances (méthode agile) 
+Dans le chapitre 5, nous vous présenterons une méthode de gestion de vos séances (méthode agile).
 
 
 

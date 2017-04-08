@@ -212,6 +212,8 @@ Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
 Pour aller plus loin, livre de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*)
 
+### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
 
+....
 
 \newpage

@@ -110,7 +110,7 @@ Structurez les journées de votre semaine en thématique. Afin d'éviter de saut
 >Que voulons-nous atteindre avant de quitter la séance ? 
 - En définissant clairement le but à atteindre de la séance, vous pouvez définir quel mode de communication est le plus efficace (il y a tant de bonnes façon de communiquer aujourd'hui - si rapide et non critique: SMS, email. Si cela nécessite des interactions aller-retour : téléphne, conférence téléphonique. Si interaction personnelle : rencontre face-à-face). Quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. Parfois, en définissant un lieu tiers, par exemple un espace de coworking, vous pouvez influer sur les 3 facteurs - vous déiniffsez un lieu neutre, le temps qui vous correspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum d'efficacité. 
 
-Dans le chapitre 5, nous vous présenterons une méthode de gestion de vos séances (méthode agile).
+
 
 
 
@@ -168,6 +168,12 @@ Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un t
 
 Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de tolérance. Ainsi, vous risquez de faire des miracles. 
 
+
+### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
+
+....
+
+Dans le chapitre 5, nous vous présenterons une méthode de gestion de vos séances (méthode agile).
 
 
 

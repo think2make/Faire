@@ -17,6 +17,7 @@
 - manque d'objectif clair 
 - manque de visualisation du résultat attendu
 - manque de critères d'évaluation du  succès 
+
  
 
 ### Par où commencer 
@@ -204,6 +205,11 @@ Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a 
 
 
 Cela signifie que faire contribuer ces trois rôles créer un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe - enfin cela a toujours été. Contrairement àa la croyance commune, dans les entreprises les groupes de personnes s'appelle des équipes mais se sont et le reste des groupes. Car les objectifs - même si ils sont commun à l'entrprise, chacun a son propre but à atteindre. En fin d'année, il y a une évaluation individuelle et non de l'équipe. 
+
+### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
+
+
+...
 
 
 [^1]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*

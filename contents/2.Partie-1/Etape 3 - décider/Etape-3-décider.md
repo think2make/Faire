@@ -291,7 +291,9 @@ Remarques :
 
 ....................................................................................
 
+### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
 
+....
 
 
 

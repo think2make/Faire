@@ -47,6 +47,35 @@ Apprenez à respecter le processus de gestation et soyez complé de vos progrès
 
 C'est toujours fascinant de constater à quel point nous sommes inconfortable avec certaines tâches à faire. Quand votre objectif est de faire quelque chose de novueau, vous vous trouvez naturellement dans une nouvelle situation. Cela peut être inconfortable. Apprenez à devenir confortable avec l'inconfortable. 
 
+## améliorer
+
+Les entreprises mettent en oeuvre une grande quantité de moyens pour constamment s' améliorer et simplifier. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. Des outils et processus tels ques 5S, Total Productive Maintenace, etc. offre un moyen de faire de l'amélioration de façon continue. 
+
+[^1]: Lean est une philophie de....
+
+Précédemment, nous parlions des buts de votre projet, les buts déterminent votre direction. Il est fondamental de mesurer votre progression, c'est le rôle des systèmes, ils déterminent votre progression. On n'obtient jamais quelque chose juste en tenant le gouvernail, il faut ramer. Les démarches lean aident les entreprises industrielles de par leur standardisation et leur *branding*. Ce qui se cache derrière, se sont des systèmes standardiser pour améliorer le travail. 
+
+##### Ce que nous allons voir
+
+Dans ce chapitre, vous découvrirez les éléments essentiels dans la mise en place d'un système, au delà des outils actuels - essentiel pour comprendre, analyser et améliorer constamment votre façon résoudre des problèmes et concrétiser des idées. De plus, en sachant combien il est difficile de gérer la masse d'informations qui peuvent surgir tout au long de votre projet, nous vous présenterons un outil simple pour structurer les informations. Enfin, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - important quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 
+
+##### Comprendre les systèmes pour les améliorer 
+
+Un système c'est... 
+Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 
+
+Un exemple simple, vous voulez augmenter votre revenu, c'est-à-dire vos stocks. Vous pouvez augmenter les entrées donc augmenter l'argent qui rentre ou diminuer les sorties. Dans le flux, vous allez faire peut-etre face à des contraintes. C'est contraintes peuvent se situer à différentes phases de votre processus. Pour améliorer votre système, vous allez l'analyser. Pour cela, vous devez mesurer votre système. Mesurer le'nsemble de votre système est possible mais long et onéreux (énergie, temps, argent). Pour cela, le meilleur moyen est de faire de l'échantillonage. Vous allez prendre une petite quantité de situation pour essayer de comprendre le global. 
+
+Pour cela, le meilleur façon est de faire du découpage, diviser votre processus complet en petit bout qui sont plus simple à travailler dessus. Sur chaque petit bout, vous allez faire une itération. Chaque itération dans votre projet est une occasion pour apprendre et s'améliorer. A condition de prendre le temps pour faire des bilans/évaluations. 
+
+C'est à dire que chaque idée vous amène à réaliser une action, et chaque action à un check du résultat obtenu. Cette façon itérative est idéale pour avancer en comprenant mieux votre processus, votre produit, ou votre marché - sans risquer de faire de grand erreurs. 
+
+Par exemple, pour lancer un nouveau produit, vous allez réaliser un échantillon test et le soumettre à votre potentiel clients - c'est se que les américains appellent Minimum Viable Product (MVP). Chaque test vous donne des informations nouvelles sur ce que vos clients potentiels veulent, ainsi vous développer un produit non en réalisant de grandes étude de marché mais plutôt plusieurs petites itérations *lean* (frugales). Les petites startups y parviennent à merveille, ce qui est plus difficle quand l'entreprise est plus grande, plus *corporate*.
+
+![](../contents/img/process-think-make-check.png)
+
+Vous pouvez également utiliser cette façon de procéder pour des systèmes personnelles : les habitudes. Vous souhaitez courrir un marathon. Mettez en place un échantillon d'activité (une petite habitude) de marcher 30 minutes par jour. Si vous échantillon vous convient, vous pouvez l'amplifier en allant courrir 30 minutes par jour....
+
 
 
 \newpage
@@ -125,6 +154,9 @@ Le "Design Sprint", un processus de cinq jours, développé par Google Ventures 
 \newpage
 
 ## La technique Pomodoro pour votre productivité personnelle 
+
+Takt time : terme allemand désignant le rythme de production, mot emprunté du language de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéeal.
+
 
 
 Parmi les différentes méthodes visant à améliorer la faculté à se focaliser sur un travail, la technique Pomodoro est l'une des plus simples.

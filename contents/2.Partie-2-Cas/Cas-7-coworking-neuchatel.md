@@ -4,6 +4,28 @@ Il est facile de prodiguer des conseils. C'est mieux si ces conseils ont été v
 
 ### Introduction 
 
+### les nouvelles façon de faire - le futur du travail 
+
+Le travail change, grand nombre d'activités peuvent être automatisé, les moyens technologiques permettent aux entreprises de devenir légère et agile, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnent en mode projet. Certains parle de 4ème révolution industrielle, c'est-à-dire, après la première révolution industrielle : la méchanisation
+
+la deuxième : l'éléctrification
+
+la troisième : l'automatisation
+
+la quatrième serait (ou est) la digitalisation....
+
+Dans ce contexte, nous allons vers une nouvelle façon de faire, une nouvelle façon de travailler. 
+
+Depuis toujours la création de quelque chose pousse à la destruction d’autre chose. Dans son ouvrage *Industrie 4.0*, Max Blanchet illustre l'exemple de Gutenberg. "déjà à l’époque de Gutenberg, chaque ouvrier imprimeur a mis au chomage l’équivalent de 200 moines copistes ! Les réactions fut même violentes, entre 1811 et 1817 les luddites (ouvriers qualifiés des midlands, saccagèrent les machines tetiles qui « prenaient leur travail ». Pourtant ces machines n’étaient ni automatisé, ni connectée." 
+
+Nous sommes à l’ère de passer de la « manufacture » à la « cervofacture ». 
+
+Un nouveau modèle du travail émerge : les « organisations apprenantes ». Les salariés n’y suivent pas une procédure aveuglément pour éviter les aléas, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents sur l’ensemble des tâches, et qui « s’auto-organisent ». Leur travail intègre un fort contenu cognitif et l’homme est désormais au centre du dispositif. On parle ainsi « d’organisation réflexive » dans l’entreprise et dans les ateliers, faisant appel à l’intelligence collective. » « demain, sa mission passera d’un management de contrôle à un management d’animation et de « mentoring » en mode projet ».  un travail vide de sens sera considéré aussi pénible qu’un travail physiquement difficile. Au-delà des conditions dans lesquelles il est réalisé, la qualité d’un travail sera jugée par son intérêt. ». 
+ et, plus généralement, le télétravail remettent en cause les notions de temps et de lieu de travail. » 
+Les études montrent qu'A l’avenir, les travailleurs indépendants seront plus nombreux que les contat à durée déterminée. 
+
+....
+
 Le coworking est une nouvelle manière d'organiser le travail, favorisant autonomie et collaboration. Comprenant la location de bureaux partagés et salle de réunion, le coworking met surtout l'accent sur les interactions, l'entrepreneuriat et l'innovation, en créant un cadre convivial et sans cow boy - sans hierarchie.
 
 L’article Wikipédia le souligne bien: *« cette nouvelle forme de travail remet en question fondamentalement les anciennes théories pyramidales du travail. Aujourd’hui, le travail se fait en réseau par une agrégation ponctuelle de compétences se formant et se reformant selon les projets, plus rapide et flexible que les structures très hiérarchisées des entreprises. »* 

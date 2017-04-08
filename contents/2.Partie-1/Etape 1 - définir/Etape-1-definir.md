@@ -96,6 +96,16 @@ Un exemple pour illustrer le degré de complexité d'une question :
 ![](../contents/img/pyramide_question.png)
  
 
+##### Gérer les idées
+
+Chaque seconde se créer des milliers informations nouvelles sur le web et ailleurs. Durant votre projet, vous pouvez vous retrouvé surmené de pas réussir à suivre ce qu'il se créer. De plus, votre cerveau créer constamment de nouvelles idées et données. Prenez l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose 3 catégories à créer dans votre ordinateur ou votre bloc-note pour stocker de façon structurée les informations : 
+
+- **Actionable** : ce sont les plus importants, vous pouvez en faire quelque chose. Définissez les toujours avec un verbe. 
+- **References** : ne sont pas executable. Ce sont des documents à partager, les notes, les croquis, les PV, etc.
+- **Veilleuse** : ce sont des idées encore non executables mais peuvent l'être plus tard. Ce sont de nouvelles idées qui ne sont pas pertinent pour votre projet actuel mais qui pourrait l'être à l'avenir. 
+
+Protocoler ces données vous permet par catégoriser et simplifier pour rechercher, analyser et décider. Au lieu de perdre un temps à faire de la veille ou à chercher constamment des données, prévoyez des périodes pour nourrir ces 3 catégories  et les parcourir environ 1 fois par mois en décidant en amont la thèmatique à laquelle vous chercher une réponse. Ainsi, vous pouvez détecter des *signaux faibles* qui vous concerne, partout dans le monde. 
+
 
 
 

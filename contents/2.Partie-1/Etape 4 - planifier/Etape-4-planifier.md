@@ -176,5 +176,10 @@ Dans votre planification, tenez compte de ces aspects. Pour des activités de r�
 Dans le chapitre 5, nous vous présenterons une méthode de gestion de vos séances (méthode agile).
 
 
+Dans le porchain chapitre , vous découvrirez les éléments essentiels pour la mise en place d'un système, au delà des outils actuels - essentiel pour comprendre, analyser et améliorer constamment votre façon résoudre des problèmes et concrétiser des idées.  
+
+
+
+
 
 \newpage

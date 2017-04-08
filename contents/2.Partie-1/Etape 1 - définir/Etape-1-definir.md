@@ -74,7 +74,7 @@ Cela signifie que nous pouvons conaitre tout les éléments de la conséquence d
 
 
 
-##### Questionner : l'outil fondemantal pour penser et faire
+##### Questionner : fondemantal pour explorer la créativité 
 Depuis l’école, on nous apprend à répondre, et non à imaginer des questions. Nous pouvons devenir de meilleurs poseurs de questions. 
 Savoir se poser les bonnes questions, c’est la moitié de la solution. Pour cela, commencez par identifier les informations nécessaires avant de démarrer l’exploration des solutions. 
 
@@ -96,7 +96,7 @@ Un exemple pour illustrer le degré de complexité d'une question :
 ![](../contents/img/pyramide_question.png)
  
 
-##### Gérer les idées
+##### S'informer : fondamental pour explorer la conaissance 
 
 Chaque seconde se créer des milliers informations nouvelles sur le web et ailleurs. Durant votre projet, vous pouvez vous retrouvé surmené de pas réussir à suivre ce qu'il se créer. De plus, votre cerveau créer constamment de nouvelles idées et données. Prenez l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose 3 catégories à créer dans votre ordinateur ou votre bloc-note pour stocker de façon structurée les informations : 
 
@@ -218,8 +218,8 @@ Cela signifie que faire contribuer ces trois rôles créer un changement dans la
 
 ### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
 
-
-...
+De plus, en sachant combien il est difficile de gérer la masse d'informations qui peuvent surgir tout au long de votre projet, nousa vons présenté un outil simple pour structurer les informations.¨
+....
 
 
 [^1]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*

@@ -5,12 +5,14 @@
 Jean-Paul Sartre
 
 
-Caractèristiques et obstacles à l'action....
+Caractèristiques et obstacles à l'action.... 
 
 
-Toutes les actions ne sont pas bonnes à être exécutées. Il ne sert à rien d’être juste occupé, les fourmis le sont aussi. Vous pouvez faire beaucoup plus qu'une fourmi. 
 
-Combien de fois arrive des situations où des processus ou des produits deviennent obselètes au moment où ils ont été crées et validés ? Des collaborateurs refusent de remettre en question des choses absurdes uniquement parce que cela a été "validée" ? Que des séances interminables avec comme résultat, du vent. Des journées où malgré la bonne volonté les perturbations diverses nous amène à avoir le sentiment d'avoir rien concrétiser ? 
+
+Toutes les actions ne sont pas bonnes à être exécutées....
+
+Combien de fois arrive des situations où des processus ou des produits deviennent obselètes au moment où ils ont été crées et validés ? Des collaborateurs refusent de remettre en question des choses absurdes uniquement parce que cela a été "validée" ? Que des séances interminables avec comme résultat, du vent. Des journées où malgré la bonne volonté les perturbations diverses nous amène à avoir le sentiment d'avoir rien concrétiser ? ....
 
 Dans ce chapitre, vous découvrirez une méthode gestion inspirée du monde informatique, les méthodes agiles. Un outil pragmatique pour améliorer sa capacité à se focaliser et délivrer.
 
@@ -49,15 +51,12 @@ C'est toujours fascinant de constater à quel point nous sommes inconfortable av
 
 ## améliorer
 
-Les entreprises mettent en oeuvre une grande quantité de moyens pour constamment s' améliorer et simplifier. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. Des outils et processus tels ques 5S, Total Productive Maintenace, etc. offre un moyen de faire de l'amélioration de façon continue. 
+Les entreprises mettent en oeuvre une grande quantité de moyens pour constamment s' améliorer et simplifier. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. Des outils et processus tels ques 5S, Total Productive Maintenace, Value Stream Mapping etc. offre un moyen de faire de l'amélioration de façon continue. 
 
 [^1]: Lean est une philophie de....
 
 Précédemment, nous parlions des buts de votre projet, les buts déterminent votre direction. Il est fondamental de mesurer votre progression, c'est le rôle des systèmes, ils déterminent votre progression. On n'obtient jamais quelque chose juste en tenant le gouvernail, il faut ramer. Les démarches lean aident les entreprises industrielles de par leur standardisation et leur *branding*. Ce qui se cache derrière, se sont des systèmes standardiser pour améliorer le travail. 
 
-##### Ce que nous allons voir
-
-Dans ce chapitre, vous découvrirez les éléments essentiels dans la mise en place d'un système, au delà des outils actuels - essentiel pour comprendre, analyser et améliorer constamment votre façon résoudre des problèmes et concrétiser des idées. De plus, en sachant combien il est difficile de gérer la masse d'informations qui peuvent surgir tout au long de votre projet, nous vous présenterons un outil simple pour structurer les informations. Enfin, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - important quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 
 
 ##### Comprendre les systèmes pour les améliorer 
 
@@ -201,4 +200,8 @@ Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans d
 
 ### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
 
-....
+Ce que nous avons appris : 
+
+
+Prochain chapitre : 
+Enfin, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - important quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 

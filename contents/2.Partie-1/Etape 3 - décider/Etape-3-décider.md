@@ -10,9 +10,7 @@
 
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*". Et de ne pas réussir à voir en mode "*et*", de façon complémentaire. Il en va de même dans la façon dont nous décidons des solutions. Dans le chapitre précédent, nous avons vu la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire "c'est juste ou c'est faux". 
 
-Dans ce chapitre, nous plongeons dans la phase de convergence. Ici nous allons détailler comment décier sans détruire. Comme la phase de divergence, cette phase de convergence comporte quatre principes. 
-En constant que la plupart des défis ne sont pas compliqués ou impossibles mais juste difficilement perceptible ou la solution est invisible, nous allons voir comment prototyper des idées car un prototype vaut mille mots et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. 
-Et enfin, nous parcourerons les trois méthodes  pour évaluer et décider selon la typologie de votre sujet.
+Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. 
 
 ### 4 principes de la décision
 
@@ -38,23 +36,22 @@ Quand nous cherchons de nouvelles idées, nous pouvons vite nous emballer par l'
 Il se peut également que, fur à mesure que votre projet avance, votre objectif initial nécessite une correction. Faire des idées est un acte remplie d'aléas, ce n'est pas une route droite, ni parfaite. Et c'est là que réside le plaisir. 
 
 ### Dessiner pour décider
-
-Pour donner de la forme à l'intangible (les idées), vous pouvez utiliser trois niveaux pour rendre l'idée plus concrète et plus compréhensible : 
+Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoires racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou semble encore invisible. Un prototype vaut mille mots et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. Pour donner de la forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et plus compréhensible : 
 
 
 ![](../contents/img/Niveau_visualiser_idees.png)
 
 
-Cela parait simple. Imaginez maintenant que vous devez améliorer l'expérience de l'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de visualiser n'existe pas, il faut l'inventer. Dans le cas ci-dessus, vous pouvez tenter d'illustrer en *mimant*, oui comme au théâtre. Le patron sera le prisonier évidemment !
+Cela parait simple. Imaginez maintenant que vous devez améliorer l'expérience de l'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de visualiser n'existe pas, il faut l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter d'illustrer en *mimant*, comme au théâtre. 
 
-Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Pour que les solutions puissent être évaluable, ayez le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la solution finale ou le résultat sautera aux yeux. 
+Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Pour que les solutions puissent être évaluable, ayez le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.  
 
 
 ##### Six façons de visualiser les idées 
 
 Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées et les personnes à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen. Car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
 
-Il y six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayons* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
+Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayons* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
 
 1. **Qui/Quoi :** Si vous souhaitez illustrer un nom, dessinez **un portrait ** pour montrer le sujet ou l'objet.
 
@@ -80,17 +77,17 @@ Il y six questions fondamentales, appelées communément la méthode QQOQCP. Pou
 ![](../contents/img/6.Pourquoi.png)
 
 
-###### Un exemple
+##### Un exemple
 Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le *quand*). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
 
 Face à des problèmes d'envergures où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
 
-Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoires racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou semble encore invisible.
+
 
 Prenez une feuille et un crayon et dessinez votre idée maintenant. 
 
 
-### Simplifiez vos idées : trois façons d'y arriver
+##### Simplifiez vos idées : trois façons d'y arriver
 
 Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel  pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité ne veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme, pourtant la finalité l'est.
 
@@ -108,9 +105,9 @@ Une fois enlevé ce qui pouvait l’être, nous pouvons masquer la complexité. 
 
 En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première. 
 
-## Evaluer les idées 
+### Evaluer les idées 
 
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] de base que vous pouvez utiliser pour votre sujet : 
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] que vous pouvez utiliser pour votre sujet : 
 
 - \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
 
@@ -134,9 +131,9 @@ Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement 
 
 
 
-### Analyser sans détruire : quatre questions stratégique
+##### Analyser sans détruire : quatre questions stratégique
 
-Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces, faiblesses, opportunités, risques) pour analyser des idées stratégiques. Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative . 
+Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en français FFOR pour forces, faiblesses, opportunités, risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative . 
 
 - **Pluses :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 
@@ -146,27 +143,27 @@ Certaines personnes connaissent la méthode SWOT (en français FFOR pour forces,
 *La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risquess. 
 
 
-### Evaluer n'est pas décider
+##### Evaluer n'est pas décider
 
-Trop souvent en entrprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter - et à la fin il n'y a personne pour décider. Durant ce chapitre, vous le lecteur avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous êtes maintenant sur le point de prendre une décision importante ? Notre suggestion : prenez votre décision le matin. 
+Trop souvent en entreprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter - et à la fin il n'y a plus personne pour décider. Durant ce chapitre, vous le lecteur avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous êtes maintenant sur le point de prendre une décision importante ? Notre suggestion : prenez votre décision le matin. 
 
 En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Et souvent trop rapidement. C'est la constatation d'une étude dirigée par le psychologue argentin Mariano Sigman[^0].
 
 [^0]: Magazine Psychoscope 2/2017
 
 
-### Etude de marché rapide : 10 questions à se poser 
+##### Etude de marché rapide : 10 questions à se poser 
 
-Le succès dépend grandement de la capacité à prendre des décisions efficacement. Et le temps vous manque. Alors vous pouvez utiliser ces 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché rapide. 
+Vous souhaitez innover - soit mettre sur le marché une idée. A cet effet, vous avez généré des idées, vous avez prototypé et analysé les solutions qui ont du potentielles. Mais vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement. Mais le temps vous manque. Utilisez les 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché en mode accélérée. 
 
 #####Consignes 
  
 Pour chaque question, donnez spontanément des points de 0 à 10 (méthode pifomètre).  
 Additionnez les points. Analysez et décidez si cela nécessite d'éliminer votre idée, de l'améliorer ou foncer pour la concrétiser. 
 
-Si vous avez -50pts = passez à autre chose  
-Si vous avez +75pts = c’est bien, foncez  
-Si vous avez +50 et -75pts = lourd investissement, à vous de décider.
+Si vous avez -50pts = éliminez l'idée et passez à autre chose  
+Si vous avez +75pts = c’est bien, foncez, cela semble être une mine d'or
+Si vous avez +50 et -75pts = lourd investissement, à vous de décider mais évitez. 
 
 Total de points : ..........................
 
@@ -291,10 +288,11 @@ Remarques :
 
 ....................................................................................
 
-### Ce que nous avons appris et ce que nous allons voir dans le prochain chapitre 
+### Conclusion 
 
-....
+Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé sur le processus de décision. Vous avez appris comment matérialiser votre idée tout en sachant la mettre en valeur en toute simplicité. Enfin, vous avez appris et pratiqué comment évaluer efficacement une idée. 
 
+Dans le chapitre suivant, nous allons voir comment planifier efficacement l'implémentation de votre projet et comment le découper en petites actions que vous pouvez gérer efficacement. 
 
 
 

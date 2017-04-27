@@ -10,13 +10,13 @@
 > « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  Einstein
 
 
-Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. On perçoit uniquement les nuages. Notre expérience auprès de centaine d'entreprise montre qu'il existe majoritairement cinq éléments manquants démarrer un projet d'innovation.
+Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. On perçoit uniquement les nuages. Notre expérience auprès de centaine d'entreprise montre qu'il existe majoritairement cinq éléments manquants pour démarrer un projet d'innovation.
 
-- manque de compréhension claire de la problèmatique
-- manque de vision, un but
-- manque d'objectif clair 
-- manque de visualisation du résultat attendu
-- manque de critères d'évaluation du  succès 
+- manque de compréhension claire de la problèmatique.
+- manque de vision, but.
+- manque d'objectif clair.
+- manque de visualisation du résultat attendu.
+- manque de critères d'évaluation du succès.
 
 
 

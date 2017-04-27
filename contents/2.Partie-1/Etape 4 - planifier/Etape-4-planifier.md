@@ -2,6 +2,7 @@
 
 # Chapitre 4. planifier 
 
+“Time is the longest distance between two places.” — Tennessee Williams, Ecrivain
 
 
 Pour achever ce que vous avez déjà achevé dans le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Vous planifiez comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler. 

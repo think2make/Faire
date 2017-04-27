@@ -236,14 +236,9 @@ Cela signifie que faire contribuer ces trois rôles, créer un changement dans l
 
 ### Conclusion 
 
-Ce que nous avons appris : 
+Ce que nous avons appris : Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Enfin, vous avez été sensibilisé aux trois rôles à impliquer dans un projet. Nécessaire à la mise à un regard complémentaire. 
 
-
-
-Ce que nous allons voir dans le chapitre suivant : 
-
-De plus, en sachant combien il est difficile de gérer la masse d'informations qui peuvent surgir tout au long de votre projet, nousa vons présenté un outil simple pour structurer les informations.¨
-....
+Dans le chapitre suivant nous allons voir comment le contenu du contenu du cahier des charges (cf. exercice) à un processus de créativité. Sachant comment il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant de générer des idées-
 
 
 [^4]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*

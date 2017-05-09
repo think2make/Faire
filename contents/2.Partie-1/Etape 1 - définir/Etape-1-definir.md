@@ -71,27 +71,29 @@ Un exemple pour illustrer le degré de complexité d'une question :
 
 ###### S'informer
 
-Chaque seconde il se créer des milliers d'informations nouvelles sur le web et ailleurs. C'est pourquoi il est crucial de récolter des informations en amont afin de formuler des questions. Durant votre projet, vous pouvez vous retrouver surmené de ne pas réussir à suivre ce qu'il se crée autour de vous. De plus, votre cerveau capte constamment de nouvelles données. En prenez l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose 3 catégories à créer dans votre ordinateur ou votre bloc-note pour stocker de façon structurée les informations : 
+Chaque seconde il se créer des milliers d'informations nouvelles sur le web et votre cerveau capte constamment de nouvelles données. C'est pourquoi il est crucial de récolter des informations au préalable. Pour ce faire, il faut prendre l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
 
-- **Actionable** : ce sont les plus informations importantes dont vous pouvez en faire quelque chose. Définissez les toujours avec un verbe. 
-- **References** : elles ne sont pas executables. Ce sont des documents à partager, les notes, les croquis, les PV, etc. Elles permettent de garder une trace des informations passées. 
-- **Veilleuse** : ce sont des données encore non executables mais peuvent l'être plus tard. Ce sont des idées qui ne sont pas pertinent pour votre projet actuel mais qui pourrait l'être à l'avenir. Gardez-les au chaud.
+- **Actionable** : il s'agit d'informations les plus importantes car vous pouvez exploiter rapidement.
+- **References** : il s'agit d'informations non-executables. Ce sont des documents à partager, les notes, les croquis, les PV, etc. Elles permettent de garder un suivi. 
+- **Veilleuse** : il s'agit d'informations potentiellement exploitable. Ce sont des idées qui ne sont pas pertinentes pour votre projet actuel mais qui pourrait l'être à l'avenir. Gardez-les au chaud.
 
-Comment procéder ? Protocoler ces données vous permet de simplifier la recherche et analyse pour des futures décision. Au lieu de perdre un temps à faire de la veille ou à chercher constamment des données, prévoyez des périodes pour nourrir ces 3 catégories  et les parcourir environ 1 fois par mois en décidant en amont la thèmatique à laquelle vous chercher une réponse. Ainsi, vous pouvez détecter des *signaux faibles* qui vous concerne. 
+Comment procéder ? Au lieu de perdre un temps excessif à faire de la veille ou à chercher constamment des données, prévoyez des périodes pour nourrir ces trois catégories  et les parcourir environ une fois par mois en décidant en amont la thèmatique à laquelle vous chercher une réponse. Ainsi, vous pouvez détecter des *signaux faibles* qui vous concerne. Par signaux faibles, nous entendons des informations qui permettent d'aiguiller la direction d'un projet. 
 
 
 
 ##### Par où commencer 
 
-Il est parfois difficile de savoir quel sujet empoigner et comment le faire. Prenez un sujet qui illustre globalement votre activité donc qui est important pour vous. Qui peu apporter un retour sur investissement intéressant - personnel et professionnel. Mais ne soyez pas cascadeur, évitez de démarrer avec un projet critique pour votre vie. Exemple de sujets : 
+Il est parfois difficile de savoir quel sujet empoigner et de le contrétiser sans avoir clairement défini les objectifs de celui-ci. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de de ne pas prendre de risques démesurés.
 
-- Stratégique : Comment anticiper les besoins de nos clients actuels ? A quoi ressembleront nos clients à l'avenir ? 
-- Tactique : Comment créer le dialogue avec nos clients actuels ? Comment attirer davantage de clients pour notre offre ? Comment accélérer notre processus d'acquisition de clientèle ? 
+Dans tout projet, il existe trois domaines d'activité régis par différentes temporalités. 
 
-- Opérationnel : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
+- Stratégique (long terme) : Comment anticiper les besoins de nos clients actuels ? A quoi ressembleront nos clients à l'avenir ? 
 
-Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définissez de manière *smart*[^3] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel de vore but. Car concrétiser un projet peut prendre du temps, beaucoup de temps si vous n'avez pas défini clairement quand vous décidez que vous avez atteint votre objectif.
+- Tactique (moyen terme) : Comment créer le dialogue avec nos clients actuels ? Comment attirer davantage de clients pour notre offre ? Comment accélérer notre processus d'acquisition de clientèle ? 
 
+- Opérationnel (court terme) : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
+
+Définissez de manière *smart*[^3] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
 
 
 
@@ -110,13 +112,17 @@ Chaque projet est unique. Dans ce briefing nous mettons en lumière les élémen
 
 \faMapPin  
 
-**Situation :** quel est la situation actuelle ? Où sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? 
+**Situation :** quelle est la situation actuelle ? Où en sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? 
 
-Comment s'y prendre : somme si c'était une page wikipédia, écrivez des données qui peuvent être vérifiés. Des informations qui concerne l'entreprise et également l'environnement dans lequelle l'entreprise se trouve. 
+Comment s'y prendre ? 
 
-Pourquoi le faire : si nous n'arrivons pas à nous rappeler les faits et les erreurs du passé, nous sommes condamné à les répéter. Une définition claire d'une situation actuelle permet de partir du bon pied pour la situation désirée et d'éviter le risque de répéter les erreurs.  
+A l'instar d'une page wikipédia, écrivez les données qui peuvent être vérifiées. Les informations qui concernent l'entreprise et également l'environnement dans lequelle elle se trouve. 
 
-Exemple : *Depuis 50ans, notre entreprise offre les produits YKY et constate depuis 2 ans un changement dans l'évolution des besoins et comportements des clients : ils achètent davantage par internet et les canaux traditionnels de distribution commandes chaque année 8% en moins. Une situation similaire a été vécu par la société soeur en Alabamas..etc.. Et les compères dans la branche industrielle vivent une situation similaire soit..etc...*
+Pourquoi le faire ?
+
+si nous n'arrivons pas à nous rappeler les faits et les erreurs du passé, nous sommes condamnés à les répéter. Une définition claire d'une situation actuelle permet de partir du bon pied et d'éviter le risque de réitérer les erreurs.  
+
+Exemple : *Depuis 50ans, notre entreprise offre les produits YKY et constate depuis deux ans un changement dans l'évolution des besoins et des comportements des clients : ils achètent davantage par internet et les canaux traditionnels de distribution commandes chaque année 8% en moins. Une situation similaire a été vécue par la société soeur en Alabama..etc.. Et les compères dans la branche industrielle vivent une situation similaire soit..etc...*
 
 Exemple tactique : 
 
@@ -134,9 +140,13 @@ Exemple opérationnel :
 
 **But global :** quel est le but, la vision ? Où voulons-nous aller ? Pourquoi fait-on ce qu'on fait ? 
 
-Comment s'y prendre : Définissez le but poursuivi par votre projet. La vision, le désir que vous souhaitez achever. 
+Comment s'y prendre ?
 
-Pourquoi le faire : dans les entreprises, nous nous concentrons en premier sur le *quoi* : les produits ou les services. Puis, nous définissons le *comment* : les processus de travail, l'organisation, etc. Mais rarement, il y a une définition claire du pourquoi - pourquoi faisons-nous ce que nous faisons. Le but global donne un fil conducteur entres vos actions et votre projet - un alignement pour vous et vos équipes. 
+Définissez le but poursuivi par votre projet. La vision, le désir que vous souhaitez achever. 
+
+Pourquoi le faire ?
+
+Au sein des entreprises, nous nous concentrons en premier sur le *quoi* : les produits ou les services. Puis, nous définissons le *comment* : les processus de travail, l'organisation, etc. Cependant, il y a rarement une définition claire du pourquoi - pourquoi faisons-nous ce que nous faisons. Le but global donne un fil conducteur entre vos actions et votre projet - un alignement pour vous et vos équipes. 
 
 Exemple : *D'ici 3 ans, nous souhaitons devenir le leader de notre branche d'activité et continuer à compler nos clients en offrant le service les plus efficients par le biais de nos produits YKY..etc...* 
 
@@ -177,7 +187,7 @@ Exemple opérationnel :
 
 Comment s'y prendre : écrivez les résultats à atteindre à la fin du projet, tant qu niveau de la quantité et que la qualité. 
 
-Pourquoi le faire : les idées sont immatérielles. Elles peuvent créer la confusion entres les personnes. Un language trop *managerial* offre rarement une définition claire de ce que vous cherchez à atteindre concrétement. 
+Pourquoi le faire : les idées sont immatérielles. Elles peuvent créer de la confusion entre les personnes. Un language trop *managerial* offre rarement une définition claire de ce que vous cherchez à atteindre concrétement. 
 
 Exemple stratégique: *Nous disposerons d'une nouvelle stratégie. Chaque stratégie comporte un plan de route avec une temporalité sur 6 mois et 3 actions impliquant les départements de vente et R&D..etc...* 
 
@@ -198,12 +208,12 @@ Exemple opérationnel :
 
 **Critères de succès :** comment allons-nous mesurer le succès ? Sur quel critères(s) allons-nous évaluer notre succès ? 
 
-Comment s'y prendre : écrivez si possible des critères mesurables donc quantitatifs, mais notez également les critères qualitatives qui sont difficilement mesurable peuvent le devenir par la suite. 
+Comment s'y prendre : écrivez si possible des critères mesurables donc quantitatifs, mais notez également les critères qualitatifs qui sont difficilement mesurables peuvent le devenir par la suite. 
 
 Pourquoi le faire : la définition des critères de succès un bon moyen pour définir ce qui est attendu par vous ou/et ce que vous attendez des autres. Un bon moyen de mesurer est d'utiliser une échelle de mesure (cf. chapitre 3).
 
 
-Exemple stratégique : *La carte de route est accepté et validé unanimement par le conseil d'administration. Nos clients-cibles achètent dès la 1ère semaine..etc...*
+Exemple stratégique : *La carte de route est acceptée et validée unanimement par le conseil d'administration. Nos clients-cibles achètent dès la 1ère semaine..etc...*
 
  
 Exemple tactique : 
@@ -218,7 +228,7 @@ Exemple opérationnel : *+60% des internautes inscrivent leur emails dans notre 
 ##### Livrable, Résultat, Métrique, Valeur
  Il facile de définir un critères comme le chiffre d'affaire, bénéfice ou satisfaction des clients. Ces critères ne sont pas influençable uniquement par vos actions. Mettez davantage l'accent sur des mesures où vous pouvez mener des actions que vous pouvez directement influencer pour atteindre votre but. Plus vos critères sont ambitieux, plus vous devez les découper en sous groupe plus facile à traiter. 
 
-Il ne suffit pas de édfinir vos résultats attendus et les critères de succès mais aussi la vlaeur que'offre ces actions, càd, quel est la l'avantage apporté par votre projet et ses actions ? 
+Il ne suffit pas de édfinir vos résultats attendus et les critères de succès mais aussi la vlaeur que'offre ces actions, autrement dit, quel est la l'avantage apporté par votre projet et ses actions ? 
 
 
 Exemple :
@@ -232,7 +242,7 @@ Exemple :
 
 ### Trois rôles
 
-Jusqu'ici vous avez découvert la formulation des question vous permettant la récolte de données utiles et enfin la mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? comment les impliquer ? Quel rôle auront-ils ? 
+Jusqu'ici vous avez découvert la formulation des questions vous permettant la récolte de données utiles et enfin la mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? comment les impliquer ? Quel rôle auront-ils ? 
 
 Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a tendance à l'accorder au manque de communication. Hors, ce qui manque souvent c'est des rôles clairs pour travailler ensemble. Notre expérience montre qu'il existe trois rôles à intégrer dès le début d'un projet d'innovation. Par rôle, nous entendons non pas la fonction, le statut ou le titre mais une posture que la personne prend pendant un temps T - indépendamment de sa fonction et son statut. 
 
@@ -245,14 +255,14 @@ Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a 
 ![](../contents/img/IMG_facilitateur.jpg)
 
 
-Cela signifie que faire contribuer ces trois rôles, créer un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. Et l'harmonie se créer par le changement de fonction/titre/etc. à une posture différente, les rôles. 
+Cela signifie que faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. à une posture différente : les rôles. 
 
 
 ### Conclusion 
 
-Ce que nous avons appris : Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Enfin, vous avez été sensibilisé aux trois rôles à impliquer dans un projet. Nécessaire à la mise à un regard complémentaire. 
+Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Enfin, vous avez été sensibilisé aux trois rôles à impliquer dans un projet qui sont nécessaires à la mise en place d'un regard complémentaire. 
 
-Dans le chapitre suivant nous allons voir comment le contenu du contenu du cahier des charges (cf. exercice) à un processus de créativité. Sachant comment il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant de générer des idées-
+Dans le chapitre suivant nous allons voir comment transformer le contenu du cahier des charges (cf. exercice) en un processus de créativité. Sachant comment il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant de générer des idées-
 
 
 [^4]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*

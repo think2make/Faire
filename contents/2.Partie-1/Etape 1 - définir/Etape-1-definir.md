@@ -10,27 +10,27 @@
 > « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  Einstein
 
 
-Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. On perçoit uniquement les nuages. Notre expérience auprès de centaine d'entreprise montre qu'il existe majoritairement cinq éléments manquants pour démarrer un projet d'innovation.
+Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. Notre expérience auprès de centaines d'entreprises montre qu'il existe majoritairement cinq éléments manquants pour démarrer un projet d'innovation :
 
-- manque de compréhension claire de la problèmatique.
-- manque de vision, but.
-- manque d'objectif clair.
-- manque de visualisation du résultat attendu.
-- manque de critères d'évaluation du succès.
+- un manque de compréhension claire de la problèmatique.
+- un manque de vision, but.
+- un manque d'objectif précis.
+- un manque de visualisation du résultat attendu.
+- un manque de critères d'évaluation du succès.
 
 
 
-Dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire pour concrétiser des idées : questionner. Peu importe si c'est pour créer un nouveau service, un produit ou une nouvelle façon de travailler (un processus), la façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pertinentes pour trouver des réponses. Vous allez également pouvoir pratiquer cette compétence dans l'exercice de définition de votre propre projet. 
+Dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire pour concrétiser des idées : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pertinentes pour trouver des réponses. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet. 
 
 
 ### Sept causes et sept questions
 
-Souvent les projets ont un cadre tellement bien défini qu'il ne laisse plus de liberté pour travailler dessus. C'est comme si on tente déjà de décider de ce qu'on va faire sans avoir encore compris ce qu'il faudrait faire. 
+Souvent les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manoeuvre. Ils se privent ainsi d'eventuelles opportunités d'exploration. 
 
-Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Notez uniquement les éléments primordiaux pour votre sujet.
+Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroits pour être gérés. Notez uniquement les éléments primordiaux pour votre sujet.
 
 
-Sachant que la plupart des conséquences sont lié à 7 types de causes[^1], en utilisant 7 questions du QQOQCP[^2], vous pouvez clarifier la quasi totalité des informations de votre projet. 
+Sachant que la plupart des conséquences sont liées à sept types de causes[^1], en utilisant 7 questions du QQOQCP[^2], vous pouvez clarifier la quasi totalité des informations de votre projet. 
 
 - Matière = Quoi
 - Main d'oeuvre = Qui
@@ -40,31 +40,30 @@ Sachant que la plupart des conséquences sont lié à 7 types de causes[^1], en 
 - Moyen = Comment
 - Management = Pourquoi
 
-[^1]: En 1962, l'ingénieur  Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles. Il en défini 5 causes possibles dans la gestion de la qualité dans l'industrie. Qui deviendra le diagramme  de causes et effets d'Ishikawa. 
+[^1]: En 1962, l'ingénieur  Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles. Il en défini cinq causes possibles dans la gestion de la qualité dans l'industrie. Qui deviendra le diagramme  de causes et effets d'Ishikawa. 
 
 [^2]: QQOQCP est une méthode empirique de questionnement dont les origines remontes à la période de la grèce antique. 
 
 
 
-
-Cela signifie que nous pouvons connaitre tout les éléments de la cause et onséquence d'un projet en recherchant et en définissant ces 7 questions. Donc la capacité à formuler des questions est la première compétence à acquérir. 
+Cela signifie que nous pouvons connaître tous les éléments des causes et conséquences d'un projet en recherchant et en définissant ces sept questions. Donc la capacité à formuler des questions est la première compétence à acquérir. 
 
 
 
 
 ###### Questionner
-Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte 4 dimensions : 
+Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
 - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
 - Hypothèses sous-tendant à la question
 - Les croyances, les clichés influencent la perception de la question.
-La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'écoutant, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? 
+La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? 
 
 Une bonne question est : 
 
 - simple, précise et claire
-- qui fait intervenir les valeurs
-- qui touche la réalité
+- fait intervenir les valeurs
+- touche à la réalité
 
 Un exemple pour illustrer le degré de complexité d'une question : 
 ![](../contents/img/pyramide_question.png)
@@ -72,7 +71,7 @@ Un exemple pour illustrer le degré de complexité d'une question :
 
 ###### S'informer
 
-Il est diffiicle de formuler des questions sans posséder des informations préalables. Chaque seconde se créer des milliers informations nouvelles sur le web et ailleurs. Durant votre projet, vous pouvez vous retrouver surmené de ne pas réussir à suivre ce qu'il se créer autour de vous. De plus, votre cerveau capte constamment de nouvelles données. En prenez l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose 3 catégories à créer dans votre ordinateur ou votre bloc-note pour stocker de façon structurée les informations : 
+Chaque seconde il se créer des milliers d'informations nouvelles sur le web et ailleurs. C'est pourquoi il est crucial de récolter des informations en amont afin de formuler des questions. Durant votre projet, vous pouvez vous retrouver surmené de ne pas réussir à suivre ce qu'il se crée autour de vous. De plus, votre cerveau capte constamment de nouvelles données. En prenez l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose 3 catégories à créer dans votre ordinateur ou votre bloc-note pour stocker de façon structurée les informations : 
 
 - **Actionable** : ce sont les plus informations importantes dont vous pouvez en faire quelque chose. Définissez les toujours avec un verbe. 
 - **References** : elles ne sont pas executables. Ce sont des documents à partager, les notes, les croquis, les PV, etc. Elles permettent de garder une trace des informations passées. 
@@ -91,7 +90,9 @@ Il est parfois difficile de savoir quel sujet empoigner et comment le faire. Pre
 
 - Opérationnel : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
 
-Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définissez de manière *smart*[^3] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel de vore but. Car concrétiser un projet peut prendre du temps, beaucoup de temps si vous n'avez pas défini clairement quand vous décidez que vous avez atteint votre objectif..
+Peu importe si vous travaillez sur un projet pour simplifier le travail à la production, créer une nouvelle entreprise ou un nouveau produit. Définissez de manière *smart*[^3] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réel de vore but. Car concrétiser un projet peut prendre du temps, beaucoup de temps si vous n'avez pas défini clairement quand vous décidez que vous avez atteint votre objectif.
+
+
 
 
 
@@ -212,6 +213,19 @@ Exemple opérationnel : *+60% des internautes inscrivent leur emails dans notre 
 ....................................................................................
 
 ....................................................................................
+
+
+##### Livrable, Résultat, Métrique, Valeur
+ Il facile de définir un critères comme le chiffre d'affaire, bénéfice ou satisfaction des clients. Ces critères ne sont pas influençable uniquement par vos actions. Mettez davantage l'accent sur des mesures où vous pouvez mener des actions que vous pouvez directement influencer pour atteindre votre but. Plus vos critères sont ambitieux, plus vous devez les découper en sous groupe plus facile à traiter. 
+
+Il ne suffit pas de édfinir vos résultats attendus et les critères de succès mais aussi la vlaeur que'offre ces actions, càd, quel est la l'avantage apporté par votre projet et ses actions ? 
+
+
+Exemple :
+
+- Résultat : gagner la contribution des clients pour améliorer les produits développés
+- Métrique : 5 idées innovantes que la R&D et la vente support avec leur budget
+- valeur : Les adopteurs précoces fourniront une impulsion immédiate et dynamique pour l'introduction de nouveaux produits, qui seront pleinement soutenus par nos deux départements, cela augmentera notre présence sur le marché X et améliorera le profit.  
 
 
 

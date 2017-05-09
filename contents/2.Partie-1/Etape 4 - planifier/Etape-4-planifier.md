@@ -180,7 +180,7 @@ Dans votre planification, tenez compte de ces aspects. Pour des activités de r�
 
 Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé sur la planification et la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été sensibilisé à votre propre productivité personnelle.
 
-Dans le chapitre suivant, vous apprendrez comment voir le système qui se cache derrière votre activité quotidienne dans votre travail pour l'améliorer. Vous découvrirez la méthode de gestion d'équipe avec la méthode agile. Enfin, vous pourrez améliorer votre efficacité avec la technique Pomodoro.
+Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon systématique. Vous découvrirez comment voir lvotre activité sous forme d'un système. Vous découvrirez comment gérer votre activité avec les autres avec la méthode agile. Enfin, vous pourrez améliorer votre efficacité avec la technique Pomodoro.
 
 
 

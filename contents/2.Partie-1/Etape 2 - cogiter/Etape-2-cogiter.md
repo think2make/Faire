@@ -65,7 +65,7 @@ Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser
 
 Il existe quatres règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement. Ces règles sont un standard, cela ne signifie pas qu'elles doivent absolument être respectées.
 
-Parfois, la spontanéité consiste à être spontanés et non à instaurer directement des *principes* à respecter. Dans le cadre d'un travai de groupe, les principes peuvent être crées ensemble. Ainsi d'autres éléments, peut-etre plus fondamentals, peuvent surgir dans votre cas et pour vos équipes. Les quatres principes sont :  
+Parfois, la spontanéité consiste à être spontanés et non à instaurer directement des *principes* à respecter. Dans le cadre d'un travail de groupe, les principes peuvent être crées ensemble. Ainsi d'autres éléments, peut-etre plus fondamentals, peuvent surgir dans votre cas et pour vos équipes. Les quatres principes sont :  
 
 **1)	Ne pas juger les idées **
 

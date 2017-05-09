@@ -4,22 +4,34 @@
 
 Jean-Paul Sartre
 
+Commencer avec les système.
+Puis, vision (rappel)
+puis, agile 
+Puis, pomodoro
 
-Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Mais en réalité innover c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Respectez la croissance.
+Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Innover c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Donc respectez la croissance.
 
-Tout au long de votre aventure, il vous faudra d'autres actions mais toutes les actions ne sont pas bonnes à réaliser. Gardez à l'esprit les 4 façon de réaliser une action : 
+Tendance à agir : Cela permet d'éviter de tomber dans le trappe de la tendance à agir propre à l'homme. L'énergie économisée vous permet de vous concentrer à améliorer ce que vous entreprenez. (ajouter MBApersonnel)
+
+ toutes les actions ne sont pas bonnes à réaliser. Gardez à l'esprit les 4 façons de réaliser une action : 
  
 - \faRemove - Ne pas faire = Eliminer l’action
 - \faReplyAll - Laisser faire = Déplacer l’action
 - \faRetweet - Faire faire = Déléguer l’action
 - \faCheckSquare - Faire = Réaliser l’action
 
-Cela permet d'éviter de tomber dans le trappe de la tendance à agir propre à l'homme. L'énergie économisée vous permet de vous concentrer à améliorer ce que vous entreprenez. 
 
 
  
 
-### améliorer
+### Implémenter systématiquement
+
+
+Comment implémenter des idées de façon systématique innovations ? 
+- vision (rappel planification + cahier des charges , mesure, critères, etc. ) 
+- système 
+- organisation agile : 10% formel et 90% en collaboration et apprentissage
+- agir constamment
 
 Les entreprises mettent en oeuvre une grande quantité de moyens pour constamment s' améliorer et simplifier. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. Des outils et processus tels ques 5S, Total Productive Maintenace, Value Stream Mapping etc. offre un moyen de faire de l'amélioration de façon continue. 
 
@@ -27,9 +39,6 @@ Au delà du lean, comprendre comment fonctionne un système est crucial quand vo
 
 [^1]: Lean est une philophie de...
 
-
-
-##### Comprendre les systèmes pour les améliorer 
 
 Un système c'est... 
 Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 

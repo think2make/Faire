@@ -1,19 +1,26 @@
-# Chapitre 5. faire
+# Chapitre 5 : faire
 
-"il n'y a de realité que dans l'action."
+>"il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
-Jean-Paul Sartre
+Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. 
 
-Commencer avec les système.
-Puis, vision (rappel)
-puis, agile 
-Puis, pomodoro
+Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est : 
 
-Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Innover c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Donc respectez la croissance.
+- comprendre comment fonctionne un système et comment votre projet s'inscrit dans ce système
+- comprendre comment organiser votre travail et de ceux avec qui vous travaillez de façon agile 
+- comprendre comment focaliser sur votre travail et créer un tempo pour implémenter votre idée
 
-Tendance à agir : Cela permet d'éviter de tomber dans le trappe de la tendance à agir propre à l'homme. L'énergie économisée vous permet de vous concentrer à améliorer ce que vous entreprenez. (ajouter MBApersonnel)
 
- toutes les actions ne sont pas bonnes à réaliser. Gardez à l'esprit les 4 façons de réaliser une action : 
+### Les systèmes 
+
+Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) permettant de simplifier et s'améliorer. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. 
+
+Un système c'est... 
+Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 
+
+En comprenant votre propre système, votre propre processus de travail, vous pourrez vous focaliser sur les tâches importantes de votre processus et éviter de vous éparpiller. 
+
+Gardez à l'esprit les 4 façons de réaliser une action : 
  
 - \faRemove - Ne pas faire = Eliminer l’action
 - \faReplyAll - Laisser faire = Déplacer l’action
@@ -21,45 +28,7 @@ Tendance à agir : Cela permet d'éviter de tomber dans le trappe de la tendance
 - \faCheckSquare - Faire = Réaliser l’action
 
 
-
- 
-
-### Implémenter systématiquement
-
-
-Comment implémenter des idées de façon systématique innovations ? 
-- vision (rappel planification + cahier des charges , mesure, critères, etc. ) 
-- système 
-- organisation agile : 10% formel et 90% en collaboration et apprentissage
-- agir constamment
-
-Les entreprises mettent en oeuvre une grande quantité de moyens pour constamment s' améliorer et simplifier. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. Des outils et processus tels ques 5S, Total Productive Maintenace, Value Stream Mapping etc. offre un moyen de faire de l'amélioration de façon continue. 
-
-Au delà du lean, comprendre comment fonctionne un système est crucial quand vous souhaitez améliorer. 
-
-[^1]: Lean est une philophie de...
-
-
-Un système c'est... 
-Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 
-
-Un exemple simple, vous voulez augmenter votre revenu, c'est-à-dire vos stocks. Vous pouvez augmenter les entrées donc augmenter l'argent qui rentre ou diminuer les sorties. Dans le flux, vous allez faire peut-etre face à des contraintes. C'est contraintes peuvent se situer à différentes phases de votre processus. Pour améliorer votre système, vous allez l'analyser. Pour cela, vous devez mesurer votre système. Mesurer le'nsemble de votre système est possible mais long et onéreux (énergie, temps, argent). Pour cela, le meilleur moyen est de faire de l'échantillonage. Vous allez prendre une petite quantité de situation pour essayer de comprendre le global. 
-
-Pour cela, le meilleur façon est de faire du découpage, diviser votre processus complet en petit bout qui sont plus simple à travailler dessus. Sur chaque petit bout, vous allez faire une itération. Chaque itération dans votre projet est une occasion pour apprendre et s'améliorer. A condition de prendre le temps pour faire des bilans/évaluations. 
-
-C'est à dire que chaque idée vous amène à réaliser une action, et chaque action à un check du résultat obtenu. Cette façon itérative est idéale pour avancer en comprenant mieux votre processus, votre produit, ou votre marché - sans risquer de faire de grand erreurs. 
-
-Par exemple, pour lancer un nouveau produit, vous allez réaliser un échantillon test et le soumettre à votre potentiel clients - c'est se que les américains appellent Minimum Viable Product (MVP). Chaque test vous donne des informations nouvelles sur ce que vos clients potentiels veulent, ainsi vous développer un produit non en réalisant de grandes étude de marché mais plutôt plusieurs petites itérations *lean* (frugales). Les petites startups y parviennent à merveille, ce qui est plus difficle quand l'entreprise est plus grande, plus *corporate*.
-
-![](../contents/img/process-think-make-check.png)
-
-Vous pouvez également utiliser cette façon de procéder pour des systèmes personnelles : les habitudes. Vous souhaitez courrir un marathon. Mettez en place un échantillon d'activité (une petite habitude) de marcher 30 minutes par jour. Si vous échantillon vous convient, vous pouvez l'amplifier en allant courrir 30 minutes par jour....
-
-
-
-\newpage
-
-### Les méthodes agiles - agir avec agilité
+### L'organisation agile
 
 Les méthodes agiles sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
@@ -89,9 +58,9 @@ Quelques éléments clés du processus agile:
 - les meilleures résultats sont fournis par des équipes qui savent s'auto-organiser.
 
 
-### Quelques outils des méthodes scrum
+##### Quelques outils des méthodes scrum
 
-##### Le "Daily Scrum Meeting" ou "stand-up meeting"
+###### Le "Daily Scrum Meeting" ou "stand-up meeting"
 
 Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. Les participants au meeting répondent aux trois questions suivantes:
 
@@ -107,7 +76,7 @@ En se concentrant sur ces trois points, chacun peut se faire une bonne idée de 
 
 - Whiteboard avec "Story-Cards"
 
-### Dangers
+##### Dangers
 
 Les dangers de la méthodologie agile mal comprise.
 
@@ -120,7 +89,7 @@ Culte du cargo: concept anthropologique, observé au 20e siècle dans des archip
 
 
 
-### Le principe du sprint
+##### Le principe du sprint
 
 Infos sur le Design Sprint.
 
@@ -130,9 +99,7 @@ Le "Design Sprint", un processus de cinq jours, développé par Google Ventures 
 
 
 
-\newpage
-
-### La technique Pomodoro pour votre productivité personnelle 
+### La technique Pomodoro
 
 Takt time : terme allemand désignant le rythme de production, mot emprunté du language de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéeal.
 

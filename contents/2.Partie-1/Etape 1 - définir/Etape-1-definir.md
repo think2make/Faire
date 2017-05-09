@@ -124,9 +124,6 @@ si nous n'arrivons pas à nous rappeler les faits et les erreurs du passé, nous
 
 Exemple : *Depuis 50ans, notre entreprise offre les produits YKY et constate depuis deux ans un changement dans l'évolution des besoins et des comportements des clients : ils achètent davantage par internet et les canaux traditionnels de distribution commandes chaque année 8% en moins. Une situation similaire a été vécue par la société soeur en Alabama..etc.. Et les compères dans la branche industrielle vivent une situation similaire soit..etc...*
 
-Exemple tactique : 
-
-Exemple opérationnel : 
 
 ....................................................................................
 
@@ -150,9 +147,6 @@ Au sein des entreprises, nous nous concentrons en premier sur le *quoi* : les pr
 
 Exemple : *D'ici 3 ans, nous souhaitons devenir le leader de notre branche d'activité et continuer à compler nos clients en offrant le service les plus efficients par le biais de nos produits YKY..etc...* 
 
-Exemple tactique : 
-
-Exemple opérationnel : 
 
 ....................................................................................
 
@@ -170,9 +164,7 @@ Comment s'y prendre : notez le but spécifique à atteindre par votre projet de 
 
 Pourquoi le faire : Les grandes visions n'ont rien de concret, elles ne sont ni mesurable et ni atteignable sans une définition plus objective. Décrivez ce que vous souhaitez achever en premier pour attendre votre but
 Exemple : *A la fin du projet, nous disposerons d'une stratégie pour remédier à la situation actuelles tout en accélérant notre positionnement..etc..* 
-Exemple tactique : 
 
-Exemple opérationnel : 
 ....................................................................................
 
 ....................................................................................
@@ -191,9 +183,6 @@ Pourquoi le faire : les idées sont immatérielles. Elles peuvent créer de la c
 
 Exemple stratégique: *Nous disposerons d'une nouvelle stratégie. Chaque stratégie comporte un plan de route avec une temporalité sur 6 mois et 3 actions impliquant les départements de vente et R&D..etc...* 
 
-Exemple tactique : 
-
-Exemple opérationnel : 
 
 
 ....................................................................................
@@ -215,10 +204,6 @@ Pourquoi le faire : la définition des critères de succès un bon moyen pour d�
 
 Exemple stratégique : *La carte de route est acceptée et validée unanimement par le conseil d'administration. Nos clients-cibles achètent dès la 1ère semaine..etc...*
 
- 
-Exemple tactique : 
-
-Exemple opérationnel : *+60% des internautes inscrivent leur emails dans notre base de donnée. etc.*
 
 ....................................................................................
 

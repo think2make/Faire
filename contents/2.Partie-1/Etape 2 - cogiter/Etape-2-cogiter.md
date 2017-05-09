@@ -118,6 +118,8 @@ Apprendre à formuler des questions brûlantes permet de récolter des idées fl
 Mettre un élément à la place d’un autre...
 Qu’est-ce qui peut être remplacé ? Qui d’autres ? Quoi d’autres ?
 
+Exemple : 
+
 ....................................................................................
 
 ....................................................................................
@@ -128,6 +130,8 @@ Qu’est-ce qui peut être remplacé ? Qui d’autres ? Quoi d’autres ?
 Fusionner deux concepts, deux idées...  
 Que pourrions-nous combiner pour multiplier les usages possibles ?
 
+Exemple : L'ensemble des éléments dans le monde sont une combinaison en fin de compte de trois éléments différents qui sont les éléctrons, les protons et les neutrons. Il suffit de combiner différement pour avoir un duvet de canard ou du granit. 
+
 
 ....................................................................................
 
@@ -137,6 +141,8 @@ Que pourrions-nous combiner pour multiplier les usages possibles ?
 
 Placer son concept dans un autre contexte...  
 Y a-t-il eu quelque chose de semblable dans le passé ? Que pourrais-je reproduire ?
+
+Exemple : Charles Chaplin apporta pantomime dans l'industrie cinématographique. Le pantomime est un style où le comédien joue un spectacle et évoque des émotions sans recourir à la parole. 
 
 
 ....................................................................................
@@ -149,6 +155,8 @@ Y a-t-il eu quelque chose de semblable dans le passé ? Que pourrais-je reprodui
 Magnifier, grossir, agrandir ou étendre... 
 Que peut-on ajouter ? Du temps ? De la force ? De la hauteur ? De la longueur ?
 
+Exemple : Pendant longtemps, le bauxite était considéré comme un minerai sans valeur. Ce minerai transformé devient de l'aluminum. A cette époque, l'aluminium était un métal très précieux et rare. Par la suite, on découvrit comment extraire de l'aluminium par le biai du courant électrique et le minerai de bauxite devint un minerai fort apprécié et l'aluminium un matériau facilement disponible. 
+
 
 ....................................................................................
 
@@ -160,6 +168,8 @@ Que peut-on ajouter ? Du temps ? De la force ? De la hauteur ? De la longueur ?
 Changer la signification, la couleur, la forme... 
 Peut-on changer la signification, la couleur, le mouvement, le son, l’odeur, la forme ?
 
+Exemple : Le Jacuzzi a été inventé par Candido Jacuzzi qui s'était rendu compte que le traitement hydrothérapique que son fils suivait était utilisait des petites pompes similaires que sa société vendait aux industriels. En modifiant un peu le modèle de base, il a donné naissance à l'industrie du bain à jet propulsé. 
+
 
 ....................................................................................
 
@@ -170,6 +180,8 @@ Peut-on changer la signification, la couleur, le mouvement, le son, l’odeur, l
 
 D’autres utilisations possibles si on le modifie...  
 Existe-t-il d’autres utilisations possibles si on le modifie ? 
+
+Exemple : 
 
 
 ....................................................................................
@@ -183,6 +195,8 @@ Qu’est-ce qui n’est pas nécessaire...
 Peut-on soustraire ? Supprimer ? Diminuer ?
 Peut-on éliminer certaines règles ?  
 
+Exemple : 
+
 
 ....................................................................................
 
@@ -194,6 +208,8 @@ Peut-on éliminer certaines règles ?
 D’autres dispositions... 
 D’autres séquences ? Un ordre différent ?
 
+Exemple : 
+
 
 ....................................................................................
 
@@ -204,6 +220,8 @@ D’autres séquences ? Un ordre différent ?
 
 Inverser le positif et le négatif ou tromper les attentes... 
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
+
+Exemple : 
 
 
 ....................................................................................

@@ -1,14 +1,9 @@
 # Chapitre 3. décider 
 
-> .................................................................................... (champ citation à remplir, à vous de décier)
+> .................................................................................... (champ citation à remplir, à vous de décider)
 
 
-
-
-
-
-
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solution binaire, à regarder avec une vue "*ou*". Et de ne pas réussir à voir en mode "*et*", de façon complémentaire. Il en va de même dans la façon dont nous décidons des solutions. Dans le chapitre précédent, nous avons vu la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire "c'est juste ou c'est faux". 
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, à regarder avec une vue "*ou*". Et de ne pas réussir à voir en mode "*et*", de façon complémentaire. Il en va de même dans la façon dont nous décidons des solutions. Dans le chapitre précédent, nous avons vu la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire "c'est juste ou c'est faux". 
 
 Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. 
 
@@ -36,22 +31,21 @@ Quand nous cherchons de nouvelles idées, nous pouvons vite nous emballer par l'
 Il se peut également que, fur à mesure que votre projet avance, votre objectif initial nécessite une correction. Faire des idées est un acte remplie d'aléas, ce n'est pas une route droite, ni parfaite. Et c'est là que réside le plaisir. 
 
 ### Dessiner pour décider
-Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoires racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqué ou impossible mais juste difficilement perceptible ou semble encore invisible. Un prototype vaut mille mots et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. Pour donner de la forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et plus compréhensible : 
 
+Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoires racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqués ou impossibles, mais juste difficilement perceptibles ou semblent encore invisibles. Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. Pour donner de la forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et plus compréhensible : 
 
 ![](../contents/img/Niveau_visualiser_idees.png)
 
+Cela paraît simple. Imaginez maintenant que vous devez améliorer l'expérience de l'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de visualiser n'existe pas, il faut l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter d'illustrer en *mimant*, comme au théâtre. 
 
-Cela parait simple. Imaginez maintenant que vous devez améliorer l'expérience de l'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de visualiser n'existe pas, il faut l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter d'illustrer en *mimant*, comme au théâtre. 
-
-Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Pour que les solutions puissent être évaluable, ayez le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.  
+Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Pour que les solutions puissent être évaluable, ayez le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
 
 
 ##### Six façons de visualiser les idées 
 
 Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées et les personnes à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen. Car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
 
-Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayons* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique.  Relié ensemble, cela donne ça : 
+Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayon* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique. Relié ensemble, cela donne ça : 
 
 1. **Qui/Quoi :** Si vous souhaitez illustrer un nom, dessinez **un portrait ** pour montrer le sujet ou l'objet.
 
@@ -70,26 +64,25 @@ Dans le premier chapitre, nous avons abordé les six questions fondamentales, ap
 ![](../contents/img/4.Quand.png)
 
 5. **Comment :** Si vous souhaitez illustrer un enchaînement d'événements, dessinez un **logigramme** pour montrer comment une chose a provoqué une chose, puis une autre chose.
+
 ![](../contents/img/5.Comment.png)
 
 6. **Pourquoi :** Si vous souhaitez illustrer une multitude de faits, dessinez **un graphique** à plusieurs variables pour décrire l'interaction à partir d'un seul schéma.
 
 ![](../contents/img/6.Pourquoi.png)
 
-
 ##### Un exemple
-Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'experience utilisateur, vous allez dessiner une chronologie (le *quand*). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
+
+Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'expérience utilisateur, vous allez dessiner une chronologie (le *quand*). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
 
 Face à des problèmes d'envergures où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
-
-
 
 Prenez une feuille et un crayon et dessinez votre idée maintenant. 
 
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
-Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel  pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité ne veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme, pourtant la finalité l'est.
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité ne veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme, pourtant la finalité l'est.
 
 La difficulté n’est pas a priori *comment* simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas facile. La meilleure façon de procéder est d’aller par réduction.
 
@@ -117,15 +110,13 @@ Etant donné que les idées sont très émotionnelles, la plus part du temps, ch
 
 [^8]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
-
-La meilleure façon de décider de la bonne idée, est d'impliquer les personnes qui vont être confronté à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
+La meilleure façon de décider de la bonne idée, est d'impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
 
 - **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
 - **Polarisation des idées :** calcul de l'écart entres les moyennes.
 
-
 Certaines idées auront des polarisations élevées, ce sont celles où l'on est fortement pour ou contre.
-Avec cette méthode vous démontrer qualitativement "combien" une idée est apprécié ou détesté. 
+Avec cette méthode vous démontrez qualitativement "combien" une idée est appréciée ou détestée. 
 
 Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement polarisées qui sont intéressantes, plutôt que celles qui ont les plus hautes moyennes et une faible polarisation.
 
@@ -133,14 +124,14 @@ Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement 
 
 ##### Analyser sans détruire : quatre questions stratégique
 
-Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en français FFOR pour forces, faiblesses, opportunités, risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative . 
+Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en français FFOR pour forces, faiblesses, opportunités, risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative. 
 
 - **Pluses :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 
 - **Concerns :** Quels sont les risques ?
-- **Overcome concerns :** Comment coutourner ces risques ?* 
+- **Overcome concerns :** Comment contourner ces risques ?* 
 
-*La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risquess. 
+*La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risques. 
 
 
 ##### Evaluer n'est pas décider

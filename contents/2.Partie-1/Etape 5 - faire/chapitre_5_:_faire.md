@@ -6,16 +6,14 @@ Dans un monde où tout devient très accessible, très rapidement et pour tous, 
 
 Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre comment : 
 
-- fonctionne un système et comment votre projet s'inscrit dans ce système
+- fonctionne un système et comment créer votre système
 - organiser votre travail et de ceux avec qui vous travaillez de façon agile 
 - focaliser sur votre travail et créer un tempo pour implémenter votre idée
 
 
 ### Les systèmes 
 
-Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) permettant de simplifier et s'améliorer. Depuis les années 80, les notions telles que le lean[^1] on permis de faire un grand pas en termes d’efficacité et amélioration de la qualité dans les organisations. 
-
-[^1]: Lean est une philosophie de gestion 
+Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) permettant de simplifier et s'améliorer.  
 
 Un système c'est... 
 Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 

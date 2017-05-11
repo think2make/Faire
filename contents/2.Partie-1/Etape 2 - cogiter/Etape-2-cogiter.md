@@ -3,42 +3,42 @@
 > "Comment a-t-on des idées ? Par la pérsévérance poussée jusqu'au bord de la folie." - Charles Chaplin
 
 
-Pendant longtemps, la création était un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a fait le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
+Pendant longtemps, la création était perçu comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a a été le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
 Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
-La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. A ne pas mélanger la créativité avec l'innovation. L'innovation est un processus d'invention, de développement et de mise sur le marché d'idées finalisées. 
+La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. Toutefois, il ne faut pas confondre créativité et innovation. Cette dernière est un processus d'invention, de développement et de mise sur le marché d'idées finalisées. 
 
-Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissance sur le sujet traité. La connaissance permet d'éviter de réinventer la roue. 
+Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissances sur le sujet traité. Le savoir permet d'éviter de réinventer la roue. 
 
-Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Mais il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. 
+Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Cependant, il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. Nous entendons par processus sous-jacent, les phases par lesquelles les méthodes de créativité passent pour faire naitre de nouvelles idées. 
 
-Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile de demander à des personnes de produire des idées comme s'ils usinaient ou assemblaient des pièces dans une usine. Encore moins s'ils ne connaissent pas une démarche structurée, ni les outils adéquats. D'où la nécessité de comprendre le fonctionnement pour faciliter cette production d'idées. C'est ce que vous allez découvrir ici. 
+Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile de demander à des personnes de produire des idées comme des machines de production, d'autant plus, s'ils ne connaissent pas une démarche structurée et les outils adéquats. C'est pourquoi il est nécessaire de comprendre le fonctionnement pour faciliter cette production d'idées. C'est ce que vous allez découvrir ici. 
 
 ### Trois phases de la génération d’idées
 
-Les outils de créativité portent souvent des noms exotiques. L'ensemble de ces méthodes peut être résumé 3 phases mentales à s'en souvenir :
-
-- **Phase de divergence** : permet de se plonger dans le sujet et générer de nouvelles inspirations – le défi est regardé à 360°. Cette phase permet d'avoir des idées brutes (des bribes d'idées). Elle est également une période de questionnement et partage du but à atteindre par les contributeurs du projet.
-
-- **Phase d’émergence** : permet de conceptualiser. C'est la cristallisation des pensées. C'est une phase peu confortable car elle remet en question certaines compréhensions initiales. Ici quelque chose commence à remonter à la surface. Cette phase permet de commencer à visualiser des solutions potentielles. 
-
-- **Phase de convergence** : permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme de solutions analysées pour prendre des décisions, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
-
-Ces trois phases sont une suite ordrée. Leur temporalité est variable, allant de quelques heures à quelques jours. l'ensemble peut constituer un cycle temps de 3 semaines pour des petits projets à 3 mois pour des projets d'envergure. Le livrable à la fin d'un premier cycle peut être un prototype de solution. 
-
-La résolution creative de problème[^2] est une approche complète et structurée qui a été mis au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode Brainstorming. Entre-temps, d'autres approches sont nées ayant les éléments similaires, comme par exemple le Design Thinking.
+La résolution creative de problème[^2] est une approche complète et structurée qui a été mise au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode du brainstorming. Entre-temps, d'autres approches sont nées ayant les éléments similaires, comme par exemple le Design Thinking.
 
 [^2]: l'approche Creative Problem Solving (résolution creative de problème) réunit un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Foundation aux Etats-Unis.
+
+L'ensemble de ces méthodes peut être résumé 3 phases mentales à s'en souvenir :
+
+- **La phase de divergence** : permet de se plonger dans le sujet et générer de nouvelles inspirations – le défi est regardé à 360°. Cette phase permet d'avoir des idées brutes (des bribes d'idées). Elle est également une période de questionnement et partage du but à atteindre par les contributeurs du projet.
+
+- **La phase d’émergence** : permet de conceptualiser. C'est la cristallisation des pensées. C'est une phase peu confortable car elle remet en question certaines compréhensions initiales. Ici quelque chose commence à remonter à la surface, car cela permet de commencer à visualiser des solutions potentielles. 
+
+- **La phase de convergence** : permet de combiner et mettre en forme les idées concrètes. Cette phase permet structurer les idées sous forme de solutions analysées pour prendre des décisions, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
+
+Ces trois phases sont une suite ordrée. Leur temporalité est variable, allant de quelques heures à quelques jours. L'ensemble peut constituer un cycle temps de trois semaines pour des petits projets à trois mois pour des projets d'envergure. Le livrable à la fin d'un premier cycle peut se présenter comme un prototype.
 
 ##### Contenu & Contenant 
 
 Dans le chapitre 1, nous avons parlé du contenu. Dans ce chaptire, nous allons aborder le contenant. 
 
-Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenu est le café. Le contenant la tasse. Le contenu, c'est le cahier des charges. Le contenant, c’est le cadre du projet (les artefacts, méthodes, la façon de formuler les questions,  déroulement, etc.).
+Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Si nous comparions ces deux notions à un café chaud, le premier serait le liquide et le second serait la tasse. Dans le cadre d'un projet, le contenu sera définit comme le cahier des charges et le contenant sera associé au cadre du projet (artéfacts, méthodes, questionnement. déroulement, etc.) 
 
 #####  Environnement 
 
-Si vous vous voulez donner envie à quelqu'un de manger des pop-corns, amenez-le au cinéma. L'environnement et le contexte influence beaucoup. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poid aussi important l'un que l'autre sur le processus créatif. 
+Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influence notre nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poid aussi important l'un que l'autre sur le processus créatif. 
 
 Nous avons experminenté des situations avec des résultats médiocres car l'environnement n'était pas favorable. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous faites des séances d'évaluation des personnes, ou encore anonncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soit inspirés dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les places peuvent booster ou freiner votre créativité et celle de vos équipes. 
 

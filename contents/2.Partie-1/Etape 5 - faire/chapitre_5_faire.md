@@ -4,7 +4,7 @@
 
 Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. 
 
-<<<<<<< HEAD
+
 ##### Quatre façons d'agir 
 
 Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre que souvent 20% de vos actions apportent 80% du résultat. Concentrez-vous sur les 20% et gardez à l'esprit les 4 façons de réaliser une action : 
@@ -16,10 +16,6 @@ Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement 
 - \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs fort investi. 
 
 - \faCheckSquare - Faire = Réaliser l’action : il vous reste qu'une petite liste d'actions importantes à concrétiser dont seul vous pouvez les réaliser. Faites-les.
-=======
-Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide, or ce qui est primordial c'est comprendre comment : 
->>>>>>> origin/master
-
 
 
 ### Les systèmes 

@@ -43,3 +43,10 @@ Il faut installer la fonte FontAwesome, en la téléchargeant ici: http://fontaw
 * Dans le dossier Fontawesome, ouvrir le dossier "fonts".
 * Double-cliquer le fichier FontAwesome.otf pour l'installer.
 
+Erreur latex:
+
+LaTeX Error: File `hyphenat.sty' not found.
+
+Il faut installer l'extension "hyphenat"
+
+Tentative: sudo tlmgr install hyphenat

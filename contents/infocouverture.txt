@@ -4,8 +4,8 @@
 
 Première version : octobre 2016.
 
-Edité et conçu par Manuel Schmalstieg et Sedat Adiyaman
-
+Edité et conçu par Manuel Schmalstieg et Sedat Adiyaman\\*
+Créé avec Markdown, Byword, Mou, Pandoc et Github
 
 Greyscale Press\\*
 ISBN-10: 2940561052\\*  

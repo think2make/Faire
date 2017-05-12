@@ -2,7 +2,7 @@
 
 %% based on default latex template for pandoc-1.14.0.1-osx
 
-% Start Interview Template Customization
+% Start FAIRE Template Customization
 
 \usepackage[
   paperheight=6.875in,
@@ -18,8 +18,8 @@
   
 \setcounter{secnumdepth}{-1}
 
-\usepackage{ragged2e}
-\setlength{\RaggedRightParindent}{0pt}
+%% \usepackage{ragged2e}
+%% \setlength{\RaggedRightParindent}{0pt}
 
 \usepackage{afterpage}
 
@@ -42,12 +42,24 @@
 \usepackage[no-math]{fontspec}
 \usepackage{fontawesome}
 
+%% try to hyphenate french:
+%% https://en.wikibooks.org/wiki/LaTeX/Internationalization#French
+
+\usepackage[french]{babel}
+
+
+%% enables French hyphenation, if you have configured your LaTeX system accordingly.
+%% ???
+
+\usepackage{hyphenat}
+\allowhyphens
+
 % We want captions in italic
 
 \usepackage[font={sf,small}]{caption}
 
 
-% End Manifesto Template Customization
+% End FAIRE Template Customization
 
 $if(fontfamily)$
 \usepackage{$fontfamily$}
@@ -296,14 +308,14 @@ $endfor$
 
 \begin{document}
 
-% Start Interview Template Customization
+% Start FAIRE Template Customization
 
-\RaggedRight
+%% \RaggedRight
 
 % Disable Hyphenation
 \hyphenrules{nohyphenation}
 
-% End Interview Template Customization
+% End FAIRE Template Customization
 
 $if(title)$
 \maketitle

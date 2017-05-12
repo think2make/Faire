@@ -33,10 +33,10 @@ Il y a deux contraintes à considérer dans la concrétisation d'une idées :
 - la rigidité d'un système quand il s'agit d'explorer le nouveau
 - le manque de tempo et focus sur les actions à réaliser 
 
-Pour cela, nous vous proposons deux inspirations ....
+Pour cela, nous vous proposons deux pistes de solution : 
 
-
-
+- l'organisation agile
+- la technique pomodoro
 
 
 

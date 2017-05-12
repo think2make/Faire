@@ -47,15 +47,11 @@ Très rapidement, des questions émergents :
 
 Ayant pris cette initiative, nous commençons par nous attaquer à la promotion et la communication de cette idée. Nous achetons le nom de domaine coworking-neuchatel.ch, et lançons le site, le tout en moins d'une matinée. Ainsi, nous mettons en place ce premier canal de communication.
 
-
 ![En pleine préparation du coworking, Restaurant L'Aubier](../contents/img/Fondateurs_coworking.png)
-
-
 
 ###### 2. Rencontre brainstorming
 
 En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs coworkers, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles.
-
 
 ![Premier article dans la presse locale](../contents/img/Premier_article_coworking.png)
 

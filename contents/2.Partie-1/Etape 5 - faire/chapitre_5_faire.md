@@ -119,38 +119,32 @@ Dans la terminologie Agile, et en particulier dans la méthode Scrum, le terme d
 
 ##### Design Sprint
 
-Le "Design Sprint" est une méthode développée par des équipes de Google. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours.
+Le "Design Sprint" est une méthode développée par des équipes de Google. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Sa méthode a été adoptée par de grandes entreprises comme Google, Shopify, TIMES...
 
-Chaque journée fait un focus sur un sujet:
+Cette technique s'approche des techniques de créativité rassemblées sous le concept de "Design Thinking", inspirées par le travail de l'agence IDEO et de l'Université de Standford (d.school). Son approche se centre forcement sur la conception d'applications mobiles, et la discipline de la recherche UX (expérience utilisateur) y joue un rôle important.
 
-1. Understand: Discover the business opportunity, the audience, the competition, the value proposition...
-2. Diverge: Explore, develop and iterate creative ways of solving the problem, regardless of feasibility.
-3. Converge: Identify ideas that fit the next product cycle and explore them in further detail through storyboarding.
-4. Prototype: Design and prepare prototype(s) that can be tested with people.
-5. Test: Conduct 1:1 user testing with (5-6) people from the product's primary target audience. Ask good questions
- 
+Chacune des cinq journées fait un focus sur un sujet:
 
-Cette technique s'approche des techniques de créativité rassemblées sous le concept de "Design Thinking", inspirées par le travail de l'agence IDEO et de l'université de Standford. Son approche se centre forcement sur la conception d'applications mobiles, et la discipline de la recherche UX (expérience utilisateur) y joue un rôle important.
+1. **Comprendre:** comprendre les opportunités, le public, les compétiteurs, la proposition-valeur...
+2. **Diverger:** explorer, découvrir et expérimenter des manières créatives de résoudre le problème, sans se préoccuper de la faisabilité.
+3. **Converger:** identifier les idées qui sont applicables durant le prochain cycle du produit, et les détailler sous forme de Storyboard.
+4. **Prototyper:** concevoir des prototypes qui pourront être testées sur des personnes.
+5. **Tester:** conduire des tests utilisateur avec une poignée de personnes constituant le public cible.
 
+Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre.
 
 ### La technique Pomodoro
 
-Takt time désigne un terme allemand de rythme de production. Ce mot emprunté du language de la musique pour désigner le tempo, la cadence est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal.
+*Takt time* (taktzeit) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté du language de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal.
 
-...
-Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialiement pour mettre au point cette technique.
-...
+Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
+À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise l'usage individuel. Visant à améliorer la faculté individuelle à se focaliser sur une tâche, elle est très simple à implémenter.
 
-
-Parmi les différentes méthodes visant à améliorer la faculté à se focaliser sur un travail, la technique Pomodoro est l'une des plus simples.
-
-**Matériel requis:**
+Le matériel requis pour créer son rythme avec la méthode pomodoro est très simple:
 
 - Une feuille A4
 - Une minuterie de cuisine
-
-La méthode a été inventée par un étudiant italien, Francesco Cirillo, qui cherchait un moyen pour se discipliner durant l'écriture de sa thèse universitaire. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialiement pour mettre au point cette technique.
 
 ![Une minuterie Pomodoro. Source: Wikipedia, par Erato](../contents/img/pomodoro.jpg)
 
@@ -164,23 +158,15 @@ La technique repose ensuite sur la répétition cycliques de ces cinq étapes :
 4. Prendre une courte pause (environ 5 minutes) ;
 5. Tous les quatre *Pomodoro*, prendre une pause un peu plus longue (15-20 minutes).
 
-De cette manière, une après-midi de 4 heures (13-17h)  vous permettra d'effectuer 7 Pomodoro.
-
-- 13h00-13h25: 1er Pomodoro
-- 13h30-13h55: 2e Pomodoro
-- 14h00-14h25: 3e Pomodoro
-- 14h30-14h55: 4e Pomodoro
-- pause de 14h55 à 15h20
-- 15h20-15h45: 5e Pomodoro
-- 15h50-16h15: 6e Pomodoro
-- 16h20-16h45: 7e Pomodoro
-
 Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées.
+
+![Planification des pomodoro](../contents/img/pomodoro-3-Today.jpg)
 
 Il existe un grand nombre d'applications desktop et mobiles basées sur cette méthode, permettant de simuler la minuterie: *Clockwork tomate*, *Pomodorium*, *KanbanFlow*, *Tomighty*, *Tomato Timer*, *PomoDone*...
 
-Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
+![Quelques applications Pomodoro](../contents/img/pomodoro-app-store.png)
 
+Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
 
 
 ### Conclusion

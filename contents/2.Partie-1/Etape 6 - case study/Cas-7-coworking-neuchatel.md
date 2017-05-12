@@ -61,7 +61,7 @@ En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâ
 
 ![Session brainstorming](../contents/img/coworking-brainstorm-notes.jpg)
 
-![](../contents/img/coworking-brainstorm-session-2.jpg)
+![](../contents/img/cowork-brainstorm-session-2.jpg)
 
 ###### 3. Prototypes rapides
 

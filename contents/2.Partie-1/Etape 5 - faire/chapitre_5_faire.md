@@ -143,7 +143,7 @@ Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la 
 
 À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise l'usage individuel. Visant à améliorer la faculté individuelle à se focaliser sur une tâche, elle est très simple à implémenter.
 
-Le matériel requis pour créer son rythme avec la méthode pomodoro est très simple:
+Le matériel requis pour créer son rythme avec la méthode pomodoro se résume à:
 
 - Une feuille A4
 - Une minuterie de cuisine

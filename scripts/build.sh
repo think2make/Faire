@@ -60,14 +60,18 @@ END {
 ## "Limousine" - by OSP Foundry
 ## Monoid - by Andreas Larsen
 ## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
+## mainfont: "HKSerif-Regular"
+## boldfont: "HKSerif-Bold"
+## italicfont: "HKSerif-Italic"
+## sansfont: "HK Grotesk Pro"
 
 pandoc -f markdown --template=../templates/custom $TEMP \
 	--latex-engine=xelatex \
   --variable lang=french \
-  --variable mainfont="HKSerif-Regular" \
-  --variable boldfont="HKSerif-Bold" \
-  --variable italicfont="HKSerif-Italic" \
-  --variable sansfont="HK Grotesk Pro" \
+  --variable mainfont="LinguisticsPro-Regular" \
+  --variable boldfont="LinguisticsPro-Bold" \
+  --variable italicfont="LinguisticsPro-Italic" \
+  --variable sansfont="Fabrica" \
   --variable fontsize=9pt \
   --variable urlcolor=black \
   --variable linkcolor=black \

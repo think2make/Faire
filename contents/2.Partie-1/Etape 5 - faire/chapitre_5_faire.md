@@ -171,8 +171,6 @@ Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans d
 
 ### Conclusion
 
-Ce que nous avons appris : 
+Ce que nous avons appris : dans ce chapitre, vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites Agiles, les différentes approches regroupées sous le terme de Sprint, et l'outil individuel que constitue la technique Pomodoro.
 
-
-Dans le chapitre suivant, ... 
-Enfin, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - important quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 
+Dans le chapitre suivant, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - chose importante quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 

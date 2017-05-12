@@ -23,7 +23,7 @@
 Dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire pour concrétiser des idées : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pertinentes pour trouver des réponses. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet. 
 
 
-### Sept causes et sept questions
+### Poser les bases 
 
 Souvent les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manoeuvre. Ils se privent ainsi d'eventuelles opportunités d'exploration. 
 
@@ -46,12 +46,10 @@ Sachant que la plupart des conséquences sont liées à sept types de causes[^1]
 
 
 
-Cela signifie que nous pouvons connaître tous les éléments des causes et conséquences d'un projet en recherchant et en définissant ces sept questions. Donc la capacité à formuler des questions est la première compétence à acquérir. 
+Cela signifie que nous pouvons connaître tous les éléments des causes et conséquences d'un projet en recherchant et en définissant ces sept questions. 
 
 
-
-
-###### Questionner
+###### Apprendre à se poser les bonnes questions
 Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
 - La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
@@ -83,7 +81,7 @@ Comment procéder ? Au lieu de perdre un temps excessif à faire de la veille ou
 
 ##### Par où commencer 
 
-Il est parfois difficile de savoir quel sujet empoigner et de le contrétiser sans avoir clairement défini les objectifs de celui-ci. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de de ne pas prendre de risques démesurés.
+Il est parfois difficile de savoir quel projet ou idée à empoigner et de le contrétiser sans avoir clairement défini les objectifs de celui-ci. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de de ne pas prendre de risques démesurés.
 
 Dans tout projet, il existe trois domaines d'activité régis par différentes temporalités. 
 
@@ -112,11 +110,11 @@ Chaque projet est unique. Dans ce briefing nous mettons en lumière les élémen
 
 \faMapPin  
 
-**Situation :** quelle est la situation actuelle ? Où en sommes-nous aujourd’hui ? Quel est l'élément perturbateur actuellement connu ? 
+**Situation :** quelle est la situation actuelle ? Où en sommes-nous aujourd’hui ? Quel est la situation de départ insatisfaisante ? 
 
 Comment s'y prendre ? 
 
-A l'instar d'une page wikipédia, écrivez les données qui peuvent être vérifiées. Les informations qui concernent l'entreprise et également l'environnement dans lequelle elle se trouve. 
+Ecrivez les données qui peuvent être vérifiées. Les informations qui concernent l'entreprise et également l'environnement dans lequelle elle se trouve. 
 
 Pourquoi le faire ?
 
@@ -175,13 +173,13 @@ Pourquoi le faire : Les grandes visions n'ont rien de concret, elles ne sont ni 
 
 \faCube 
 
-**Résultats attendus :** à quoi va ressembler concrètement le livrable ? 
+**Résultats attendus :** à quoi va ressembler concrètement le produit fini ? 
 
 Comment s'y prendre : écrivez les résultats à atteindre à la fin du projet, tant qu niveau de la quantité et que la qualité. 
 
 Pourquoi le faire : les idées sont immatérielles. Elles peuvent créer de la confusion entre les personnes. Un language trop *managerial* offre rarement une définition claire de ce que vous cherchez à atteindre concrétement. 
 
-Exemple stratégique: *Nous disposerons d'une nouvelle stratégie. Chaque stratégie comporte un plan de route avec une temporalité sur 6 mois et 3 actions impliquant les départements de vente et R&D..etc...* 
+Exemple : *Nous disposerons d'une nouvelle stratégie. Chaque stratégie comporte un plan de route avec une temporalité sur 6 mois et 3 actions impliquant les départements de vente et R&D..etc...* 
 
 
 
@@ -202,7 +200,7 @@ Comment s'y prendre : écrivez si possible des critères mesurables donc quantit
 Pourquoi le faire : la définition des critères de succès un bon moyen pour définir ce qui est attendu par vous ou/et ce que vous attendez des autres. Un bon moyen de mesurer est d'utiliser une échelle de mesure (cf. chapitre 3).
 
 
-Exemple stratégique : *La carte de route est acceptée et validée unanimement par le conseil d'administration. Nos clients-cibles achètent dès la 1ère semaine..etc...*
+Exemple : *La carte de route est acceptée et validée unanimement par le conseil d'administration. Nos clients-cibles achètent dès la 1ère semaine..etc...*
 
 
 ....................................................................................

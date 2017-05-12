@@ -1,10 +1,10 @@
 # Chapitre 5 : faire
 
->"il n'y a de réalité que dans l'action" - Jean-Paul Sartre
+> "Il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
 Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. 
 
-Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre comment : 
+Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide, or ce qui est primordial c'est comprendre comment : 
 
 - fonctionne un système et comment créer votre système
 - organiser votre travail et de ceux avec qui vous travaillez de façon agile 
@@ -87,11 +87,21 @@ Les concepts essentiels de la méthode agile sont la communication et la collabo
 Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
 
-
-
 ##### Le principe du sprint
 
-Infos sur le Design Sprint.
+En 1999, IDEO, l'agence de design américaine rendue fameuse par ses méthodes atypiques de création, fut contactée par une chaîne de télévision pour présenter son travail à un large public. Afin de respecter le format du documentaire télévisuel, un projet de conception de produit, dont l'objectif était l'amélioration des chariots de supermarché, fut condensé sur une période de cinq jours. Il s'agit vraisemblablement de l'une des premières application de ce qu'on appellera le "design sprint".
+
+Dans le domaine du développement logiciel, la pratique du "code sprint" émerge dans les années 2000, et connaît un grand succès dans la communauté du mouvement Free/Libre Open Source Software. Reposant sur l'idée de rassembler une équipe de développeurs, pendant en un laps de temps retreint, afin de faire progresser un projet de manière significative.
+
+De cette pratique ont émergé des techniques comme le "Book Sprint", qui consiste à rassembler des spécialistes et à procéder à l'écriture d'un livre en cinq jours[^flossmanuals].
+
+![Sprint d'écriture pour la documentation du logiciel FontForge](../contents/img/sprint-fontes-libres.JPG)
+
+[^flossmanuals]: Pour des exemples d'applications concrètes, voir le travail de l'organisation Floss Manuals, qui a produit de cette manière des guides sur de nombreux sujets technologiques: flossmanualsfr.net.
+
+La méthode de travail du sprint peut s'avérer utile pour concevoir rapidement un premier prototype fonctionnel, une version béta. Cela permet de confronter son idée à l'utilisation dans le monde réel.
+
+Dans la terminologie agile et en particulier dans la méthode "Scrum", le terme de sprint a changé de sens, pour 
 
 ##### Design Sprint
 

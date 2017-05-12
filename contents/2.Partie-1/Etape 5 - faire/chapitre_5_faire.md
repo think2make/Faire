@@ -4,28 +4,40 @@
 
 Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. 
 
-Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre comment : 
+##### Quatre façons d'agir 
 
-- fonctionne un système et comment créer votre système
-- organiser votre travail et de ceux avec qui vous travaillez de façon agile 
-- focaliser sur votre travail et créer un tempo pour implémenter votre idée
+Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre que souvent 20% de vos actions apportent 80% du résultat. Concentrez-vous sur les 20% et gardez à l'esprit les 4 façons de réaliser une action : 
+ 
+- \faRemove - Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Par exemple, nous avons éliminé dans ce livre un chapitre entier pour focaliser sur l'essentiel et éviter de faire perdre du temps aux lecteurs. 
+
+- \faReplyAll - Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Dans ce livre, nous avons laisser certains thèmes sans suite et en constatant que cela n'était pas essentiel, nous avons finalement éliminé. 
+
+- \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs fort investi. 
+
+- \faCheckSquare - Faire = Réaliser l’action : il vous reste qu'une petite liste d'actions importantes à concrétiser dont seul vous pouvez les réaliser. Faites-les.
+
 
 
 ### Les systèmes 
 
-Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) permettant de simplifier et s'améliorer.  
+Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) pour réaliser des activités et les simplifier.  
 
-Un système c'est... 
-Dans un système il y a les flux, (entrée et sortie, boucle de rétroaction) les stocks, des contraintes. 
+Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système c'est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.  
 
-En comprenant votre propre système, votre propre processus de travail, vous pourrez vous focaliser sur les tâches importantes de votre processus et éviter de vous éparpiller. 
+En comprenant comment fonctionne un système, vous focaliserez sur les éléments important de votre processus de travail (votre système) et éviter de vous éparpiller.
 
-Gardez à l'esprit les 4 façons de réaliser une action : 
- 
-- \faRemove - Ne pas faire = Eliminer l’action
-- \faReplyAll - Laisser faire = Déplacer l’action
-- \faRetweet - Faire faire = Déléguer l’action
-- \faCheckSquare - Faire = Réaliser l’action
+En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes. La performance est toujours déterminé par la capacité d'une contrainte, c'est-à-dire qu'une contrainte défini votre performance. Eliminez les contraintes pour augmenter la performance de votre système. 
+
+Il y a deux contraintes à considérer dans la concrétisation d'une idées : 
+
+- la rigidité d'un système quand il s'agit d'explorer le nouveau
+- le manque de tempo et focus sur les actions à réaliser 
+
+Pour cela, nous vous proposons deux inspirations ....
+
+
+
+
 
 
 ### L'organisation agile

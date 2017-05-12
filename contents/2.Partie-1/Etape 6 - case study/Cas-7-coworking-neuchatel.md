@@ -4,13 +4,13 @@ Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d
 
 ### Contexte - le futur du travail 
 
-Le travail change, grand nombre d'activités peuvent être automatisé, les moyens technologiques permettent aux entreprises de devenir légère et agile, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnent en mode projet. Certains parlent de 4ème révolution industrielle[^1], 
+Le travail change, grand nombre d'activités peuvent être automatisé, les moyens technologiques permettent aux entreprises de devenir légère et agile, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnent en mode projet. Certains parlent de 4ème révolution industrielle[^industrielle], 
 
-[^1]: c'est-à-dire, après la première révolution industrielle : la méchanisation, la deuxième : l'éléctrification, la troisième : l'automatisation, la quatrième serait la digitalisation. 
+[^industrielle]: c'est-à-dire, après les trois premières révolutions industrielles : la méchanisation, l'éléctrification et l'automatisation, la quatrième révolution industrielle est la digitalisation. 
 
-Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas une procédure aveuglement, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents sur l’ensemble des tâches, et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^2] remet en cause les notions de temps et de lieu de travail. 
+Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas une procédure aveuglement, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents sur l’ensemble des tâches, et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^télétravail] remet en cause les notions de temps et de lieu de travail. 
 
-[^2]: Le télétravail une manière d'exercer son activité professionnelle en dehors des locaux de son employeur. Cette mode de de travail s'est amplifié avec l'émergence des technologies de communciation numérique. 
+[^télétravail]: Le télétravail une manière d'exercer son activité professionnelle en dehors des locaux de son employeur. Cette mode de de travail s'est amplifié avec l'émergence des technologies de communciation numérique. 
 
 Dans ce contexte, le coworking est une nouvelle manière d'organiser le travail, favorisant autonomie et collaboration. Le coworking met surtout l'accent sur les interactions, l'entrepreneuriat et l'innovation, en créant un cadre convivial et sans hierarchie.
 

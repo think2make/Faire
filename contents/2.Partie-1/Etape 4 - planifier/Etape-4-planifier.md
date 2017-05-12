@@ -25,15 +25,15 @@ Le risque avec la planification, c'est de passer plus de temps à planifier qu'�
 
 Un des plus grand défi des entrepreneurs et des entrprises n'est pas de générer des idées mais de planificer celles-ci et de les implémenter. 
 
-A travers le temps, différentes approches de planification comme Gantt[^9] ou PERTT[^10] ont été développé. Il est souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte beaucoup d'éléments nouveaux et inconnus.  
+A travers le temps, différentes approches de planification comme Gantt[^gantt] ou PERTT[^pertt] ont été développé. Il est souvent difficile de planifier aussi longtemps en avance - c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comporte beaucoup d'éléments nouveaux et inconnus.  
 
 Dans le prochain chapitre, vous pourrez découvrir et approfondir la méthode de gestion de projet Agile - une méthode très actuelle de gestion de projet qui a été développé initialement dans le milieu informatique.
 
 
 
-[^9]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
+[^gantt]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 
-[^10]: **Pert** : technique de modélisation de projet. Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
+[^pertt]: **Pert** : technique de modélisation de projet. Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
 
 
 
@@ -119,9 +119,9 @@ Il y a bien longtemps, un certain Frederick Winslow Taylor inventa l'organisatio
 ![](../contents/img/zone_productive.png)
 
 
-La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme RescueTime[^12] ou en notant dans votre agenda personnel. Généralement, gardez à l'esprit que les activités hautement stratégique ou qui nécessite une concentration intense se font mieux le matin. Car la phase de productivité la plus intence se trouve souvent 2 heures après le début de la journée et se poursuit pour une durée d'environ 2 heures. 
+La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme RescueTime[^rescuetime] ou en notant dans votre agenda personnel. Généralement, gardez à l'esprit que les activités hautement stratégique ou qui nécessite une concentration intense se font mieux le matin. Car la phase de productivité la plus intence se trouve souvent 2 heures après le début de la journée et se poursuit pour une durée d'environ 2 heures. 
 
-[^12]: RescueTime est un logiciel de qui vous permet de comprendre comment vous et vos équipes utilisez votre temps et l'optimiser.
+[^rescuetime]: RescueTime est un logiciel de qui vous permet de comprendre comment vous et vos équipes utilisez votre temps et l'optimiser.
 
 Si votre activité est davantage manuelle, notez toutes les tâches que vous réalisez, et les durées des tâches. De cette façon, vous pourrez observer les interruptions, les zones de productivité, etc. 
 
@@ -150,9 +150,9 @@ Enfin, vous pouvez définir quel mode de communication est le plus efficace (il 
 
 En résumé, quand vous agendez une séance, vous définissez 3 éléments : le lieu, le temps et le moyen de communication. 
 
-Pensez à cela et sachez qu'en définissant un lieu tiers, par exemple un espace de coworking[^4], vous influez sur les 3 facteurs - vous définissez un lieu neutre et à proximité de où vous souhaitez réaliser votre séance, le temps qui vous correspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum d'efficacité. 
+Pensez à cela et sachez qu'en définissant un lieu tiers, par exemple un espace de coworking[^coworking], vous influez sur les 3 facteurs - vous définissez un lieu neutre et à proximité de où vous souhaitez réaliser votre séance, le temps qui vous correspond le mieux et le moyen de communication face-à-face, si vous utilisez une salle de réunion pour un maximum d'efficacité. 
 
-[^4]: Un espace de coworking est un lieu de travail ouvert à tout les professionnels. Vous trouverez un grand nombre d'espace de coworking près de chez vous. Nous y reviendrons sur ce thème dans le dernier chapitre.  
+[^coworking]: Un espace de coworking est un lieu de travail ouvert à tout les professionnels. Vous trouverez un grand nombre d'espace de coworking près de chez vous. Nous y reviendrons sur ce thème dans le dernier chapitre.  
 
 ### Combien d'instants y a-t-il dans un quart d'heure ? 
 

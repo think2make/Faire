@@ -16,9 +16,9 @@ Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile 
 
 ### Trois phases de la génération d’idées
 
-La résolution creative de problème[^2] est une approche complète et structurée qui a été mise au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode du brainstorming. Entre-temps, d'autres approches sont nées ayant les éléments similaires, comme par exemple le Design Thinking.
+La résolution creative de problème[^problem] est une approche complète et structurée qui a été mise au point dans les années 60 par Alex Osborn et Sid Parnes, les fondateurs de la méthode du brainstorming. Entre-temps, d'autres approches sont nées ayant les éléments similaires, comme par exemple le Design Thinking.
 
-[^2]: l'approche Creative Problem Solving (résolution creative de problème) réunit un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Foundation aux Etats-Unis.
+[^problem]: l'approche Creative Problem Solving (résolution creative de problème) réunit un réseau mondial de personnes intéressées autour des sujets de créativité et d'innovation. La plus emblématique est la Creative Education Foundation aux Etats-Unis.
 
 L'ensemble de ces méthodes peut être résumé 3 phases mentales à s'en souvenir :
 
@@ -46,19 +46,19 @@ Nous avons experminenté des situations avec des résultats médiocres car l'env
 
 Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont des objets symboliques. Par exemple, quand vous utilisez un post-it, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. Le cas des post-its est simple et connu par la majorité des professionnels. Il existe d'autres solutions qui aident à *penser*. 
 
-Vous pouvez utiliser des solutions inspirés des *serious games* (jeux sérieux)[^3] comme *Lego serious play* ou des outils en ligne[^4] comme hors ligne - et parfois un mix : la boite à idées u2[^5] est un bel exemple. Pour notre part, nous collaborons aussi avec des chercheurs pour certains outils comme le Creative Profiler[^6]. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
+Vous pouvez utiliser des solutions inspirés des *serious games* (jeux sérieux)[^sérieux] comme *Lego serious play* ou des outils en ligne[^en_ligne] comme hors ligne - et parfois un mix : la boite à idées u2[^u2] est un bel exemple. Pour notre part, nous collaborons aussi avec des chercheurs pour certains outils comme le Creative Profiler[^profiler]. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
 
-Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^7] pour vos sessions de brainstorming.
+Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^gratuits] pour vos sessions de brainstorming.
 
-[^3]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. Historiquement, au XVème siècle, des écrivains utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourds. Avec l'avénement de l'informatique, les entreprises utilisent.
+[^sérieux]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. Historiquement, au XVème siècle, des écrivains utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourds. Avec l'avénement de l'informatique, les entreprises utilisent.
 
-[^4]: il existe sur le web d'innombrables logiciels de génération d'idées. Pour notre part, nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
+[^en_ligne]: il existe sur le web d'innombrables logiciels de génération d'idées. Pour notre part, nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
 
-[^5]: constatant que la majorité des boîtes à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ.
+[^u2]: constatant que la majorité des boîtes à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ.
 
-[^6]: Creative Profiler est un logiciel d'évaluation des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
+[^profiler]: Creative Profiler est un logiciel d'évaluation des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
 
-[^7]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
+[^gratuits]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
  
 ### Les principes de la génération d'idées
 
@@ -103,9 +103,9 @@ g. Une fois que vous disposez d'alternatives et d'inpsirations suffisantes, vous
 
 #### Questionstorming : des questions pour produire des idées 
 
-Apprendre à formuler des questions brûlantes permet de récolter des idées flamboyantes. Utilisez la technique de concassage SCAMPER[^8] qui permet, grâce à une liste de questions, de faire jaillir des idées. Inspirez-vous de ces questions pour les adapter à votre contexte. Vous pouvez utiliser cet outil personnellement pour élaborer des questions ou sous forme d'exercice en groupe pour faciliter la génération des idées.
+Apprendre à formuler des questions brûlantes permet de récolter des idées flamboyantes. Utilisez la technique de concassage SCAMPER[^scamper] qui permet, grâce à une liste de questions, de faire jaillir des idées. Inspirez-vous de ces questions pour les adapter à votre contexte. Vous pouvez utiliser cet outil personnellement pour élaborer des questions ou sous forme d'exercice en groupe pour faciliter la génération des idées.
 
-[^8]: Pour aller plus loin, livre de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*)
+[^scamper]: Pour aller plus loin, livre de Michael Michalko (*thinkertoys - 30 jeux pour dégourdir l'esprit*)
 
 
 ##### S: SUBSTITUER

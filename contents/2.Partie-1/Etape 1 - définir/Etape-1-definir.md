@@ -30,7 +30,7 @@ Souvent les projets ont un cadre si rigide qu'ils ne laissent plus assez de marg
 Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroits pour être gérés. Notez uniquement les éléments primordiaux pour votre sujet.
 
 
-Sachant que la plupart des conséquences sont liées à sept types de causes[^1], en utilisant 7 questions du QQOQCP[^2], vous pouvez clarifier la quasi totalité des informations de votre projet. 
+Sachant que la plupart des conséquences sont liées à sept types de causes[^cause], en utilisant 7 questions du QQOQCP[^qqoqcp], vous pouvez clarifier la quasi totalité des informations de votre projet. 
 
 - Matière = Quoi
 - Main d'oeuvre = Qui
@@ -40,9 +40,9 @@ Sachant que la plupart des conséquences sont liées à sept types de causes[^1]
 - Moyen = Comment
 - Management = Pourquoi
 
-[^1]: En 1962, l'ingénieur  Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles. Il en défini cinq causes possibles dans la gestion de la qualité dans l'industrie. Qui deviendra le diagramme  de causes et effets d'Ishikawa. 
+[^cause]: En 1962, l'ingénieur  Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles. Il en défini cinq causes possibles dans la gestion de la qualité dans l'industrie. Qui deviendra le diagramme  de causes et effets d'Ishikawa. 
 
-[^2]: QQOQCP est une méthode empirique de questionnement dont les origines remontes à la période de la grèce antique. 
+[^qqoqcp]: QQOQCP est une méthode empirique de questionnement dont les origines remontes à la période de la grèce antique. 
 
 
 
@@ -91,13 +91,13 @@ Dans tout projet, il existe trois domaines d'activité régis par différentes t
 
 - Opérationnel (court terme) : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
 
-Définissez de manière *smart*[^3] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
+Définissez de manière *smart*[^smart] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
 
 
 
 
 
-[^3]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
+[^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
 
 
 
@@ -232,8 +232,8 @@ Dans les entreprises, quand les choses fonctionnent pas comme on souhaite, on a 
 ![](../contents/img/IMG_etape1_3profils.jpg)
 
 - **Représenter :** son rôle est d'apporter son expertise sur le sujet, d'amener un regard interne et une expertise sur le défi ou sur l'entreprise - se sont souvent les collaborateurs internes, des experts externes de la branche de métier comme par exemple des consultants, des clients ou fournisseurs de l'entreprise. 
-- **Renverser :** son rôle est d'apporter un regard nouveau et parfois déroutant. Se sont des personnes qui peuvent apporter une pensée latérale[^5] (par opposition à la pensée verticale soit clasique et continue) - se sont souvent des profils recrutés à l'extérieur de l'entreprise et ce profil est défini quand suffisamment d'informations sont récoltées au début du projet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant le potentiel créatif  par exemple. 
-- **Faciliter :** son rôle est d'apporter les techniques d'animation combiné à une connaissance de la thèmatique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^4] - que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser - se sont souvent des profils qui peuvent être formé en interne de l'entreprise ou mandaté depuis l'externe, à condition qu'il puisse amener un point de vue neutre.
+- **Renverser :** son rôle est d'apporter un regard nouveau et parfois déroutant. Se sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale soit clasique et continue) - se sont souvent des profils recrutés à l'extérieur de l'entreprise et ce profil est défini quand suffisamment d'informations sont récoltées au début du projet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant le potentiel créatif  par exemple. 
+- **Faciliter :** son rôle est d'apporter les techniques d'animation combiné à une connaissance de la thèmatique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^flow] - que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser - se sont souvent des profils qui peuvent être formé en interne de l'entreprise ou mandaté depuis l'externe, à condition qu'il puisse amener un point de vue neutre.
 
 ![](../contents/img/IMG_facilitateur.jpg)
 
@@ -248,9 +248,9 @@ Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un proje
 Dans le chapitre suivant nous allons voir comment transformer le contenu du cahier des charges (cf. exercice) en un processus de créativité. Sachant comment il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant de générer des idées-
 
 
-[^4]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*
+[^flow]: Etat mental lorsqu'on est complètement plongé dans une activité, un état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*
 
-[^5]: Lateral Thinking (pensée laterale) est un concept élaboré par le Docteur Edward de Bono qui a pour but de façoriser la pensée divergente - c'est-à-dire l'éaboration de nombreuses solutions originales.
+[^lateral]: Lateral Thinking (pensée laterale) est un concept élaboré par le Docteur Edward de Bono qui a pour but de façoriser la pensée divergente - c'est-à-dire l'éaboration de nombreuses solutions originales.
 
 
 \newpage

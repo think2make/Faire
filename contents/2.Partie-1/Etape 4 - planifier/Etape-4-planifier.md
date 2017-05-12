@@ -13,7 +13,7 @@ C'est souvent dans ce genre de situation que nous entendons certains dire "cela 
 
 ##### Pourquoi planifier
 
-Pour saisir la valeur de la planification, imaginez imaginez réaliser des actions sans une planification. Que risque-t-il d'arriver ? premièrement, vous ne faite pas ce que vous souhaitez faire -  la procrastination. Deuxièmement, vous faite ce que vous avez pas vraiment pensé faire - les actions impulsives. 
+Pour saisir la valeur de la planification, imaginez réaliser des actions sans une planification. Que risque-t-il d'arriver ? premièrement, vous ne faites pas ce que vous souhaitez faire - la procrastination. Deuxièmement, vous faites ce que vous n'avez pas vraiment pensé faire - les actions impulsives. 
 
 Apprendre à ne pas gaspiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. Mais la spécificité avec le temps est le fait que nous ne pouvons pas le stocker mais nous pouvons le planifier. Les outils que nous allons vous présenter, peuvent vous aider à donner une ligne conductrice entre vos pensées et vos actes. 
 

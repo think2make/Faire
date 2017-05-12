@@ -105,20 +105,32 @@ En 1999, IDEO, l'agence de design américaine rendue fameuse par ses méthodes a
 
 Dans le domaine du développement logiciel, la pratique du "code sprint" émerge dans les années 2000, et connaît un grand succès dans la communauté du mouvement Free/Libre Open Source Software. Reposant sur l'idée de rassembler une équipe de développeurs, pendant en un laps de temps retreint, afin de faire progresser un projet de manière significative.
 
-De cette pratique ont émergé des techniques comme le "Book Sprint", qui consiste à rassembler des spécialistes et à procéder à l'écriture d'un livre en cinq jours[^flossmanuals].
+##### Le book sprint
 
-![Sprint d'écriture pour la documentation du logiciel FontForge](../contents/img/sprint-fontes-libres.JPG)
+La pratique du Sprint a essaimé dans d'autres domaines de création. Un exemple intéressant est le "Book Sprint", qui consiste à rassembler des spécialistes et à procéder à l'écriture d'un livre en cinq jours[^flossmanuals]. À titre d'exemple, le livre "Understanding Oil Contracts" a été rédigé de cette manière à l'initiative d'une ONG, afin de fournir une documentation permettant aux pays en développement de mieux négocier les contrats d'exploitation avec les industries pétrolières.
+
+![Sprint d'écriture pour l'ONG OpenOil](../contents/img/booksprint-openoil.jpg)
 
 [^flossmanuals]: Pour des exemples d'applications concrètes, voir le travail de l'organisation Floss Manuals, qui a produit de cette manière des guides sur de nombreux sujets technologiques: flossmanualsfr.net.
 
 La méthode de travail du sprint peut s'avérer utile pour concevoir rapidement un premier prototype fonctionnel, une version béta. Cela permet de confronter son idée à l'utilisation dans le monde réel.
 
-Dans la terminologie agile et en particulier dans la méthode "Scrum", le terme de sprint a changé de sens, pour 
+Dans la terminologie Agile, et en particulier dans la méthode Scrum, le terme de Sprint a changé de sens. Le Sprint est au cœur de Scrum, et constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière, qui permet aux équipes de progresser de manière itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. Le Sprint s'insère dans un cycle d'une durée plus longue, nommée Release, qui engloble généralement quatre ou cinq Sprints. 
 
 ##### Design Sprint
 
-Le "Design Sprint", un processus de cinq jours, développé par Google Ventures (la branche d'investissement "venture capital" de Google).
+Le "Design Sprint" est une méthode développée par des équipes de Google. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours.
 
+Chaque journée fait un focus sur un sujet:
+
+1. Understand: Discover the business opportunity, the audience, the competition, the value proposition...
+2. Diverge: Explore, develop and iterate creative ways of solving the problem, regardless of feasibility.
+3. Converge: Identify ideas that fit the next product cycle and explore them in further detail through storyboarding.
+4. Prototype: Design and prepare prototype(s) that can be tested with people.
+5. Test: Conduct 1:1 user testing with (5-6) people from the product's primary target audience. Ask good questions
+ 
+
+Cette technique s'approche des techniques de créativité rassemblées sous le concept de "Design Thinking", inspirées par le travail de l'agence IDEO et de l'université de Standford. Son approche se centre forcement sur la conception d'applications mobiles, et la discipline de la recherche UX (expérience utilisateur) y joue un rôle important.
 
 
 ### La technique Pomodoro

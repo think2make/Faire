@@ -100,7 +100,7 @@ En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplif
 
 ### Evaluer les idées 
 
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^8] que vous pouvez utiliser pour votre sujet : 
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet : 
 
 - \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
 
@@ -108,7 +108,7 @@ Etant donné que les idées sont très émotionnelles, la plus part du temps, ch
 
 - \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
 
-[^8]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
+[^critères]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
 La meilleure façon de décider de la bonne idée, est d'impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
 
@@ -138,9 +138,9 @@ Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en françai
 
 Trop souvent en entreprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter - et à la fin il n'y a plus personne pour décider. Durant ce chapitre, vous le lecteur avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous êtes maintenant sur le point de prendre une décision importante ? Notre suggestion : prenez votre décision le matin. 
 
-En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Et souvent trop rapidement. C'est la constatation d'une étude dirigée par le psychologue argentin Mariano Sigman[^0].
+En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Et souvent trop rapidement. C'est la constatation d'une étude dirigée par le psychologue argentin Mariano Sigman[^sigman].
 
-[^0]: Magazine Psychoscope 2/2017
+[^sigman]: Magazine Psychoscope 2/2017
 
 
 ##### Etude de marché rapide : 10 questions à se poser 

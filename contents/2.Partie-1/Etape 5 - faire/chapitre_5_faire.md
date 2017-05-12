@@ -135,7 +135,11 @@ Cette technique s'approche des techniques de créativité rassemblées sous le c
 
 ### La technique Pomodoro
 
-Takt time : terme allemand désignant le rythme de production, mot emprunté du language de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéeal.
+Takt time désigne un terme allemand de rythme de production. Ce mot emprunté du language de la musique pour désigner le tempo, la cadence est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal.
+
+...
+Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialiement pour mettre au point cette technique.
+...
 
 
 

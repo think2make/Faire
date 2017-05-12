@@ -74,7 +74,7 @@ Quelques éléments clés du processus agile:
 
 ###### Le "Daily Scrum Meeting" ou "stand-up meeting"
 
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. Les participants au meeting répondent aux trois questions suivantes:
+Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
 
 1. Qu'avez-vous fait hier ?
 2. Que ferez-vous aujourd'hui ?
@@ -88,15 +88,17 @@ En se concentrant sur ces trois points, chacun peut se faire une bonne idée de 
 
 - Whiteboard avec "Story-Cards"
 
+Un élément central de la méthode Scrum est le "Backlog", un document évolutif qui précise les tâches à accomplir. Il est souvent visualisé dans l'espace de travail sur un grand tableau visible de tous. 
+
 ##### Dangers
 
 Les dangers de la méthodologie agile mal comprise.
 
-Les métodes agiles et Scrum faisant l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"* - par exemple, en adoptant les "stand-up meetings", mais sans réelle collaboration au sein de l'équipe. 
+Les métodes agiles et Scrum faisant l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les "stand-up meetings", mais sans réelle collaboration au sein de l'équipe. 
 
-Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication. Votre équipe doit être 
+Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication. Les membres de l'équipe doivent bien comprendre les 
 
-Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
+[^cargocult] Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
 
 ##### Le principe du sprint

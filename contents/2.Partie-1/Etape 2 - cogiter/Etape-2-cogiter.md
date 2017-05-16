@@ -107,7 +107,6 @@ Apprendre à formuler des questions brûlantes permet de récolter des idées fl
 Mettre un élément à la place d’un autre...  
 Qu’est-ce qui peut être remplacé ? Qui d’autre ? Quoi d’autres ?
 
-Exemple : 
 
 ....................................................................................
 

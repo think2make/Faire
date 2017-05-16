@@ -38,15 +38,13 @@ Pour cela, nous vous proposons deux pistes de solution :
 - l'organisation agile
 - la technique pomodoro
 
-
-
 ### L'organisation agile
 
 Les méthodes agiles sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
 Initialement destinées au développement en informatique (conception de logiciel), leur champ d'application s'élargit régulièrement, dans le développement de produits, ou dans le design. 
 
-Un texte fondateur est le Manifeste Agile, rédigé en 2001, lors d'une retraite dans une station de ski en Utah, par des développeurs adeptes de diverses méthodes comme Extreme Programming, SCRUM, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming... 
+Un texte fondateur est le Manifeste Agile, rédigé en 2001, lors d'une retraite dans une station de ski en Utah, par des développeurs adeptes de diverses méthodes comme Extreme Programming, Scrum, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming... 
 
 Ce manifeste consacre le terme d'« agile » pour référencer de multiples méthodes existantes.
 
@@ -70,33 +68,45 @@ Quelques éléments clés du processus agile:
 - les meilleures résultats sont fournis par des équipes qui savent s'auto-organiser.
 
 
-##### Quelques outils des méthodes scrum
+##### Une méthode agile: Scrum
+
+Parmi les diverses méthodes agiles, Scrum est celle qui a rencontré le plus d'engouement durant la dernières décennie, nous proposons donc un aperçu de son fonctionnement. Le terme de "scrum" vient du rugby, et désigne la "mêlée", métaphore d'une équipe étroitement soudée. Scrum se veut un framwork, une base de règles permettant de structurer un travail en équipe, afin de mieux maîtriser des projets complexes. Il existe un guide officiel de scrum[^scrumguides], rédigé et maintenu par Ken Schwaber and Jeff Sutherland, qui ont défini cette méthode dès 1995. Ce guide expose les "règles du jeu" en une quinzaine de pages. Ce condensé n'est toutefois pas facile à appréhender et à mettre en œuvre, ce qui explique l'existance d'un grand nombre de livres et de supports d'apprentissage.
+
+[^scrumguides]: Disponible sur www.scrumguides.org dans de nombreuses langues.
+
+Nous n'allons pas expliquer ici l'ensemble de la méthode Scrum, mais présenter quelques points marquants qui pourront être utiles pour votre méthode de travail.
 
 ###### Le "Daily Scrum Meeting" ou "stand-up meeting"
 
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
+Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion (nommée "mêlée quotidienne", "Daily Scrum Meeting" ou "stand-up meeting"), se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
 
 1. Qu'avez-vous fait hier ?
 2. Que ferez-vous aujourd'hui ?
 3. Quels sont les obstacles que vous rencontrez ?
 
-En se concentrant sur ces trois points, chacun peut se faire une bonne idée de l'avancement global du projet.
+En se concentrant sur ces trois points, chacun peut se faire une bonne idée de l'avancement global du projet. 
 
-- biweekly planning sessions
+###### Programmation en binôme
 
-- Pair-Programming
+La programmation en binôme (en anglais "Pair Programming") est une technique typique du développement Agile. Elle consiste à faire travailler deux développeurs sur le même ordinateur: l'un écrit le code, l'autre observe et fait des remarques. Les rôles sont fréquemment intervertis. L'intérêt de cette méthode est d'améliorer le travail fourni, et d'aider à la transmission de connaissances au sein de l'équipe. Lorsqu'on est confronté à un problème complexe, le fait de discuter de la manière de le résoudre mène à des choix mieux réfléchis et plus pertinents. La communication et la transparence, valeurs essentielles du processus agile, sont également favorisés par cette méthode. 
 
-- Whiteboard avec "Story-Cards"
+###### Rétrospective Agile
 
-Un élément central de la méthode Scrum est le "Backlog", un document évolutif qui précise les tâches à accomplir. Il est souvent visualisé dans l'espace de travail sur un grand tableau visible de tous. 
+La "rétrospective de Sprint" est l'un des quatre événements-clé codifiés dans la méthode Scrum (avec le . C'est une réunion qui se déroule à la fin d'un sprint, et permet l'amélioration des processus. L'analyse des dysfonctionnements permettra d'éviter ceux-ci pendant le prochain cycle.
 
-##### Dangers
+###### Whiteboard avec "Story-Cards"
 
-Les dangers de la méthodologie agile mal comprise.
+Un élément central de la méthode Scrum est le "Backlog", un document évolutif qui précise les tâches à accomplir. Il est souvent visualisé dans l'espace de travail sur un grand tableau (whiteboard) visible de tous. Les tâches qui constituent le projet en cours sont identifiées et segmentées en ce que l'on appelle des "Story-Cards" ou "User Stories". Egalement utilisées dans le domaine de la UX (User Experience), les "User Stories" sont des documents synthétiques (souvent un post-it) qui décrit une action que l'utilisateur souhaite effectuer.
+
+###### Des équipes sans chef
+
+Le modèle d'organisation Scrum destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus Scrum définit deux rôles particuliers: le *Product Owner*, qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Cette personne est responsable en définitive des "Story-Cards" qui seront traitées durant le sprint. Enfin, le *Scrum Master* est responsable du bon déroulement du processus de travail Scrum, et veille à la dynamique de l'équipe. 
+
+###### Dangers de la méthodologie agile mal comprise
 
 Les métodes agiles et Scrum faisant l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les "stand-up meetings", mais sans réelle collaboration au sein de l'équipe. 
 
-Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication. Les membres de l'équipe doivent bien comprendre les 
+Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication, mais qui ne donne la parole qu'au chef de projet. Les membres de l'équipe doivent bien comprendre les valeurs et l'intérêt des règles qu'ils appliquent dans leur travail.  
 
 [^cargocult] Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
@@ -121,7 +131,7 @@ Dans la terminologie Agile, et en particulier dans la méthode Scrum, le terme d
 
 ##### Design Sprint
 
-Le "Design Sprint" est une méthode développée par des équipes de Google. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Sa méthode a été adoptée par de grandes entreprises comme Google, Shopify, TIMES...
+Le "Design Sprint" est une méthode développée par des équipes de Google. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours.
 
 Cette technique s'approche des techniques de créativité rassemblées sous le concept de "Design Thinking", inspirées par le travail de l'agence IDEO et de l'Université de Standford (d.school). Son approche se centre forcement sur la conception d'applications mobiles, et la discipline de la recherche UX (expérience utilisateur) y joue un rôle important.
 
@@ -141,7 +151,7 @@ Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues 
 
 Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
-À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise l'usage individuel. Visant à améliorer la faculté individuelle à se focaliser sur une tâche, elle est très simple à implémenter.
+À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise l'usage individuel, à petite échelle. Visant à améliorer la faculté personnelle à se focaliser sur une tâche, elle est très simple à implémenter.
 
 Le matériel requis pour créer son rythme avec la méthode pomodoro se résume à:
 
@@ -160,7 +170,7 @@ La technique repose ensuite sur la répétition cycliques de ces cinq étapes :
 4. Prendre une courte pause (environ 5 minutes) ;
 5. Tous les quatre *Pomodoro*, prendre une pause un peu plus longue (15-20 minutes).
 
-Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées.
+Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées. La méthode permet également d'avoir une trace visuelle des activités d'une journée, ce qui facilite l'analyse et l'auto-amélioration. La faculté de diviser une tâche complexe en pièces distinctes permet d'améliorer votre gestion du temps, et votre capacité à estimer la durée d'un projet. 
 
 ![Planification des pomodoro](../contents/img/pomodoro-3-Today.jpg)
 

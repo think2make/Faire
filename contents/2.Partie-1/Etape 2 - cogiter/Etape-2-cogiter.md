@@ -46,17 +46,11 @@ Nous avons experminenté des situations avec des résultats médiocres car l'env
 
 Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont des objets symboliques. Par exemple, quand vous utilisez un post-it, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. Le cas des post-its est simple et connu par la majorité des professionnels. Il existe d'autres solutions qui aident à *penser*. 
 
-Vous pouvez utiliser des solutions inspirés des *serious games* (jeux sérieux)[^sérieux] comme *Lego serious play* ou des outils en ligne[^en_ligne] comme hors ligne - et parfois un mix : la boite à idées u2[^u2] est un bel exemple. Pour notre part, nous collaborons aussi avec des chercheurs pour certains outils comme le Creative Profiler[^profiler]. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
+Vous pouvez utiliser des solutions inspirés des *serious games* (jeux sérieux)[^sérieux] comme *Lego serious play* ou des outils en ligne comme hors ligne. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
 
-Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^gratuits] pour vos sessions de brainstorming.
+Si vous souhaitez approfondir ce point, vous pouvez télécharger sur notre site web des outils gratuits[^gratuits] pour vos sessions de brainstorming.
 
-[^sérieux]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. Historiquement, au XVème siècle, des écrivains utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourds. Avec l'avénement de l'informatique, les entreprises utilisent.
-
-[^en_ligne]: il existe sur le web d'innombrables logiciels de génération d'idées. Pour notre part, nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
-
-[^u2]: constatant que la majorité des boîtes à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ.
-
-[^profiler]: Creative Profiler est un logiciel d'évaluation des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
+[^sérieux]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. 
 
 [^gratuits]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
  
@@ -113,7 +107,6 @@ Apprendre à formuler des questions brûlantes permet de récolter des idées fl
 Mettre un élément à la place d’un autre...  
 Qu’est-ce qui peut être remplacé ? Qui d’autre ? Quoi d’autres ?
 
-Exemple : 
 
 ....................................................................................
 
@@ -176,7 +169,7 @@ Exemple : Le Jacuzzi a été inventé par Candido Jacuzzi qui s'était rendu com
 D’autres utilisations possibles si on le modifie...  
 Existe-t-il d’autres utilisations possibles si on le modifie ? 
 
-Exemple : 
+Exemple : Le médicament Pick-Me-Up de Pemberton fut un échec en tant que médicament mais mélangé à de l'eau gazeuse, cela devient le Coca-Cola, une idée qui vaut de l'or. 
 
 
 ....................................................................................
@@ -190,7 +183,6 @@ Qu’est-ce qui n’est pas nécessaire...
 Peut-on soustraire ? Supprimer ? Diminuer ?
 Peut-on éliminer certaines règles ?
 
-Exemple : 
 
 
 ....................................................................................
@@ -203,7 +195,6 @@ Exemple :
 D’autres dispositions...  
 D’autres séquences ? Un ordre différent ?
 
-Exemple : 
 
 
 ....................................................................................
@@ -216,7 +207,6 @@ Exemple :
 Inverser le positif et le négatif ou tromper les attentes...  
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
-Exemple : 
 
 
 ....................................................................................

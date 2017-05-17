@@ -108,7 +108,7 @@ Les métodes agiles et Scrum faisant l'objet d'un certain phénomène de mode, i
 
 Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication, mais qui ne donne la parole qu'au chef de projet. Les membres de l'équipe doivent bien comprendre les valeurs et l'intérêt des règles qu'ils appliquent dans leur travail.  
 
-[^cargocult] Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
+[^cargocult]: Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
 
 ##### Le principe du sprint

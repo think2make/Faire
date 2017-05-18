@@ -2,10 +2,9 @@
 
 # Chapitre 4. planifier 
 
-“Time is the longest distance between two places.” — Tennessee Williams, Ecrivain - Je propose de le traduire: Le temps est la plus longue distance entre deux endroits.
+“Le temps est la plus longue distance entre deux endroits.” — Tennessee Williams, Ecrivain
 
-
-Pour achever (terminer) ce que vous avez déjà achevé dans le passé (entrepris par le passé), vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Vous planifiez (Il vous permet de décider) comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler. 
+Pour achever ce que vous avez déjà achevé dans le passé (entrepris par le passé), vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Vous planifiez (Celui qui vous permet notamment de décider) comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler (en quelques secondes). 
 
 À présent, nous allons définir comment *organiser les actions*. La diffculté quand nous essayons de réaliser quelque chose que nous n'avons encore jamais fait, c'est qu'il n'y pas de planification existante, pas de modèle ou de *template*. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
 

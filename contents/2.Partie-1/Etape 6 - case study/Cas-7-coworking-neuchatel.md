@@ -1,20 +1,20 @@
 # Etude de cas : Coworking Neuchatel
 
-Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d'une idée à sa réalisation, puis au suivi de ses évolutions. L'exemple que nous avons choisi est le Coworking Neuchâtel, un espace de coworking qui a vu le jour en 2014, en Suisse.
+Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d'une idée à sa réalisation, puis au suivi de ses évolutions. L'exemple que nous avons choisi est le Coworking Neuchâtel (Suisse), un espace de coworking qui a vu le jour en 2014.
 
 ### Contexte - le futur du travail 
 
-Le travail change, grand nombre d'activités peuvent être automatisé, les moyens technologiques permettent aux entreprises de devenir légère et agile, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnent en mode projet. Certains parlent de 4ème révolution industrielle[^industrielle], 
+Le travail change, grand nombre d'activités peuvent être automatisées, les moyens technologiques permettent aux entreprises de devenir agiles, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnent en mode "projet". Certains parlent de 4ème révolution industrielle[^industrielle]. 
 
-[^industrielle]: c'est-à-dire, après les trois premières révolutions industrielles : la méchanisation, l'éléctrification et l'automatisation, la quatrième révolution industrielle est la digitalisation. 
+[^industrielle]: c'est-à-dire, après les trois premières révolutions industrielles : la mécanisation, l'éléctrification et l'automatisation, la quatrième révolution est la digitalisation. 
 
-Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas une procédure aveuglement, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents sur l’ensemble des tâches, et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^télétravail] remet en cause les notions de temps et de lieu de travail. 
+Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas une procédure aveuglement, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^télétravail] remet en cause les notions de temps et de lieu de travail.
 
 [^télétravail]: Le télétravail une manière d'exercer son activité professionnelle en dehors des locaux de son employeur. Cette mode de de travail s'est amplifié avec l'émergence des technologies de communciation numérique. 
 
-Dans ce contexte, le coworking est une nouvelle manière d'organiser le travail, favorisant autonomie et collaboration. Le coworking met surtout l'accent sur les interactions, l'entrepreneuriat et l'innovation, en créant un cadre convivial et sans hierarchie.
+Dans ce contexte, le coworking est une nouvelle manière d'organiser le travail, favorisant autonomie et collaboration. Le coworking met surtout l'accent sur les interactions, l'entrepreneuriat et l'innovation, en créant un cadre convivial et sans hiérarchie.
 
-L’article Wikipédia le souligne bien: *« cette nouvelle forme de travail remet en question fondamentalement les anciennes théories pyramidales du travail. Aujourd’hui, le travail se fait en réseau par une agrégation ponctuelle de compétences se formant et se reformant selon les projets, plus rapide et flexible que les structures très hiérarchisées des entreprises. »* 
+L’encyclopédie en ligne Wikipédia le définit d'ailleurs de cette façon: *« Cette nouvelle forme de travail remet en question fondamentalement les anciennes théories pyramidales du travail. Aujourd’hui, le travail se fait en réseau par une agrégation ponctuelle de compétences se formant et se reformant selon les projets, plus rapide et flexible que les structures très hiérarchisées des entreprises. »* 
 
 Né dans les années 2000 avec la révolution numérique, le coworking est devenu un phénomène mondial. Selon deskmag, le magazine du coworking, il existe à l'heure actuelle plus de 7000 espaces de coworking à travers le globe.
 
@@ -76,22 +76,21 @@ Suite à cette semaine de test, nous ouvrons l'espace dès le mois de novembre a
 ![Les premiers coworkers s'installent](../contents/img/cowork-sablons.jpg)
 
 
-Aujourd'hui, Coworking Neuchâtel fonctionne par des abonnements. En 2017, l'espace accueille une vingtaine de membres. Chaque membre a un abonnement avec un contrat le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, web design, marketing, traduction, consulting, ingénierie, coaching, recherche académique,etc. Nous accueillons également des télé-travailleurs, des étudiants et d'autres professionnels. 
+Aujourd'hui, Coworking Neuchâtel fonctionne par abonnement. En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, web design, marketing, traduction, consulting, ingénierie, coaching, recherche académique, etc. Nous accueillons également des télé-travailleurs, des étudiants et d'autres professionnels. 
 
 
 
 ### Conclusion
 
-Notre propre défi a permis de crée une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au delà (exemple : Coworking Switzerland et Coworking Europe). Avec ce projet, nous avons appris trois fondemantaux pour tout projet : 
+Ce défi a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au delà (exemple : Coworking Switzerland et Coworking Europe). Avec ce projet, nous avons appris trois fondemantaux pour tout projet : 
 
-- Rien n'a plus de valeur que de se confronter directement avec une problématique.  En se mettant dans les chaussures de l'autre, ou dans notre cas être l'utilisateur direct, permet de comprendre mieux une situation et créer des solutions qui font sens. 
+- Rien n'a plus de valeur que de se confronter directement avec une problématique. En se mettant dans les chaussures de l'autre, ou dans notre cas être l'utilisateur direct, permet de comprendre mieux une situation et créer des solutions qui font sens. 
 
-- Rien n'est parfait du premier coup. Le plus important c'est de réaliser des petites étapes en continue. En réalisant des itérations avec une structure agile, nous récoltons des commentaires et suggestions des utilisateurs directs pour améliorer ce projet. 
+- Rien n'est parfait du premier coup. Le plus important c'est procéder par étapes. Par ailleurs, nous récoltons des commentaires et suggestions des utilisateurs directs pour améliorer ce projet. 
 
-- Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les personnes concernées dans le processus de réflexion dès le début  
-permet de simplifier, clarifier et rendre plus pertinent la solution.
+- Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, clarifier et rendre plus pertinente la solution.
 
-Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. Cela nous a donné envie de créer *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes de projets, des startups et PME dans un environnement stimulant, neutre et collaboratif pour les soutenir à résoudre des défis de façon créative et développer de nouvelles innovations. 
+Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous nous a donné envie de lancer un nouveau défi, en créant *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et PME (petites et moyennes entreprises) dans un environnement stimulant, neutre et collaboratif pour les soutenir à résoudre des défis de façon créative et développer de nouvelles innovations. 
 
 
 ![Accélérateur d'innovation La Manufacture d'idées](../contents/img/manufacture_didees.png)

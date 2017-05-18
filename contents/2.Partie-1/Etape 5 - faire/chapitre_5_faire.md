@@ -11,9 +11,9 @@ Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement 
  
 - \faRemove - Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Par exemple, nous avons éliminé dans ce livre un chapitre entier pour focaliser sur l'essentiel et éviter de faire perdre du temps aux lecteurs. 
 
-- \faReplyAll - Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Dans ce livre, nous avons laisser certains thèmes sans suite et en constatant que cela n'était pas essentiel, nous avons finalement éliminé. 
+- \faReplyAll - Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Dans ce livre, nous avons laissé certains thèmes sans suite et en constatant que cela n'était pas essentiel, nous les avons finalement éliminés. 
 
-- \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs fort investi. 
+- \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs fort investie. 
 
 - \faCheckSquare - Faire = Réaliser l’action : il vous reste qu'une petite liste d'actions importantes à concrétiser dont seul vous pouvez les réaliser. Faites-les.
 
@@ -26,7 +26,7 @@ Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. U
 
 En comprenant comment fonctionne un système, vous focaliserez sur les éléments important de votre processus de travail (votre système) et éviter de vous éparpiller.
 
-En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes. La performance est toujours déterminé par la capacité d'une contrainte, c'est-à-dire qu'une contrainte défini votre performance. Eliminez les contraintes pour augmenter la performance de votre système. 
+En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
 Il y a deux contraintes à considérer dans la concrétisation d'une idées : 
 
@@ -48,7 +48,7 @@ Un texte fondateur est le Manifeste Agile, rédigé en 2001, lors d'une retraite
 
 Ce manifeste consacre le terme d'« agile » pour référencer de multiples méthodes existantes.
 
-Le texte du manifeste:
+Le contenu du manifeste en quelques mots:
 
 - des individus et interactions, plutôt que des processus et outils
 - des logiciels fonctionnels, plutôt qu'une documentation complète
@@ -63,7 +63,7 @@ Quelques éléments clés du processus agile:
 - on fournit des délivrable fonctionnel à intervalles fréquents.
 - les différentes disciplines impliquées (p.ex. commerciaux et développeurs) collaborent quotidiennement.
 - le projet repose sur des individus motivés, ayant le support et l'environnement requis.
-- le meilleur moyent de communication est la discussion en face-à-face.
+- le meilleur moyen de communication est la discussion en face-à-face.
 - la simplicité est un facteur essentiel.
 - les meilleures résultats sont fournis par des équipes qui savent s'auto-organiser.
 
@@ -78,7 +78,7 @@ Nous n'allons pas expliquer ici l'ensemble de la méthode Scrum, mais présenter
 
 ###### Le "Daily Scrum Meeting" ou "stand-up meeting"
 
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion (nommée "mêlée quotidienne", "Daily Scrum Meeting" ou "stand-up meeting"), se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
+Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion (nommée "mêlée quotidienne", "Daily Scrum Meeting" ou "stand-up meeting"), se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
 
 1. Qu'avez-vous fait hier ?
 2. Que ferez-vous aujourd'hui ?
@@ -147,13 +147,13 @@ Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues 
 
 ### La technique Pomodoro
 
-*Takt time* (taktzeit) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au language de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal.
+*Takt time* (taktzeit) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
 
-Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
+Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
-À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise l'usage individuel, à petite échelle. Visant à améliorer la faculté personnelle à se focaliser sur une tâche, elle est très simple à implémenter.
+À la différence des méthodes Agiles qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise à améliorer la productivité personnelle. 
 
-Le matériel requis pour créer son rythme avec la méthode pomodoro se résume à:
+Le matériel requis pour créer son rythme avec la méthode Pomodoro se résume à:
 
 - Une feuille A4
 - Une minuterie de cuisine
@@ -185,4 +185,4 @@ Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans d
 
 Ce que nous avons appris : dans ce chapitre, vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites Agiles, les différentes approches regroupées sous le terme de Sprint, et l'outil individuel que constitue la technique Pomodoro.
 
-Dans le chapitre suivant, nous prendrons de la hauteur en vous présentant une vision plus large de l'environnement du travail à venir et les transformations y relatives - chose importante quand vous réalisez ce que vous avez prévu de faire dans le monde professionnel. 
+Dans le chapitre suivant, nous illustrerons tout les propos présentés dans cet ouvrage avec un cas concret: la création de l'espace de coworking de Neuchâtel (Suisse).

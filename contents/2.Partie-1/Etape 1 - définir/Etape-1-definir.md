@@ -7,10 +7,12 @@
 # Chapitre 1. définir
 
 
-> « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »— Albert  Einstein
+> « Si je disposais d’une heure pour résoudre un problème et que ma vie en dépende, je consacrerais les 55 premières minutes à définir la question appropriée à poser, car une fois cela fait, je pourrais résoudre le problème en moins de cinq minutes. »
+— Albert  Einstein
 
 
-Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. Notre expérience auprès de centaines d'entreprises montre qu'il existe majoritairement cinq éléments manquants pour démarrer un projet d'innovation :
+
+Quand on tente de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. Notre expérience auprès de centaines d'entreprises montre qu'il existe majoritairement cinq éléments manquants pour démarrer un projet d'innovation :
 
 - un manque de compréhension claire de la problèmatique.
 - un manque de vision, but.
@@ -30,52 +32,49 @@ Souvent les projets ont un cadre si rigide qu'ils ne laissent plus assez de marg
 Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroits pour être gérés. Notez uniquement les éléments primordiaux pour votre sujet.
 
 
-Sachant que la plupart des conséquences sont liées à sept types de causes[^cause], en utilisant 7 questions du QQOQCP[^qqoqcp], vous pouvez clarifier la quasi totalité des informations de votre projet. 
+Parfois, il se peut que le projet ralentisse. La plupart des dysfonctionnements sont liés à sept types de causes[^cause], en utilisant les sept questions du QQOQCP[^qqoqcp], vous pouvez éviter de nombreux pièges. 
 
-- Matière = Quoi
-- Main d'oeuvre = Qui
-- Moyen financier = Combien
-- Milieu = Où
-- Méthode = Quand
-- Moyen = Comment
-- Management = Pourquoi
+- Matière = Quoi ?
+- Main d'oeuvre = Qui ?
+- Moyen financier = Combien ?
+- Milieu = Où ? 
+- Méthode = Quand ? 
+- Moyen = Comment ?
+- Management = Pourquoi ?
 
-[^cause]: En 1962, l'ingénieur  Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles. Il en défini cinq causes possibles dans la gestion de la qualité dans l'industrie. Qui deviendra le diagramme  de causes et effets d'Ishikawa. 
+[^cause]: En 1962, l'ingénieur Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles de dysfonctionnement, qui est devenu la règle des 7 "M".
 
-[^qqoqcp]: QQOQCP est une méthode empirique de questionnement dont les origines remontes à la période de la grèce antique. 
-
-
-
-Cela signifie que nous pouvons connaître tous les éléments des causes et conséquences d'un projet en recherchant et en définissant ces sept questions. 
+[^qqoqcp]: QQOQCP est une méthode empirique de questionnement.
 
 
 ###### Apprendre à se poser les bonnes questions
-Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
-- La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
+
+Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
+
+
+- La construction : Qui, quoi, comment, pourquoi, combien, quel, où, etc…
 - La portée de la question : L’entendue de la question, élargissement du sujet sans pour autant dépassé la capacité du public cible. 
 - Hypothèses sous-tendant à la question
-- Les croyances, les clichés influencent la perception de la question.
-La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? 
+- Les croyances, les clichés influencent la perception de la question.
 
-Une bonne question est : 
+La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons à l'étape 2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
 
 - simple, précise et claire
 - fait intervenir les valeurs
 - touche à la réalité
 
 Un exemple pour illustrer le degré de complexité d'une question : 
-![](../contents/img/pyramide_question.png)
+
+![](../contents/img/pyramide_question.png)
  
 
 ###### S'informer
 
-Chaque seconde il se créer des milliers d'informations nouvelles sur le web et votre cerveau capte constamment de nouvelles données. C'est pourquoi il est crucial de récolter des informations au préalable. Pour ce faire, il faut prendre l'habitude de les protocoler. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
+Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il peine parfois à assimiler. Cependant, pour poser les bases d'un projet, il est obligatoire d'aller à la pêche aux informations. Pour ce faire, il faut prendre l'habitude de les catégotiser. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégoriser pour stocker de façon structurée les informations : 
 
 - **Actionable** : il s'agit d'informations les plus importantes car vous pouvez exploiter rapidement.
 - **References** : il s'agit d'informations non-executables. Ce sont des documents à partager, les notes, les croquis, les PV, etc. Elles permettent de garder un suivi. 
 - **Veilleuse** : il s'agit d'informations potentiellement exploitable. Ce sont des idées qui ne sont pas pertinentes pour votre projet actuel mais qui pourrait l'être à l'avenir. Gardez-les au chaud.
-
-Comment procéder ? Au lieu de perdre un temps excessif à faire de la veille ou à chercher constamment des données, prévoyez des périodes pour nourrir ces trois catégories  et les parcourir environ une fois par mois en décidant en amont la thèmatique à laquelle vous chercher une réponse. Ainsi, vous pouvez détecter des *signaux faibles* qui vous concerne. Par signaux faibles, nous entendons des informations qui permettent d'aiguiller la direction d'un projet. 
 
 
 
@@ -92,9 +91,6 @@ Dans tout projet, il existe trois domaines d'activité régis par différentes t
 - Opérationnel (court terme) : Comment simplifier notre façon de travailler ? Comment augmenter la productivité dans nos équipes ? Comment diviser par deux les déchets que nous produisons ? Comment résoudre nos défis techniques plus efficacement ? 
 
 Définissez de manière *smart*[^smart] votre projet permet de clarifier le but à atteindre, le partager avec les autres plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
-
-
-
 
 
 [^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
@@ -161,9 +157,11 @@ Exemple : *D'ici 3 ans, nous souhaitons devenir le leader de notre branche d'act
 Comment s'y prendre : notez le but spécifique à atteindre par votre projet de façon brève. 
 
 Pourquoi le faire : Les grandes visions n'ont rien de concret, elles ne sont ni mesurable et ni atteignable sans une définition plus objective. Décrivez ce que vous souhaitez achever en premier pour attendre votre but
-Exemple : *A la fin du projet, nous disposerons d'une stratégie pour remédier à la situation actuelles tout en accélérant notre positionnement..etc..* 
 
-....................................................................................
+Exemple : *A la fin du projet, nous disposerons d'une stratégie pour remédier à la situation actuelles tout en accélérant notre positionnement..etc..* 
+
+
+....................................................................................
 
 ....................................................................................
 
@@ -208,17 +206,15 @@ Exemple : *La carte de route est acceptée et validée unanimement par le consei
 ....................................................................................
 
 
-##### Livrable, Résultat, Métrique, Valeur
- Il facile de définir un critères comme le chiffre d'affaire, bénéfice ou satisfaction des clients. Ces critères ne sont pas influençable uniquement par vos actions. Mettez davantage l'accent sur des mesures où vous pouvez mener des actions que vous pouvez directement influencer pour atteindre votre but. Plus vos critères sont ambitieux, plus vous devez les découper en sous groupe plus facile à traiter. 
-
-Il ne suffit pas de édfinir vos résultats attendus et les critères de succès mais aussi la vlaeur que'offre ces actions, autrement dit, quel est la l'avantage apporté par votre projet et ses actions ? 
-
+##### Résultat, Métrique, Valeur
+ 
+Il facile de définir des critères comme le chiffre d'affaire, le bénéfice ou la satisfaction des clients. Il faut surtout viser des **résultats** autres que purement financiers. Ces derniers apporteront de la **valeur** à votre projet et peuvent être mesurés (**métrique**) avec des outils simples. Le succès financier du projet découlera naturellement de ces trois paramètres.
 
 Exemple :
 
 - Résultat : gagner la contribution des clients pour améliorer les produits développés
 - Métrique : 5 idées innovantes que la R&D et la vente support avec leur budget
-- valeur : Les adopteurs précoces fourniront une impulsion immédiate et dynamique pour l'introduction de nouveaux produits, qui seront pleinement soutenus par nos deux départements, cela augmentera notre présence sur le marché X et améliorera le profit.  
+- Valeur: Les adopteurs précoces fourniront une impulsion immédiate et dynamique pour l'introduction de nouveaux produits, qui seront pleinement soutenus par nos deux départements, cela augmentera notre présence sur le marché X et améliorera le profit.   
 
 
 

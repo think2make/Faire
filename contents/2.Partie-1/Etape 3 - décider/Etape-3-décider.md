@@ -3,9 +3,8 @@
 > .................................................................................... (champ citation à remplir, à vous de décider)
 
 
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réifiant ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération que les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. (Il faut revoir ce paragraphe, les idées sont très déconstruites)
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réifiant ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération, les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision.
 
-Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. 
 
 ### 4 principes de la décision
 
@@ -19,11 +18,12 @@ Trop souvent, nous pensons qu'évaluer et/ou décider doivent être processus ob
 
 **3) Détectez la nouveauté** 
 
-Les idées sont extrêmement émotionnelles. (coupure trop brutale entre les deux phrases, développe ta pensée) Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", c'est-à-dire, une solution en adéquation avec ce que la majorité des gens font. Nous vous recommandons de vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie nécéssaire pour la détecter. Gardez à l'esprit de toujours vous assurez que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mélange entre des personnes pouvant apporter un regard expérimenté et un regard nouveau dans votre projet.
+Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", une solution en adéquation avec ce que la majorité des gens adoptent. Les idées sont extrêmement émotionnelles, elles possèdent une forte dimension subjective (croyances, valeurs, intérêts, etc.). En apportant un regard actif sur la nouveauté pour la détecter, vous pouvez créer des solutions différentiatrices et à forte valeur ajoutée. Le meilleur moyen pour y parvenir c'est d'impliquer un mélange entre des personnes pouvant apporter un regard expérimenté et un regard nouveau dans votre projet.
+
 
 **4) Gardez le cap de vos objectifs**
 
-lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure que votre projet avance, votre objectif initial nécessite une correction. Générer des idées est un acte remplie d'aléas. Il ne s'agit pas d'une route droite, et c'est bien là où réside le plaisir.
+Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure que votre projet avance, votre objectif initial nécessite une correction. Générer des idées est un acte remplie d'aléas. Il ne s'agit pas d'une route droite, et c'est bien là où réside le plaisir.
 
 ### Dessiner pour décider
 
@@ -31,7 +31,6 @@ Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exem
 
 ![](../contents/img/Niveau_visualiser_idees.png)
 
-Cela paraît simple. Imaginez maintenant que vous devez améliorer l'expérience d'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de le visualiser n'existe pas, il faut donc l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter de l'illustrer en mimant, comme au théâtre.
 
 Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Toutefois, pour que les solutions puissent être évaluables, vous devez garder le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
 
@@ -77,23 +76,22 @@ Prenez une feuille et un crayon et dessinez votre idée maintenant.
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
-Parfois pour faire, il faut commencer par défaire. Dans son livre De la simplicité le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? (Ici, il faut développer car on ne saisi pas l'idée que tu expliques) Simple c'est pas le synonyme, pourtant la finalité l'est.
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Illustrons nos propos, pendant longtemps, le plus grand leader dans l'industrie du téléphone mobile était NOKIA qui offrait des solutions évidentes (téléphoner). Un beau jour est arrivé un acteur étranger à cette industrie, Apple. Ce dernier a ajouté de nouvelles fonctionnalités aux téléphones mobiles, en ajoutant des solutions qui font sens avec les besoins des utilisateurs (logiciels, appliciations). Les appareils sont plus compliqués au niveau technologiques mais rendant leur utilisation beaucoup plus simple. 
 
-La difficulté n’est pas - a priori - comment simplifier mais plutôt combien simplifier. La frontière entre simple et complexe n’est pas aisée. La meilleure façon serait de procéder par réduction.
+La difficulté n’est pas - a priori - comment simplifier mais plutôt combien simplifier. La frontière entre simple et complexe n’est pas aisée. Procédez par étape.
 
 **Atténuer :** 
 
-Il existe des objets de très petite taille qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince et délicat, nous arrivons à donner un plaisir inattendu.
+En ôtant les éléments superflus d'une solution, nous donnons un plaisir inattendu et une impression que celle-ci est plus pertinente. Allez à l'essentiel pour optomisier votre décision. 
 
 **Masquer :** 
 
-Une fois retiré ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui procure un sentiment de simplicité.
+Une fois retiré ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui procure un sentiment de simplicité. 
 
 **Insuffler :** 
 
 En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première.
 
-(Ces trois notions me paraissent plutôt floues, il faudrait les développer)
 
 ### Evaluer les idées 
 
@@ -132,9 +130,9 @@ Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en françai
 
 ##### Evaluer n'est pas décider
 
-Trop souvent en entreprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter. Pourtant, à la fin, il n'y a plus personne pour décider. (les deux phrases n'ont pas de suite logique... il n'y a pas de fil rouge) Durant ce chapitre, vous avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous en êtes éventuellement au point de prendre une décision importante pour votre projet, si tel est le cas, nous vous suggérons le conseil suivant : prenez votre décision le matin. En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Ce phénomène a été constaté durant une étude menée par le psychologue argentin Mariano Sigman[^sigman].
+Trop souvent en entreprise, de nombreuses séances sont organisées pour générer des idées, évaluer, analyser, en parler et rediscuter. Trop de temps est consacré à l'évaluation au détriment de la décision. Vous en êtes éventuellement au point de prendre une décision importante pour votre projet, si tel est le cas, nous vous suggérons le conseil suivant : prenez-la le matin. En effet, des études ont démontrés que plus la journée avance, plus nous prenons des décisions de manière impulsive.[^sigman].
 
-[^sigman]: Magazine Psychoscope 2/2017
+[^sigman]: étude menée par le psychologue argentin Mariano Sigman, Magazine Psychoscope 2/2017
 
 
 ##### Etude de marché rapide : 10 questions à se poser 

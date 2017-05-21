@@ -3,31 +3,31 @@
 > .................................................................................... (champ citation à remplir, à vous de décider)
 
 
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réifiant ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération, les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision.
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réifiant (réduisant) ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération, les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision.
 
 
 ### 4 principes de la décision
 
 **1) Ayez un jugement affirmatif**
 
-Cherchez d’abord les forces ou les points positifs d’une idée. Pour ce faire, lorsque vous identifiez des limites de cette dernière, évitez les phrases qui l'abortent prématurément. Énoncez plutôt vos préoccupations sous forme d'autres questions encourageant à continuer le dévoloppment ou l'affinnement des idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.
+Cherchez d’abord les forces ou les points positifs d’une idée. Pour ce faire, lorsque vous identifiez des (les) limites de cette dernière, évitez les phrases qui l'abortent (la tuent) prématurément. Énoncez plutôt vos préoccupations sous forme d'autres questions encourageant à continuer le dévoloppment ou l'affinnement des idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.
 
 **2) Utilisez une démarche systématique**
 
-Trop souvent, nous pensons qu'évaluer et/ou décider doivent être processus objectifs. Au contraire, il est impossible de le faire sans y incorporer des aspects émotionnels, autrement dit, de la subjectivité. Cela est d'autant plus vrai s'il on procède sans une démarche structurée. A cet effet, nous vous proposerons quelques outils que vous pouvez utiliser dans la phase de convergence. Utilisez ces outils ou inventez en d'autres. Si vous travaillez en groupe, communiquez et partager votre démarche d'analyse et décision avec les personnes avec lesquelles vous travailler sur votre projet. Ainsi, vous favorisez un regard complémentaire sur votre démarche d'analyse, une évaluation pertinente et l'adhésion des personnes.
+Trop souvent, nous pensons qu'évaluer et/ou décider doivent être processus objectifs. Au contraire, il est impossible de le faire sans y incorporer des aspects émotionnels, autrement dit, de la subjectivité. Cela est d'autant plus vrai s'il on procède sans une démarche structurée. A cet effet, nous vous proposerons quelques outils que vous pouvez utiliser dans la phase de convergence. Utilisez ces outils ou inventez-en d'autres. Si vous travaillez en groupe, communiquez et partager votre démarche d'analyse et décision avec les personnes avec lesquelles vous travailler sur votre projet. Ainsi, vous favorisez un regard complémentaire sur votre démarche d'analyse, une évaluation pertinente et l'adhésion des personnes (de l'équipe).
 
 **3) Détectez la nouveauté** 
 
-Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", une solution en adéquation avec ce que la majorité des gens adoptent. Les idées sont extrêmement émotionnelles, elles possèdent une forte dimension subjective (croyances, valeurs, intérêts, etc.). En apportant un regard actif sur la nouveauté pour la détecter, vous pouvez créer des solutions différentiatrices et à forte valeur ajoutée. Le meilleur moyen pour y parvenir c'est d'impliquer un mélange entre des personnes pouvant apporter un regard expérimenté et un regard nouveau dans votre projet.
+Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", une solution en adéquation (avec celles auxquelles la majorité des ges adhérent) avec ce que la majorité des gens adoptent. Les idées sont extrêmement émotionnelles, elles possèdent une forte dimension subjective (croyances, valeurs, intérêts, etc.). En apportant un regard actif sur la nouveauté pour la détecter, vous pouvez créer des solutions différentiatrices (qui font la différence) et à forte valeur ajoutée. Le meilleur moyen pour y parvenir c'est d'impliquer un mélange entre des personnes pouvant apporter un regard expérimenté et un regard nouveau dans votre projet.
 
 
 **4) Gardez le cap de vos objectifs**
 
-Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure que votre projet avance, votre objectif initial nécessite une correction. Générer des idées est un acte remplie d'aléas. Il ne s'agit pas d'une route droite, et c'est bien là où réside le plaisir.
+Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole (dans votre avancement) et (fonctionnera) comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure que votre projet avance, votre objectif initial nécessite une correction. Générer des idées est un acte remplie d'aléas. Il ne s'agit pas d'une route droite (toute tracée), et c'est bien là où réside le plaisir.
 
 ### Dessiner pour décider
 
-Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exemple de visuels, de prototypes, ou d'histoires racontant une expérience. Cela vous permet que la solution ou résultat final puisse être mis en exergue, nous recherchons ici l'effet "saute aux yeux". La plupart des défis ne sont pas compliqués ou impossibles, mais difficilement perceptibles voire invisibles. Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel véritable d’une idée est de la matérialiser. Pour donner forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et compréhensible :
+Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exemple de visuels, de prototypes, ou d'histoires racontant une expérience. Cela vous permet que la solution ou résultat final puisse être mis en exergue (de faire ressortir le résultat final), nous recherchons ici l'effet "saute aux yeux". La plupart des défis ne sont pas compliqués ou impossibles, mais difficilement perceptibles voire invisibles. Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel véritable d’une idée est de la matérialiser. Pour donner forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et compréhensible :
 
 ![](../contents/img/Niveau_visualiser_idees.png)
 
@@ -37,7 +37,7 @@ Créer des prototypes permet de découvrir l’attractivité de chacune de vos s
 
 ##### Six façons de visualiser les idées 
 
-Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées, et surtout pour ceux à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen, car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement. 
+Il est essentiel d'avoir (d'utiliser) un langage universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées, et surtout pour ceux à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen, car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement. 
 
 Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre Convaincre en deux coups de crayon six façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique. Une fois assemblés, cela donne le résultat suivant :
 
@@ -69,14 +69,14 @@ Dans le premier chapitre, nous avons abordé les six questions fondamentales, ap
 
 Imaginons que vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le quoi). Pour déterminer son prix, vous allez dessiner un diagramme (le combien). Pour illustrer l'expérience utilisateur, vous allez dessiner une chronologie (le quand). Enfin, pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le comment).
 
-Face à des problèmes d'envergures où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres.
+Face à des problèmes d'envergures où souvent plusieurs personnes interagissent et (où s'additionnent) viennent parfois de différentes cultures et croyance, il est essentiel d'avoir un langage universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. (tu l'as déjà dit ça non?)
 
 Prenez une feuille et un crayon et dessinez votre idée maintenant. 
 
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
-Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Illustrons nos propos, pendant longtemps, le plus grand leader dans l'industrie du téléphone mobile était NOKIA qui offrait des solutions évidentes (téléphoner). Un beau jour est arrivé un acteur étranger à cette industrie, Apple. Ce dernier a ajouté de nouvelles fonctionnalités aux téléphones mobiles, en ajoutant des solutions qui font sens avec les besoins des utilisateurs (logiciels, appliciations). Les appareils sont plus compliqués au niveau technologiques mais rendant leur utilisation beaucoup plus simple. 
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise (par les invididus ou au groupe à qui elle s'adresse). Cependant, simplicité ne signifie pas "simpliste". Illustrons nos propos, pendant longtemps, le plus grand leader dans l'industrie du téléphone mobile était NOKIA qui offrait des solutions évidentes (téléphoner). Un beau jour est arrivé un acteur étranger à cette industrie, Apple. Ce dernier a ajouté de nouvelles fonctionnalités aux téléphones mobiles, en ajoutant des solutions qui font sens avec les besoins des utilisateurs (logiciels, appliciations). Les appareils sont plus compliqués au niveau technologiques mais rendant leur utilisation beaucoup plus simple. 
 
 La difficulté n’est pas - a priori - comment simplifier mais plutôt combien simplifier. La frontière entre simple et complexe n’est pas aisée. Procédez par étape.
 
@@ -95,7 +95,7 @@ En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplif
 
 ### Evaluer les idées 
 
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou ses croyances. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet :
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun (les) évalue selon son humeur ou ses croyances. Quand il s'agit de faire (créer) de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet :
 
 - \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
 
@@ -105,7 +105,7 @@ Etant donné que les idées sont très émotionnelles, la plus part du temps, ch
 
 [^critères]: En ce qui concerne les critères ci-dessus, nous nous sommes inspirés de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
-La meilleure façon de décider si votre idée est solide, il vous faut impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant :
+La meilleure façon de décider (définir) si votre idée est solide, il vous faut impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant :
 
 - **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
 - **Polarisation des idées :** calcul de l'écart entres les moyennes.
@@ -125,19 +125,19 @@ Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en françai
 - **Concerns :** Quels sont les risques ?
 - **Overcome concerns :** Comment contourner ces risques ?* 
 
-*La quatrième question ouvre le champ pour une itération de recherche d'idées (divergence) pour contourner les risques. 
+*La quatrième question ouvre le champ pour une itération (?) de recherche d'idées (divergence) pour contourner les risques. 
 
 
 ##### Evaluer n'est pas décider
 
-Trop souvent en entreprise, de nombreuses séances sont organisées pour générer des idées, évaluer, analyser, en parler et rediscuter. Trop de temps est consacré à l'évaluation au détriment de la décision. Vous en êtes éventuellement au point de prendre une décision importante pour votre projet, si tel est le cas, nous vous suggérons le conseil suivant : prenez-la le matin. En effet, des études ont démontrés que plus la journée avance, plus nous prenons des décisions de manière impulsive.[^sigman].
+Trop souvent en entreprise, de nombreuses séances sont organisées pour générer des idées, évaluer, analyser, en parler et rediscuter. Trop de temps est consacré à l'évaluation au détriment de la décision. Vous en êtes éventuellement au point (Vous êtes peut-être sur le point) de prendre une décision importante pour votre projet, si tel est le cas, nous vous suggérons le conseil suivant : prenez-la le matin. En effet, des études ont démontrés que plus la journée avance, plus nous prenons des décisions de manière impulsive.[^sigman].
 
 [^sigman]: étude menée par le psychologue argentin Mariano Sigman, Magazine Psychoscope 2/2017
 
 
 ##### Etude de marché rapide : 10 questions à se poser 
 
-Vous souhaitez innover ou lancer un projet sur le marché? A cet effet, vous avez généré des idées, vous avez prototypé et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 questions inspirées du livre MBApersonnel de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré.. 
+Vous souhaitez innover ou lancer un projet sur le marché? A cet effet, vous avez généré des idées, vous avez prototypé (créé un prototype) et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 questions inspirées du livre MBApersonnel de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré.. 
 
 #####Consignes 
  

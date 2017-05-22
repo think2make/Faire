@@ -46,6 +46,8 @@
 %% https://en.wikibooks.org/wiki/LaTeX/Internationalization#French
 
 \usepackage[french]{babel}
+%% \usepackage[T1]{fontenc} -> Error: Command \nobreakspace unavailable in encoding T1.
+\usepackage[utf8]{inputenc}
 
 
 %% enables French hyphenation, if you have configured your LaTeX system accordingly.

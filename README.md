@@ -7,7 +7,7 @@ C'est un livre. Pour faire.
 - Manuel Schmalstieg
 - Sedat Adiyaman
 
-## Résumé: 
+## Résumé: 
 
 Faire est un livre qui vous aidera à : 
 - monter les paliers de la productivité personnelle sans tomber de l’échelle.
@@ -29,11 +29,8 @@ Ce qu'il faut installer:
 - Version actuelle de [Pandoc](http://pandoc.org)
 - [BasicTeX](http://www.tug.org/mactex/morepackages.html), une version OSX de Latex.
 
-Erreurs possibles : 
+### Erreurs possibles : 
 
-LaTeX Error: File `flushend.sty' not found. - installer l'extension Latex "sttools" abec la commande suivante:
-
-sudo tlmgr install sttools
 
 Font not found: the font "FontAwesome" cannot be found.
 
@@ -43,10 +40,20 @@ Il faut installer la fonte FontAwesome, en la téléchargeant ici: http://fontaw
 * Dans le dossier Fontawesome, ouvrir le dossier "fonts".
 * Double-cliquer le fichier FontAwesome.otf pour l'installer.
 
-Erreur latex:
+#### Erreurs latex:
+
+LaTeX Error: File `flushend.sty' not found.
+
+Installer l'extension Latex "sttools" abec la commande Terminal suivante:
+
+```
+sudo tlmgr install sttools
+```
 
 LaTeX Error: File `hyphenat.sty' not found.
 
-Il faut installer l'extension "hyphenat"
+Installer l'extension "hyphenat" avec la commande suivante:
 
-Tentative: sudo tlmgr install hyphenat
+```
+sudo tlmgr install hyphenat
+```

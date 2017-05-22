@@ -78,15 +78,7 @@ Nous n'allons pas expliquer ici l'ensemble de la méthode Scrum, mais présenter
 
 ###### Le "Daily Scrum Meeting" ou "stand-up meeting"
 
-<<<<<<< Updated upstream
 Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion (nommée "mêlée quotidienne", "Daily Scrum Meeting" ou "stand-up meeting"), se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
-=======
-<<<<<<< Updated upstream
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. La réunion (nommée "mêlée quotidienne", "Daily Scrum Meeting" ou "stand-up meeting"), se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
-=======
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. Les participants au meeting répondent aux trois questions suivantes:
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 
 1. Qu'avez-vous fait hier ?
 2. Que ferez-vous aujourd'hui ?
@@ -106,27 +98,17 @@ La "rétrospective de Sprint" est l'un des quatre événements-clé codifiés da
 
 Un élément central de la méthode Scrum est le "Backlog", un document évolutif qui précise les tâches à accomplir. Il est souvent visualisé dans l'espace de travail sur un grand tableau (whiteboard) visible de tous. Les tâches qui constituent le projet en cours sont identifiées et segmentées en ce que l'on appelle des "Story-Cards" ou "User Stories". Egalement utilisées dans le domaine de la UX (User Experience), les "User Stories" sont des documents synthétiques (souvent un post-it) qui décrit une action que l'utilisateur souhaite effectuer.
 
-<<<<<<< Updated upstream
 ###### Des équipes sans chef
 
 Le modèle d'organisation Scrum destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus Scrum définit deux rôles particuliers: le *Product Owner*, qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Cette personne est responsable en définitive des "Story-Cards" qui seront traitées durant le sprint. Enfin, le *Scrum Master* est responsable du bon déroulement du processus de travail Scrum, et veille à la dynamique de l'équipe. 
-=======
-##### Dangers
->>>>>>> Stashed changes
 
-###### Dangers de la méthodologie agile mal comprise
+##### Dangers de la méthodologie agile mal comprise
 
 Les métodes agiles et Scrum faisant l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"* - par exemple, en adoptant les "stand-up meetings", mais sans réelle collaboration au sein de l'équipe. 
 
-<<<<<<< Updated upstream
-Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication, mais qui ne donne la parole qu'au chef de projet. Les membres de l'équipe doivent bien comprendre les valeurs et l'intérêt des règles qu'ils appliquent dans leur travail.  
+Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication, mais qui ne donne la parole qu'au chef de projet. Les membres de l'équipe doivent bien comprendre les valeurs et l'intérêt des règles qu'ils appliquent dans leur travail.
 
 [^cargocult]: Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
-=======
-Les concepts essentiels de la méthode agile sont la communication et la collaboration. Le "stand-up meetings" ne doit pas être un rituel qui remplace la communication. Votre équipe doit être 
-
-Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
->>>>>>> Stashed changes
 
 
 ##### Le principe du sprint

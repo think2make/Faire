@@ -97,13 +97,11 @@ En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplif
 
 Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun (les) évalue selon son humeur ou ses croyances. Quand il s'agit de faire (créer) de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet :
 
-- \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
+- \faFlask &nbsp;**Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
+- \faChain &nbsp;**Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
+- \faFemale &nbsp;**Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée est-elle sexy ?)
 
-- \faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
-
-- \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée  est-elle sexy ?)
-
-[^critères]: En ce qui concerne les critères ci-dessus, nous nous sommes inspirés de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
+[^critères]: En ce qui concerne les critères ci-dessus, nous nous sommes inspirés de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre *De Architectura* (c'est le premier livre d'architecture).
 
 La meilleure façon de décider (définir) si votre idée est solide, il vous faut impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant :
 
@@ -118,7 +116,7 @@ Les sujets nouveaux et exploratoires, ce sont souvent les idées les plus fortem
 
 ##### Analyser sans détruire : quatre questions stratégique
 
-Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en français FFOR pour forces, faiblesses, opportunités, risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative.
+Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour forces, faiblesses, opportunités, risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative.
 
 - **Pluses :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 

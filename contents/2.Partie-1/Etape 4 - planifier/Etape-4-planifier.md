@@ -2,7 +2,7 @@
 
 # Chapitre 4. planifier 
 
-“Le temps est la plus longue distance entre deux endroits.” — Tennessee Williams, Ecrivain
+> “Le temps est la plus longue distance entre deux endroits.” — Tennessee Williams, Ecrivain
 
 Pour achever ce que vous avez déjà entrepris par le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Celui qui vous permet notamment de décider comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler, en quelques secondes. 
 
@@ -44,8 +44,9 @@ Commencez par une planification *par scénario*, qui permet de visualiser le sc�
 - A quoi devrait ressembler le résultat idéal ? Et si on y arrive, que se passera-t-il ? 
 
 
-Le fait d'avoir envisagé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, afin de pouvoir motiver les autres et soi-même
-Ensuite, un peu comme au théâtre, traduisez votre scénario en 3 actes :  
+Le fait d'avoir envisagé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, afin de pouvoir motiver les autres et soi-même.
+
+Ensuite, un peu comme au théâtre, traduisez votre scénario en 3 actes :
 
 1. le début 
 2. le milieu : les moyens, le chemin.
@@ -54,13 +55,13 @@ Ensuite, un peu comme au théâtre, traduisez votre scénario en 3 actes :
 ![](../contents/img/Long-terme-plan.png)
 
 
-Commencez par la fin. Ce sont les butes à atteindre, les délivrables, le résultat idéal. Comme disent les anglo-saxons *less is more*, faite en sorte que vos buts soient utiles, nécessaires et suffisants. 
+Commencez par la fin. Ce sont les buts à atteindre, les délivrables, le résultat idéal. Comme disent les anglo-saxons: *less is more*. Faites en sorte que vos buts soient utiles, nécessaires et suffisants. 
 
 Ensuite, le début. Ce sont les premières étapes à partir de la situation actuelle. Décrivez trois premières tâches et comment vous allez les initier.
 
-Et enfin, le milieu. Se sont les actions et moyens à mettre en œuvre pour arriver à la finalité. Les solutions imaginées, évaluées et décidées dans le chapitre précédent. C'est la partie où se situe les tâches difficiles et souvent plus longues, mais qui apporte de la valeur dans votre projet. 
+Et enfin, le milieu. Se sont les actions et moyens à mettre en œuvre pour arriver à la finalité. Les solutions imaginées, évaluées et décidées dans le chapitre précédent. C'est la partie où se situent les tâches difficiles et souvent plus longues, mais qui apporte de la valeur dans votre projet. 
 
-Peu importe si c'est de créer une nouvelle entreprise, un nouveau produit ou service ou une nouvelle façon de travailler, pour atteindre votre but vous devez créer une chaine d'actions cohérente. Pour y parvenir, utilisez la méthode des *cinq comment*.
+Peu importe s'il s'agit de créer une nouvelle entreprise, un nouveau produit ou service ou une nouvelle façon de travailler, pour atteindre votre but vous devez créer une chaine d'actions cohérente. Pour y parvenir, utilisez la méthode des *cinq comment*.
 
 
 ##### Cinq "comment"
@@ -78,15 +79,11 @@ La temporalité étant inconnue - car il n'existe pas d'expérience précédente
 
 Une fois le scénario établi, planifiez le premier mois. Même si les plans ne se déroulent pas comme vous l'avez imaginé, le fait de planifier permet de vous focaliser sur les tâches importantes et vous évite de vous disperser. Et si vous pensez que vous ne vous dispersez jamais, alors planifiez du temps pour commencer à vous disperser et réfléchir à de nouvelles idées !
 
-Consignes :  
+Consignes :
 
 1. Définissez des priorités. Définissez des objectifs pour le mois à venir.
-
 2. Si vous travaillez en équipe, définissez les personnes assignées aux différentes tâches. Si vous êtes seul, intégrez l'action de trouver des personnes à qui vous pourrez les déléguer. 
-
 3. Ajoutez les petites étapes de chaque objectif à l'intérieur de l'agenda du mois. Et tenez bon. 
-
-
 
 
 ##### Planifiez la semaine

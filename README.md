@@ -57,3 +57,7 @@ Installer l'extension "hyphenat" avec la commande suivante:
 ```
 sudo tlmgr install hyphenat
 ```
+
+LaTeX Error: Too deeply nested
+
+Cause possible: il peut s'agir de marqueurs laissés par Git [lors d'un conflit de fusion](http://cours-web.ch/git/troubleshooting/). Ces marqueurs sont interprétés comme des niveaux de citation par Markdown.

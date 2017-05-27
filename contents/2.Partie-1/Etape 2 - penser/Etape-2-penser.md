@@ -1,9 +1,9 @@
-# Chapitre 2. cogiter
+# Chapitre 2. penser
 
 > "Comment a-t-on des idées ? Par la pérsévérance poussée jusqu'au bord de la folie." - Charles Chaplin
 
 
-Pendant longtemps, la création était perçu comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a a été le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
+Pendant longtemps, la création était perçu comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a été le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
 Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
 La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. Toutefois, il ne faut pas confondre créativité et innovation. Cette dernière est un processus d'invention, de développement et de mise sur le marché d'idées finalisées. 
@@ -38,7 +38,7 @@ Que cela soit individuellement ou en groupe, une session de génération d'idée
 
 #####  Environnement 
 
-Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influence notre nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poid aussi important l'un que l'autre sur le processus créatif. 
+Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influence nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poid aussi important l'un que l'autre sur le processus créatif. 
 
 Nous avons experminenté des situations avec des résultats médiocres car l'environnement n'était pas favorable. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous faites des séances d'évaluation des personnes, ou encore anonncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soit inspirés dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les places peuvent booster ou freiner votre créativité et celle de vos équipes. 
 
@@ -143,7 +143,7 @@ Exemple : Charles Chaplin apporta la pantomime dans l'industrie cinématographiq
 Magnifier, grossir, agrandir ou étendre...  
 Que peut-on ajouter ? Du temps ? De la force ? De la hauteur ? De la longueur ?
 
-Exemple : Pendant longtemps, le bauxite était considéré comme un minerai sans valeur. Ce minerai transformé devient de l'aluminum. A cette époque, l'aluminium était un métal très précieux et rare. Par la suite, on découvrit comment extraire de l'aluminium par le biais du courant électrique. Le minerai de bauxite devint un minerai fort apprécié et l'aluminium un matériau facilement disponible. 
+Exemple : Pendant longtemps, le bauxite était considéré comme un minerai sans valeur. Ce minerai transformé devient de l'aluminum, qui était un métal très précieux et rare. Par la suite, on découvrit comment extraire de l'aluminium par le biais du courant électrique. Le minerai de bauxite devint un minerai fort apprécié et l'aluminium un matériau facilement disponible. 
 
 
 ....................................................................................
@@ -217,7 +217,7 @@ Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
 ### Conclusion
 
-Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus d'idéation - le contenant, l'environnement, les principes, etc. - soit les phases de divergence et émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. 
+Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus d'idéation, soit les phases de divergence et émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. Vous l'aurez constaté, penser est une façon de faire (d'agir) et c'est surtout le plus dur travail que n'importe quel Homme peut faire. 
 
 Dans le chapitre suivant, vous plongerez dans la phase de convergence et découvrirez comment amener à maturité des idées et décider sans détruire. 
 

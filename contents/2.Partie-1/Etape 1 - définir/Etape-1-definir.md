@@ -42,6 +42,10 @@ Parfois, il se peut que le projet ralentisse. La plupart des dysfonctionnements 
 - Moyen = Comment ?
 - Management = Pourquoi ?
 
+
+![](../contents/img/cause-effet.jpg)
+
+
 [^cause]: En 1962, l'ingénieur Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles de dysfonctionnement, qui est devenu la règle des 7 "M".
 
 [^qqoqcp]: QQOQCP est une méthode empirique de questionnement.
@@ -66,6 +70,13 @@ La formulation de questions est importante tout au long des étapes de ce livre.
 Un exemple pour illustrer le degré de complexité d'une question : 
 
 ![](../contents/img/pyramide_question.png)
+ 
+ 
+ Il ne suffira pas de poser de bonnes questions, le plus important c'est de savoir écouter. Quelques conseils pour Apprendre à écouter les réponses c'est :
+ 
+ - accepter toutes les réponses, même les plus surprenantes
+ - éviter de prendre la parole rapidement, écoutez aussi le silence
+ - mémoriser les informations, prenez des notes et regardez dans les yeux
  
 
 ###### S'informer
@@ -94,6 +105,8 @@ Définissez de manière *smart*[^smart] votre projet permet de clarifier le but 
 
 
 [^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être Spécifique, Mesurable, Atteignable, Réaliste et Temporel. 
+
+##### Ecouter 
 
 
 

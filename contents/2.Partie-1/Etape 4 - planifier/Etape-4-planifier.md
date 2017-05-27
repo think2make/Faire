@@ -106,6 +106,8 @@ e) Faites les choses prévues au moment prévu.
 
 ![](../contents/img/agenda-semaine.png)
 
+
+
 **Un conseil**
 
 Structurez vos journées en thématiques. Afin d'éviter de sauter d'une tâche à l'autre et d'être complémentent surmené à la fin de la journée. Si vous êtes le directeur entreprise, vous pouvez par exemple découper les 5 activités d'une entreprise en 5 jours ouvrables :
@@ -186,7 +188,7 @@ Dans votre planification, tenez compte de ces aspects. Pour des activités de r�
 
 ### Conclusion 
 
-Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé à la planification et à la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été sensibilisé à votre propre productivité personnelle.
+Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé à la planification et à la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été sensibilisé à observer votre comment se déroule vos journée pour améliorer votre productivité personnelle.
 
 Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon systématique. Vous découvrirez comment gérer votre activité avec la méthode agile. Enfin, vous pourrez améliorer votre efficacité avec la technique Pomodoro.
 

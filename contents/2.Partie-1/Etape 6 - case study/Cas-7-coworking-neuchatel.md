@@ -1,4 +1,4 @@
-# Etude de cas : Coworking Neuchatel
+# Chapitre 6 : Etude de cas	
 
 Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d'une idée à sa réalisation, puis au suivi de ses évolutions. L'exemple que nous avons choisi est le Coworking Neuchâtel (Suisse), un espace de coworking qui a vu le jour en 2014.
 
@@ -40,7 +40,9 @@ Très rapidement, des questions émergents :
 - Comment fonctionnera cet espace ? 
 - Comment rendre le fonctionnement autonome, avec minimum d'intervention ? 
 - etc.
-- 
+
+
+
 ##### Les différentes étapes du projet :  
 
 ###### 1. Décision et communication
@@ -90,15 +92,14 @@ Ce défi a permis de créer une nouvelle façon de travailler encore plus ouvert
 
 - Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, clarifier et rendre plus pertinente la solution.
 
-Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous nous a donné envie de lancer un nouveau défi, en créant *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et PME (petites et moyennes entreprises) dans un environnement stimulant, neutre et collaboratif pour les soutenir à résoudre des défis de façon créative et développer de nouvelles innovations. 
+Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous nous a donné envie de lancer un nouveau défi, en créant *la manufacture d'idées*. 
 
 
 ![Accélérateur d'innovation La Manufacture d'idées](../contents/img/manufacture_didees.png)
 
+Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et PME (petites et moyennes entreprises) dans un environnement stimulant, neutre et collaboratif pour les soutenir à résoudre des défis de façon créative et développer de nouvelles innovations. 
 
 
-
-![Soirée afterwork: comment construire un espace d’innovation](../contents/img/coworking-afterwork.jpg)
 
 
 

@@ -2,29 +2,27 @@
 
 > "Il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
-Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. 
+Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée - on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
 
 
 ##### Quatre façons d'agir 
 
-Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre que souvent 20% de vos actions apportent 80% du résultat. Concentrez-vous sur les 20% et gardez à l'esprit les 4 façons de réaliser une action : 
+Quand il s'agit de concrétiser de nouvelles idées, nous pensons immediatement qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide or ce qui est primordial c'est comprendre qu'il existe 4 façons de réaliser une action. Illustrer ces propos avec l'exemple de cet ouvrage  : 
  
 - \faRemove - Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Par exemple, nous avons éliminé dans ce livre un chapitre entier pour focaliser sur l'essentiel et éviter de faire perdre du temps aux lecteurs. 
 
 - \faReplyAll - Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Dans ce livre, nous avons laissé certains thèmes sans suite et en constatant que cela n'était pas essentiel, nous les avons finalement éliminés. 
 
-- \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs fort investie. 
+- \faRetweet - Faire faire = Déléguer l’action : la majorité des tâches peuvent être fait tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs.
 
 - \faCheckSquare - Faire = Réaliser l’action : il vous reste qu'une petite liste d'actions importantes à concrétiser dont seul vous pouvez les réaliser. Faites-les.
 
 
 ### Les systèmes 
 
-Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) pour réaliser des activités et les simplifier.  
+Les entreprises mettent en oeuvre une grande quantité de moyens pour créer des systèmes (processus) pour réaliser des activités de façon efficiente.  
 
-Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système c'est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.  
-
-En comprenant comment fonctionne un système, vous focaliserez sur les éléments important de votre processus de travail (votre système) et éviter de vous éparpiller.
+Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.  
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
@@ -33,7 +31,7 @@ Il y a deux contraintes à considérer dans la concrétisation d'une idées :
 - la rigidité d'un système quand il s'agit d'explorer le nouveau
 - le manque de tempo et focus sur les actions à réaliser 
 
-Pour cela, nous vous proposons deux pistes de solution : 
+Pour contrer ces contraintes, 	nous vous proposons d'approfondir deux pistes de solution dans ce chapitre : 
 
 - l'organisation agile
 - la technique pomodoro

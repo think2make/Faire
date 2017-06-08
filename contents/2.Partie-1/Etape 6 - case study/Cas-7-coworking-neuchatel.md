@@ -55,11 +55,6 @@ Ayant pris cette initiative, nous commençons par nous attaquer à la promotion 
 
 En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs coworkers, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles.
 
-![Premier article dans la presse locale](../contents/img/Premier_article_coworking.png)
-
-![Session brainstorming](../contents/img/cowork-brainstorm-session-3.jpg)
-
-
 ###### 3. Prototypes rapides
 
 Durant l'été 2014, nous organisons des "journées coworking" dans des lieux tiers, au Swiss Creative Center, au restaurant Bureau, au restaurant Chauffage Compris. Constat intéressant: pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes! Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie.
@@ -75,10 +70,7 @@ Le succès est mitigé - il y a un intérêt par les personnes ayant compris le 
 
 Suite à cette semaine de test, nous ouvrons l'espace dès le mois de novembre afin de tester la viabilité à moyen terme. 
 
-![Les premiers coworkers s'installent](../contents/img/cowork-sablons.jpg)
-
-
-Aujourd'hui, Coworking Neuchâtel fonctionne par abonnement. En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, web design, marketing, traduction, consulting, ingénierie, coaching, recherche académique, etc. Nous accueillons également des télé-travailleurs, des étudiants et d'autres professionnels. 
+Coworking Neuchâtel fonctionne par abonnement. En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, web design, marketing, traduction, consulting, ingénierie, coaching, recherche académique, etc. Nous accueillons également des télé-travailleurs, des étudiants et d'autres professionnels. 
 
 
 
@@ -94,8 +86,6 @@ Ce défi a permis de créer une nouvelle façon de travailler encore plus ouvert
 
 Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous nous a donné envie de lancer un nouveau défi, en créant *la manufacture d'idées*. 
 
-
-![Accélérateur d'innovation La Manufacture d'idées](../contents/img/manufacture_didees.png)
 
 Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et PME (petites et moyennes entreprises) dans un environnement stimulant, neutre et collaboratif pour les soutenir à résoudre des défis de façon créative et développer de nouvelles innovations. 
 

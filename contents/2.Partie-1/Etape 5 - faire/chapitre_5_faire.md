@@ -119,8 +119,6 @@ Dans le domaine du développement logiciel, la pratique du "code sprint" émerge
 
 La pratique du Sprint a essaimé dans d'autres domaines de création. Un exemple intéressant est le "Book Sprint", qui consiste à rassembler des spécialistes et à procéder à l'écriture d'un livre en cinq jours[^flossmanuals]. À titre d'exemple, le livre "Understanding Oil Contracts" a été rédigé de cette manière à l'initiative d'une ONG, afin de fournir une documentation permettant aux pays en développement de mieux négocier les contrats d'exploitation avec les industries pétrolières.
 
-![Sprint d'écriture pour l'ONG OpenOil](../contents/img/booksprint-openoil.jpg)
-
 [^flossmanuals]: Pour des exemples d'applications concrètes, voir le travail de l'organisation Floss Manuals, qui a produit de cette manière des guides sur de nombreux sujets technologiques: flossmanualsfr.net.
 
 La méthode de travail du sprint peut s'avérer utile pour concevoir rapidement un premier prototype fonctionnel, une version béta. Cela permet de confronter son idée à l'utilisation dans le monde réel.

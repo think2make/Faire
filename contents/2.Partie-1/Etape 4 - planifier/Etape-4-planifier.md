@@ -25,7 +25,7 @@ Il est important de différencier le temps opérationnel (temps pour faire) et l
 C'est similaire avec le temps dont les humains ont besoin pour la création. 
 Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités ont besoin d'un temps d'arrêt ou une période _off_.
 
-Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de tolérance. Vous risquez ainsi de faire des miracles. 
+Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de marge. Vous risquez ainsi de faire des miracles. 
 
 
 ### Comment planifier ?
@@ -161,9 +161,9 @@ A la fin de la journée, prévoyez 30 minutes pour faire un résumé la journée
 
 ### Conclusion 
 
-Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé à la planification et à la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été sensibilisé à observer votre comment se déroule vos journée pour améliorer votre productivité personnelle.
+Ce que nous avons appris dans ce chapitre : vous avez été sensibilisé à la planification et à la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été incité à observer votre *comment se déroule vos journées* pour améliorer votre productivité personnelle.
 
-Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon systématique. Vous découvrirez comment gérer votre activité avec la méthode Agile. Enfin, vous pourrez améliorer votre efficacité avec la technique Pomodoro.
+Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon systématique. Vous découvrirez comment gérer votre activité avec la méthode *Agile*. Enfin, vous pourrez améliorer votre efficacité avec la technique *Pomodoro*.
 
 
 

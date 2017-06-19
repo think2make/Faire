@@ -143,42 +143,38 @@ Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues 
 
 ### La technique Pomodoro
 
-*Takt time* (Taktzeit) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
+*Taktzeit* (Takt time) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
 
-Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement dès 30 minutes. Il est l'inventeur de la technique Pomodoro. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
+Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement après 30 minutes. Il est l'inventeur de la technique *Pomodoro*. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
-A la différence des méthodes Agile qui concernent la coopération au sein d'une équipes, la technique Pomodoro vise à améliorer la productivité personnelle. 
+A la différence des méthodes *Agile* qui concernent la coopération au sein d'une équipes, la technique *Pomodoro* vise à améliorer la productivité personnelle. 
 
-Le matériel requis pour créer son rythme avec la méthode Pomodoro se résume à:
+Le matériel requis pour créer son rythme avec cette méthode se résume à:
 
 - Une feuille A4
 - Une minuterie de cuisine
 
 ![Une minuterie Pomodoro. Source: Wikipedia, par Erato](../contents/img/pomodoro.jpg)
 
-Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*. La méthode Pomodoro classique la définit comme 25 minutes.
+Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*, d'une durée de 25 minutes.
 
 La technique repose ensuite sur la répétition cyclique de ces cinq étapes :
 
 1. Décider de la tâche à effectuer ;
-2. Régler le minuteur sur 25 minutes (la durée du *Pomodoro*) ;
+2. Régler le minuteur sur 25 minutes;
 3. Travailler sur la tâche jusqu'à ce que le minuteur sonne ;
 4. Prendre une courte pause (environ 5 minutes) ;
 5. Tous les quatre *Pomodoro*, prendre une pause un peu plus longue (15-20 minutes).
 
 Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées. La méthode permet également d'avoir une trace visuelle des activités d'une journée, ce qui facilite l'analyse et l'auto-amélioration. La faculté de diviser une tâche complexe en pièces distinctes permet d'améliorer votre gestion du temps, et votre capacité à estimer la durée d'un projet. 
 
-![Planification des pomodoro](../contents/img/pomodoro-3-Today.jpg)
-
 Il existe un grand nombre d'applications de bureau mobile et mobiles basées sur cette méthode, permettant de simuler la minuterie: *Clockwork tomate*, *Pomodorium*, *KanbanFlow*, *Tomighty*, *Tomato Timer*, *PomoDone*...
-
-![Quelques applications Pomodoro](../contents/img/pomodoro-app-store.png)
 
 Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
 
 
 ### Conclusion
 
-Ce que nous avons appris : dans ce chapitre, vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites Agile, les différentes approches regroupées sous le terme de Sprint, et l'outil individuel que constitue la technique Pomodoro.
+Ce que nous avons appris dans ce chapitre : vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites *Agile*, les différentes approches regroupées sous le terme de *Sprint*, et l'outil individuel que constitue la technique *Pomodoro*.
 
-Dans le chapitre suivant, nous illustrerons tout les propos présentés dans cet ouvrage avec un cas concret: la création de l'espace de coworking de Neuchâtel (Suisse).
+Dans le chapitre suivant, nous illustrerons tous les propos présentés dans cet ouvrage avec un cas concret : la création de l'espace de *Coworking Neuchâtel* (Suisse).

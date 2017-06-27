@@ -2,7 +2,9 @@
 
 > "Il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
-Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantannée – on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
+Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantanée – on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
+
+
 
 
 ##### Quatre façons d'agir 

@@ -102,6 +102,7 @@ a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mot
 Mettre un élément à la place d’un autre...  
 Qu’est-ce qui peut être remplacé ? Qui d’autre ? Quoi d’autre ?
 
+Exemple : Après la deuxième guerre mondiale, l'entreprise Piaggio doit se réinventer en sortant de son activité de fabrication d'avion. L'ingénieur aéronautique Corradino d'Ascanio créer un deux-roues pour substituer l'activité de fabrication d'avion. La vespa est crée.
 
 ....................................................................................
 
@@ -175,8 +176,9 @@ Exemple : Le médicament *Pick-Me-Up* de Pemberton fut un échec en tant que mé
 ##### E: ÉLIMINER OU ÉPURER
 
 Qu’est-ce qui n’est pas nécessaire...  
-Que peut-on soustraire ? Supprimer ? Diminuer ?
-Peut-on éliminer certaines règles ?
+Que peut-on soustraire ? Supprimer ? Diminuer ? Peut-on éliminer certaines règles ?
+
+Exemple : En 1978, l'ingénieur James Dyson constate que les sacs de son aspirateur réduisait la performance de celle-ci. En éliminant le sac, il inventa le premier aspirateur sans sac, plutôt un succès. 
 
 
 
@@ -185,22 +187,15 @@ Peut-on éliminer certaines règles ?
 ....................................................................................
 
 
-##### R: RÉORGANISER
+##### R: RÉORGANISER ou RENVERSER
 
 D’autres dispositions...  
 D’autres séquences ? Un ordre différent ?
-
-
-
-....................................................................................
-
-....................................................................................
-
-
-##### R: RENVERSER (Inverser)
-
 Inverser le positif et le négatif ou tromper les attentes...  
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
+
+Exemple : la vente du produits Postits de la société 3M était prévu par des brochures et publicités - sans succès. Le manager des ventes Joe Ramey avait observé que des que les personnes commencaient à utiliser les postits, ils n'arretaient pas d'utiliser. Il convainca l'entreprise 3M de renverser son approche de vente et d'offrir des échantillons à un maximum de personnes, ainsi Postits connu le succès que nous connaissons. (p.94 Thinkertoys)
+
 
 
 

@@ -1,20 +1,15 @@
-# Chapitre 2. penser
+# Chapitre 2. idéer
 
 > "Comment a-t-on des idées ? Par la persévérance poussée jusqu'au bord de la folie." - Charles Chaplin
 
 
 Pendant longtemps, la création était perçue comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité a été associée pendant longtemps à l'art. Depuis les années 1960, la créativité a été le sujet de nombreuses études et fait maintenant partie de l''un des leviers les plus importants dans notre société. 
 
-Tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
-La créativité, c'est la capacité à réaliser une production d'idées originales et adaptées à un contexte défini. Toutefois, il ne faut pas confondre créativité et innovation. Cette dernière est un processus d'invention, de développement et de mise sur le marché d'idées finalisées. 
+Tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. La créativité, c'est la capacité à réaliser une production d'idées originales et adaptées à un contexte défini. 
 
-Evidemment, il ne suffit pas de savoir générer des idées si vous n'avez pas de connaissances sur le sujet traité. Le savoir permet d'éviter de réinventer la roue. 
+Il existe des centaines de méthodes pour générer des idées. Cependant, il est difficile d'utiliser une méthode sans comprendre l'ensemble du processus de créativité. Nous entendons par processus de créativité les phases par lesquelles vous passez pour faire naître de nouvelles idées. 
 
-Il existe des centaines de méthodes pour générer des idées, à utiliser individuellement ou en groupe. Cependant, il ne sert à rien d'utiliser un outil spécifique si vous ne saississez pas le processus sous-jacent. Nous entendons par processus sous-jacent les phases par lesquelles les méthodes de créativité passent pour faire naître de nouvelles idées. 
-
-Ce qui est particulier avec la génération d'idées, c'est qu'il est difficile de demander à des personnes de générer des idées au rythme des machines de production, d'autant plus s'ils ne suivent pas une démarche structurée et ne disposent pas des outils adéquats. C'est pourquoi il est nécessaire de comprendre le fonctionnement pour faciliter cette production d'idées. C'est ce que vous allez découvrir ici. 
-
-Intro chapitre...
+Ce que vous allez découvrir dans ce chapitre, c'est justement ce processus de créativité, les éléments-clés à respecter dans ce processus et les outils favorables pour générer des idées. Vous exercerez une méthode de créativité qui permet de transformer le contenu de votre cahier des charges du chapitre précédent en questions brûlantes, ce qui vous aidera à récolter plus facilement des idées flamboyantes. 
 
 
 ### Trois éléments-clés pour générer des idées 
@@ -91,9 +86,6 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leurs propo
 
 ### Exercice 2 : Questionner pour générer des idées
 
-Le but est de transformer le contenu de votre cahier des charges en exercices de créativité. Ainsi, vous arriverez à transformer un problème en opportunité et à générer des idées.
-
-Apprendre à formuler des questions brûlantes permet de récolter des idées flamboyantes. Utilisez la technique de concassage SCAMPER[^scamper] (ci-dessous) qui permet, grâce à une liste de questions, de faire jaillir des idées. Inspirez-vous de ces questions pour les adapter à votre contexte. Vous pouvez utiliser cet outil personnellement pour élaborer des questions ou sous forme d'exercice en groupe pour faciliter la génération des idées.
 
 ##### Consignes 
 
@@ -220,7 +212,7 @@ Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
 ### Conclusion
 
-Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus d'idéation, soit les phases de divergence et d'émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. Vous l'aurez constaté, penser est une façon de faire (d'agir) et c'est surtout le plus dur travail que n'importe quel humain peut faire. 
+Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus de créativité, soit les phases de divergence et d'émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. Vous l'aurez constaté, penser est une façon de faire (d'agir) et c'est surtout le plus dur travail que n'importe quel humain peut faire. 
 
 Dans le chapitre suivant, vous plongerez dans la phase de convergence et découvrirez comment amener à maturité des idées et décider sans détruire. 
 

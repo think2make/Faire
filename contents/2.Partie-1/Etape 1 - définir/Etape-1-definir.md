@@ -11,30 +11,34 @@
 
 
 
-Quand nous tentons de comprendre un sujet où nous voulons innover, c'est parfois le brouillard. L'expérience montre qu'en général il manque cinq éléments pour démarrer un projet d'innovation ou d'amélioration :
+Quand nous innovons, c'est parfois le brouillard. Cinq éléments manques dans la majorité des projets : Les informations sont dispersées auprès de différentes personnes et complique la compréhension de la problématique ; Il n'y a pas de vision commune ; les objectifs varies selon les personnes et intérêts ; le résultat recherché est difficilement visible ; les compétences des personnes à impliquer ne sont pas défini ; les critères pour mesurer le succès du projet n'est pas clair
 
-- Manque de compréhension claire de la problématique
-- Manque de vision, but
-- Manque d'objectif précis
-- Manque de visualisation du résultat attendu
-- Manque de critères d'évaluation du succès
+En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant : 
+
+- une situation ou problématique claire
+- une vision, but 
+- un objectif précis
+- les résultats attendus du projet
+- des critères de succès
 
 
 
-Dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire pour concrétiser des idées : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pertinentes pour trouver des réponses. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet. Vous saurez également quelle compétence impliquer afin d'être certain de disposer de toutes les informations nécessaires pour démarrer votre projet. 
+Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pour récolter des informations pertinentes. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet - votre cahier des charges. Vous saurez également quelle compétence impliquer afin d'être certain de disposer de toutes les informations nécessaires pour démarrer votre projet.
 
 
 
 \newpage
 
-### Poser les bases 
 
-Souvent les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
+### Par où commencer ?  
 
-Pour élaborer votre cahier des charges, assurez-vous que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. Notez uniquement les éléments primordiaux pour votre sujet.
+Il est parfois difficile de savoir quel projet (ou idée) empoigner. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous, et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de ne pas prendre de risques démesurés. Attention : pour éviter de prendre des risques, il arrive souvent que les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
 
+Donc, élaborer votre cahier des charges en vous assurant que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. 
 
-Parfois, il se peut que le projet ralentisse. La plupart des dysfonctionnements sont liés à sept types de causes[^cause], en utilisant les sept questions du QQOQCCP[^qqoqcp], vous pouvez éviter de nombreux pièges. 
+Définissez votre projet de manière *smart*[^smart] pour vous permettre de clarifier le but à atteindre, le partager avec vos collaborateurs et équipes plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
+
+Si vous constatez des dysfonctionnements dès le lancement de votre initiative, utilisez le diagramme cause-effet pour détectez les sept types de causes[^cause] possibles. Une fois détecté, associez à ces causes les questions correspondantes du QQOQCCP[^qqoqcp] peut vous aider à régler ces dysfonctionnements. 
 
 - Quoi = Matière
 - Qui = Main d'oeuvre
@@ -47,13 +51,16 @@ Parfois, il se peut que le projet ralentisse. La plupart des dysfonctionnements 
 
 ![](../contents/img/cause-effet.jpg)
 
+[^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être "Spécifique, Mesurable, Atteignable, Réaliste et Temporel". 
 
 [^cause]: En 1962, l'ingénieur Kaoru Ishikawa créer le diagramme de causes et effets pour identifier et définir l'ensemble des causes possibles de dysfonctionnement, qui est devenu la règle des 7 "M".
 
 [^qqoqcp]: QQOQCCP est une méthode empirique de questionnement.
 
 
-###### Apprendre à se poser les bonnes questions
+\newpage
+
+### Apprendre à se poser les bonnes questions
 
 Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
 
@@ -63,7 +70,7 @@ Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheu
 - Hypothèses sous-tendant à la question.
 - Les croyances, les clichés influencent la perception de la question.
 
-La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons au chapitre2 - la production d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
+La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons au chapitre 2 - la génération d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
 
 - Simple, précise et claire
 - Fait intervenir les valeurs
@@ -80,8 +87,10 @@ Un exemple pour illustrer le degré de complexité d'une question :
  - éviter de prendre la parole rapidement, écouter aussi le silence
  - mémoriser les informations, prendre des notes et regarder dans les yeux
  
+ 
+\newpage
 
-###### S'informer
+### S'informer
 
 Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il peine parfois à assimiler. Cependant, pour poser les bases d'un projet, il est obligatoire d'aller à la pêche aux informations. Pour ce faire, il faut prendre l'habitude de les catégoriser. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
 
@@ -90,14 +99,6 @@ Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il pein
 - **Veilleuse** : il s'agit d'informations potentiellement exploitables. Ce sont des idées qui ne sont pas pertinentes pour votre projet actuel mais qui pourraient l'être à l'avenir. Gardez-les au chaud.
 
 
-
-##### Par où commencer ? 
-
-Il est parfois difficile de savoir quel projet (ou idée) empoigner et le contrétiser sans avoir clairement défini les objectifs de celui-ci. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous, et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de ne pas prendre de risques démesurés.
-
-Définir votre projet de manière *smart*[^smart] permet de clarifier le but à atteindre, le partager avec vos collaborateurs et équipes plus facilement, et mettre en place des indicateurs pour mesurer l'atteinte réelle de votre but. 
-
-[^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être "Spécifique, Mesurable, Atteignable, Réaliste et Temporel". 
 
 
 

@@ -4,47 +4,26 @@
 
 > “Le temps est la plus longue distance entre deux endroits.” — Tennessee Williams
 
-Pour achever ce que vous avez déjà entrepris par le passé, vous avez utilisé le planificateur le plus brillant et le plus créatif du monde : votre cerveau. Celui qui vous permet notamment de décider comment vous allez vous habiller, quand et quoi manger et même les moments où vous allez parler, en quelques secondes. 
+Apprendre à ne pas gasiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. Mais il est impossible de stocker ou mettre en réserve le temps, les entrepreneurs et entreprises le savent bien. Le grand défi n'est pas uniquement de trouver des idées mais c'est de planifier la réalisation de ces idées, puisque la valeur est crée à l'implémentation des solutions. 
 
 A présent, nous allons définir comment *organiser les actions*. La diffculté quand nous essayons de réaliser une chose que nous n'avons encore jamais faite, c'est qu'il n'y pas de planification existante, pas de modèle ou de *template*. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
 
 C'est souvent dans ce genre de situations que nous entendons certains dire "cela ne fonctionnera jamais dans le monde réel..." En regardant la télévision, en lisant les journaux, il peut sembler que le monde est cruel, que les plans nobles échouent tout le temps. N'écoutez pas ces avis négatifs, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. Ignorez le monde réel. Planifiez votre monde. 
 
-Pourquoi planifier? Pour saisir la valeur de la planification, imaginez réaliser des actions sans planification. Que risque-t-il d'arriver ? Premièrement, vous ne faites pas ce que vous souhaitez faire – la procrastination. Deuxièmement, vous faites ce que vous n'avez pas vraiment pensé faire – les actions impulsives. 
-
-Apprendre à ne pas gaspiller une seule goutte de votre temps est le meilleur investissement. Mais il est impossible de le stocker, de le mettre en réserve. Les outils que nous allons vous présenter peuvent vous aider à donner une ligne conductrice entre vos pensées et vos actes. 
-
-Le risque, c'est toutefois de passer plus de temps à planifier qu'à agir – c'est ce qui se passe trop souvent dans les entreprises : on prend tellement de temps à planifier, à peaufiner que dès qu'un plan a été validé, il devient caduc. La planification ne devrait donc pas accaparer la majorité de votre temps. 
-
-##### Combien d'instants y a-t-il dans un quart d'heure ? 
-
-L'instant vécu est différent selon la vitesse à laquelle le temps est _comptabilisé_. Avez-vous déjà remarqué que certains moments paraissent éternels comme par exemple, chez le dentiste, ou très court, comme par exemple, un moment de convivialité entre amis. Selon le type d'action, le vécu va varier.
-
-Il est important de différencier le temps opérationnel (temps pour faire) et le temps de mise en train (temps pour penser). Dans l'industrie, les opérateurs qui règlent une machine ont besoin d'une période pour préparer le travail, les outils, programmer la machine, etc. Dès que la machine est lancée, le temps de production est souvent prévisible – contrairement au temps de mise en train. 
-
-C'est similaire avec le temps dont les humains ont besoin pour la création. 
-Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités ont besoin d'un temps d'arrêt ou une période _off_.
-
-Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de marge. Vous risquez ainsi de faire des miracles. 
+Dans ce chapitre, vous découvrirez les outils de planification par scénario, idéal pour des sujets nouveaux et qui comportent des aléas. Ensuite, vous pourrez plonger dans la planification mensuelle, hebdomadaire et journalière. Ces trois temporalités seront présentées avec des exercices que vous pourrez pratiquer seul, avec vos collègues ou avec collaborateurs. Une planification réalisée de façon collaborative donne une ligne directrie entre vos vos pensées et actions, créer de la cohésion et évite de perdre du temps à peaufiner constamment une planification. 
 
 
-### Comment planifier ?
 
-Un des plus grand défi des entrepreneurs et des entreprises n'est pas de générer des idées mais de les planifier et de les implémenter. 
+
+### Scénario en trois actes 
+
 
 A travers le temps, différentes approches de planification comme Gantt[^gantt] ou PERTT[^pertt] ont été développées. Il est souvent difficile de planifier longtemps en avance – c'est pourquoi la planification par scénario est plus efficace pour des sujets qui comportent beaucoup d'éléments nouveaux et inconnus.  
-
-Dans le chapitre suivant, vous découvrirez une méthode de gestion de projet très actuelle, la méthode *Agile*, initialement développée dans le milieu informatique. 
-
 
 
 [^gantt]: **Gantt** : diagrammes graphiques de planification, permettant de situer les tâches et ressources du projet. Les tâches peuvent se succéder ou se réaliser en parallèle. 
 
 [^pertt]: **Pertt** : technique de modélisation de projet. Elle visualise sous forme de réseau plusieurs tâches, avec leurs dépendances et leur chronologie.
-
-
-
-##### Scénario en trois actes 
 
 Commencez par une planification *par scénario*, qui permet de visualiser le déroulement du projet. Posez-vous les questions suivantes : 
 
@@ -137,11 +116,15 @@ Il y a bien longtemps, un certain Frederick Winslow Taylor inventa l'organisatio
 ![](../contents/img/zone_productive.png)
 
 
-La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Vous pouvez observer votre propre zone de productivité avec des logiciels comme *RescueTime*[^rescuetime] ou prenant des notes dans votre agenda personnel. Généralement, gardez à l'esprit que les activités hautement stratégiques ou qui nécessitent une concentration intense s'exécutent mieux le matin. Car la phase de productivité la plus intense se trouve souvent 2 heures après le début de la journée et se poursuit pour une durée d'environ 2 heures. 
+La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Concernant le contenu du travail, avez-vous déjà remarqué que certains moments paraissent éternels comme par exemple, chez le dentiste, ou très court, comme par exemple, un moment de convivialité entre amis. Selon le type d'action, le vécu va varier.
+
+Il est important que vous différenciez le temps opérationnel (temps pour faire) et le temps de mise en train (temps pour penser). Dans l'industrie, les opérateurs qui règlent une machine ont besoin d'une période pour préparer le travail, les outils, programmer la machine, etc. Dès que la machine est lancée, le temps de production est souvent prévisible – contrairement au temps de mise en train. C'est similaire avec le temps dont les humains ont besoin pour la création. Typiquement, une phase de conception, d'imagination ou d'analyse nécessite un temps différent. Ces activités ont besoin d'un temps d'arrêt ou une période _off_. Dans votre planification, tenez compte de ces aspects. Pour des activités de réflexion, d'analyse, prenez plus de marge. Et pour des activités de production, souvent répétitives, soyez ferme et laissez peu de marge. Vous risquez ainsi de faire des miracles. 
+
+Pour détecter ces deux types de temps durant vos journées, vous pouvez observer vos activités avec des logiciels comme *RescueTime*[^rescuetime] ou prenant des notes dans votre agenda personnel. Généralement, gardez à l'esprit que les activités hautement stratégiques ou qui nécessitent une concentration intense s'exécutent mieux le matin. Car la phase de productivité la plus intense se trouve souvent 2 heures après le début de la journée et se poursuit pour une durée d'environ 2 heures. 
 
 [^rescuetime]: RescueTime est un logiciel qui vous permet de comprendre comment vous et vos équipes utilisez votre temps et l'optimiser.
 
-Si votre activité est davantage manuelle, notez toutes les tâches que vous réalisez, et les durées des tâches. De cette façon, vous pourrez observer les interruptions, les zones de productivité, etc. 
+Si votre activité est davantage manuelle, notez toutes les tâches que vous réalisez, et les durées des tâches. De cette façon, vous pourrez observer les types de tâches (mise en train vs. opérationnelle), les interruptions durant votre journée, les zones de productivité, etc. 
 
 A la fin de la journée, prévoyez 30 minutes pour faire un résumé la journée passée en répondant aux questions suivantes : 
 

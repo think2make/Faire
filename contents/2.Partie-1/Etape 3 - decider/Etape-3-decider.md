@@ -269,7 +269,7 @@ Remarques :
 
 ### Conclusion 
 
-Ce que nous avons appris dans ce chapitre : vous avez été sensibilisé au processus de décision. Vous avez appris comment matérialiser votre idée tout en sachant la mettre en valeur en toute simplicité. Enfin, vous avez appris et pratiqué comment évaluer efficacement une idée. Gardez à l'esprit d'adapter la méthode de décision à votre contexte, à votre sujet. 
+Ce que nous avons appris dans ce chapitre : vous avez été sensibilisé au processus de décision. Vous avez appris comment matérialiser votre idée tout en sachant la mettre en valeur en toute simplicité. Enfin, vous avez appris et pratiqué comment évaluer efficacement une idée. L'exercice en fin de chapitre vous aidera à prendre la décision ultime. 
 
 Dans le chapitre suivant, nous allons voir comment planifier efficacement l'implémentation de votre projet et comment le découper en petites actions que vous pouvez gérer de manière efficiente.
 

@@ -11,9 +11,7 @@
 
 
 
-Quand nous innovons, c'est parfois le brouillard. Cinq éléments manques dans la majorité des projets : Les informations sont dispersées auprès de différentes personnes et complique la compréhension de la problématique ; Il n'y a pas de vision commune ; les objectifs varies selon les personnes et intérêts ; le résultat recherché est difficilement visible ; les compétences des personnes à impliquer ne sont pas défini ; les critères pour mesurer le succès du projet n'est pas clair
-
-En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant : 
+Quand nous innovons, c'est parfois le brouillard. Cinq éléments manques dans la majorité des projets : Les informations sont dispersées auprès de différentes personnes et complique la compréhension de la problématique ; Il n'y a pas de vision commune ; les objectifs varies selon les personnes et intérêts ; le résultat recherché est difficilement visible ; les compétences des personnes à impliquer ne sont pas défini ; les critères pour mesurer le succès du projet n'est pas clair. En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant : 
 
 - une situation ou problématique claire
 - une vision, but 
@@ -23,7 +21,7 @@ En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant
 
 
 
-Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pour récolter des informations pertinentes. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet - votre cahier des charges. Vous saurez également quelle compétence impliquer afin d'être certain de disposer de toutes les informations nécessaires pour démarrer votre projet.
+Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pour récolter des informations pertinentes. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet - votre cahier des charges. Ce cahier sera votre boussole tout au long de votre projet. Enfin, vous saurez également quelle compétence impliquer afin d'être certain de disposer de toutes les informations nécessaires pour démarrer votre projet.
 
 
 
@@ -32,7 +30,9 @@ Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisé à la 
 
 ### Par où commencer ?  
 
-Il est parfois difficile de savoir quel projet (ou idée) empoigner. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous, et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de ne pas prendre de risques démesurés. Attention : pour éviter de prendre des risques, il arrive souvent que les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
+Il est parfois difficile de savoir quel projet (ou idée) empoigner. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous, et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de ne pas prendre de risques démesurés. 
+
+Pour éviter de prendre des risques démesurée, il arrive souvent que les projets ont un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
 
 Donc, élaborer votre cahier des charges en vous assurant que le sujet que vous empoignez est assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment étroit pour être géré. 
 
@@ -104,8 +104,11 @@ Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il pein
 
 ### Exercice : les cinq éléments d'un projet
 
-Sachant maintenant comment formuler des questions et récolter des informations, vous pouvez prendre le rôle d'un journaliste pour définir votre projet clairement. Gardez uniquement les informations utiles, intéressantes et actuelles. Et n'oubliez pas l'acronyme *smart* pour la définition d'objectifs. 
-Chaque projet est unique. Dans ce briefing nous mettons en lumière les éléments essentiels de la définition d'un projet d'innovation. D'autres éléments, comme les rôles des personnes (c.f. plus bas). Le déroulement ou les aspects financiers ne sont pas inclus ici. 
+Sachant maintenant comment formuler des questions et récolter des informations, vous pouvez définir le cahier des charges de votre propre projet. Gardez uniquement les informations utiles, intéressantes et actuelles. 
+
+Si vous travaillez seul, vous pouvez utiliser les pages suivantes pour écrire dessus. Si vous travaillez en équipe, préparez cinq feuilles *filpcharts* (taille A2 pour que chacun puisse écrire) et écrivez sur chaque feuille les cinq éléments du cahier des charges des pages suivantes. Réunissez l'équipe et par groupe de deux personnes, demandez-leur de parcourir les questions, d'échanger dessus et noter les informations. Trente minutes devraient suffire pour une première récolte de données. Faite un compte rendu des informations à la fin. 
+
+Chaque projet est unique. Dans ce cahier des charges nous mettons en lumière les éléments essentiels de la définition d'un projet d'innovation. D'autres éléments, comme les rôles des personnes (c.f. plus bas). Le déroulement ou les aspects financiers ne sont pas inclus ici. 
  
 
 
@@ -163,11 +166,11 @@ Exemple : *D'ici trois ans, nous souhaitons devenir le leader de notre branche d
 
 Comment s'y prendre ? 
 
-Notez le but spécifique à atteindre par votre projet de façon brève. 
+Notez le but spécifique à atteindre par votre projet de façon brève. Ce but peut aussi être formulé sous forme d'une question à répondre.
 
 Pourquoi le faire ? 
 
-Les grandes visions n'ont rien de concret, elles ne sont ni mesurables et ni atteignables sans une définition plus objective. Décrivez ce que vous souhaitez achever en premier pour atteindre votre but.
+Les grandes visions n'ont rien de concret, elles ne sont ni mesurables et ni atteignables sans une définition plus objective. Décrivez ce que vous souhaitez achever en premier pour atteindre votre but. Cet objectif sera comme votre boussole, il vous guidera tout au long de votre projet. 
 
 Exemple : *A la fin du projet, nous disposerons d'une stratégie pour remédier à la situation actuelle tout en accélérant notre positionnement etc.* 
 
@@ -240,24 +243,30 @@ Exemple :
 
 ### Trois rôles
 
-Jusqu'ici vous avez découvert la formulation des questions vous permettant la récolte de données utiles et leur mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? Comment les impliquer ? Quel rôle auront-elles ? 
+Jusqu'ici vous avez découvert la formulation des questions vous permettant la récolte de données utiles et leur mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? Comment les impliquer ? Combien sont-elles ? Quel rôle auront-elles ? 
 
-Dans les entreprises, quand les choses ne fonctionnent pas comme on le souhaite, on a tendance à l'incriminer au manque de communication. Or, ce qui manque souvent, ce sont des rôles clairs pour travailler ensemble. Il existe trois rôles à intégrer dès le début d'un projet d'innovation. Par rôle, nous entendons non pas la fonction, le statut ou le titre, mais une position que la personne prend pendant un temps T, indépendamment de sa fonction et de son statut. 
-
-
-- **Le représentateur :** apporte son expertise sur le sujet, amene un regard interne et une expertise sur le défi ou sur l'entreprise. Ce sont souvent les collaborateurs internes, des experts externes de la branche de métier comme par exemple des consultants, des clients ou des fournisseurs de l'entreprise. 
-- **Le faciliteur :** apporte les techniques d'animation combinée à une connaissance de la thématique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^flow] – que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser. Ce sont souvent des profils qui peuvent être formés en interne de l'entreprise ou mandatés depuis l'externe, à condition qu'ils puissent amener un point de vue neutre.
-- **Le Renverseur :** apporte un regard nouveau et parfois déroutant. Ce sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale, soit clasique et continue). Ce sont souvent des profils recrutés à l'extérieur de l'entreprise et ce profil est défini quand suffisamment d'informations sont récoltées au début du projet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant leur potentiel créatif,  par exemple. 
+Dans les entreprises, quand les choses ne fonctionnent pas comme on le souhaite, on a tendance à l'incriminer au manque de communication. Or, ce qui manque souvent, ce sont des rôles clairs pour travailler ensemble. Il existe trois rôles à intégrer dès le début d'un projet d'innovation. Le rôle n'est pas une fonction, un statut ou un titre, mais une position que la personne prend pendant un temps T, indépendamment de sa fonction et de son statut. 
 
 
-Faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. vers une position différente : les rôles. 
+- **Le représentateur :** apporte son expertise sur le sujet, amene un regard interne et une expertise sur le défi ou sur l'entreprise. Ce sont souvent les collaborateurs internes qui ont déjà réfléchi sur le sujet, des experts externes de la branche de métier comme par exemple des consultants, des clients ou des fournisseurs de l'entreprise. C'est également le décideur, la personne qui dira le dernier mot et qui a une connaissance approfondie sur le marché ou context où s'insèrera l'innovation. Notez que personne ne sait tout, même pas le directeur. Les grands défis comportent de nombreux aspects qui nécessite l'expertise de différentes personnes. 
+
+- **Le faciliteur :** apporte les techniques d'animation combinée à une connaissance de la thématique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^flow] – que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser. Ce sont souvent des profils qui peuvent être formés en interne de l'entreprise ou mandatés depuis l'externe, à condition qu'ils puissent amener un point de vue neutre. Evitez que le décideur soit le facilitateur, cela risque de créer un biais involontaire.
+
+- **Le Renverseur :** apporte un regard nouveau et parfois déroutant. Ce sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale, soit clasique et continue). Ces profils peuvent être recrutés à l'extérieur de l'entreprise ou en interne : par exemple, les personnes qui ont un point de vue différent de la majorité - des contestataires - sont intéressant à impliquer. Les contestataires ne sont pas des grincheux qui souhaitent mettre des bâtons dans les roues mais davantage des personnes qui ont un regard différent de la majorité. Pour impliquer ces profils, vous devez récolter suffisamment d'informations en amont (pendant la construction du cahier des charges de votre projet) afin de détecter qui peut apporter un regard nouveau pour votre sujet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant leur potentiel créatif. 
+
+
+Faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. vers une position différente : les rôles. Notez que le nombre de personnes est aussi important, le nombre idéal est de moins de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varient d'une demi-journée à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine à trois mois. Pour la partie recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.
+
+
 
 
 ### Conclusion 
 
-Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Enfin, vous avez été sensibilisé aux trois rôles à impliquer pour la mise en place d'un regard complémentaire sur le projet. 
+Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Pour votre projet, vous avez formalisé un cahier des charges (c.f. exercice) de façon collaborative. Ce document vous guidera dans les chapitres suivants. 
 
-Dans le chapitre suivant nous allons voir comment transformer le contenu du cahier des charges (c.f. exercice) en un processus de créativité. Sachant comme il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant y aider.
+De plus, vous avez été sensibilisé aux trois rôles à impliquer pour la mise en place d'un regard complémentaire sur le projet. Vous savez comment structurer la suite de vos actions (le nombre de personnes à impliquer, combien de temps réserver, etc.)
+
+Dans le chapitre suivant nous allons voir comment transformer le contenu du cahier des charges  en un processus de créativité. Sachant comme il peut être difficile de générer des idées, vous découvrirez les éléments sous-jacents permettant y aider.
 
 
 [^flow]: Etat mental lorsqu'on est complètement plongé dans une activité, état maximal de concentration. Concept élaboré par le psychologue Mihály Csíkszentmihályi. voir livre *flow : The Psychology of optimal Experience*

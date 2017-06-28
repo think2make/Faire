@@ -149,6 +149,7 @@ Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues 
 
 Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement après 30 minutes. Il est l'inventeur de la technique *Pomodoro*. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
+
 A la différence des méthodes *Agile* qui concernent la coopération au sein d'une équipes, la technique *Pomodoro* vise à améliorer la productivité personnelle. 
 
 Le matériel requis pour créer son rythme avec cette méthode se résume à:
@@ -173,6 +174,9 @@ Cette subdivision du temps permet de mieux quantifier le travail, tout en le mor
 Il existe un grand nombre d'applications de bureau mobile et mobiles basées sur cette méthode, permettant de simuler la minuterie: *Clockwork tomate*, *Pomodorium*, *KanbanFlow*, *Tomighty*, *Tomato Timer*, *PomoDone*...
 
 Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
+
+
+Pourquoi utiliser cette technique de productivité ? Comme présenté dans le chapitre précédent (c.f. Chapitre 4, Planifiez le jour), pour réaliser un travail créatif et concevoir des innovations, vous devez disposer des créneaux de temps plus long et sans interruption. La technique *Pomodoro* offre cette structure. 
 
 
 ### Conclusion

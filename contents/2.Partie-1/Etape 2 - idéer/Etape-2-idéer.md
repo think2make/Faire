@@ -18,19 +18,19 @@ Ce que vous allez découvrir dans ce chapitre, c'est justement ce processus de c
 
 Dans le chapitre 1, nous avons parlé du contenu. Dans ce chaptire, nous allons aborder le contenant. 
 
-Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Si nous comparions ces deux notions à uune boisson, la première serait le liquide et la seconde, la tasse. Dans le cadre d'un projet, le contenu sera défini comme le cahier des charges et le contenant sera associé au cadre du projet (artefacts, méthodes, questionnement, déroulement, etc.) 
+Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Si nous comparions ces deux notions à une boisson, la première serait le liquide et la seconde, la tasse. Dans le cadre d'un projet, le contenu sera défini comme le cahier des charges et le contenant sera associé au cadre du projet (artefacts, méthodes, questionnement, déroulement, etc.) 
 
 #####  Environnement 
 
 Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn ? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influencent nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poids aussi important l'un que l'autre sur le processus créatif. 
 
-Nous avons experminenté des situations avec des résultats médiocres car l'environnement n'était pas favorable. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous tenez des séances d'évaluation des personnes, ou encore annoncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soient inspirées dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les lieux peuvent renforcer ou freiner votre créativité et celle de vos équipes. 
+Tout l'environnement n'était pas favorable à trouver des idées. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous tenez des séances d'évaluation des personnes, ou encore annoncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soient inspirées dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les lieux peuvent renforcer ou freiner votre créativité et celle de vos équipes. 
 
 ##### Artefacts
 
 Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont des objets symboliques. Par exemple, quand vous utilisez un *Post-it*, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. L'utilisation des *Post-its* est simple et connue par la majorité des professionnels. Il existe d'autres solutions qui aident à *penser*. 
 
-Vous pouvez utiliser des solutions inspirées des *serious games* (jeux sérieux),[^sérieux] comme *Lego serious play*, ou des outils en ligne comme hors ligne. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
+Vous pouvez utiliser des solutions inspirées des *serious games* (jeux sérieux),[^sérieux] comme *Lego serious play*, ou des outils en ligne comme hors ligne. Vous pouvez aussi inventer des artefacts en lien avec votre thématique. L'importance est de disposer d'espaces visibles pour s'exprimer. 
 
 Si vous souhaitez approfondir ce point, vous pouvez télécharger sur notre site web des outils[^gratuits] gratuits pour vos sessions de brainstorming.
 
@@ -89,7 +89,7 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leurs propo
 
 ##### Consignes 
 
-a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER). Ce sont des questions que vous pouvez utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Formulez la question centrale de votre recherche, la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simple et pertinente (chapitre 1 – définir).d. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence).
+a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER), par exemple "comment pourrions-nous...". Ce sont des questions que vous pouvez utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Formulez la question centrale de votre recherche, la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simple et pertinente (chapitre 1 – définir).d. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence).
 e. Ce travail prèpare la phase de convergence qui sera traité en profondeur dans le chapitre 3). 
 
 
@@ -207,8 +207,9 @@ Exemple : la vente du produits Postits de la société 3M était prévu par des 
 
 ### Conclusion
 
-Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus de créativité, soit les phases de divergence et d'émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. Vous l'aurez constaté, penser est une façon de faire (d'agir) et c'est surtout le plus dur travail que n'importe quel humain peut faire. 
+Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus de créativité, soit les phases de divergence et d'émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. 
+Vous avez maintenant une liste d'idées ébauches. Vous ne savez pas si c'est utile, ni si cela est réalisable, 
 
-Dans le chapitre suivant, vous plongerez dans la phase de convergence et découvrirez comment amener à maturité des idées et décider sans détruire. 
+Dans le chapitre suivant, vous plongerez dans la phase de convergence et découvrirez comment amener à maturité des idées sous forme d'illustration et vous déciderez en groupe de façon non-démocratique et non-déstructrice. 
 
 \newpage

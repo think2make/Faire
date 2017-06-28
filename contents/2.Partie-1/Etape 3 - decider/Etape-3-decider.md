@@ -5,7 +5,7 @@
 
 Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réduisant ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération d'idées, les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). 
 
-Dans ce chapitre, vous découvrirez les quatre principes de la décision à respecter, ça vous aidera à éviter de vous perdre dans ce processus ou regarder les solutions de façon binaire. Vous apprendrez quelle visualisation utiliser pour dessiner vos idées et les communiquer plus facilement aux personnes impliquées dans votre projet. Enfin, vous saurez comment aller à l'essentiel pour choisir une solution appropriée pour votre projet. La mise en pratique d'un exercice d'évaluation vous permettra de décider efficacement de la solution appropriée pour la mise sur le marché d'une solution finalisée.
+Dans ce chapitre, vous découvrirez les quatre principes de la décision à respecter, ça vous aidera à éviter de vous perdre dans ce processus ou regarder les solutions de façon binaire. Vous apprendrez quelle visualisation utiliser pour dessiner vos idées et les communiquer plus facilement aux personnes impliquées dans votre projet. Enfin, vous saurez comment aller à l'essentiel pour choisir une solution appropriée pour votre projet. La mise en pratique d'un exercice d'évaluation vous permettra de décider efficacement la solution appropriée pour la mise sur le marché d'une solution finalisée. 
 
 
 
@@ -26,7 +26,7 @@ Il est tentant d'éviter la prise de risque et de se tourner vers une idée *mai
 
 **4) Gardez le cap de vos objectifs**
 
-Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et de perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole (dans votre avancement) et (fonctionnera) comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure de l'avancement de votre projet, votre objectif initial nécessite une correction. Générer des idées est un acte rempli d'aléas. Il ne s'agit pas d'une route droite toute tracée, et c'est bien là que réside le plaisir.
+Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et de perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et fonctionnera comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure de l'avancement de votre projet, votre objectif initial nécessite une correction. Générer des idées est un acte rempli d'aléas. Il ne s'agit pas d'une route droite toute tracée, et c'est bien là que réside le plaisir.
 
 ### Dessiner pour décider
 Face à des problèmes d'envergure où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyances, il est essentiel d'avoir un langage universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux personnes avec qui vous collaborez.  
@@ -72,18 +72,18 @@ Dans le premier chapitre, nous avons abordé les six questions fondamentales, ap
 Imaginons que vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le Quoi). Pour déterminer son prix, vous allez dessiner un diagramme (le Combien). Pour illustrer l'expérience utilisateur, vous allez dessiner une chronologie (le Quand). Enfin, pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le Comment).
 
 
-Prenez une feuille et un crayon et dessinez votre idée maintenant. 
+Prenez une feuille et un crayon et dessinez votre idée maintenant. Votre visuel ébauche devrez prendre environ trente minutes, vous pourrez revenir dessus pour l'améliorer par la suite. Surtout, illustrez votre idée simplement. 
 
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
 Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité*, le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou le groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Ce n'est pas parce que c'est simple (par exemple au niveau de l'usage) que c'est le cas au niveau technologique. 
 
-La difficulté n’est pas - a priori - *comment simplifier* mais plutôt *à quel point simplifier*. La frontière entre simple et complexe n’est pas aisée. Procédez par étape.
+La difficulté n’est pas - a priori - *comment simplifier* mais plutôt *à quel point simplifier*. La frontière entre simple et complexe n’est pas aisée. Procédez par étape. Une fois que vous avez illustré vos idées, rendez-les plus simple et plus pertinente pertinente en procédant par ces trois étapes : 
 
 **Atténuer :** 
 
-En ôtant les éléments superflus d'une solution, nous induisonsun plaisir inattendu et une impression que celle-ci est plus pertinente. Allez à l'essentiel pour optimiser votre décision. 
+En ôtant les éléments superflus d'une solution, nous induisons un plaisir inattendu et une impression que celle-ci est plus pertinente. Allez à l'essentiel pour optimiser votre décision. 
 
 **Masquer :** 
 
@@ -91,33 +91,12 @@ Une fois ôté ce qui peut l’être, nous pouvons masquer la complexité. Ce qu
 
 **Insuffler :** 
 
-En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première et vous démarquer des autres. 
-
-
-### Evaluer les idées 
-
-Etant donné que les idées sont très émotionnelles, la plupart du temps, chacun les évalue selon son humeur ou ses croyances. Quand il s'agit de créer de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. En oici trois [^critères] que vous pouvez utiliser pour votre sujet :
-
-- **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
-- **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
-- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée est-elle sexy ?)
-
-[^critères]: Ces critères nous ont été inspirés par Vitruve (Marcus Vitruius, Ier siècle avant J.-C.). Vous pouvez en savoir plus sur son livre *De Architectura* (premier livre d'architecture de l'histoire).
-
-La meilleure façon de définir si votre idée est solide, est d'impliquer les personnes qui vont être confrontées à cette idée (utilisateurs, clients, fournisseurs, etc.). Il suffit d'intégrer les idées dans un tableur et de demander d'évaluer sur des critères pré-définis. Cette évaluation donne le résultat statistique suivant :
-
-- **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
-- **Polarisation des idées :** calcul de l'écart entres les moyennes.
-
-Certaines idées auront des polarisations élevées, ce sont celles qui sont le plus fortement appréciées ou détestées. Avec cette méthode vous démontrez qualitativement comment une idée est perçue (elle vous informe sur le "combien").
-
-Les sujets nouveaux et exploratoires sont souvent les idées les plus fortement polarisées. Du point de vue de l'innovation, elles sont plus intéressantes que celles qui ont les plus hautes moyennes et une faible polarisation.
-
+En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifiée peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première et vous démarquer des autres. 
 
 
 ##### Analyser sans détruire : quatre questions stratégiques
 
-Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour Forces, Faiblesses, Opportunités, Risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative.
+Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour Forces, Faiblesses, Opportunités, Risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative. Les idées que vous avez développées peuvent maintenant être analysées sur la base de quatre questions. Sous chaque illustration, notez les réponses à ces quatre questions :
 
 - **Plus :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 
@@ -126,6 +105,25 @@ Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en françai
 
 La quatrième question ouvre le champ de recherche d'idées (divergence) afin de contourner les risques. 
 
+
+### Evaluer les idées 
+
+Etant donné que les idées sont très émotionnelles, la plupart du temps, chacun les évalue selon son humeur ou ses croyances. Quand il s'agit de créer de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Vous pouvez utiliser les critères de succès défini dans votre cahier des charges (c.f. chapitre 1) ou utiliser ces trois critères[^critères] pour les solutions que vous avez imaginées :
+
+- **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
+- **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
+- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée est-elle sexy ?)
+
+[^critères]: Ces critères nous ont été inspirés par Vitruve (Marcus Vitruius, Ier siècle avant J.-C.). Vous pouvez en savoir plus sur son livre *De Architectura* (premier livre d'architecture de l'histoire).
+
+La meilleure façon de définir si votre idée est solide, est d'impliquer les personnes qui vont être confrontées à cette idée (c.f. chapitre 1 : utilisateurs, clients, fournisseurs, etc.). Pour ce faire, vous pouvez utiliser par exemple des gomettes ou un tableur en ligne. Cette évaluation donne le résultat statistique suivant :
+
+- **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
+- **Polarisation des idées :** calcul de l'écart entres les moyennes.
+
+Certaines idées auront des polarisations élevées, ce sont celles qui sont le plus fortement appréciées ou détestées. Avec cette méthode vous démontrez qualitativement comment une idée est perçue (elle vous informe sur le "combien" l'idée est divergente).
+
+Les sujets nouveaux et exploratoires sont souvent les idées les plus fortement polarisées (divergentes). Du point de vue de l'innovation, elles sont plus intéressantes que celles qui ont les plus hautes moyennes et une faible polarisation. 
 
 ##### Evaluer n'est pas décider
 
@@ -136,7 +134,7 @@ Trop souvent en entreprise, de nombreuses séances sont organisées pour génér
 
 ##### Etude de marché rapide : 10 questions à se poser 
 
-Vous souhaitez innover ou lancer un projet sur le marché? A cet effet, vous avez généré des idées, vous avez créé un prototype et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré.
+Vous avez généré des idées, vous avez créé et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 critères inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré. En réalisant l'évaluation de ces 10 critères avec vos collègues et collaborateurs, vous saurez plus clairement où se situe les divergences de point de vue et si l'estimation est fausse ou incohérente. 
 
 #####Consignes 
  

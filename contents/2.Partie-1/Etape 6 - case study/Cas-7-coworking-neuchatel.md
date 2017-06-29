@@ -6,9 +6,9 @@ Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d
 
 A l'aube du 21ème siècle, grand nombre d'activités peuvent être automatisées, les moyens technologiques permettent aux entreprises de devenir agiles, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnant en mode "projet". Certains parlent de quatrième révolution industrielle[^industrielle]. 
 
-[^industrielle]: C'est-à-dire, après les trois premières révolutions industrielles : la mécanisation, l'électrification et l'automatisation, la quatrième révolution est la digitalisation. 
+[^industrielle]: Après les trois premières révolutions industrielles (la mécanisation, l'électrification et l'automatisation) la quatrième révolution est la digitalisation. 
 
-Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas une procédure aveuglement, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^télétravail] remet en cause les notions de temps et de lieu de travail.
+Nous allons vers une nouvelle façon de travailler. Un nouveau modèle émerge : les *organisations apprenantes*. Les salariés n’y suivent pas aveuglement une procédure, mais sont appelés à résoudre des problèmes. Les équipes sont constituées de salariés polyvalents et qui s’auto-organisent. Leur travail intègre un fort contenu cognitif et l’homme est au centre du dispositif. Un travail vide de sens est considéré aussi pénible qu’un travail physiquement difficile. Plus généralement, le télétravail[^télétravail] remet en cause les notions de temps et de lieu de travail.
 
 [^télétravail]: Le télétravail est une manière d'exercer son activité professionnelle en dehors des locaux de son employeur. Ce mode de travail s'est amplifié avec l'émergence des technologies de communciation numérique. 
 
@@ -16,16 +16,16 @@ Dans ce contexte, le *coworking* est une nouvelle manière d'organiser le travai
 
 L’encyclopédie en ligne *Wikipédia* le définit d'ailleurs de cette façon: *« Cette nouvelle forme de travail remet en question fondamentalement les anciennes théories pyramidales du travail. Aujourd’hui, le travail se fait en réseau par une agrégation ponctuelle de compétences se formant et se reformant selon les projets, plus rapide et flexible que les structures très hiérarchisées des entreprises. »* 
 
-Né dans les années 2000 avec la révolution numérique, Cette façon d'organiser le travail est devenu un phénomène mondial. Selon *deskmag*, le magazine du *coworking*, il en existe à l'heure actuelle plus de 7000 espaces sur le globe.
+Né dans les années 2000 avec la révolution numérique, Cette façon d'organiser le travail est devenu un phénomène mondial. Selon *Deskmag*, le magazine du *coworking*, il en existe à l'heure actuelle plus de 7000 espaces sur le globe. 
 
 ##### Le défi  
 
-Lors d'une rencontre fortuite dans un café neuchâtelois, deux entrepreneurs (les auteurs du livre que vous tenez entre les mains) font le constat d'un réel manque à Neuchâtel, notamment :
+Lors d'une rencontre fortuite dans un café neuchâtelois, au printemps 2014, deux entrepreneurs (les auteurs du livre que vous tenez entre les mains) font le constat d'un réel manque à Neuchâtel, notamment :
 
 - pas de bureaux à disposition
 - pas de support entre pairs/entrepreneurs
 
-Alors que le c'est devenu un phénomène mondial, et essaime dans l'Arc lémanique, il n'existe pas de vrai espace de *coworking* dans la région neuchâteloise (en Suisse). Le défi est donc lancé, nous décidons de nous mobiliser pour créer un tel espace.
+Alors que le coworking est devenu un phénomène mondial, et essaime dans l'Arc lémanique (Lausanne compte cinq espaces, Genève une dizaine), il n'existe pas de lieu de ce type à Neuchâtel (ville Suisse de 34'000 habitants). Le défi est donc lancé, nous décidons de nous mobiliser pour créer un tel espace.
 
 ![Evolution du terme "coworking" entre 2010 et 2017 selon Google](../contents/img/tendance-coworking.png)
 

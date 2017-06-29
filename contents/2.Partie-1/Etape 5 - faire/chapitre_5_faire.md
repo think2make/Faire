@@ -10,11 +10,13 @@ Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. U
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
-Dans la concrétisation d'une innovation, la contrainte majeur est souvent lié à la rigidité d'un système quand il s'agit d'explorer le nouveau. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une façon d'organiser le système de votre entreprise avec la méthode Agile, de façon à favoriser les innovations.
+Quand il s'agit d'explorer le nouveau, la contrainte majeur que les organisations vivent est souvent lié à la rigidité d'un système. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une façon d'organisation d'équipe, qui favorise les innovations. Cette façon s'appelle *Agile* et vient du monde informatique. Ce domaine étant contraint à devenir plus agile et plus rapide. Vous découvrirez cette façon d'organiser votre travail en vous inspirant de ce domaine. Le but n'est pas de copier-coller les outils d'un autre domaine mais s'en inspirer et adapter à votre contexte. 
 
-### L'organisation agile
+Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent. Vous devez trouver une technique pour l'organisation personnelle. Vous découvrirez un outil simple que vous pouvez utiliser pour vous focaliser. 
 
-Les méthodes Agiles sont un groupe de pratiques de pilotage et de réalisation de projets. 
+### L'organisation d'équipe : les méthode *Agile*
+
+Les méthodes *Agiles* sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
 Apparues tout d'abord dans le domaine du développement en informatique (la conception de logiciels), le champ d'application s'est élargi depuis. Ces méthodes, qui ne sont pas liées à une technologie particulière, sont désormais utilisées dans le développement ou le design de produits. 
 
@@ -31,45 +33,29 @@ Le manifeste énonce quatre principes fondamentaux:
 - **la collaboration avec le client**, plutôt que la négociation des contrats
 - **réagir au changement**, plutôt que de suivre un plan
 
-Ces points démontrent que les méthodes Agiles proposent avant tout un nouvel état d'esprit, une nouvelle philosophie du travail qui passe par une redéfinition des priorités.
+Ces points démontrent que les méthodes *Agiles* proposent avant tout un nouvel état d'esprit, une nouvelle philosophie du travail qui passe par une redéfinition des priorités.
 
-Le manifeste propose également une douzaine de principes qui mettent en évidence les valeurs de *collaboration* ("le meilleur moyen de communication est la discussion en face-à-face"), de *souplesse* ("les changements sont possibles et bienvenus, à tout moment"), l'auto-organisation des individus, tout en conservant un objectif d'efficacité pragmatique ("on fournit des délivrables fonctionnels à intervalles fréquents").
+Ces principes rendent les méthodes *Agiles* particulièrement adaptées pour la gestion de projets novateurs, portés par de petites équipes motivées et autonomes, cherchant à obtenir des résultats rapidement, tout en ayant une vision de continuité.
 
-Ces valeurs rendent les méthodes Agiles particulièrement adaptées pour la gestion de projets novateurs, portés par de petites équipes motivées et autonomes, cherchant à obtenir des résultats rapidement, tout en ayant une vision de continuité.
+Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la pratique l'une de ces méthodes *Agiles*. Vous ne trouverez pas une explication sur l'ensemble de la méthode, ce qui remplirait un autre livre, mais des éléments-clés, afin d'illustrer comment le travail au quotidien est modifié par l'*Agile*. Cela vous aidera à évaluer l'intérêt d'une telle méthode pour la réalisation de votre projet.
 
-Pour rendre cela plus concret, nous allons observer comment fonctionne dans la pratique l'une de ces méhhodes Agiles.
-
-##### Vous avez dit Scrum?
-
-Parmi les diverses méthodes Agiles, Scrum est celle qui a rencontré le plus de succès durant la dernière décennie. Etymologiquement Le terme de "Scrum" vient du rugby, et désigne la "mêlée", métaphore d'une équipe étroitement soudée, collaborant dans un même but. 
-
-Scrum se veut un "framework", un système formé de règles clairement définies, qui aident à structurer le travail d'une équipe. Il ne s'agit pas d'une recette clé-en-mains que vous pouvez appliquer du jour au lendmain: le cadre fourni par Scrum devra être adapté au contexte pratique propre à chaque entreprise.
-
-L'objectif de Scrum est d'aider les équipes à mieux maîtriser des projets complexes, dans le respect des valeurs Agiles. Il existe un *Guide officiel de Scrum*[^scrumguides], qui expose les "règles du jeu" en une quinzaine de pages. Ce condensé n'est toutefois pas facile à digérer et à mettre en pratique, ce qui explique l'existence d'un grand nombre de livres et de supports d'apprentissage.
-
-[^scrumguides]: Rédigé et maintenu par Ken Schwaber et Jeff Sutherland, qui ont défini cette méthode dès 1995. Disponible sur www.scrumguides.org dans de nombreuses langues.
-
-Nous n'allons pas expliquer ici l'ensemble de la méthode Scrum, ce qui remplirait un autre livre, mais présenter quelques éléments-clés, afin d'illustrer comment le travail au quotidien est modifié par l'Agile. Cela vous aidera à évaluer l'intérêt d'une telle méthode pour la réalisation de votre projet.
+### Spécificités
 
 ###### Le tableau de bord
 
-Un élément central de la méthode Scrum est un tableau de bord nommé "backlog". C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Les tâches qui constituent le projet en cours sont identifiées et segmentées en ce que l'on appelle des "Story Cards" ou "User Stories". 
+Un élément central c'est le tableau de bord. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
 
-Egalement très utilisées dans le domaine de la UX (User Experience), les "User Stories" sont des documents synthétiques (souvent un simple Post-it) qui décrivent une action que l'utilisateur souhaite effectuer. Le fait de les disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
+##### Le sprint
 
-##### Le principe du sprint
+Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure les *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
 
-Dans le domaine du développement logiciel, la pratique du "code sprint" a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figurent les Hackathons, ou encore les Startup Weekends.
+[^sprint]: Le *Design Sprint* est une méthode développée au sein de *Google Ventures*. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Chacune des cinq journées fait un focus sur un sujet : 1. comprendre les opportunités, 2. explorer de nouvelles idées, 3. identifier les idées qui sont applicables, 4. concevoir des prototypes, 5. tester les solutions avec de potentiels clients. Cest étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre.   
 
-Dans la terminologie Agile, et notamment dans Scrum, le terme de "sprint" a changé de sens. Le sprint est tout simplement l'unité de temps centrale de Scrum. Il constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
+Le sprint s'insère dans un cycle d'une durée plus longue, nommée *release*, qui englobe généralement quatre ou cinq *Sprints* (donc de 1 à 4 mois). La *release* permet une vision plus large, et vous aide à garder en vue les objectifs à long terme du projet.
 
-Pour chaque nouveau sprint, un certain nombre de "Story Cards" seront assignées, établissant les objectifs de manière claire. Cet aspect récurrent donne un rythme et une stabilité à l'équipe, et facilite également le travail d'estimation du temps, quand il s'agit de planifier les tâches futures. 
+###### La séance de quinze minutes 
 
-Le sprint s'insère dans un cycle d'une durée plus longue, nommée "release", qui englobe généralement quatre ou cinq Sprints (donc de 1 à 4 mois). La release permet une vision plus large, et vous aide à garder en vue les objectifs à long terme du projet.
-
-###### Le "Daily Scrum Meeting"
-
-Pendant un projet Scrum, l'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. C'est indispensable pour une bonne collaboration, et valorise la communication directe. La réunion se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
+L'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. C'est indispensable pour une bonne collaboration, et valorise la communication directe. La réunion se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
 
 1. Qu'avez-vous fait hier ?
 2. Que ferez-vous aujourd'hui ?
@@ -79,25 +65,25 @@ En se concentrant sur ces trois points, chacun peut se faire une bonne idée de 
 
 ###### La rétrospective
 
-La "rétrospective" est un événement-clé qui marque la fin d'une phase de travail. C'est une réunion qui se déroule à la fin d'un sprint, et permet l'amélioration des processus. L'analyse des dysfonctionnements permettra d'éviter ceux-ci pendant le prochain cycle.
+La "rétrospective" est un événement-clé qui marque la fin d'une phase de travail. C'est une réunion qui se déroule à la fin d'un *Sprint*, et permet l'amélioration des processus. L'analyse des dysfonctionnements permettra d'éviter ceux-ci pendant le prochain cycle.
 
 ###### Des équipes sans chef
 
-Le modèle d'organisation Scrum destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus Scrum définit deux rôles particuliers: le *Product Owner* (propriétaire du produit), qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Cette personne est responsable en définitive du choix des "Story-Cards" qui seront traitées durant un sprint. Enfin, le *Scrum Master* est responsable du déroulement du processus de travail Scrum, et veille à la bonne dynamique de l'équipe. 
+Ce modèle d'organisation destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus définit deux rôles particuliers: le *Product Owner* (propriétaire du produit), qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Enfin, le *Scrum Master* est responsable du déroulement du processus de travail, et veille à la bonne dynamique de l'équipe. 
 
 ###### Le travail en binôme
 
-Le travail en binôme est une technique typique des méthodes de travail Agiles. Elle consiste à faire travailler deux coéquipiers sur une même tâche, et même à se partager un ordinateur: l'un écrit (exécute), l'autre observe, pilote et commente. Les rôles sont fréquemment intervertis. L'intérêt de cette méthode est d'améliorer la qualité du travail fourni, tout en permettant la transmission de connaissances au sein de l'équipe. Lorsqu'on est confronté à un problème complexe, le fait de débattre de la meilleure façon de le résoudre va conduire à des choix plus pertinents. La communication et la transparence, valeurs essentielles du processus Agile, sont également favorisés par cette méthode. 
+Le travail en binôme est une technique typique des méthodes de travail *Agiles*. Elle consiste à faire travailler deux coéquipiers sur une même tâche, et même à se partager un ordinateur: l'un écrit (exécute), l'autre observe, pilote et commente. Les rôles sont fréquemment intervertis. L'intérêt de cette méthode est d'améliorer la qualité du travail fourni, tout en permettant la transmission de connaissances au sein de l'équipe. Lorsqu'on est confronté à un problème complexe, le fait de débattre de la meilleure façon de le résoudre va conduire à des choix plus pertinents. La communication et la transparence, valeurs essentielles du processus *Agile*, sont également favorisés par cette méthode. 
 
 ##### Dangers de la méthodologie Agile mal comprise
 
-Les métodes Agile et Scrum faisant l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les "stand-up meetings" à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
+La méthode *Agile* fait l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les "stand-up meetings" à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
 
-Les concepts essentiels de la méthode Agile sont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
+Les concepts essentiels de la méthode *Agile* toutesont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
 
 [^cargocult]: Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
-### La technique Pomodoro
+### L'organisation personnelle : La technique Pomodoro
 
 *Taktzeit* (Takt time) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
 

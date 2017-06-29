@@ -16,7 +16,7 @@ Dans ce contexte, le *coworking* est une nouvelle manière d'organiser le travai
 
 L’encyclopédie en ligne *Wikipédia* le définit d'ailleurs de cette façon: *« Cette nouvelle forme de travail remet en question fondamentalement les anciennes théories pyramidales du travail. Aujourd’hui, le travail se fait en réseau par une agrégation ponctuelle de compétences se formant et se reformant selon les projets, plus rapide et flexible que les structures très hiérarchisées des entreprises. »* 
 
-Né dans les années 2000 avec la révolution numérique, Cette phaçon d'organiser le travail est devenu un phénomène mondial. Selon *deskmag*, le magazine du *coworking*, il en existe à l'heure actuelle plus de 7000 espaces sur le globe.
+Né dans les années 2000 avec la révolution numérique, Cette façon d'organiser le travail est devenu un phénomène mondial. Selon *deskmag*, le magazine du *coworking*, il en existe à l'heure actuelle plus de 7000 espaces sur le globe.
 
 ##### Le défi  
 
@@ -53,30 +53,44 @@ Ayant pris cette initiative, nous commençons par nous attaquer à la promotion 
 
 ###### 2. Rencontre *brainstorming*
 
-En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles.
+En avril 2014, lors d'une fin de journée chaleureuse, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles. Les participants nous suggèrent des tarifs, préférences logistiques et l'un deux, Yann Heurtaux, nous suggère de lancer des *journées coworking* (merci Yann!).
 
 ###### 3. Prototypes rapides
 
-Durant l'été 2014, nous organisons des "journées *coworking*" dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes! Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie.
+Durant l'été 2014, nous organisons des *journées coworking* dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes ! Notre communication n'étant pas parfaite, nous arrivons difficilement attirer une foule de professionnels mais quelques personnes fortement intéressées. Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie. De plus, cette expérience nous en apprend davantage sur les besoins des personnes. 
 
 ###### 4. Prototype réel
 
-Ayant trouvé un espace partenaire, nous effectuons une semaine test (octobre 2014) afin de mesurer la viabilité sur le marché neuchâtelois. 
+Un matin, Giovanna Papa de l'association Infoclic.ch nous appelle. Giovanna suit de près notre initiative et souhaite que nous puissions collaborer ensemble. Après un café et une discussion à la rue des Sablons 2, à Neuchâtel (Suisse), nous décidons ensemble d'effectuer une semaine test (octobre 2014) dans leur locaux afin de mesurer la viabilité sur le marché neuchâtelois. 
 
-Le succès est mitigé – il y a un intérêt par les personnes ayant compris le concept du *coworking*. Pour les autres, il y a une sensibilisation à faire car ils ne comprennent pas clairement ce qui se cache derrière ce terme anglophone qu'est *coworking*.
+Le succès est mitigé – il y a un intérêt par les personnes ayant compris le concept du *coworking*. Nous apprenons par cette expérience qu'il y a une sensibilisation à faire car les potentiels *coworkers* ne comprennent pas clairement ce qui se cache derrière ce terme anglophone qu'est *coworking*.
 
 
 ###### 5. Lancement
 
 Suite à cette semaine de test, nous ouvrons l'espace dès le mois de novembre afin de tester sa viabilité à moyen terme. 
 
-*Coworking Neuchâtel* fonctionne par abonnement. En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. Nous accueillons également des télétravailleurs, des étudiants et d'autres professionnels. 
+Nous définissons plus clairement le modèle d'affaire soit : les clients, les avantages et bénéfices, les prestations, les tarifs, etc. Nous décidons de rendre cette prestation accessible au plus grand nombre de professionels possible, notre but : créer une communauté d'entrepreneurs et professionnels. 
+
+Petite digresssion, une année après le lancement, nous sommes contacté par un entrepreneur qui souhaite créer un espace similaire dans la ville de La Chaux-de-Fonds. En quelques semaines, nous lançons l'espace de Coworking La Chaux-de-Fonds. 
+
+###### 6. Résultats
+
+Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre ou nous féliciter de créer un lieu convivial et productif. 
+
+En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. Nous accueillons également des télétravailleurs, des *freelancers* nomades, des étudiants et des entrepreneurs qui souhaitent domicilier leur société à Neuchâtel. 
+
+Ces professionnels viennent faire une séance, siroter un café et consulter leur emails entre deux rendez-vous ou avant de prendre le train, participer à des évènements ou encore simplement travailler. 	
+
+Mais pourquoi viennent-ils au *coworking* ? Les personnes viennent au *coworking* car cela fait baisser les coûts des loyers, augmente la flexibilité pour les personnes, augmente la motivation au travail et permet de détecter de nouvelles idées. 
 
 
 
 ### Réflexions
 
-Ce défi a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au-delà (exemple : *Coworking Switzerland* et *Coworking Europe*). Avec ce projet, nous avons appris trois fondamentaux pour tout projet : 
+Cela parait peut-être idyllique mais nous vivons aussi des difficultés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaiselle sale !) ou l'animation de l'espace sont des défis que nous avons pas toujours réussi à résoudre.
+
+Toutefois, cette expérience a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au-delà (exemple : *Coworking Switzerland* et *Coworking Europe*). Avec ce projet, nous avons appris trois fondamentaux pour tout projet : 
 
 - Rien n'a davantage de valeur que de se confronter directement à une problématique. En se mettant dans les chaussures de l'autre – ou dans notre cas être l'utilisateur direct – permet de comprendre mieux une situation et créer des solutions qui font sens. 
 
@@ -84,10 +98,7 @@ Ce défi a permis de créer une nouvelle façon de travailler encore plus ouvert
 
 - Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, de clarifier et de rendre plus pertinente la solution.
 
-Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous nous a donné envie de lancer un nouveau défi, en créant *la manufacture d'idées*. 
-
-
-Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et des PME (petites et moyennes entreprises) dans un environnement stimulant, neutre et collaboratif pour les soutenir dans la résolution des défis de façon créative et développer de nouvelles innovations. 
+Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous a donné envie de lancer un nouveau défi, le projet de *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et des PME (petites et moyennes entreprises) dans un environnement stimulant et encourageant pour les soutenir dans la résolution des défis de façon collaborative et développer de nouvelles innovations. 
 
 
 

@@ -34,11 +34,12 @@ Alors que le c'est devenu un phénomène mondial, et essaime dans l'Arc lémaniq
 
 Très rapidement, des questions émergent : 
 
-- Comment s'y prendre ? 
-- Quel modèle d'affaire ?
-- Où se trouvera l'espace ? 
-- Comment fonctionnera cet espace ? 
-- Comment rendre le fonctionnement autonome, avec un minimum d'intervention ? 
+- A quoi ressemblera cet espace ? 
+- Qui est le public ? 
+- Quel modèle d'affaire ? 
+- Où se trouvera l'espace ? Quelle place est idéale ? 
+- Comment s'y prendre pour le lancement ? Comment fonctionnera cet espace ? Comment rendre autonome, avec un minimum d'intervention ? 
+- Combien coûtera l'espace ? Combien les personnes vont payer ? 
 - etc.
 
 
@@ -57,7 +58,7 @@ En avril 2014, lors d'une fin de journée chaleureuse, nous organisons une soir�
 
 ###### 3. Prototypes rapides
 
-Durant l'été 2014, nous organisons des *journées coworking* dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes ! Notre communication n'étant pas parfaite, nous arrivons difficilement attirer une foule de professionnels mais quelques personnes fortement intéressées. Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie. De plus, cette expérience nous en apprend davantage sur les besoins des personnes. 
+Avec cette suggestion, durant l'été 2014, nous organisons des *journées coworking* dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes ! Notre communication n'étant pas parfaite, nous arrivons difficilement attirer une foule de professionnels mais quelques personnes fortement intéressées. Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie. De plus, cette expérience nous en apprend davantage sur les besoins des personnes. 
 
 ###### 4. Prototype réel
 
@@ -76,13 +77,13 @@ Petite digresssion, une année après le lancement, nous sommes contacté par un
 
 ###### 6. Résultats
 
-Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre ou nous féliciter de créer un lieu convivial et productif. 
+Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre, nous piquer une chaise ou nous féliciter de créer un lieu ouvert, convivial et productif. 
 
 En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. Nous accueillons également des télétravailleurs, des *freelancers* nomades, des étudiants et des entrepreneurs qui souhaitent domicilier leur société à Neuchâtel. 
 
 Ces professionnels viennent faire une séance, siroter un café et consulter leur emails entre deux rendez-vous ou avant de prendre le train, participer à des évènements ou encore simplement travailler. 	
 
-Mais pourquoi viennent-ils au *coworking* ? Les personnes viennent au *coworking* car cela fait baisser les coûts des loyers, augmente la flexibilité pour les personnes, augmente la motivation au travail et permet de détecter de nouvelles idées. 
+Mais pourquoi viennent-ils au *coworking* ? Il existe trois niveaux de la pyramide de motivation du *coworker*. *Primo*, les personnes viennent au *coworking* car cela fait baisser les coûts des loyers et augmente la flexibilité au travail. *Secondo*, les personnes viennent car cet environnement augmente la motivation au travail et permet de rencontrer d'autres professionnels. *Terzo*, les personnes viennent pour détecter de nouvelles idées, apprendre de nouvelles choses ou trouver une personne pour développer un projet. 
 
 
 
@@ -99,9 +100,6 @@ Toutefois, cette expérience a permis de créer une nouvelle façon de travaille
 - Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, de clarifier et de rendre plus pertinente la solution.
 
 Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous a donné envie de lancer un nouveau défi, le projet de *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et des PME (petites et moyennes entreprises) dans un environnement stimulant et encourageant pour les soutenir dans la résolution des défis de façon collaborative et développer de nouvelles innovations. 
-
-
-
 
 
  

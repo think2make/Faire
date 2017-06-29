@@ -139,6 +139,17 @@ A la fin de la journée, prévoyez 30 minutes pour faire un résumé la journée
 
 - 10 petites actions (moins de 25 minutes)
 
+##### Quatre façons d'agir 
+
+Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concrétiser de nouvelles idées, vous pensez peut-être  qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide. Or ce qui est primordial c'est comprendre qu'il existe 4 façons de réaliser une action : 
+ 
+-  Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. 
+
+-  Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. 
+
+- Faire faire = Déléguer l’action : la majorité des tâches peuvent être faite tout aussi bien par une autre personne, déléguez-les. 
+
+-  Faire = Réaliser l’action : il ne vous reste qu'une petite liste d'actions importantes à concrétiser que seul vous pouvez réaliser. Faites-les.
 
 
 

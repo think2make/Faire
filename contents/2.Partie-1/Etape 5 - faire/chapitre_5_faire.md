@@ -2,41 +2,15 @@
 
 > "Il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
-Dans un monde où tout devient très accessible, très rapidement et pour tous, nous avons tendance à chercher la gratification instantanée – on veut du résultat immédiat, du succès rapide. Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
+Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
 
-
-
-
-##### Quatre façons d'agir 
-
-Quand il s'agit de concrétiser de nouvelles idées, nous pensons immédiatement qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide. Or ce qui est primordial c'est comprendre qu'il existe 4 façons de réaliser une action. Illustrer ces propos avec l'exemple de cet ouvrage  : 
- 
--  Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Par exemple, nous avons éliminé dans ce livre un chapitre entier pour focaliser sur l'essentiel et éviter de faire perdre du temps aux lecteurs. 
-
--  Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Dans ce livre, nous avons laissé certains thèmes sans suite et en constatant que cela n'était pas essentiel, nous les avons finalement éliminés. 
-
-- Faire faire = Déléguer l’action : la majorité des tâches peuvent être faite tout aussi bien par une autre personne, déléguez-les. Par exemple ce livre comporte une équipe de correcteurs.
-
--  Faire = Réaliser l’action : il ne vous reste qu'une petite liste d'actions importantes à concrétiser que seul vous pouvez réaliser. Faites-les.
-
-
-### Les systèmes 
-
-Les entreprises mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.  
+Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.  
 
 Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.  
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
-Il y a deux contraintes à considérer dans la concrétisation d'une idée : 
-
-- la rigidité d'un système quand il s'agit d'explorer le nouveau
-- le manque de tempo et focus sur les actions à réaliser 
-
-Pour contrer ces contraintes, nous vous proposons d'approfondir deux pistes de solution dans ce chapitre : 
-
-- l'organisation Agile
-- la technique Pomodoro
+Dans la concrétisation d'une innovation, la contrainte majeur est souvent lié à la rigidité d'un système quand il s'agit d'explorer le nouveau. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une façon d'organiser le système de votre entreprise avec la méthode Agile, de façon à favoriser les innovations.
 
 ### L'organisation agile
 
@@ -44,7 +18,7 @@ Les méthodes Agiles sont un groupe de pratiques de pilotage et de réalisation 
 
 Apparues tout d'abord dans le domaine du développement en informatique (la conception de logiciels), le champ d'application s'est élargi depuis. Ces méthodes, qui ne sont pas liées à une technologie particulière, sont désormais utilisées dans le développement ou le design de produits. 
 
-Un texte fondateur est le *Manifeste Agile*[^agilemanifesto], rédigé en 2001, lors d'une retraite dans une station de ski en Utah, par des développeurs pratiquant diverses méthodes de gestion de projet comme *Extreme Programming* ou *Scrum*. 
+Un texte fondateur est le *Manifeste Agile*[^agilemanifesto], rédigé en 2001, par des développeurs pratiquant diverses méthodes de gestion de projet comme *Extreme Programming* ou *Scrum*. 
 
 [^agilemanifesto] : Disponible sur www.agilemanifesto.org
 
@@ -63,7 +37,7 @@ Le manifeste propose également une douzaine de principes qui mettent en éviden
 
 Ces valeurs rendent les méthodes Agiles particulièrement adaptées pour la gestion de projets novateurs, portés par de petites équipes motivées et autonomes, cherchant à obtenir des résultats rapidement, tout en ayant une vision de continuité.
 
-Pour rendre cela plus concret, nous allons observer comment fonctionne dans la pratique l'une de ces méhtodes Agiles.
+Pour rendre cela plus concret, nous allons observer comment fonctionne dans la pratique l'une de ces méhhodes Agiles.
 
 ##### Vous avez dit Scrum?
 
@@ -122,34 +96,6 @@ Les métodes Agile et Scrum faisant l'objet d'un certain phénomène de mode, il
 Les concepts essentiels de la méthode Agile sont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
 
 [^cargocult]: Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
-
-
-
-##### Le book sprint
-
-La pratique du Sprint a essaimé dans d'autres domaines de création. Un exemple intéressant est le "Book Sprint", qui consiste à rassembler des spécialistes et à procéder à l'écriture d'un livre en cinq jours[^flossmanuals]. À titre d'exemple, le livre "Understanding Oil Contracts" a été rédigé de cette manière, afin de fournir une documentation permettant aux pays en développement de mieux négocier les contrats d'exploitation avec les industries pétrolières.
-
-[^flossmanuals]: Pour des exemples d'applications concrètes, voir le travail de l'organisation Floss Manuals, qui a produit de cette manière des guides sur de nombreux sujets technologiques: flossmanualsfr.net.
-
-La méthode de travail du sprint peut s'avérer utile pour concevoir rapidement un premier prototype fonctionnel, une version béta. Cela permet de confronter son idée à l'utilisation dans le monde réel.
-
-
-
-##### Design Sprint
-
-Le "Design Sprint" est une méthode développée au sein de Google Ventures. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours.
-
-Cette technique s'approche des techniques de créativité rassemblées sous le concept de "Design Thinking", inspirées par le travail de l'agence IDEO et de l'Université de Standford (d.school). Son approche se centre forcément sur la conception d'applications mobiles, et la discipline de la recherche UX (expérience utilisateur) y joue un rôle important.
-
-Chacune des cinq journées fait un focus sur un sujet:
-
-1. **Comprendre:** comprendre les opportunités, le public, les compétiteurs, la proposition-valeur...
-2. **Diverger:** explorer, découvrir et expérimenter des manières créatives de résoudre le problème, sans se préoccuper de la faisabilité.
-3. **Converger:** identifier les idées qui sont applicables durant le prochain cycle du produit, et les détailler sous forme de Storyboard.
-4. **Prototyper:** concevoir des prototypes qui pourront être testées par des personnes.
-5. **Tester:** conduire des tests utilisateur avec une poignée de personnes constituant le public cible.
-
-Ces étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre.
 
 ### La technique Pomodoro
 

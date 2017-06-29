@@ -82,12 +82,15 @@ En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un 
 
 Ces professionnels viennent faire une séance, siroter un café et consulter leur emails entre deux rendez-vous ou avant de prendre le train, participer à des évènements ou encore simplement travailler. 	
 
-Cela parait peut-être idyllique mais nous vivons aussi des difficultés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaiselle sale !) ou l'animation de l'espace sont des problèmes que nous avons pas toujours réussi à résoudre.
+Mais pourquoi viennent-ils au *coworking* ? Les personnes viennent au *coworking* car cela fait baisser les coûts des loyers, augmente la flexibilité pour les personnes, augmente la motivation au travail et permet de détecter de nouvelles idées. 
+
 
 
 ### Réflexions
 
-Ce défi a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au-delà (exemple : *Coworking Switzerland* et *Coworking Europe*). Avec ce projet, nous avons appris trois fondamentaux pour tout projet : 
+Cela parait peut-être idyllique mais nous vivons aussi des difficultés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaiselle sale !) ou l'animation de l'espace sont des défis que nous avons pas toujours réussi à résoudre.
+
+Toutefois, cette expérience a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au-delà (exemple : *Coworking Switzerland* et *Coworking Europe*). Avec ce projet, nous avons appris trois fondamentaux pour tout projet : 
 
 - Rien n'a davantage de valeur que de se confronter directement à une problématique. En se mettant dans les chaussures de l'autre – ou dans notre cas être l'utilisateur direct – permet de comprendre mieux une situation et créer des solutions qui font sens. 
 

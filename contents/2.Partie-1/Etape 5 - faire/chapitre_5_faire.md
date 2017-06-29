@@ -4,9 +4,9 @@
 
 Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
 
-Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.  
+Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.
 
-Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.  
+Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
@@ -43,13 +43,13 @@ Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la 
 
 ###### Le tableau de bord
 
-Un élément central c'est le tableau de bord. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
+Un élément central est le tableau de bord. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
 
 ##### Le sprint
 
-Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure les *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
+Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure le *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
 
-[^sprint]: Le *Design Sprint* est une méthode développée au sein de *Google Ventures*. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Chacune des cinq journées fait un focus sur un sujet : 1. comprendre les opportunités, 2. explorer de nouvelles idées, 3. identifier les idées qui sont applicables, 4. concevoir des prototypes, 5. tester les solutions avec de potentiels clients. Cest étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre.   
+[^sprint]: Le *Design Sprint* est une méthode développée au sein de *Google Ventures*. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Chacune des cinq journées fait un focus sur un sujet : 1. comprendre les opportunités, 2. explorer de nouvelles idées, 3. identifier les idées qui sont applicables, 4. concevoir des prototypes, 5. tester les solutions avec de potentiels clients. Cest étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre. 
 
 Le sprint s'insère dans un cycle d'une durée plus longue, nommée *release*, qui englobe généralement quatre ou cinq *Sprints* (donc de 1 à 4 mois). La *release* permet une vision plus large, et vous aide à garder en vue les objectifs à long terme du projet.
 

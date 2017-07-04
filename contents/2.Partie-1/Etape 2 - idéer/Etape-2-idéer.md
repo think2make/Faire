@@ -194,9 +194,7 @@ D’autres séquences ? Un ordre différent ?
 Inverser le positif et le négatif ou tromper les attentes...  
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
-Exemple : la vente du produits Postits de la société 3M était prévu par des brochures et publicités - sans succès. Le manager des ventes Joe Ramey avait observé que des que les personnes commencaient à utiliser les postits, ils n'arretaient pas d'utiliser. Il convainca l'entreprise 3M de renverser son approche de vente et d'offrir des échantillons à un maximum de personnes, ainsi Postits connu le succès que nous connaissons. (p.94 Thinkertoys).
-
-Un restaurateur à Auvernier, en Suisse, cherchait un nom pour son futur établissement, un kebab de village. En constatant que le seul risque dans son projet fut l'image que les personnes du village n'apprécient pas cette nourriture éthnique d'Anatolie. Il décida du nom de *La Kebaberie*. Le nom se termine avec -erie (tel que : boulangerie, tapisserie, épicerie, boucherie, etc.) apporte une proximité villageoise et un succès à long terme.
+Exemple : Un restaurateur à Auvernier, en Suisse, cherchait un nom pour son futur établissement, un kebab de village. En constatant que le seul risque dans son projet fut l'image que les personnes du village n'apprécient pas cette nourriture éthnique d'Anatolie. Il décida du nom de *La Kebaberie*. Le nom se termine avec -erie (tel que : boulangerie, tapisserie, épicerie, boucherie, etc.) apporte une proximité villageoise et un succès à long terme.
 
 
 ....................................................................................

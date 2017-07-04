@@ -18,7 +18,7 @@ L’encyclopédie en ligne *Wikipédia* le définit d'ailleurs de cette façon: 
 
 Né dans les années 2000 avec la révolution numérique, Cette façon d'organiser le travail est devenu un phénomène mondial. Selon *Deskmag*, le magazine du *coworking*, il en existe à l'heure actuelle plus de 7000 espaces sur le globe. 
 
-##### Le défi  
+#### Le défi  
 
 Lors d'une rencontre fortuite dans un café neuchâtelois, au printemps 2014, deux entrepreneurs (les auteurs du livre que vous tenez entre les mains) font le constat d'un réel manque à Neuchâtel, notamment :
 

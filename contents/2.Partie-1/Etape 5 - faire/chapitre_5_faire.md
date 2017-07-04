@@ -6,7 +6,18 @@ Concrétiser des idées c'est un peu comme semer une graine, il faut du temps po
 
 Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.
 
-Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.
+Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. 
+
+...
+
+Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.
+
+OU
+
+UN EXEMPLE : Qui peut faire de meilleurs burgers que McDonald ? Tout le monde. Alors, pour quoi McDonald's gagne plus d'argent que ceux qui savent faire ces meilleurs burgers ? Parce i.e. mcdo a un système (processus) beaucoup plus efficient pour vendre à un plus grand nombre de bons burgers. Les systems sont importants si vous voulez fructifier votre innovations.
+
+...
+
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 

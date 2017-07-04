@@ -102,7 +102,7 @@ a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mot
 Mettre un élément à la place d’un autre...  
 Qu’est-ce qui peut être remplacé ? Qui d’autre ? Quoi d’autre ?
 
-Exemple : Après la deuxième guerre mondiale, l'entreprise Piaggio doit se réinventer en sortant de son activité de fabrication d'avion. L'ingénieur aéronautique Corradino d'Ascanio créer un deux-roues pour substituer l'activité de fabrication d'avion. La vespa est crée.
+Exemple : Après la deuxième guerre mondiale, l'entreprise Piaggio devait se réinventer en sortant de son activité de fabrication d'avion. L'ingénieur aéronautique Corradino d'Ascanio créer un deux-roues pour substituer l'activité de fabrication d'avion. La vespa est crée avec un design venant de l'aviation, ceciapporta le succès connu pour un des objets de design le plus connu au monde.
 
 ....................................................................................
 
@@ -194,9 +194,9 @@ D’autres séquences ? Un ordre différent ?
 Inverser le positif et le négatif ou tromper les attentes...  
 Puis-je retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
-Exemple : la vente du produits Postits de la société 3M était prévu par des brochures et publicités - sans succès. Le manager des ventes Joe Ramey avait observé que des que les personnes commencaient à utiliser les postits, ils n'arretaient pas d'utiliser. Il convainca l'entreprise 3M de renverser son approche de vente et d'offrir des échantillons à un maximum de personnes, ainsi Postits connu le succès que nous connaissons. (p.94 Thinkertoys)
+Exemple : la vente du produits Postits de la société 3M était prévu par des brochures et publicités - sans succès. Le manager des ventes Joe Ramey avait observé que des que les personnes commencaient à utiliser les postits, ils n'arretaient pas d'utiliser. Il convainca l'entreprise 3M de renverser son approche de vente et d'offrir des échantillons à un maximum de personnes, ainsi Postits connu le succès que nous connaissons. (p.94 Thinkertoys).
 
-
+Un restaurateur à Auvernier, en Suisse, cherchait un nom pour son futur établissement, un kebab de village. En constatant que le seul risque dans son projet fut l'image que les personnes du village n'apprécient pas cette nourriture éthnique d'Anatolie. Il décida du nom de *La Kebaberie*. Le nom se termine avec -erie (tel que : boulangerie, tapisserie, épicerie, boucherie, etc.) apporte une proximité villageoise et un succès à long terme.
 
 
 ....................................................................................

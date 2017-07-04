@@ -5,8 +5,8 @@
 % Start FAIRE Template Customization
 
 \usepackage[
-  paperheight=6.875in,
-  paperwidth=4.25in, 
+  paperheight = 20.5cm,
+  paperwidth = 17cm, 
   top = 1.8cm, 
   bottom = 1.4cm, 
   left = 2cm, 

@@ -58,6 +58,10 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 [^qqoqcp]: QQOQCCP est une méthode empirique de questionnement.
 
 
+"résolvez-vous les bons problèmes ?"
+...
+
+
 \newpage
 
 ### Apprendre à se poser les bonnes questions

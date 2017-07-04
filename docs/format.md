@@ -21,3 +21,7 @@ If you want your images to bleed to the edges of your book, ensure that they ext
 Fond perdu: 
 .125" = 3.175 mm
 
+Donc, conclusion, le réglage du fond perdu doit être:
+.125" = 3.175 mm 
+
+Le Petit Fond (correspondant aux marges intérieures dans InDesign) doit être mis à zero!

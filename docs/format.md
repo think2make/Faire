@@ -2,8 +2,9 @@
 
 Nouvelle proposition de format (par Olivia Dall'Omo):
 
-Largeur: 170 mm (6.69 inch)
 Hauteur: 205 mm (8.07 inch)
+Largeur: 170 mm (6.69 inch)
+
 
 ## Alertes Amazon Createspace:
 

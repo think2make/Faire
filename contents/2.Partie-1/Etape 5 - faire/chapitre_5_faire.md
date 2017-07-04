@@ -97,7 +97,7 @@ Le matériel requis pour créer son rythme avec cette méthode se résume à:
 - Une feuille A4
 - Une minuterie de cuisine
 
-![Une minuterie Pomodoro. Source: Wikipedia, par Erato](../contents/img/pomodoro.jpg)
+![](../contents/img/pomodoro-ligne-claire.png)
 
 Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*, d'une durée de 25 minutes.
 

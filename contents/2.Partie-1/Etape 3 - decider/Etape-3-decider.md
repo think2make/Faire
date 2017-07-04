@@ -112,9 +112,9 @@ Etant donné que les idées sont très émotionnelles, la plupart du temps, chac
 
 - **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
 - **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
-- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée est-elle sexy ?)
+- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (est-elle sexy ?)
 
-[^critères]: Ces critères nous ont été inspirés par Vitruve (Marcus Vitruius, Ier siècle avant J.-C.). Vous pouvez en savoir plus sur son livre *De Architectura* (premier livre d'architecture de l'histoire).
+[^critères]: Ces critères nous ont été inspirés par Vitruve (Marcus Vitruius, Ier siècle avant J.-C.) sur la base de trois critères : *utilitas*, *firmitas*, *venustas*, Vous pouvez en savoir plus sur son livre *De Architectura* (premier livre d'architecture de l'histoire).
 
 La meilleure façon de définir si votre idée est solide, est d'impliquer les personnes qui vont être confrontées à cette idée (c.f. chapitre 1 : utilisateurs, clients, fournisseurs, etc.). Pour ce faire, vous pouvez utiliser par exemple des gomettes ou un tableur en ligne. Cette évaluation donne le résultat statistique suivant :
 

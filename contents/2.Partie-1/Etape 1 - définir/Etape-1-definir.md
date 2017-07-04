@@ -49,7 +49,7 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 - Pourquoi = Management
 
 
-![](../contents/img/cause-effet.jpg)
+![](../contents/img/diagramme-cause-effet.png)
 
 [^smart]: L'acronyme SMART a été introduit la première fois en 1981 par le consultant George T. Doran. Il a défini que la plupart des objectifs doivent être "Spécifique, Mesurable, Atteignable, Réaliste et Temporel". 
 

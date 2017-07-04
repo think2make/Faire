@@ -58,9 +58,16 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 [^qqoqcp]: QQOQCCP est une méthode empirique de questionnement.
 
 
-"résolvez-vous les bons problèmes ?"
-...
+**Résolvez-vous les bons problèmes ?**
 
+Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais définir ce qu'est le problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème. La majorité des personnes ont tendances à identifier rapidement des solutions. 
+
+Prenez un exemple, vous collègues se pleingent de la lenteur de l'ascenseur de votre entreprise. Si vous demandez aux personnes, elles proposeront de remplacer l'ascenseur ou d'installer un monteur plus rapide ou changer l'algorithme dans le programme de l'ascenseur. Or si vous decidez de recadrer le problème, dans le cadre de l'ascenseur, c'est le fait que les personnes s'ennuient à cause de cette lenteur. Donc, une solution plus créative que de changer d'ascenseur est de mettre des mirroirs à l'intérieur ou encore, mettre de la musique. 
+Les personnes partagent l'hypothèse que l'ascenseur est lent. 
+
+Dans cet exemple, notez que le cadrage du problème n'est pas essentiellement faux. Le but du cadrage n'est pas de trouver le problème réel mais plutôt de voir s'il y a un meilleur problème à résoudre. Dans ce processus, le questionnement peut grandement aider. 
+
+[^HBR]: Magazine Harvard Business review, Jan-fév. 2017
 
 \newpage
 

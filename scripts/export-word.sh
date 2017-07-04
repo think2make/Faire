@@ -18,7 +18,7 @@ TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
 
-OUTPUT="../output/Faire-"$TIMESTAMP".pdf"
+OUTPUT="../output/Faire-"$TIMESTAMP".docx"
 
 
 
@@ -65,7 +65,9 @@ END {
 ## italicfont: "HKSerif-Italic"
 ## sansfont: "HK Grotesk Pro"
 
-pandoc -f markdown --template=../templates/custom $TEMP \
+## pandoc -s -S MANUAL.txt -o example29.docx
+
+pandoc -f markdown $TEMP \
 	--latex-engine=xelatex \
   --variable lang=french \
   --variable mainfont="LinguisticsPro-Regular" \

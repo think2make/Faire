@@ -58,7 +58,7 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 [^qqoqcp]: QQOQCCP est une méthode empirique de questionnement.
 
 
-**Résolvez-vous les bons problèmes ?**
+#### Résolvez-vous les bons problèmes ?
 
 Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais définir ce qu'est le problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème. La majorité des personnes ont tendances à identifier rapidement des solutions. 
 
@@ -101,7 +101,7 @@ Un exemple pour illustrer le degré de complexité d'une question :
  
 \newpage
 
-### S'informer
+#### S'informer
 
 Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il peine parfois à assimiler. Cependant, pour poser les bases d'un projet, il est obligatoire d'aller à la pêche aux informations. Pour ce faire, il faut prendre l'habitude de les catégoriser. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
 
@@ -239,7 +239,7 @@ Exemple : *La carte de route est acceptée et validée unanimement par le consei
 ....................................................................................
 
 
-##### Résultat, métrique, valeur
+#### Résultat, métrique, valeur
  
 Il est facile de définir des critères comme le chiffre d'affaires, le bénéfice ou la satisfaction des clients. Il faut surtout viser des **résultats** autres que purement financiers. Ces derniers apporteront de la **valeur** à votre projet et peuvent être mesurés **(métrique)** avec des outils simples. Le succès financier du projet découlera naturellement de ces trois paramètres (résultat, métrique, valeur).
 

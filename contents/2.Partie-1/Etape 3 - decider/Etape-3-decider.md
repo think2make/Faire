@@ -29,11 +29,12 @@ Il est tentant d'éviter la prise de risque et de se tourner vers une idée *mai
 Lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et de perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et fonctionnera comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure de l'avancement de votre projet, votre objectif initial nécessite une correction. Générer des idées est un acte rempli d'aléas. Il ne s'agit pas d'une route droite toute tracée, et c'est bien là que réside le plaisir.
 
 ### Dessiner pour décider
+
 Face à des problèmes d'envergure où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyances, il est essentiel d'avoir un langage universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux personnes avec qui vous collaborez.  
 
 Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exemple de visuels, de prototypes, ou d'histoires racontant une expérience. Nous recherchons ici l'effet "saute aux yeux". Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel véritable d’une idée est de la matérialiser. Pour donner forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et compréhensible :
 
-![](../contents/img/Niveau_visualiser_idees.png)
+![](../contents/img/Niveaux_visualiser.png)
 
 
 Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Toutefois, pour que les solutions puissent être évaluables, vous devez garder le même référentiel (la même façon d'illustrer votre solution). Ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
@@ -45,27 +46,15 @@ Dans le premier chapitre, nous avons abordé les six questions fondamentales, ap
 
 1. **Qui/Quoi :** Si vous souhaitez illustrer un nom, dessinez **un portrait ** pour montrer le sujet ou l'objet.
 
-![](../contents/img/1.Quoi.png)
-
 2. **Combien :** Si vous souhaitez illustrer un nombre, dessinez **un diagramme** pour montrer le nombre d'éléments.
-
-![](../contents/img/2.Combien.png)
 
 3. **Où :** Si vous souhaitez illustrer une énumération d’objets, dessinez **une carte** pour établir une relation entres les éléments.
 
-![](../contents/img/3.Ou.png)
-
 4. **Quand :** Si vous souhaitez illustrer une histoire, dessinez **une chronologie** pour exposer les événements dans l'ordre.
-
-![](../contents/img/4.Quand.png)
 
 5. **Comment :** Si vous souhaitez illustrer un enchaînement d'événements, dessinez un **logigramme** pour montrer comment une chose a provoqué une chose, puis une autre chose.
 
-![](../contents/img/5.Comment.png)
-
 6. **Pourquoi :** Si vous souhaitez illustrer une multitude de faits, dessinez **un graphique** à plusieurs variables pour décrire l'interaction à partir d'un seul schéma.
-
-![](../contents/img/6.Pourquoi.png)
 
 ##### Un exemple
 
@@ -136,7 +125,7 @@ Trop souvent en entreprise, de nombreuses séances sont organisées pour génér
 
 Vous avez généré des idées, vous avez créé et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 critères inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré. En réalisant l'évaluation de ces 10 critères avec vos collègues et collaborateurs, vous saurez plus clairement où se situe les divergences de point de vue et si l'estimation est fausse ou incohérente. 
 
-#####Consignes 
+##### Consignes 
  
 Pour chaque question, donnez spontanément des points de 0 à 10 (méthode de pifomètre).  
 Additionnez les points. Analysez et décidez si cela nécessite d'éliminer votre idée, de l'améliorer ou foncer pour la concrétiser. 

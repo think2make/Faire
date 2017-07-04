@@ -39,7 +39,7 @@ Ensuite, un peu comme au théâtre, traduisez votre scénario en 3 actes :
 2. le milieu : les moyens, le chemin.
 3. la fin 
 
-![](../contents/img/Long-terme-plan.png)
+![](../contents/img/Debut-milieu-fin.png)
 
 
 Commencez par compléter la fin. Ce sont les buts à atteindre, les délivrables, le résultat idéal. Comme disent les anglo-saxons: *less is more*. Faites en sorte que vos buts soient utiles, nécessaires et suffisants. 
@@ -91,8 +91,6 @@ d) Laissez des plages de temps pour des imprévus
 
 e) Faites les choses prévues au moment prévu. 
 
-![](../contents/img/agenda-semaine.png)
-
 
 
 **Un conseil**
@@ -105,16 +103,16 @@ Structurez vos journées en thématiques, afin d'éviter de sauter d'une tâche 
 - jeudi : délivrer (ex : action terrain chez le client, etc.)
 - vendredi : finances (ex : comptabilité, facturation, etc.)
 
-![](../contents/img/Agenda_semaine_activites.png)
+![](../contents/img/agenda-semaine-1.png)
 
+![](../contents/img/agenda-semaine-2.png)
 
 
 ##### Planifiez le jour 
 
 Il y a bien longtemps, un certain Frederick Winslow Taylor inventa l'organisation scientifique du travail – le taylorisme. Avec différentes méthodes de chronométrage, le but était de définir clairement le temps que l'opérateur passe à chaque tâche. Cette approche surrannée n'est pas utile dans sa forme initiale et rigide. Et nous ne souhaitons pas vous faire revivre les *Temps Modernes*. Mais en définissant vos zones de productivité personnelles et en planifiant une architecture d'une journée type, vous pourrez intégrer des tâches en lien avec vous-même et que vous pouvez achever avec encore plus d'efficacité. Voici un exemple d'une journée : 
 
-![](../contents/img/zone_productive.png)
-
+<!-- ![](../contents/img/zone_productive.png) -->
 
 La zone de productivité varie selon les personnes, l'environement et le contenu du travail à réaliser. Concernant le contenu du travail, avez-vous déjà remarqué que certains moments paraissent éternels comme par exemple, chez le dentiste, ou très court, comme par exemple, un moment de convivialité entre amis. Selon le type d'action, le vécu va varier.
 

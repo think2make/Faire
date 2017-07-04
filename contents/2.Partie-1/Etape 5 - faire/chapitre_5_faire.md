@@ -52,11 +52,11 @@ Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la 
 
 ### Spécificités
 
-###### Le tableau de bord
+#### Le tableau de bord
 
 Un élément central est le tableau de bord. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
 
-##### Le sprint
+#### Le sprint
 
 Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure le *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
 
@@ -64,7 +64,7 @@ Dans le domaine du développement logiciel, la pratique du *code sprint* a émer
 
 Le sprint s'insère dans un cycle d'une durée plus longue, nommée *release*, qui englobe généralement quatre ou cinq *Sprints* (donc de 1 à 4 mois). La *release* permet une vision plus large, et vous aide à garder en vue les objectifs à long terme du projet.
 
-###### La séance de quinze minutes 
+##### La séance de quinze minutes 
 
 L'équipe se réunit chaque matin pendant un temps strictement limité à 15 minutes, pour faire le point sur les tâches en cours. C'est indispensable pour une bonne collaboration, et valorise la communication directe. La réunion se fait généralement debout, ce qui incite à ne pas perdre de temps. Les participants au meeting répondent aux trois questions suivantes:
 
@@ -74,15 +74,15 @@ L'équipe se réunit chaque matin pendant un temps strictement limité à 15 min
 
 En se concentrant sur ces trois points, chacun peut se faire une bonne idée de l'avancement global du projet. 
 
-###### La rétrospective
+##### La rétrospective
 
 La "rétrospective" est un événement-clé qui marque la fin d'une phase de travail. C'est une réunion qui se déroule à la fin d'un *Sprint*, et permet l'amélioration des processus. L'analyse des dysfonctionnements permettra d'éviter ceux-ci pendant le prochain cycle.
 
-###### Des équipes sans chef
+##### Des équipes sans chef
 
 Ce modèle d'organisation destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus définit deux rôles particuliers: le *Product Owner* (propriétaire du produit), qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Enfin, le *Scrum Master* est responsable du déroulement du processus de travail, et veille à la bonne dynamique de l'équipe. 
 
-###### Le travail en binôme
+##### Le travail en binôme
 
 Le travail en binôme est une technique typique des méthodes de travail *Agiles*. Elle consiste à faire travailler deux coéquipiers sur une même tâche, et même à se partager un ordinateur: l'un écrit (exécute), l'autre observe, pilote et commente. Les rôles sont fréquemment intervertis. L'intérêt de cette méthode est d'améliorer la qualité du travail fourni, tout en permettant la transmission de connaissances au sein de l'équipe. Lorsqu'on est confronté à un problème complexe, le fait de débattre de la meilleure façon de le résoudre va conduire à des choix plus pertinents. La communication et la transparence, valeurs essentielles du processus *Agile*, sont également favorisés par cette méthode. 
 

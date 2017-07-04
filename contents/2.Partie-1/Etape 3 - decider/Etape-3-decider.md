@@ -40,7 +40,7 @@ Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exem
 Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Toutefois, pour que les solutions puissent être évaluables, vous devez garder le même référentiel (la même façon d'illustrer votre solution). Ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
 
 
-##### Six façons de visualiser les idées 
+#### Six façons de visualiser les idées 
 
 Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayon* six façons différentes de l'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique. Une fois assemblés, cela donne le résultat suivant :
 
@@ -64,7 +64,7 @@ Imaginons que vous souhaitez créer une future application mobile. Pour le logo 
 Prenez une feuille et un crayon et dessinez votre idée maintenant. Votre visuel ébauche devrez prendre environ trente minutes, vous pourrez revenir dessus pour l'améliorer par la suite. Surtout, illustrez votre idée simplement. 
 
 
-##### Simplifiez vos idées : trois façons d'y arriver
+### Simplifiez vos idées : trois façons d'y arriver
 
 Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité*, le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou le groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Ce n'est pas parce que c'est simple (par exemple au niveau de l'usage) que c'est le cas au niveau technologique. 
 
@@ -83,7 +83,7 @@ Une fois ôté ce qui peut l’être, nous pouvons masquer la complexité. Ce qu
 En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifiée peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première et vous démarquer des autres. 
 
 
-##### Analyser sans détruire : quatre questions stratégiques
+### Analyser sans détruire : quatre questions stratégiques
 
 Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour Forces, Faiblesses, Opportunités, Risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative. Les idées que vous avez développées peuvent maintenant être analysées sur la base de quatre questions. Sous chaque illustration, notez les réponses à ces quatre questions :
 
@@ -114,14 +114,14 @@ Certaines idées auront des polarisations élevées, ce sont celles qui sont le 
 
 Les sujets nouveaux et exploratoires sont souvent les idées les plus fortement polarisées (divergentes). Du point de vue de l'innovation, elles sont plus intéressantes que celles qui ont les plus hautes moyennes et une faible polarisation. 
 
-##### Evaluer n'est pas décider
+#### Evaluer n'est pas décider
 
 Trop souvent en entreprise, de nombreuses séances sont organisées pour générer des idées, évaluer, analyser, en parler et rediscuter. Trop de temps est consacré à l'évaluation au détriment de la décision. Si vous en êtes sur le point de prendre une décision importante pour votre projet, nous vous suggérons le conseil suivant : prenez-la le matin. En effet, des études ont démontré que plus la journée avance, plus nous prenons des décisions de manière impulsive.[^sigman]
 
 [^sigman]: Etude menée par le psychologue argentin Mariano Sigman, Magazine Psychoscope 2/2017.
 
 
-##### Etude de marché rapide : 10 questions à se poser 
+### Etude de marché rapide : 10 questions à se poser 
 
 Vous avez généré des idées, vous avez créé et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 critères inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré. En réalisant l'évaluation de ces 10 critères avec vos collègues et collaborateurs, vous saurez plus clairement où se situe les divergences de point de vue et si l'estimation est fausse ou incohérente. 
 

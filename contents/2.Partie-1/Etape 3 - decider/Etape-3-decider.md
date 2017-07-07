@@ -3,7 +3,7 @@
 > .................................................................................... (champ citation à remplir, à vous de décider)
 
 
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réduisant ainsi les possibilités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération d'idées, les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). 
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réduisant ainsi les possibilités dans des relations bivalentes ("*ou*") au lieu de relations complémentaires ("*et*"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération d'idées, les personnes tendent à juger les idées produites de manière binaire (c'est juste *ou* c'est faux). 
 
 Dans ce chapitre, vous découvrirez les quatre principes de la décision à respecter, ça vous aidera à éviter de vous perdre dans ce processus ou regarder les solutions de façon binaire. Vous apprendrez quelle visualisation utiliser pour dessiner vos idées et les communiquer plus facilement aux personnes impliquées dans votre projet. Enfin, vous saurez comment aller à l'essentiel pour choisir une solution appropriée pour votre projet. La mise en pratique d'un exercice d'évaluation vous permettra de décider efficacement la solution appropriée pour la mise sur le marché d'une solution finalisée. 
 
@@ -85,14 +85,16 @@ En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplif
 
 ### Analyser sans détruire : quatre questions stratégiques
 
-Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour Forces, Faiblesses, Opportunités, Risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative. Les idées que vous avez développées peuvent maintenant être analysées sur la base de quatre questions. Sous chaque illustration, notez les réponses à ces quatre questions :
+Vous connaissez peut-être des méthodes d'analyse, telles que SWOT (en français FFOR pour Forces, Faiblesses, Opportunités, Risques). Contrairement à d'autres méthodes, PPCo offre les avantages d'éviter un jugement négatif et offre une approche itérative. Les idées que vous avez développées peuvent maintenant être analysées sur la base de quatre questions. 
+
+Pour y arrivez, réunissez votre équipe, demandez-leur de noter sous chaque illustration, les réponses à ces quatre questions :
 
 - **Plus :** Quels sont les avantages directs du concept ou de l’idée ?
 - **Potentiels :** Quels sont les retombées positives potentielles ? 
 - **Contraintes :** Quels sont les risques ?
 - **Options :** Comment contourner ces risques ?
 
-La quatrième question ouvre le champ de recherche d'idées (divergence) afin de contourner les risques. 
+La quatrième question ouvre le champ de recherche d'idées (divergence) afin de contourner les risques. Après avoir répondu aux trois première questions, posez-leur comment il serait possible d'y parvenir. Cet exercice ne devrait pas prendre plus de 30 minutes - après ce délai, vous risquez de tourner en rond. 
 
 
 ### Evaluer les idées 

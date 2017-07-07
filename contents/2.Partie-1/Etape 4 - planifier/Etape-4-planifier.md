@@ -4,9 +4,9 @@
 
 > “Le temps est la plus longue distance entre deux endroits.” — Tennessee Williams
 
-Apprendre à ne pas gasiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. Mais il est impossible de stocker ou mettre en réserve le temps, les entrepreneurs et entreprises le savent bien. Le grand défi n'est pas uniquement de trouver des idées mais c'est de planifier la réalisation de ces idées, puisque la valeur est crée à l'implémentation des solutions. 
+Apprendre à ne pas gasiller une seule goutte de votre temps est le meilleur investissement que vous pouvez faire. Mais il est impossible de stocker ou mettre en réserve le temps. Le grand défi n'est pas uniquement de trouver des idées mais c'est de planifier la réalisation de ces idées, puisque la valeur est crée à l'implémentation des solutions. 
 
-A présent, nous allons définir comment *organiser les actions*. La diffculté quand nous essayons de réaliser une chose que nous n'avons encore jamais faite, c'est qu'il n'y pas de planification existante, pas de modèle ou de *template*. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
+En sachant que les idées prennent de la valeur quand elles sont implémentées et pour se faire, il vous faut planifier, nous verrons à présent, comment *organiser les actions*. La diffculté quand nous essayons de réaliser une chose que nous n'avons encore jamais faite, c'est qu'il n'y pas de planification existante, pas de modèle ou de *template*. Pas de projet précédent. Tout est nouveau. Tout est à concevoir.
 
 C'est souvent dans ce genre de situations que nous entendons certains dire "cela ne fonctionnera jamais dans le monde réel..." En regardant la télévision, en lisant les journaux, il peut sembler que le monde est cruel, que les plans nobles échouent tout le temps. N'écoutez pas ces avis négatifs, le monde réel est une excuse. Le monde est ce que vous souhaitez en faire. Ignorez le monde réel. Planifiez votre monde. 
 
@@ -31,7 +31,7 @@ Commencez par une planification *par scénario*, qui permet de visualiser le dé
 - A quoi devrait ressembler le résultat idéal ? Et si on y arrive, que se passera-t-il ? 
 
 
-Le fait d'avoir envisagé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, afin de pouvoir motiver les autres.
+Le fait d'avoir envisagé le pire vous permet de découvrir que souvent les grandes peurs sont irrationnelles et excessives. Et le fait de visualiser l'idéal vous permet de ressentir le résultat final, d'avoir une vue plus claire de ce que vous souhaitez, de le désirer davantage et finalement d'être encore plus motivé pour y parvenir, afin de pouvoir aussi motiver les autres.
 
 Ensuite, un peu comme au théâtre, traduisez votre scénario en 3 actes :
 
@@ -69,13 +69,13 @@ Une fois le scénario établi, planifiez le premier mois. Même si les plans ne 
 Consignes :
 
 1. Définissez des priorités. Définissez des objectifs pour le mois à venir.
-2. Si vous travaillez en équipe, définissez les personnes assignées aux différentes tâches. Si vous êtes seul, intégrez l'action de trouver des personnes à qui vous pourrez déléguer. 
+2. Si vous travaillez en équipe, définissez les personnes assignées aux différentes tâches. Si vous êtes seul, intégrez l'action de trouver des personnes avec qui vous pourrez collaboer 
 3. Ajoutez les petites étapes de chaque objectif à l'intérieur de l'agenda du mois. Et tenez bon. 
 
 
 ##### Planifiez la semaine
 
-Peu de personnes planifient leurs activités hebdomadaires. Pourtant, il existe pléthore de façon de le faire. La méthode que nous vous proposons est simple et efficace. Consignes : 
+Peu de personnes planifient leurs activités hebdomadaires. Pourtant, il existe pléthore de façon de le faire. La méthode est simple et efficace. Consignes : 
 
 a) Analysez la semaine qui vient de s'écouler. Pour ce faire, posez-vous la questions suivante : 
 
@@ -131,7 +131,7 @@ A la fin de la journée, prévoyez 30 minutes pour faire un résumé la journée
 >Qu'ai-je fait aujourd'hui qui m'a permis d'améliorer ma performance ?
 
 
-2) et planifiez la journée suivante en 2 catégories d'activités : 
+Enfin, planifiez la journée suivante en 2 catégories d'activités : 
 
 - 3 grandes actions (qui nécessitent plus de 25 minutes) 
 
@@ -141,13 +141,13 @@ A la fin de la journée, prévoyez 30 minutes pour faire un résumé la journée
 
 Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concrétiser de nouvelles idées, vous pensez peut-être  qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide. Or ce qui est primordial c'est comprendre qu'il existe 4 façons de réaliser une action : 
  
--  Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. 
+-  Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Il vous sera posible de détecter les tâches à éliminer quand elles sont depuis longtemps dans votre *To Do List*
 
--  Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. 
+-  Laisser faire = Déplacer l’action : gardez les tâches non-critiques pour un autre moment. Peux-être à force de déplacer ces tâches, vous finirez par les éliminer.
 
 - Faire faire = Déléguer l’action : la majorité des tâches peuvent être faite tout aussi bien par une autre personne, déléguez-les. 
 
--  Faire = Réaliser l’action : il ne vous reste qu'une petite liste d'actions importantes à concrétiser que seul vous pouvez réaliser. Faites-les.
+-  Faire = Réaliser l’action : il ne vous reste qu'une petite liste d'actions importantes à concrétiser que seul vous pouvez réaliser, faites-les.
 
 
 
@@ -155,7 +155,7 @@ Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concr
 
 Ce que nous avons appris dans ce chapitre : vous avez été sensibilisé à la planification et à la manière de l'aborder, soit avec flexibilité. Vous avez appris comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été incité à observer votre *comment se déroule vos journées* pour améliorer votre productivité personnelle.
 
-Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon systématique. Vous découvrirez comment gérer votre activité avec la méthode *Agile*. Enfin, vous pourrez améliorer votre efficacité avec la technique *Pomodoro*.
+Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon flexible, tout en gardant une structure. Vous découvrirez comment gérer votre activité avec la méthode *Agile*. Enfin, vous pourrez améliorer votre efficacité au quotidien avec la technique *Pomodoro*.
 
 
 

@@ -3,7 +3,7 @@
 > "Comment a-t-on des idées ? Par la persévérance poussée jusqu'au bord de la folie." - Charles Chaplin
 
 
-Pendant longtemps, la création était perçue comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité a été associée pendant longtemps à l'art. Depuis les années 1960, la créativité a été le sujet de nombreuses études et fait maintenant partie de l''un des leviers les plus importants dans notre société. 
+Pendant longtemps, la création était perçue comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité a été associée pendant longtemps à l'art. Depuis les années 1960, la créativité a été le sujet de nombreuses études et fait maintenant partie de l'un des leviers les plus importants dans notre société. 
 
 Tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. La créativité, c'est la capacité à réaliser une production d'idées originales et adaptées à un contexte défini. 
 
@@ -16,13 +16,11 @@ Ce que vous allez découvrir dans ce chapitre, c'est justement ce processus de c
 
 ##### Contenu & Contenant 
 
-Dans le chapitre 1, nous avons parlé du contenu. Dans ce chaptire, nous allons aborder le contenant. 
-
-Que cela soit individuellement ou en groupe, une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Si nous comparions ces deux notions à une boisson, la première serait le liquide et la seconde, la tasse. Dans le cadre d'un projet, le contenu sera défini comme le cahier des charges et le contenant sera associé au cadre du projet (artefacts, méthodes, questionnement, déroulement, etc.) 
+Dans le chapitre 1, vous avez découvert le contenu. Dans ce chapitre, vous allez aborder le contenant. Une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Si vous comparez ces deux notions à une boisson, la première serait le liquide et la seconde, la tasse. Dans le cadre d'un projet, le contenu sera défini comme le cahier des charges et le contenant sera associé au cadre du projet (artefacts, méthodes, questionnement, déroulement, etc.) 
 
 #####  Environnement 
 
-Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn ? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influencent nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poids aussi important l'un que l'autre sur le processus créatif. 
+Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn ? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influencent vos sens et votre capacité à générer des solutions.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poids aussi important l'un que l'autre sur le processus créatif. 
 
 Tout l'environnement n'était pas favorable à trouver des idées. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous tenez des séances d'évaluation des personnes, ou encore annoncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soient inspirées dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les lieux peuvent renforcer ou freiner votre créativité et celle de vos équipes. 
 
@@ -55,6 +53,8 @@ L'ensemble de ces méthodes peut être résumé trois phases mentales à retenir
 - **La phase de convergence** : elle permet de combiner et de mettre en forme les idées concrètes. Cette phase mène à structurer les idées sous forme de solutions analysées pour prendre des décisions, les planifier et les implémenter. Nous aborderons en profondeur cette partie dans les chapitres suivants. 
 
 Ces trois phases sont une suite ordrée. Leur temporalité est variable, allant de quelques heures à quelques jours. L'ensemble peut constituer un cycle temporel de trois semaines pour des petits projets, à trois mois pour des projets d'envergure. Le délivrable à la fin d'un premier cycle peut se présenter sous forme de prototype.
+
+En sachant où se situe votre équipe pendant la génération d'idées, vous pourrez mieux guider les personnes. Vous pouvez également créer une illustration visuelle afin que tous suivent le cheminement commmun, vous évitez ainsi de vous retrouvez avec une personne qui a commencé à évaluer les idées pendant qu'une autre est toujours en train de générer des idées. 
 
 \newpage
 
@@ -89,8 +89,8 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leurs propo
 
 ##### Consignes 
 
-a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER), par exemple "comment pourrions-nous...". Ce sont des questions que vous pouvez utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Formulez la question centrale de votre recherche, la question que vous allez traiter durant *la phase d'émergence* - après la phase de divergence. C'est la transformation de votre objectif en une question simple et pertinente (chapitre 1 – définir).d. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence).
-e. Ce travail prèpare la phase de convergence qui sera traité en profondeur dans le chapitre 3). 
+a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER), par exemple "comment pourrions-nous...". Ce sont des questions que vous pouvez utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence) de votre projet - défini dans le but du projet de votre cahier des charges (c.f. chapitre 1)
+d. Ce travail prèpare la phase de convergence qui sera traité en profondeur dans le chapitre 3). 
 
 
 
@@ -102,7 +102,7 @@ a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez les mot
 Mettre un élément à la place d’un autre...  
 Qu’est-ce qui peut être remplacé ? Qui d’autre ? Quoi d’autre ?
 
-Exemple : Après la deuxième guerre mondiale, l'entreprise Piaggio devait se réinventer en sortant de son activité de fabrication d'avion. L'ingénieur aéronautique Corradino d'Ascanio créer un deux-roues pour substituer l'activité de fabrication d'avion. La vespa est crée avec un design venant de l'aviation, ceciapporta le succès connu pour un des objets de design le plus connu au monde.
+Exemple : Après la deuxième guerre mondiale, l'entreprise Piaggio devait se réinventer en sortant de son activité de fabrication d'avion. L'ingénieur aéronautique Corradino d'Ascanio créer un deux-roues pour substituer l'activité de fabrication d'avion. La vespa est crée avec un design venant de l'aviation, ceci apporta le succès connu pour un des objets de design le plus connu au monde.
 
 ....................................................................................
 
@@ -206,7 +206,7 @@ Exemple : Un restaurateur à Auvernier, en Suisse, cherchait un nom pour son fut
 ### Conclusion
 
 Ce que nous avons appris : dans ce chapitre, vous avez appris les éléments fondamentaux du processus de créativité, soit les phases de divergence et d'émergence. De plus, vous avez pratiqué la transformation d'une description de projet en processus de production d'idées. 
-Vous avez maintenant une liste d'idées ébauches. Vous ne savez pas si c'est utile, ni si cela est réalisable, 
+Vous avez maintenant une liste d'idées ébauches. Vous ne savez pas si c'est utile, ni si cela est réalisable. Le chapitre suivant apportera les éléments pour le savoir. 
 
 Dans le chapitre suivant, vous plongerez dans la phase de convergence et découvrirez comment amener à maturité des idées sous forme d'illustration et vous déciderez en groupe de façon non-démocratique et non-déstructrice. 
 

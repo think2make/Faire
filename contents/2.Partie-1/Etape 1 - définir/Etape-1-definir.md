@@ -60,10 +60,10 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 
 #### Résolvez-vous les bons problèmes ?
 
-Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais définir ce qu'est le problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème. La majorité des personnes ont tendances à identifier rapidement des solutions. 
+Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais définir ce qu'est le problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème et évitez la tendance à trouver rapidement des solutions. 
 
-Prenez un exemple, vous collègues se pleingent de la lenteur de l'ascenseur de votre entreprise. Si vous demandez aux personnes, elles proposeront de remplacer l'ascenseur ou d'installer un monteur plus rapide ou changer l'algorithme dans le programme de l'ascenseur. Or si vous decidez de recadrer le problème, dans le cadre de l'ascenseur, c'est le fait que les personnes s'ennuient à cause de cette lenteur. Donc, une solution plus créative que de changer d'ascenseur est de mettre des mirroirs à l'intérieur ou encore, mettre de la musique. 
-Les personnes partagent l'hypothèse que l'ascenseur est lent. 
+Prenez un exemple, vous collègues se pleingent de la lenteur de l'ascenseur de votre entreprise. Si vous demandez aux personnes, elles proposeront de remplacer l'ascenseur, d'installer un monteur plus rapide ou changer l'algorithme dans le programme de l'ascenseur. Or, si vous decidez de recadrer le problème, dans l'exemple de l'ascenseur, c'est le fait que les personnes s'ennuient à cause de cette lenteur. Donc, une solution plus créative que de changer d'ascenseur c'est de mettre des mirroirs à l'intérieur ou encore, mettre de la musique. 
+
 
 Dans cet exemple, notez que le cadrage du problème n'est pas essentiellement faux. Le but du cadrage n'est pas de trouver le problème réel mais plutôt de voir s'il y a un meilleur problème à résoudre. Dans ce processus, le questionnement peut grandement aider. 
 
@@ -81,7 +81,7 @@ Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheu
 - Hypothèses sous-tendant à la question.
 - Les croyances, les clichés influencent la perception de la question.
 
-La formulation de questions est importante tout au long des étapes de ce livre. Nous y reviendrons au chapitre 2 - la génération d'idées. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
+La formulation de questions est importante tout au long des étapes de ce livre. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
 
 - Simple, précise et claire
 - Fait intervenir les valeurs
@@ -117,9 +117,9 @@ Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il pein
 
 Sachant maintenant comment formuler des questions et récolter des informations, vous pouvez définir le cahier des charges de votre propre projet. Gardez uniquement les informations utiles, intéressantes et actuelles. 
 
-Si vous travaillez seul, vous pouvez utiliser les pages suivantes pour écrire dessus. Si vous travaillez en équipe, préparez cinq feuilles *filpcharts* (taille A2 pour que chacun puisse écrire) et écrivez sur chaque feuille les cinq éléments du cahier des charges des pages suivantes. Réunissez l'équipe et par groupe de deux personnes, demandez-leur de parcourir les questions, d'échanger dessus et noter les informations. Trente minutes devraient suffire pour une première récolte de données. Faite un compte rendu des informations à la fin. 
+Si vous travaillez seul, vous pouvez utiliser les pages suivantes pour écrire dessus. Si vous travaillez en équipe, préparez cinq feuilles *filpcharts* (taille A2 pour que chacun puisse écrire) et écrivez sur chaque feuille les cinq éléments du cahier des charges des pages suivantes. Réunissez l'équipe par groupe de deux personnes, demandez-leur de parcourir les questions, d'échanger dessus et noter les informations. Trente minutes devraient suffire pour une première récolte de données. Faite un compte rendu des informations à la fin. 
 
-Chaque projet est unique. Dans ce cahier des charges nous mettons en lumière les éléments essentiels de la définition d'un projet d'innovation. D'autres éléments, comme les rôles des personnes (c.f. plus bas). Le déroulement ou les aspects financiers ne sont pas inclus ici. 
+Chaque projet est unique. Dans ce cahier des charges, mettez en lumière les éléments essentiels de la définition d'un projet d'innovation. D'autres éléments, comme les rôles des personnes (c.f. plus bas). Le déroulement ou les aspects financiers ne sont pas inclus ici. 
  
 
 
@@ -263,7 +263,7 @@ Dans les entreprises, quand les choses ne fonctionnent pas comme on le souhaite,
 
 - **Le faciliteur :** apporte les techniques d'animation combinée à une connaissance de la thématique traitée, sans être un expert pointu. le rôle du facilitateur est d'amener les équipes dans un état de *flow*[^flow] – que la session de travail puisse devenir plus efficiente. Le facilitateur prépare le déroulement, les questions à aborder et les outils pour aider à penser. Ce sont souvent des profils qui peuvent être formés en interne de l'entreprise ou mandatés depuis l'externe, à condition qu'ils puissent amener un point de vue neutre. Evitez que le décideur soit le facilitateur, cela risque de créer un biais involontaire.
 
-- **Le Renverseur :** apporte un regard nouveau et parfois déroutant. Ce sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale, soit clasique et continue). Ces profils peuvent être recrutés à l'extérieur de l'entreprise ou en interne : par exemple, les personnes qui ont un point de vue différent de la majorité - des contestataires - sont intéressant à impliquer. Les contestataires ne sont pas des grincheux qui souhaitent mettre des bâtons dans les roues mais davantage des personnes qui ont un regard différent de la majorité. Pour impliquer ces profils, vous devez récolter suffisamment d'informations en amont (pendant la construction du cahier des charges de votre projet) afin de détecter qui peut apporter un regard nouveau pour votre sujet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant leur potentiel créatif. 
+- **Le renverseur :** apporte un regard nouveau et parfois déroutant. Ce sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale, soit clasique et continue). Ces profils peuvent être recrutés à l'extérieur de l'entreprise ou en interne : par exemple, les personnes qui ont un point de vue différent de la majorité - des contestataires - sont intéressant à impliquer. Les contestataires ne sont pas des grincheux qui souhaitent mettre des bâtons dans les roues mais davantage des personnes qui ont un regard différent de la majorité. Pour impliquer ces profils, vous devez récolter suffisamment d'informations en amont (pendant la construction du cahier des charges de votre projet) afin de détecter qui peut apporter un regard nouveau pour votre sujet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant leur potentiel créatif. 
 
 
 Faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. vers une position différente : les rôles. Notez que le nombre de personnes est aussi important, le nombre idéal est de moins de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varient d'une demi-journée à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine à trois mois. Pour la partie recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.

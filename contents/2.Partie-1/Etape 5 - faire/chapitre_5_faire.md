@@ -8,24 +8,15 @@ Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quan
 
 Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. 
 
-...
-
-Il suffit de regarder les flux pour comprendre un système. Observez un cours d'eau pour savoir comment fonctionne son système.
-
-OU
-
-UN EXEMPLE : Qui peut faire de meilleurs burgers que McDonald ? Tout le monde. Alors, pour quoi McDonald's gagne plus d'argent que ceux qui savent faire ces meilleurs burgers ? Parce i.e. mcdo a un système (processus) beaucoup plus efficient pour vendre à un plus grand nombre de bons burgers. Les systems sont importants si vous voulez fructifier votre innovations.
-
-...
-
+Un exemple : qui peut faire de meilleurs burgers que McDonald ? Tout le monde. Alors, pourquoi McDonald's gagne plus d'argent que ceux qui savent faire ces meilleurs burgers ? Simplement parce que McDonald's a un système (processus) beaucoup plus efficient pour vendre à un plus grand nombre des burgers. 
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
 Quand il s'agit d'explorer le nouveau, la contrainte majeur que les organisations vivent est souvent lié à la rigidité d'un système. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une façon d'organisation d'équipe, qui favorise les innovations. Cette façon s'appelle *Agile* et vient du monde informatique. Ce domaine étant contraint à devenir plus agile et plus rapide. Vous découvrirez cette façon d'organiser votre travail en vous inspirant de ce domaine. Le but n'est pas de copier-coller les outils d'un autre domaine mais s'en inspirer et adapter à votre contexte. 
 
-Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent. Vous devez trouver une technique pour l'organisation personnelle. Vous découvrirez un outil simple que vous pouvez utiliser pour vous focaliser. 
+Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent. Vous devez trouver une technique pour l'organisation personnelle - appelée *Pomodoro*. Vous découvrirez un outil simple que vous pouvez utiliser pour vous focaliser. 
 
-### L'organisation d'équipe : les méthode *Agile*
+### L'organisation d'équipe : les méthode *Agiles*
 
 Les méthodes *Agiles* sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
@@ -33,7 +24,7 @@ Apparues tout d'abord dans le domaine du développement en informatique (la conc
 
 Un texte fondateur est le *Manifeste Agile*[^agilemanifesto], rédigé en 2001, par des développeurs pratiquant diverses méthodes de gestion de projet comme *Extreme Programming* ou *Scrum*. 
 
-[^agilemanifesto] : Disponible sur www.agilemanifesto.org
+[^agilemanifesto]: Disponible sur www.agilemanifesto.org
 
 Ce manifeste consacre le terme d'« Agile » pour référencer ces diverses méthodes, qui partagent de nombreux points communs. Le terme « Agile » implique qu'elles sont plus souples et plus réactives que les modèles traditionnels, hérités de grandes entreprises s'adaptant difficilement au changement.
 
@@ -48,9 +39,10 @@ Ces points démontrent que les méthodes *Agiles* proposent avant tout un nouvel
 
 Ces principes rendent les méthodes *Agiles* particulièrement adaptées pour la gestion de projets novateurs, portés par de petites équipes motivées et autonomes, cherchant à obtenir des résultats rapidement, tout en ayant une vision de continuité.
 
-Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la pratique l'une de ces méthodes *Agiles*. Vous ne trouverez pas une explication sur l'ensemble de la méthode, ce qui remplirait un autre livre, mais des éléments-clés, afin d'illustrer comment le travail au quotidien est modifié par l'*Agile*. Cela vous aidera à évaluer l'intérêt d'une telle méthode pour la réalisation de votre projet.
 
 ### Spécificités
+
+Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la pratique l'une de ces méthodes *Agiles*. Vous ne trouverez pas une explication sur l'ensemble de la méthode, ce qui remplirait un autre livre, mais des éléments-clés, afin d'illustrer comment le travail au quotidien est modifié par l'*Agile*. Cela vous aidera à évaluer l'intérêt d'une telle méthode pour la réalisation de votre projet.
 
 #### Le tableau de bord
 
@@ -58,7 +50,7 @@ Un élément central est le tableau de bord. C'est un document évolutif qui pr�
 
 #### Le sprint
 
-Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps retreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure le *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
+Dans le domaine du développement logiciel, la pratique du *code sprint* a émergé dans les années 2000, et a connu un grand engouement dans la communauté du logiciel libre. Cette pratique consiste à rassembler une équipe de développeurs (qui sont habituellement dispersés géographiquement) pendant un laps de temps restreint pour un travail collaboratif intense, ce qui permet de faire progresser un projet de manière significative. Parmi les autres dérivés de cette pratique figure le *Design Sprint*[^sprint]. Le *Sprint* constitue un cycle de travail d'une durée choisie par l'équipe, allant d'une à quatre semaines. C'est une unité de travail régulière et récurrente, qui permet une progression itérative, et inclut des étapes de feedback et d'auto-analyse qui facilitent le bon pilotage du projet. 
 
 [^sprint]: Le *Design Sprint* est une méthode développée au sein de *Google Ventures*. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Chacune des cinq journées fait un focus sur un sujet : 1. comprendre les opportunités, 2. explorer de nouvelles idées, 3. identifier les idées qui sont applicables, 4. concevoir des prototypes, 5. tester les solutions avec de potentiels clients. Cest étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre. 
 
@@ -80,7 +72,7 @@ La "rétrospective" est un événement-clé qui marque la fin d'une phase de tra
 
 ##### Des équipes sans chef
 
-Ce modèle d'organisation destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus définit deux rôles particuliers: le *Product Owner* (propriétaire du produit), qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Enfin, le *Scrum Master* est responsable du déroulement du processus de travail, et veille à la bonne dynamique de l'équipe. 
+Ce modèle d'organisation destitue le "chef de projet", et donne une grande responsabilité à l'équipe qui est auto-organisée. Le processus définit deux rôles particuliers: le *Product Owner* (propriétaire du produit), qui est la personne veillant au respect de la vision du produit, et qui va viser à maximiser sa valeur. Enfin, le *Scrum Master* est responsable du déroulement du processus de travail, et veille à la bonne dynamique de l'équipe - c'est le facilitateur. 
 
 ##### Le travail en binôme
 
@@ -88,7 +80,7 @@ Le travail en binôme est une technique typique des méthodes de travail *Agiles
 
 ##### Dangers de la méthodologie Agile mal comprise
 
-La méthode *Agile* fait l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les "stand-up meetings" à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
+La méthode *Agile* fait l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les *séances de quinze minutes* à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
 
 Les concepts essentiels de la méthode *Agile* toutesont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
 

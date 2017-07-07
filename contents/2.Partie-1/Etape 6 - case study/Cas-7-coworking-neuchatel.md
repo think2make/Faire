@@ -54,7 +54,7 @@ Ayant pris cette initiative, nous commençons par nous attaquer à la promotion 
 
 ###### 2. Rencontre *brainstorming*
 
-En avril 2014, lors d'une fin de journée chaleureuse, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles. Les participants nous suggèrent des tarifs, préférences logistiques et l'un deux, Yann Heurtaux, nous suggère de lancer des *journées coworking* (merci Yann!).
+En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles. Les participants nous suggèrent des tarifs, préférences logistiques et l'un deux, Yann Heurtaux, nous suggère de lancer des *journées coworking*.
 
 ###### 3. Prototypes rapides
 

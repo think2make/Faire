@@ -11,15 +11,13 @@
 
 
 
-Quand nous innovons, c'est parfois le brouillard. Cinq éléments manques dans la majorité des projets : Les informations sont dispersées auprès de différentes personnes et complique la compréhension de la problématique ; Il n'y a pas de vision commune ; les objectifs varies selon les personnes et intérêts ; le résultat recherché est difficilement visible ; les compétences des personnes à impliquer ne sont pas défini ; les critères pour mesurer le succès du projet n'est pas clair. En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant : 
+Quand un projet innovant démarre, c'est parfois le brouillard. Cinq éléments manques dans la majorité des projets : Les informations sont dispersées auprès de différentes personnes et complique la compréhension de la problématique ; Il n'y a pas de vision commune ; les objectifs varies selon les personnes et intérêts ; le résultat recherché est difficilement visible ; les critères pour mesurer le succès du projet n'est pas clair. En résumé, cinq éléments sont nécessaires pour démarrer un projet innovant : 
 
 - une situation ou problématique claire
-- une vision, but 
+- une vision, un but 
 - un objectif précis
 - les résultats attendus du projet
 - des critères de succès
-
-
 
 Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisé à la première compétence nécessaire : questionner. La façon de remédier à ces cinq éléments manquants, c'est d'apprendre à formuler des questions pour récolter des informations pertinentes. Vous allez pouvoir pratiquer cette compétence dans la définition du cadre de votre projet - votre cahier des charges. Ce cahier sera votre boussole tout au long de votre projet. Enfin, vous saurez également quelle compétence impliquer afin d'être certain de disposer de toutes les informations nécessaires pour démarrer votre projet.
 
@@ -62,30 +60,25 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 
 Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais définir ce qu'est le problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème et évitez la tendance à trouver rapidement des solutions. 
 
-Prenez un exemple, vous collègues se pleingent de la lenteur de l'ascenseur de votre entreprise. Si vous demandez aux personnes, elles proposeront de remplacer l'ascenseur, d'installer un monteur plus rapide ou changer l'algorithme dans le programme de l'ascenseur. Or, si vous decidez de recadrer le problème, dans l'exemple de l'ascenseur, c'est le fait que les personnes s'ennuient à cause de cette lenteur. Donc, une solution plus créative que de changer d'ascenseur c'est de mettre des mirroirs à l'intérieur ou encore, mettre de la musique. 
+Cette étude présente un exemple : imaginez que vos collègues se pleingent de la lenteur de l'ascenseur de votre entreprise. Si vous demandez aux personnes, elles proposeront de remplacer l'ascenseur, d'installer un monteur plus rapide ou changer l'algorithme dans le programme de l'ascenseur. Or, si vous decidez de recadrer le problème, dans l'exemple de l'ascenseur, c'est le fait que les personnes s'ennuient à cause de cette lenteur. Donc, une solution plus créative c'est de mettre des mirroirs à l'intérieur ou mettre de la musique, au lieu de changer d'ascenseur.
 
-
-Dans cet exemple, notez que le cadrage du problème n'est pas essentiellement faux. Le but du cadrage n'est pas de trouver le problème réel mais plutôt de voir s'il y a un meilleur problème à résoudre. Dans ce processus, le questionnement peut grandement aider. 
+Dans cet exemple, notez que le cadrage du problème n'est pas essentiellement faux. Le but du cadrage n'est pas de trouver le problème réel mais plutôt de voir s'il y a un meilleur problème à résoudre. Très souvent, c'est l'expérience vécue avec le produit ou service qu'il faut traiter. Dans ce processus, le questionnement peut grandement aider. 
 
 [^HBR]: Magazine Harvard Business review, Jan-fév. 2017
 
 \newpage
 
-### Apprendre à se poser les bonnes questions
+#### Apprendre à se poser les bonnes questions
 
-Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Nous pouvons devenir de meilleurs *poseurs de questions*. Formuler une question comporte quatre dimensions : 
+Si vous voulez recevoir les bonnes réponses, posez les bonnes questions. Malheureusement, depuis l’école, on nous apprend à répondre à des questions, et non à les imaginer. Apprenez à devenir de meilleurs *poseurs de questions*. Formuler une question comporte trois dimensions : 
 
 
-- La construction : quoi, qui, où, quand, combien, comment, pourquoi.
-- La portée de la question : l'étendue de la question, élargissement du sujet sans pour autant dépasser la capacité du public cible.
-- Hypothèses sous-tendant à la question.
-- Les croyances, les clichés influencent la perception de la question.
+- La construction de la question : quoi, qui, où, quand, combien, comment, pourquoi. Et formulée de façon simple, précise et claire
+- La portée de la question : l'étendue de la question, élargissement du sujet sans pour autant dépasser la capacité du public cible. Elle touche à la réalité de l'interlocuteur. 
+- Hypothèses sous-tendant à la question. Les croyances, les clichés influencent la perception de la question. Elle fait intervenir les valeurs. 
 
-La formulation de questions est importante tout au long des étapes de ce livre. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir, inspirent, etc. Mais comment formuler une bonne question ? Une bonne question est : 
+La formulation de questions est importante tout au long des étapes de ce livre. De bonnes questions permettent de susciter la curiosité chez l'interlocuteur, forcent à réfléchir et inspirent.
 
-- Simple, précise et claire
-- Fait intervenir les valeurs
-- Touche à la réalité
 
 Un exemple pour illustrer le degré de complexité d'une question : 
 
@@ -94,9 +87,9 @@ Un exemple pour illustrer le degré de complexité d'une question :
  
  Il ne suffira pas de poser de bonnes questions, le plus important c'est de savoir écouter. Quelques conseils pour apprendre à écouter les réponses c'est :
  
- - accepter toutes les réponses, même les plus surprenantes
- - éviter de prendre la parole rapidement, écouter aussi le silence
- - mémoriser les informations, prendre des notes et regarder dans les yeux
+ - acceptez toutes les réponses, même les plus surprenantes
+ - évitez de prendre la parole rapidement, écoutez aussi le silence
+ - mémorisez les informations, prenez des notes et regarder zdans les yeux
  
  
 \newpage
@@ -113,13 +106,15 @@ Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il pein
 
 
 
-### Exercice : les cinq éléments d'un projet
+### Exercice : cahier des charges d'un projet
 
-Sachant maintenant comment formuler des questions et récolter des informations, vous pouvez définir le cahier des charges de votre propre projet. Gardez uniquement les informations utiles, intéressantes et actuelles. 
+Sachant maintenant comment formuler des questions et écouter pour récolter des informations, vous pouvez définir le cahier des charges de votre propre projet. 
 
-Si vous travaillez seul, vous pouvez utiliser les pages suivantes pour écrire dessus. Si vous travaillez en équipe, préparez cinq feuilles *filpcharts* (taille A2 pour que chacun puisse écrire) et écrivez sur chaque feuille les cinq éléments du cahier des charges des pages suivantes. Réunissez l'équipe par groupe de deux personnes, demandez-leur de parcourir les questions, d'échanger dessus et noter les informations. Trente minutes devraient suffire pour une première récolte de données. Faite un compte rendu des informations à la fin. 
+Chaque projet est unique. Dans ce cahier des charges, mettez en lumière les éléments essentiels de la définition de votre projet. Gardez uniquement les informations utiles, intéressantes et actuelles. 
 
-Chaque projet est unique. Dans ce cahier des charges, mettez en lumière les éléments essentiels de la définition d'un projet d'innovation. D'autres éléments, comme les rôles des personnes (c.f. plus bas). Le déroulement ou les aspects financiers ne sont pas inclus ici. 
+Si vous travaillez en équipe, préparez cinq feuilles *filpcharts* (taille A2 pour que chacun puisse écrire) et écrivez sur chaque feuille les cinq éléments du cahier des charges des pages suivantes (situation, but global, but du projet, résultats attendus, critères de succès). Réunissez l'équipe, demandez-leur de parcourir les questions, d'échanger dessus et noter les informations.
+
+
  
 
 
@@ -135,7 +130,7 @@ Pourquoi le faire ?
 
 Si nous n'arrivons pas à nous rappeler les faits et les erreurs du passé, nous sommes condamnés à les répéter. Une définition claire d'une situation actuelle permet de partir du bon pied et d'éviter le risque de réitérer les erreurs.  
 
-Exemple : *Depuis 50 ans, notre entreprise offre les produits YKY et constate depuis deux ans une évolution dans les besoins et les comportements des clients : ils achètent davantage par internet et les canaux traditionnels de distribution commandent chaque année 8% en moins. Une situation similaire a été vécue par la société soeur en Alabama. etc. Et les confrères dans la branche industrielle vivent une situation similaire soit etc.*
+Exemple : *Depuis 50 ans, notre entreprise offre les produits YKY et constate depuis deux ans une évolution dans les besoins et les comportements des clients : ils achètent davantage par internet et les canaux traditionnels de distribution commandent chaque année 8% en moins. Une situation similaire a été vécue par la société soeur. etc. Et les confrères dans la branche industrielle vivent une situation similaire soit etc.*
 
 
 ....................................................................................
@@ -156,9 +151,7 @@ Définissez le but poursuivi par votre projet, la vision, le désir que vous sou
 
 Pourquoi le faire ?
 
-Au sein des entreprises, nous nous concentrons en premier sur le *quoi* : les produits ou les services. Puis, nous définissons le *comment* : les processus de travail, l'organisation, etc. Cependant, il y a rarement une définition claire du pourquoi – pourquoi faisons-nous ce que nous faisons. 
-
-Le but global donne un fil conducteur entre vos actions et votre projet – un alignement pour vous et vos équipes. 
+Dans son ouvrage *Start with Why*, l'auteur Simon Sinek décrit qu'au sein des entreprises, nous nous concentrons en premier sur le *quoi* : les produits ou les services. Puis, nous définissons le *comment* : les processus de travail, l'organisation, etc. Cependant, il y a rarement une définition claire du pourquoi – pourquoi faisons-nous ce que nous faisons. Le but global donne du sens et un fil conducteur entre vos actions et votre projet – un alignement pour vous et vos équipes. 
 
 Exemple : *D'ici trois ans, nous souhaitons devenir le leader de notre branche d'activité et continuer à combler nos clients en offrant le service le plus efficient par le biais de nos produits YKY etc.* 
 
@@ -177,11 +170,11 @@ Exemple : *D'ici trois ans, nous souhaitons devenir le leader de notre branche d
 
 Comment s'y prendre ? 
 
-Notez le but spécifique à atteindre par votre projet de façon brève. Ce but peut aussi être formulé sous forme d'une question à répondre.
+Notez l'objectif à atteindre par votre projet de façon brève, c'est le prochain pas pour atteindre votre but global. Cet objectif peut aussi être formulé sous forme d'une question.
 
 Pourquoi le faire ? 
 
-Les grandes visions n'ont rien de concret, elles ne sont ni mesurables et ni atteignables sans une définition plus objective. Décrivez ce que vous souhaitez achever en premier pour atteindre votre but. Cet objectif sera comme votre boussole, il vous guidera tout au long de votre projet. 
+Les grandes visions n'ont rien de concret, elles ne sont ni mesurables et ni atteignables sans une définition plus objective. Cet objectif sera comme votre boussole, il vous guidera tout au long de votre projet. 
 
 Exemple : *A la fin du projet, nous disposerons d'une stratégie pour remédier à la situation actuelle tout en accélérant notre positionnement etc.* 
 
@@ -245,9 +238,9 @@ Il est facile de définir des critères comme le chiffre d'affaires, le bénéfi
 
 Exemple :
 
-- Résultat : gagner la contribution des clients pour améliorer les produits développés.
-- Métrique : 5 idées innovantes que la R&D et la vente supportnt avec leur budget.
-- Valeur : les adopteurs précoces fourniront une impulsion immédiate et dynamique pour l'introduction de nouveaux produits, qui seront pleinement soutenus par nos deux départements. Cela augmentera notre présence sur le marché X et améliorera le profit.   
+- Résultat : *gagner la contribution des clients pour améliorer les produits développés.*
+- Métrique : *5 idées innovantes que la R&D et la vente supportnt avec leur budget.*
+- Valeur : *les adopteurs précoces fourniront une impulsion immédiate et dynamique pour l'introduction de nouveaux produits, qui seront pleinement soutenus par nos deux départements. Cela augmentera notre présence sur le marché X et améliorera le profit.*   
 
 
 
@@ -266,14 +259,18 @@ Dans les entreprises, quand les choses ne fonctionnent pas comme on le souhaite,
 - **Le renverseur :** apporte un regard nouveau et parfois déroutant. Ce sont des personnes qui peuvent apporter une pensée latérale[^lateral] (par opposition à la pensée verticale, soit clasique et continue). Ces profils peuvent être recrutés à l'extérieur de l'entreprise ou en interne : par exemple, les personnes qui ont un point de vue différent de la majorité - des contestataires - sont intéressant à impliquer. Les contestataires ne sont pas des grincheux qui souhaitent mettre des bâtons dans les roues mais davantage des personnes qui ont un regard différent de la majorité. Pour impliquer ces profils, vous devez récolter suffisamment d'informations en amont (pendant la construction du cahier des charges de votre projet) afin de détecter qui peut apporter un regard nouveau pour votre sujet. Il est également possible de recruter ces personnes au sein de l'entreprise en évaluant leur potentiel créatif. 
 
 
-Faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. vers une position différente : les rôles. Notez que le nombre de personnes est aussi important, le nombre idéal est de moins de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varient d'une demi-journée à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine à trois mois. Pour la partie recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.
+Faire contribuer ces trois rôles crée un changement dans la dynamique de travail. Ce n'est plus une équipe habituelle qui empoigne le défi mais un groupe hétérogène. L'harmonie se crée par le changement de fonction/titre/etc. vers une position différente : les rôles. 
+
+**Nombre de participants**
+
+Notez que le nombre de personnes est aussi important, le nombre idéal est de moins de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varient d'une demi-journée à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine à trois mois. Pour la partie recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.
 
 
 
 
 ### Conclusion 
 
-Dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Pour votre projet, vous avez formalisé un cahier des charges (c.f. exercice) de façon collaborative. Ce document vous guidera dans les chapitres suivants. 
+Ce que vous avez appris, dans ce chapitre, vous avez vu quels sont les éléments manquants dans un projet d'innovation, comment formuler des questions et gérer les informations récoltées pour définir clairement un projet. Pour votre projet, vous avez formalisé un cahier des charges (c.f. exercice) de façon collaborative. Ce document vous guidera dans les chapitres suivants. 
 
 De plus, vous avez été sensibilisé aux trois rôles à impliquer pour la mise en place d'un regard complémentaire sur le projet. Vous savez comment structurer la suite de vos actions (le nombre de personnes à impliquer, combien de temps réserver, etc.)
 

@@ -71,7 +71,7 @@ Le succès est mitigé – il y a un intérêt par les personnes ayant compris l
 
 Suite à cette semaine de test, nous ouvrons l'espace dès le mois de novembre afin de tester sa viabilité à moyen terme. 
 
-Nous définissons plus clairement le modèle d'affaire soit : les clients, les avantages et bénéfices, les prestations, les tarifs, etc. Nous décidons de rendre cette prestation accessible au plus grand nombre de professionels possible, notre but : créer une communauté d'entrepreneurs et professionnels. 
+Nous définissons plus clairement le modèle d'affaire soit : les clients, les avantages et bénéfices, les prestations, les tarifs, etc. Nous décidons de rendre la prestation accessible au plus grand nombre de professionels possible. 
 
 Petite digresssion, une année après le lancement, nous sommes contacté par un entrepreneur qui souhaite créer un espace similaire dans la ville de La Chaux-de-Fonds. En quelques semaines, nous lançons l'espace de Coworking La Chaux-de-Fonds. 
 
@@ -87,7 +87,7 @@ Mais pourquoi viennent-ils au *coworking* ? Il existe trois niveaux de la pyrami
 
 
 
-### Réflexions
+#### Réflexions
 
 Cela parait peut-être idyllique mais nous vivons aussi des difficultés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaiselle sale !) ou l'animation de l'espace sont des défis que nous avons pas toujours réussi à résoudre.
 
@@ -98,9 +98,6 @@ Toutefois, cette expérience a permis de créer une nouvelle façon de travaille
 - Rien n'est parfait du premier coup. Le plus important c'est de procéder par étapes. Par ailleurs, nous récoltons des commentaires et des suggestions des utilisateurs directs pour améliorer ce projet. 
 
 - Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, de clarifier et de rendre plus pertinente la solution.
-
-Nous découvrons chaque jour ce que nous pouvons faire de mieux pour nous et pour les autres. C'est ce qui nous a donné envie de lancer un nouveau défi, le projet de *la manufacture d'idées*. Cet accélérateur d'innovation a pour but de réunir des entrepreneurs et leurs équipes, des startups et des PME (petites et moyennes entreprises) dans un environnement stimulant et encourageant pour les soutenir dans la résolution des défis de façon collaborative et développer de nouvelles innovations. 
-
 
  
 

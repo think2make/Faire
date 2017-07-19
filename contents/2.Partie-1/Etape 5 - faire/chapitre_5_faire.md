@@ -90,10 +90,21 @@ Les concepts essentiels de la méthode *Agile* toutesont la communication et la 
 
 *Taktzeit* (Takt time) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
 
-Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement après 30 minutes. Il est l'inventeur de la technique *Pomodoro*. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
+Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement après 30 minutes. Ainsi, il inventa la technique *Pomodoro*. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
 
 A la différence des méthodes *Agile* qui concernent la coopération au sein d'une équipes, la technique *Pomodoro* vise à améliorer la productivité personnelle. 
+
+Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*, d'une durée de 25 minutes. Travailler pendant ce temps puis faire une pause de cinq minutes. 
+
+Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées. La méthode permet également d'avoir une trace visuelle des activités d'une journée, ce qui facilite l'analyse et l'auto-amélioration. La faculté de diviser une tâche complexe en pièces distinctes permet d'améliorer votre gestion du temps, votre capacité à estimer la durée d'un projet et enfin votre tempo dans le travail. 
+
+Il existe un grand nombre d'applications de bureau et mobiles basées sur cette méthode, permettant de simuler la minuterie: *Clockwork tomate*, *Pomodorium*, *KanbanFlow*, *Tomighty*, *Tomato Timer*, *PomoDone*...
+
+Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
+
+
+### Exercice 
 
 Le matériel requis pour créer son rythme avec cette méthode se résume à:
 
@@ -102,28 +113,20 @@ Le matériel requis pour créer son rythme avec cette méthode se résume à:
 
 ![](../contents/img/pomodoro-ligne-claire.png)
 
-Le principe consiste à définir une unité de temps, relativement courte, nommée *Pomodoro*, d'une durée de 25 minutes.
+Défninissez une unité de temps d'une durée de 25 minutes, nommée *Pomodoro*. La technique repose ensuite sur la répétition cyclique de ces cinq étapes :
 
-La technique repose ensuite sur la répétition cyclique de ces cinq étapes :
+1. Décidez de la tâche à effectuer ;
+2. Déclenchez le minuteur ;
+3. Travaillez sur la tâche jusqu'à ce que le minuteur sonne ;
+4. Prenez une courte pause (environ 5 minutes) ;
+5. Tous les quatre *Pomodoro*, prenez une pause un peu plus longue (15-20 minutes).
 
-1. Décider de la tâche à effectuer ;
-2. Régler le minuteur sur 25 minutes;
-3. Travailler sur la tâche jusqu'à ce que le minuteur sonne ;
-4. Prendre une courte pause (environ 5 minutes) ;
-5. Tous les quatre *Pomodoro*, prendre une pause un peu plus longue (15-20 minutes).
+Que la force de la tomate soit ave vous ! 
 
-Cette subdivision du temps permet de mieux quantifier le travail, tout en le morcelant sous forme d'actions concrètes clairement identifiées. La méthode permet également d'avoir une trace visuelle des activités d'une journée, ce qui facilite l'analyse et l'auto-amélioration. La faculté de diviser une tâche complexe en pièces distinctes permet d'améliorer votre gestion du temps, et votre capacité à estimer la durée d'un projet. 
-
-Il existe un grand nombre d'applications de bureau mobile et mobiles basées sur cette méthode, permettant de simuler la minuterie: *Clockwork tomate*, *Pomodorium*, *KanbanFlow*, *Tomighty*, *Tomato Timer*, *PomoDone*...
-
-Cependant, l'utilisation d'un simple minuteur de cuisine mécanique reste sans doute la meilleure façon d'appliquer la méthode Pomodoro.
-
-
-Pourquoi utiliser cette technique de productivité ? Comme présenté dans le chapitre précédent (c.f. Chapitre 4, Planifiez le jour), pour réaliser un travail créatif et concevoir des innovations, vous devez disposer des créneaux de temps plus long et sans interruption. La technique *Pomodoro* offre cette structure. 
 
 
 ### Conclusion
 
-Ce que nous avons appris dans ce chapitre : vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites *Agile*, les différentes approches regroupées sous le terme de *Sprint*, et l'outil individuel que constitue la technique *Pomodoro*.
+Ce que vous avez appris : dans ce chapitre, vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites *Agile*, les différentes approches regroupées sous le terme de *Sprint*, et l'outil individuel que constitue la technique *Pomodoro*.
 
 Dans le chapitre suivant, nous illustrerons tous les propos présentés dans cet ouvrage avec un cas concret : la création de l'espace de *Coworking Neuchâtel* (Suisse).

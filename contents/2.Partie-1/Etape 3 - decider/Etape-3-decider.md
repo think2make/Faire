@@ -257,6 +257,12 @@ Remarques :
 
 ....................................................................................
 
+### Différencier l'invention de l'innovation 
+
+L'invention est le résultat obtenu par la mise en application de votre créativité sur un défi spécifique. C'est le processus de conception d'une idée qui va *potentiellement* produire de la valeur financière. L'innovation née par l'invention mais a justement réussi à crée cette valeur financière, elle est sur le marché. Nombreux sont ceux qui s’intéressent à l'invention et la créativité, la création de nouvelles idées. Il semblerait que le travail est achevé quand la solution est inventée, qu'elle peut être produite. Or c'est ici que le travail commence et des questions émergent : Votre invention est-elle brevetable ? Pouvez-vous exploiter librement cette invention ? Quel type de brevet avez-vous besoin ? etc.Traiter ce sujet nécessiterait d'écrire plusieurs ouvrages, ce n'est pas le but ici. Comprenez quelques éléments importants sur les brevets car cela peut être crucial pour votre solution et votre activité. Tout d'abord, les brevets sont des outils juridiques pour protéger et valoriser votre propriété industrielle. Il existe trois critères pour savoir si votre invention est brevetable : - application industrielle : elle doit apporter une solution technique à un problème technique- nouveauté : elle doit avoir des caractéristiques originales et différenciatrices - activité inventive : elle se différentie de manière évidente du domaine d'application habituelle. Renseignez-vous auprès d’experts sur ce sujet. Vous trouverez des informations complémentaires sur le site web de l'ouvrage.
+
+
+
 ### Conclusion 
 
 Ce que vous avezs appris : dans ce chapitre, vous avez été sensibilisé au processus de décision. Vous avez appris comment matérialiser votre idée tout en sachant la mettre en valeur en toute simplicité. Enfin, vous avez appris et pratiqué comment évaluer efficacement une idée. L'exercice en fin de chapitre vous a aidé à prendre la décision ultime. 

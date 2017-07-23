@@ -38,8 +38,8 @@ Très rapidement, des questions émergent :
 - Qui est le public ? 
 - Quel modèle d'affaire ? 
 - Où se trouvera l'espace ? Quelle place est idéale ? 
-- Comment s'y prendre pour le lancement ? Comment fonctionnera cet espace ? Comment rendre autonome, avec un minimum d'intervention ? 
-- Combien coûtera l'espace ? Combien les personnes vont payer ? 
+- Comment s'y prendre pour le lancement ? Comment fonctionnera cet espace ? Comment le rendre autonome, avec un minimum d'intervention ? 
+- Combien coûtera l'espace ? Combien de personnes pour le financement ?  
 - etc.
 
 
@@ -54,17 +54,17 @@ Ayant pris cette initiative, nous commençons par nous attaquer à la promotion 
 
 ###### 2. Rencontre *brainstorming*
 
-En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de sonder les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles. Les participants nous suggèrent des tarifs, préférences logistiques et l'un deux, Yann Heurtaux, nous suggère de lancer des *journées coworking*.
+En avril 2014, nous organisons une soirée de brainstorming, dans un bar neuchâtelois, réunissant une quinzaine de participants. Cette soirée a pour objectif de réunir des partenaires intéressés, de comprendre les motivations et besoins des futurs *coworkers*, et de faire connaître le projet. Accessoirement, la session de brainstorming produit des données qui pourront s'avérer utiles. Les participants nous suggèrent des tarifs, préférences logistiques et l'un deux, Yann Heurtaux, nous suggère de lancer des *journées coworking*.
 
 ###### 3. Prototypes rapides
 
-Avec cette suggestion, durant l'été 2014, nous organisons des *journées coworking* dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes ! Notre communication n'étant pas parfaite, nous arrivons difficilement attirer une foule de professionnels mais quelques personnes fortement intéressées. Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans la durée n'est pas garantie. De plus, cette expérience nous en apprend davantage sur les besoins des personnes. 
+Avec cette suggestion, durant l'été 2014, nous organisons des *journées coworking* dans des lieux tiers, au *Swiss Creative Center*, au restaurant *Bureau*, au restaurant *Chauffage Compris*. Constat intéressant : pour chaque journée, nous avons des *coworkers*... mais ce ne sont jamais les mêmes ! Notre communication n'étant pas parfaite, nous arrivons difficilement attirer une foule de professionnels mais quelques personnes fortement intéressées. Nous en tirons la conclusion qu'il existe un public intéressé, mais que la stabilité dans le temps n'est pas garantie. De plus, cette expérience nous en apprend davantage sur les besoins des personnes. 
 
 ###### 4. Prototype réel
 
 Un matin, Giovanna Papa de l'association Infoclic.ch nous appelle. Giovanna suit de près notre initiative et souhaite que nous puissions collaborer ensemble. Après un café et une discussion à la rue des Sablons 2, à Neuchâtel (Suisse), nous décidons ensemble d'effectuer une semaine test (octobre 2014) dans leur locaux afin de mesurer la viabilité sur le marché neuchâtelois. 
 
-Le succès est mitigé – il y a un intérêt par les personnes ayant compris le concept du *coworking*. Nous apprenons par cette expérience qu'il y a une sensibilisation à faire car les potentiels *coworkers* ne comprennent pas clairement ce qui se cache derrière ce terme anglophone qu'est *coworking*.
+Le succès est mitigé – l'intérêt est présent exclusivement chez les personnes ayant compris le concept du *coworking*. Nous apprenons par cette expérience qu'il y a une sensibilisation à faire car les potentiels *coworkers* ne comprennent pas clairement ce qui se cache derrière ce terme anglophone de *coworking*.
 
 
 ###### 5. Lancement
@@ -73,13 +73,13 @@ Suite à cette semaine de test, nous ouvrons l'espace dès le mois de novembre a
 
 Nous définissons plus clairement le modèle d'affaire soit : les clients, les avantages et bénéfices, les prestations, les tarifs, etc. Nous décidons de rendre la prestation accessible au plus grand nombre de professionels possible. 
 
-Petite digresssion, une année après le lancement, nous sommes contacté par un entrepreneur qui souhaite créer un espace similaire dans la ville de La Chaux-de-Fonds. En quelques semaines, nous lançons l'espace de Coworking La Chaux-de-Fonds. 
+Petite digresssion, une année après le lancement, nous sommes contactés par un entrepreneur qui souhaite créer un espace similaire dans la ville de La Chaux-de-Fonds. En quelques semaines, nous lançons l'espace de Coworking La Chaux-de-Fonds. 
 
 ###### 6. Résultats
 
-Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre, nous piquer une chaise ou nous féliciter de créer un lieu ouvert, convivial et productif. 
+Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre, nous piquer une chaise ou nous féliciter d'avoir crée un lieu ouvert, convivial et productif. 
 
-En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent de différents métiers comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. Nous accueillons également des télétravailleurs, des *freelancers* nomades, des étudiants et des entrepreneurs qui souhaitent domicilier leur société à Neuchâtel. 
+En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent d'horizons différents. Des domaines comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. sont représentés. Nous accueillons également des télétravailleurs, des étudiants et des entrepreneurs qui souhaitent domicilier leur société à Neuchâtel. 
 
 Ces professionnels viennent faire une séance, siroter un café et consulter leur emails entre deux rendez-vous ou avant de prendre le train, participer à des évènements ou encore simplement travailler. 	
 
@@ -89,11 +89,11 @@ Mais pourquoi viennent-ils au *coworking* ? Il existe trois niveaux de la pyrami
 
 #### Réflexions
 
-Cela parait peut-être idyllique mais nous vivons aussi des difficultés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaiselle sale !) ou l'animation de l'espace sont des défis que nous avons pas toujours réussi à résoudre.
+Malgré l'image que peut laisser entrevoir notre projet, il existe aussi des diffucltés. La viabilité financière, la gestion administrative, gestion des locaux (ah la vaisselle sale !) ou l'animation de l'espace sont des défis que nous avons pas toujours réussi à résoudre.
 
 Toutefois, cette expérience a permis de créer une nouvelle façon de travailler encore plus ouverte, plus transversale et collaborative à l'échelle régionale. Cela a également permis de connecter la région à l'échelle nationale et au-delà (exemple : *Coworking Switzerland* et *Coworking Europe*). Avec ce projet, nous avons appris trois fondamentaux pour tout projet : 
 
-- Rien n'a davantage de valeur que de se confronter directement à une problématique. En se mettant dans les chaussures de l'autre – ou dans notre cas être l'utilisateur direct – permet de comprendre mieux une situation et créer des solutions qui font sens. 
+- Rien n'a davantage de valeur que de se confronter directement à une problématique. En se mettant dans la peau de l'autre – dans notre cas être l'utilisateur direct – permet de comprendre mieux une situation et créer des solutions qui font sens. 
 
 - Rien n'est parfait du premier coup. Le plus important c'est de procéder par étapes. Par ailleurs, nous récoltons des commentaires et des suggestions des utilisateurs directs pour améliorer ce projet. 
 

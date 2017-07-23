@@ -2,21 +2,21 @@
 
 > "Il n'y a de réalité que dans l'action" - Jean-Paul Sartre
 
-Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se fasse voir. Comme avec la plante, il faut agir de la bonne manière. 
+Concrétiser des idées c'est un peu comme semer une graine, il faut du temps pour que la plante se montre. 
 
 Les entreprises savent bien s'y prendre, elles mettent en œuvre une grande quantité de moyens pour créer des systèmes (processus) afin de réaliser des activités de façon efficiente.
 
 Le mot système vient du mot grec *sustêma* et signifie *ensemble cohérent*. Un système, est un ensemble d'opérations interconnectées, un flux avec des entrées et des sorties. 
 
-Un exemple : qui peut faire de meilleurs burgers que McDonald ? Tout le monde. Alors, pourquoi McDonald's gagne plus d'argent que ceux qui savent faire ces meilleurs burgers ? Simplement parce que McDonald's a un système (processus) beaucoup plus efficient pour vendre à un plus grand nombre des burgers. 
+Un exemple : qui peut faire de meilleurs burgers que McDonald ? Tout le monde. Alors, pourquoi McDonald's gagne plus d'argent que ceux qui savent faire ces meilleurs burgers ? Simplement parce que McDonald's a un système (processus) beaucoup plus efficient pour vendre à un plus grand nombre. 
 
 En regardant votre travail ou votre organisation, vous constaterez qu'il existe dans votre système des contraintes, qui définissent votre performance. Réduisez la portée des contraintes pour augmenter la performance de votre système. 
 
-Quand il s'agit d'explorer le nouveau, la contrainte majeur que les organisations vivent est souvent lié à la rigidité d'un système. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une façon d'organisation d'équipe, qui favorise les innovations. Cette façon s'appelle *Agile* et vient du monde informatique. Ce domaine étant contraint à devenir plus agile et plus rapide. Vous découvrirez cette façon d'organiser votre travail en vous inspirant de ce domaine. Le but n'est pas de copier-coller les outils d'un autre domaine mais s'en inspirer et adapter à votre contexte. 
+Quand il s'agit d'explorer le nouveau, la contrainte majeure que les organisations vivent est souvent liée à la rigidité d'un système. Pour contrer ces contraintes, Dans ce chapitre, vous découvrirez une organisation d'équipe qui favorise les innovations. Cette méthode s'appelle *Agile* et qui vient du monde informatique, ce domaine étant contraint à devenir plus agile et plus rapide. Vous découvrirez cette façon d'organiser votre travail en vous inspirant de ce domaine. Le but n'est pas de copier-coller les outils d'un autre domaine mais s'en inspirer et adapter à votre contexte. 
 
-Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent. Vous devez trouver une technique pour l'organisation personnelle - appelée *Pomodoro*. Vous découvrirez un outil simple que vous pouvez utiliser pour vous focaliser. 
+Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent. Vous devez trouver une technique pour l'organisation personnelle - appelée *Pomodoro*. Vous découvrirez un outil simple que vous pourrez utiliser pour vous focaliser. 
 
-### L'organisation d'équipe : les méthode *Agiles*
+### L'organisation d'équipe : les méthodes *Agiles*
 
 Les méthodes *Agiles* sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
@@ -46,7 +46,7 @@ Pour rendre cela plus concret, vous allez découvrir comment fonctionne dans la 
 
 #### Le tableau de bord
 
-Un élément central est le tableau de bord. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
+Le tableau de bord est un élément central. C'est un document évolutif qui précise les tâches à accomplir dans un laps de temps donné. Il est souvent visualisé dans l'espace de travail sur un grand tableau (un *whiteboard*), accessible à tous. Le fait de disposer sur un tableau physique permet à chacun de visualiser les avancements, et permet de réorganiser les priorités à tout moment.
 
 #### Le sprint
 
@@ -54,7 +54,7 @@ Dans le domaine du développement logiciel, la pratique du *code sprint* a émer
 
 [^sprint]: Le *Design Sprint* est une méthode développée au sein de *Google Ventures*. Il s'agit d'un processus de recherche et de génération d'idées sur une période de cinq jours. Chacune des cinq journées fait un focus sur un sujet : 1. comprendre les opportunités, 2. explorer de nouvelles idées, 3. identifier les idées qui sont applicables, 4. concevoir des prototypes, 5. tester les solutions avec de potentiels clients. Cest étapes vous rappellent sans doute quelque chose - vous les avez parcourues en lisant les précédents chapitres de ce livre. 
 
-Le sprint s'insère dans un cycle d'une durée plus longue, nommée *release*, qui englobe généralement quatre ou cinq *Sprints* (donc de 1 à 4 mois). La *release* permet une vision plus large, et vous aide à garder en vue les objectifs à long terme du projet.
+Le sprint s'insère dans un cycle d'une durée plus longue, nommée *release*, qui englobe généralement quatre ou cinq *Sprints* (donc de 1 à 4 mois). La *release* permet une vision plus large, et vous aide à garder à l'esprit les objectifs à long terme du projet.
 
 ##### La séance de quinze minutes 
 
@@ -78,17 +78,17 @@ Ce modèle d'organisation destitue le "chef de projet", et donne une grande resp
 
 Le travail en binôme est une technique typique des méthodes de travail *Agiles*. Elle consiste à faire travailler deux coéquipiers sur une même tâche, et même à se partager un ordinateur: l'un écrit (exécute), l'autre observe, pilote et commente. Les rôles sont fréquemment intervertis. L'intérêt de cette méthode est d'améliorer la qualité du travail fourni, tout en permettant la transmission de connaissances au sein de l'équipe. Lorsqu'on est confronté à un problème complexe, le fait de débattre de la meilleure façon de le résoudre va conduire à des choix plus pertinents. La communication et la transparence, valeurs essentielles du processus *Agile*, sont également favorisés par cette méthode. 
 
-##### Dangers de la méthodologie Agile mal comprise
+##### Dangers de la méthodologie Agile
 
-La méthode *Agile* fait l'objet d'un certain phénomène de mode, il existe un risque d'adopter ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les *séances de quinze minutes* à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
+La méthode *Agile* fait l'objet d'un phénomène de mode, il existe un risque en adoptant ces techniques à la manière d'un "culte du cargo"[^cargocult] - par exemple, en adoptant les *séances de quinze minutes* à la manière d'un rituel, mais sans réelle collaboration au sein de l'équipe. 
 
-Les concepts essentiels de la méthode *Agile* toutesont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
+Les concepts essentiels de la méthode *Agile* sont la communication et la collaboration. Les membres de l'équipe doivent bien comprendre la valeur et le sens des règles, avant de pouvoir les appliquer dans leur travail.
 
 [^cargocult]: Culte du cargo: concept anthropologique, observé au 20e siècle dans des archipels de l'océan pacifique, où des populations indigènes imitaient des aspects superficiels de la technologie des colonisateurs européens, afin s'attribuer leurs pouvoirs. Par analogie, on parle de "Cargo cult science" ou de "Cargo cult coding", lorsqu'on tente de recréer des circonstances amenant à un résultat sans en comprendre la logique.
 
 ### L'organisation personnelle : La technique Pomodoro
 
-*Taktzeit* (Takt time) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens pour créer un rythme idéal. 
+*Taktzeit* (Takt time) désigne un terme allemand de rythme de production, utilisé dans l'ingénierie. Ce mot est emprunté au langage de la musique pour désigner le tempo, la cadence. C'est un outil pour synchroniser la demande des clients et la production des biens. Il favorise la création d'un rythme idéal. 
 
 Se donner un rythme est aussi central dans le développement d'un projet. Durant l'écriture de sa thèse, l'italien Francesco Cirillo a constaté que la concentration décroît fortement après 30 minutes. Ainsi, il inventa la technique *Pomodoro*. Le nom fait référence à un minuteur de cuisine en forme de tomate, qui est l'outil utilisé initialement pour mettre au point cette technique.
 
@@ -127,6 +127,6 @@ Que la force de la tomate soit ave vous !
 
 ### Conclusion
 
-Ce que vous avez appris : dans ce chapitre, vous avez appris différentes techniques qui visent à se donner un cadre de travail. Vous avez fait connaissance avec l'ensemble de méthodes dites *Agile*, les différentes approches regroupées sous le terme de *Sprint*, et l'outil individuel que constitue la technique *Pomodoro*.
+Dans ce chapitre, nous avons parcourus les différentes techniques qui visent à se donner un cadre de travail. Nous avons fait connaissance avec l'ensemble de méthodes dites *Agile*, les différentes approches regroupées sous le terme de *Sprint*, et l'outil individuel que constitue la technique *Pomodoro*.
 
 Dans le chapitre suivant, nous illustrerons tous les propos présentés dans cet ouvrage avec un cas concret : la création de l'espace de *Coworking Neuchâtel* (Suisse).

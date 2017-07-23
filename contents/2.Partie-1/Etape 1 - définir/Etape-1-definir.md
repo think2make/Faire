@@ -56,7 +56,7 @@ Si vous constatez des dysfonctionnements dès le lancement de votre initiative, 
 [^qqoqcp]: QQOQCCP est une méthode empirique de questionnement.
 
 
-#### Avez-vous définir les défis les plus pertinents ? 
+#### Traitez-vous des défis les plus pertinents ? 
 
 Selon une étude présentée dans HBR[^HBR], 85% des managers approuvent que la difficulté n'est pas la résolution de problèmes mais la définition du problème - soit la phase de  diagnostique. La raison est souvent liée au fait qu'il existe un penchant pour l'action. Pour trouver des solutions créatives, cadrez efficacement le problème et évitez la tendance à trouver rapidement des solutions. 
 
@@ -94,16 +94,16 @@ Un exemple pour illustrer le degré de complexité d'une question :
  
 \newpage
 
-#### S'informer
+#### Traiter l'information
 
-Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il peine parfois à assimiler. Cependant, pour poser les bases d'un projet, il est obligatoire d'aller à la pêche aux informations. Pour ce faire, il faut prendre l'habitude de les catégoriser. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
+Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il peine parfois à assimiler. Cependant, pour poser les bases d'un projet, il est obligatoire d'aller à la pêche aux informations. Pendant votre projet, vous trouverez un grand nombre d'informations, prenez l'habitude de les catégoriser. Scott Belsky, dans son livre *Making ideas happen*, propose trois catégories pour stocker de façon structurée les informations : 
 
 - **Actionables** : il s'agit des informations les plus importantes exploitable rapidement.
 - **Références** : il s'agit d'informations non-exécutables. Ce sont des documents à partager, notes, croquis, PV, etc. Elles permettent de garder une trace. 
 - **Veilleuse** : il s'agit d'informations potentiellement exploitables. Ce sont des idées qui ne sont pas pertinentes pour votre projet actuel mais qui pourraient l'être à l'avenir. Gardez-les au chaud.
 
 
-
+Aveec cette méthode, vous disposerez plus d'énergie pour vous focaliser sur les données essentielles et pour traiter  de façon créative votre projet. 
 
 
 ### Exercice : cahier des charges d'un projet
@@ -235,7 +235,7 @@ Exemple : *La carte de route est acceptée et validée unanimement par le consei
 
 ### Trois rôles
 
-Jusqu'ici vous avez découvert la formulation des questions vous permettant la récolte de données utiles et leur mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? Comment les impliquer ? Combien sont-elles ? Quel rôle auront-elles à jouer ? 
+Jusqu'ici vous avez découvert la formulation des questions vous permettant la récolte de données utiles et leur mise en forme dans un format simple et communicable à l'ensemble des personnes impliquées. Mais qui sont les personnes à impliquer dans votre projet ? Combien sont-elles ? Quel rôle auront-elles à jouer ? 
 
 Dans les entreprises, quand les choses ne fonctionnent pas comme on le souhaite, on a tendance à incriminer le manque de communication. Or, ce qui manque souvent, ce sont des rôles clairs pour travailler ensemble. Il existe trois rôles à intégrer dès le début d'un projet d'innovation. Le rôle n'est pas une fonction, un statut ou un titre, mais une position que la personne prend pendant un temps T, indépendamment de sa fonction et de son statut. 
 

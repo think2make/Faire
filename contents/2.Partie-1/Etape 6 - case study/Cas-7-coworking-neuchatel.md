@@ -4,7 +4,7 @@ Ce chapitre vous propose d'examiner un exemple concret, allant de l'émergence d
 
 ### Contexte - le futur du travail 
 
-A l'aube du 21ème siècle, grand nombre d'activités peuvent être automatisées, les moyens technologiques permettent aux entreprises de devenir agiles, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnant en mode "projet". Certains parlent de quatrième révolution industrielle[^industrielle]. 
+A l'aube du 21ème siècle, grand nombre d'activités peuvent être automatisées, les moyens technologiques permettent aux entreprises de devenir agiles, la conception devient collaborative et les équipes de développement multidisciplinaires et fonctionnant en mode "projet". On parle de quatrième révolution industrielle[^industrielle]. 
 
 [^industrielle]: Après les trois premières révolutions industrielles (la mécanisation, l'électrification et l'automatisation) la quatrième révolution est la digitalisation. 
 
@@ -77,7 +77,7 @@ Petite digresssion, une année après le lancement, nous sommes contactés par u
 
 ###### 6. Résultats
 
-Entre 2014 et 2016, plus de 1000 personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre, nous piquer une chaise ou nous féliciter d'avoir crée un lieu ouvert, convivial et productif. 
+Entre 2014 et 2016, plus de mille personnes ont passé par cet espace collaboratif situé à 700 mètres de la Gare de Neuchâtel. Soit pour boire un café, faire une séance, venir travailler individuellement, participer à un évènement, nous offrir un livre, nous piquer une chaise ou nous féliciter d'avoir crée un lieu ouvert, convivial et productif. 
 
 En 2017, l'espace accueille une vingtaine de membres. Chaque membre a signé un contrat, le plus souvent annuel. Les coworkers sont des experts de leur domaine et viennent d'horizons différents. Des domaines comme le développement logiciel, le *web design*, le *marketing*, la traduction, le *consulting*, l'ingénierie, le *coaching*, la recherche académique, etc. sont représentés. Nous accueillons également des télétravailleurs, des étudiants et des entrepreneurs qui souhaitent domicilier leur société à Neuchâtel. 
 
@@ -97,7 +97,7 @@ Toutefois, cette expérience a permis de créer une nouvelle façon de travaille
 
 - Rien n'est parfait du premier coup. Le plus important c'est de procéder par étapes. Par ailleurs, nous récoltons des commentaires et des suggestions des utilisateurs directs pour améliorer ce projet. 
 
-- Rien n'est plus important que l'avis de ceux qui sont directement concernés. Impliquer les acteurs du projet dans le processus de réflexion dès le début permet de simplifier, de clarifier et de rendre plus pertinente la solution.
+- Rien n'est plus important d'impliquer les acteurs du projet dans le processus de réflexion dès le début pour simplifier, clarifier et rendre plus pertinente la solution.
 
  
 

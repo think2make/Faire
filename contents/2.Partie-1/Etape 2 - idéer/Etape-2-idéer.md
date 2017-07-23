@@ -14,7 +14,6 @@ Ce que vous allez découvrir dans ce chapitre, c'est justement ce processus de c
 
 ### Eléments-clés pour générer des idées 
 
-##### Contenu & Contenant 
 
 Dans le chapitre 1, vous avez découvert le contenu. Dans ce chapitre, nous allons aborder le contenant. Une session de génération d'idées nécessite deux éléments : le contenu et le contenant. Le contenant étant le récipiant dans le quel votre contenu va venir s'insérer. Dans le cadre d'un projet, le contenu sera défini comme le cahier des charges et le contenant sera associé au cadre du projet (artefacts, méthodes, principes, déroulement, etc.) 
 
@@ -62,7 +61,7 @@ En sachant où se situe votre équipe pendant la génération d'idées, vous pou
  
 ##### Quatre principes de la génération d'idées
 
-Il existe quatre règles simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement. Ces règles sont un standard, cela ne signifie pas qu'elles doivent absolument être respectées.
+Il existe quatre principes simples et fondamentales pour favoriser des idées nouvelles en mettant en place un bon environnement. Ces principes sont là pour favoriser l'attitude à prendre pour favoriser la créativité. Ces principes sont un standard, cela ne signifie pas qu'elles doivent absolument être respectées.
 
 Parfois, la créativité consiste à être spontané et non à instaurer directement des *principes* à respecter. Dans le cadre d'un travail de groupe, les principes peuvent être créés ensemble. Ainsi, d'autres éléments, peut-être plus fondamentaux, peuvent surgir dans votre projet à travers vos équipes. Les quatre principes sont :
 
@@ -82,6 +81,8 @@ Favoriser les idées les plus folles, les plus stupides. Même les idées illég
 
 Inspirez-vous des idées que d'autres suggèrent pour construire sur leurs propositions. C'est souvent une combinaison de plusieurs idées brutes qui donne une solution pertinente. Favorisez un langage "oui, et.." au lieu de "mais..."
 
+Maintenant que vous connaissez les principes, les différentes phases et les éléments-clés du processus de créativité, passez à la page suivante pour vous exercer à générer des idées sur votre propre sujet. 
+
 \newpage
 
 ### Exercice 2 : Questionner pour générer des idées
@@ -89,7 +90,7 @@ Inspirez-vous des idées que d'autres suggèrent pour construire sur leurs propo
 
 ##### Consignes 
 
-a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez-en les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER pages suivantes ), par exemple "comment pourrions-nous...". Ces questions, vous pouvez les utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence) de votre projet - défini dans le but du projet de votre cahier des charges (c.f. chapitre 1)
+a. Reprenez le cahier des charges défini dans le chapitre 1 et extrayez-en les mots-clés importants, des mots forts qui ont un aspect très spécifique (utilisez un souligneur/*stabylo*). b. Faites un inventaire des mots-clés. Transformez les mots-clés en questions stimulantes et surprenantes (c.f. l'outil SCAMPER pages suivantes ), par exemple "comment pourrions-nous *substituer/combiner/adapter*...". Ces questions, vous pouvez les utiliser durant *la phase de divergence* (pour chercher de nouvelles idées).c. Générez des idées en répondant aux questions de divergence (les questions que vous avez élaborées grâce à SCAMPER). Une fois que vous disposez d'alternatives et d'inspirations suffisantes, vous pouvez suggérer des réponses à la question centrale (la phase d'émergence) de votre projet - défini dans le but du projet de votre cahier des charges (c.f. chapitre 1)
 d. Ce travail prèpare la phase de convergence qui sera traité dans le chapitre suivant. 
 
 
@@ -126,7 +127,7 @@ Inspiration : L'ensemble des éléments dans le monde sont en fin de compte une 
 Placer son concept dans un autre contexte...  
 Y a-t-il eu quelque chose de semblable dans le passé ? Que pourrais-je reproduire ?
 
-Inspiration : Charles Chaplin apporta la pantomime dans l'industrie cinématographique. La pantomime est un style où le comédien joue un spectacle et évoque des émotions sans recourir à la parole. 
+Inspiration : Charles Chaplin s'adapta en apportant la pantomime dans l'industrie cinématographique. La pantomime est un style où le comédien joue un spectacle et évoque des émotions sans recourir à la parole. 
 
 
 ....................................................................................
@@ -165,7 +166,7 @@ Inspiration : Le jacuzzi a été inventé par Candido Jacuzzi qui s'était rendu
 D’autres utilisations possibles si on le modifie...  
 Existe-t-il d’autres utilisations possibles si on le modifie ? 
 
-Inspiration : Le médicament *Pick-Me-Up* de Pemberton fut un échec en tant que médicament mais mélangé à de l'eau gazeuse, cela devient le *Coca-Cola*, une idée qui vaut de l'or. 
+Inspiration : La boisson de John Pemberton fut un échec en tant que médicament mais mélangé à de l'eau gazeuse, cela devient le *Coca-Cola*, une idée qui vaut de l'or. 
 
 
 ....................................................................................
@@ -178,7 +179,7 @@ Inspiration : Le médicament *Pick-Me-Up* de Pemberton fut un échec en tant que
 Qu’est-ce qui n’est pas nécessaire...  
 Que peut-on soustraire ? Supprimer ? Diminuer ? Peut-on éliminer certaines règles ?
 
-Inspiration : En 1978, l'ingénieur James Dyson constate que les sacs de son aspirateur réduisaint sa la performance de celle-ci. En éliminant le sac, il inventa le premier aspirateur sans sac, un vrai succès. 
+Inspiration : En 1978, l'ingénieur James Dyson constate que les sacs de son aspirateur réduisaient la performance de celle-ci. En éliminant le sac, il inventa le premier aspirateur sans sac, un vrai succès. 
 
 
 
@@ -192,7 +193,7 @@ Inspiration : En 1978, l'ingénieur James Dyson constate que les sacs de son asp
 D’autres dispositions...  
 D’autres séquences ? Un ordre différent ? Retourner cela ? Mettre le haut en bas ? Le bas en haut ?
 
-Inspiration : Un restaurateur en Suisse, cherchait un nom pour son futur établissement, un kebab de village. Fort du constat que le risque dans son projet était que l'image dégagée par l'enseigne ne connote négativement cette nourriture éthnique d'Anatloie, il se décida pour le nom de *La Kebaberie*. Le nom se terminant en *-erie* (tel que : boulangerie, épicerie, boucherie, etc.) il s'assure de créer une proximité culturelle.
+Inspiration : Un restaurateur en Suisse, cherchait un nom pour son futur établissement, un kebab de village. Fort du constat que le risque dans son projet était que l'image dégagée par l'enseigne ne connote négativement cette nourriture éthnique d'Anatloie, il se décida pour le nom de *La Kebaberie*. Le nom se terminant en *-erie* (tel que : boulangerie, épicerie, boucherie, etc.) il s'assure ainsi de créer une proximité culturelle.
 
 
 ....................................................................................

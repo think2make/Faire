@@ -10,6 +10,8 @@ La diffculté quand nous essayons de réaliser une chose que nous n'avons encore
 
 Dans ce chapitre, vous découvrirez les outils de planification par scénario, idéal pour des sujets nouveaux et qui comportent des aléas. Ensuite, vous pourrez plonger dans la planification mensuelle, hebdomadaire et journalière. 
 
+Vous pensez peut-être que la planification n'a pas de lien avec l'innovation, pourant c'est fortement relié. Si votre planification est bien faite, vous pouvez réaliser mieux, en moins de temps votre solution et aller sur le marché au bon moment. 
+
 Le contenu présenté dans ce chapitre peut être pratiqué seul, avec vos collègues ou avec collaborateurs. Une planification réalisée de façon collaborative donne une ligne directrie entre vos vos pensées et actions, créez de la cohésion et évitez de perdre du temps à peaufiner constamment une planification. 
 
 
@@ -99,7 +101,7 @@ f) Faites les choses prévues au moment prévu.
 
 ##### Planifiez le jour 
 
-Dans le 19ème siècle, Frederick Winslow Taylor inventa l'organisation scientifique du travail – le taylorisme. Avec différentes méthodes de chronométrage, le but était de définir clairement le temps que l'opérateur passe à chaque tâche. Cette approche n'est pas utile dans sa forme initiale et rigide. Et le but n'est pas de revivre les *Temps Modernes* mais en définissant vos zones de productivité personnelles et en planifiant une architecture d'une journée type, vous pourrez réaliser votre travail avec encore plus d'efficacité. Voici un exemple d'une journée : 
+Au 19ème siècle, Frederick Winslow Taylor inventa l'organisation scientifique du travail – le taylorisme. Avec différentes méthodes de chronométrage, le but était de définir clairement le temps que l'opérateur passe à chaque tâche. Cette approche n'est pas utile dans sa forme initiale et rigide. Et le but n'est pas de revivre les *Temps Modernes* mais en définissant vos zones de productivité personnelles et en planifiant une architecture d'une journée type, vous pourrez réaliser votre travail avec encore plus d'efficacité. Voici un exemple d'une journée : 
 
 <!-- ![](../contents/img/zone_productive.png) -->
 
@@ -123,7 +125,7 @@ Enfin, planifiez la journée suivante en 2 catégories d'activités :
 
 ##### Quatre façons d'agir 
 
-Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concrétiser de nouvelles idées, vous pensez peut-être  qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide. Or ce qui est primordial c'est comprendre qu'il existe 4 façons de réaliser une action : 
+Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concrétiser de nouvelles idées, vous pensez peut-être  qu'il faut absolument toujours agir pour tenter d'obtenir un résultat rapide. Or ce qui est primordial c'est comprendre les 4 façons de réaliser une action : 
  
 -  Ne pas faire = Eliminer l’action : éliminez tout ce qui semble sans importance ou inutile. Il vous sera possible de détecter les tâches à éliminer quand elles sont abondonnées depuis longtemps dans votre *To Do List*
 
@@ -137,7 +139,7 @@ Vous êtes sur le point de passer à l'implémentation. Quand il s'agit de concr
 
 ### Conclusion 
 
-Dans ce chapitre, nous avons mis l'accent sur la planification et la manière de l'aborder. Vous avez égaelemtn vu comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été incités le déroulement de vos journées pour améliorer votre productivité personnelle.
+Dans ce chapitre, nous avons mis l'accent sur la planification et la manière de l'aborder. Vous avez également vu comment planifier par scénario, par mois, par semaine et par jour. Enfin, vous avez été incités à observer le déroulement de vos journées pour améliorer votre productivité personnelle.
 
 Dans le chapitre suivant, vous apprendrez comment implémenter des idées de façon flexible, tout en gardant une structure. Vous découvrirez comment gérer votre activité avec la méthode *Agile*. Enfin, vous pourrez améliorer votre efficacité au quotidien avec la technique *Pomodoro*.
 

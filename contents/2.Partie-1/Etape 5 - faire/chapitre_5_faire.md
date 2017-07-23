@@ -20,7 +20,7 @@ Il ne suffit pas d'organiser une équipe pour que les solutions se concrétisent
 
 Les méthodes *Agiles* sont un groupe de pratiques de pilotage et de réalisation de projets. 
 
-Apparues tout d'abord dans le domaine du développement en informatique (la conception de logiciels), le champ d'application s'est élargi depuis. Ces méthodes, qui ne sont pas liées à une technologie particulière, sont désormais utilisées dans le développement ou le design de produits. 
+Apparues tout d'abord dans le domaine du développement en informatique (la conception de logiciels), le champ d'application s'est élargi depuis. Ces méthodes, qui ne sont pas liées à une technologie particulière, sont désormais utilisées dans le développement de processus ou le design de produits. 
 
 Un texte fondateur est le *Manifeste Agile*[^agilemanifesto], rédigé en 2001, par des développeurs pratiquant diverses méthodes de gestion de projet comme *Extreme Programming* ou *Scrum*. 
 
@@ -31,7 +31,7 @@ Ce manifeste consacre le terme d'« Agile » pour référencer ces diverses mét
 Le manifeste énonce quatre principes fondamentaux:
 
 - **des individus et interactions**, plutôt que des processus et outils
-- **des logiciels fonctionnels**, plutôt qu'une documentation complète
+- **des logiciels/produits fonctionnels**, plutôt qu'une documentation complète
 - **la collaboration avec le client**, plutôt que la négociation des contrats
 - **réagir au changement**, plutôt que de suivre un plan
 

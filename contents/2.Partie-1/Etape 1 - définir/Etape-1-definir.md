@@ -103,7 +103,7 @@ Chaque seconde, notre cerveau est bombardé d'informations nouvelles, qu'il pein
 - **Veilleuse** : il s'agit d'informations potentiellement exploitables. Ce sont des idées qui ne sont pas pertinentes pour votre projet actuel mais qui pourraient l'être à l'avenir. Gardez-les au chaud.
 
 
-Aveec cette méthode, vous disposerez plus d'énergie pour vous focaliser sur les données essentielles et pour traiter  de façon créative votre projet. 
+Avec cette méthode, vous disposerez plus d'énergie pour vous focaliser sur les données essentielles et pour traiter de façon créative votre projet et son cahier des charges.  
 
 
 ### Exercice : cahier des charges d'un projet
@@ -251,7 +251,7 @@ Faire contribuer ces trois rôles crée un changement dans la dynamique de trava
 
 **Nombre de participants**
 
-Notez que le nombre de personnes est aussi important, le nombre idéal est de moins de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varie d'une demi-journée, à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine et trois mois. Pour le recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.
+Notez que le nombre de personnes est aussi important, le nombre idéal est de dix personnes, un tiers de chaque rôle. Ces personnes contribueront dans des sessions de travail sous forme d'atelier. La durée des ateliers varie d'une demi-journée, à deux jours. Le processus complet présenté tout au long des chapitres suivants peut prendre entre une semaine et trois mois. Pour le recrutement des personnes, vous pouvez faire appel à votre réseau ou mettre en place une démarche de recrutement en ligne.
 
 
 

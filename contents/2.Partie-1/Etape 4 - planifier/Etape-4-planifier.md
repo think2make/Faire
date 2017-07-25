@@ -69,7 +69,7 @@ La temporalité étant inconnue – car il n'existe pas d'expérience précéden
 Une fois le scénario établi, planifiez le premier mois.
 
 1. Définissez des priorités. Définissez des objectifs pour le mois à venir.
-2. Si vous travaillez en équipe, définissez les personnes assignées aux différentes tâches. Si vous êtes seul, intégrez l'action de trouver des personnes avec lesquelles vous pourrez collaborer 
+2. Si vous travaillez en équipe, définissez les personnes assignées aux différentes tâches. Si vous êtes seul, intégrez l'action de trouver des personnes avec lesquelles vous pourrez collaborer.
 3. Ajoutez les petites étapes de chaque objectif à l'intérieur de l'agenda du mois. Et tenez bon. 
 
 

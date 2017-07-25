@@ -105,7 +105,7 @@ Etant donné que les idées sont très émotionnelles, la plupart du temps, chac
 
 - **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle simple ?)
 - **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable ?)
-- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (est-elle sexy ?)
+- **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (est-elle attirante ?)
 
 [^critères]: Ces critères nous ont été inspirés par Vitruve (Marcus Vitruius, Ier siècle avant J.-C.) sur la base de trois critères : *utilitas*, *firmitas*, *venustas*, Vous pouvez en savoir plus sur son livre *De Architectura* (premier livre d'architecture de l'histoire).
 

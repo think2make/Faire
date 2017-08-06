@@ -30,7 +30,7 @@ Pour compler ces lacunes, dans ce chapitre, vous allez être sensibilisés à la
 
 Il est parfois difficile de savoir quel projet (ou idée) empoigner. La première étape consiste à prendre un sujet qui illustre globalement une activité importante pour vous, et suceptible d'apporter un retour sur investissement. Toutefois, gardez à l'esprit de ne pas prendre de risques démesurés. 
 
-Pour éviter de prendre des risques démesurée, il arrive souvent que les projets aient un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
+Pour éviter de prendre des risques démesurés, il arrive souvent que les projets aient un cadre si rigide qu'ils ne laissent plus assez de marge de manœuvre. Ils se privent ainsi d'éventuelles opportunités d'exploration. 
 
 Donc, élaborer votre cahier des charges en vous assurant que le sujet que vous empoignez soit assez large pour vous permettre de découvrir des éléments inattendus, et suffisamment bien défini pour être appréhendé. 
 

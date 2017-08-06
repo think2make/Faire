@@ -29,7 +29,7 @@ Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont
 
 Vous pouvez utiliser des solutions inspirées des *serious games* (jeux sérieux),[^sérieux] comme *Lego serious play*, ou des outils en ligne comme hors ligne. Vous pouvez aussi inventer des artefacts en lien avec votre thématique. L'important est de disposer d'espaces visibles pour s'exprimer. 
 
-Si vous souhaitez approfondir ce point, vous pouvez télécharger sur notre site web des outils[^gratuits] pour vos sessions de brainstorming.
+Si vous souhaitez approfondir ce point, vous pouvez télécharger sur le site web de l'ouvrage des outils[^gratuits] pour vos sessions de brainstorming.
 
 [^sérieux]: Les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. 
 
